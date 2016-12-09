@@ -6,6 +6,14 @@
       <file name="vim_settings.xml" timestamp="1481173568487">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsTSearcher.java" timestamp="1481249098774">
+        <mark key="'" line="34" column="90" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1481251798707">
+        <mark key="[" line="3" column="7" />
+        <mark key="]" line="3" column="7" />
+        <mark key="." line="3" column="7" />
+      </file>
       <file name="/File Header.txt.ft" timestamp="1481094374135">
         <mark key="[" line="0" column="0" />
       </file>
@@ -31,6 +39,9 @@
       <file name="/a.dummy" timestamp="1481095400773">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsBaseSearcher.java" timestamp="1481248958929">
+        <mark key="'" line="100" column="12" />
+      </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/dispatch/SearcherProvider.java" timestamp="1481090442104">
         <mark key="'" line="38" column="30" />
         <mark key="[" line="34" column="27" />
@@ -46,6 +57,10 @@
       <file name="$USER_HOME$/.PyCharm2016.3/system/python_stubs/-1247971764/math.py" timestamp="1481102432889">
         <mark key="'" line="461" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/KeywordSearcher.java" timestamp="1481249319929">
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="69" />
+      </file>
       <file name="$USER_HOME$/workspace/py/zest/test.py" timestamp="1481168575785">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="7" column="4" />
@@ -59,14 +74,14 @@
       <file name="$USER_HOME$/workspace/jrec/src/main/java/CMybatis.java" timestamp="1481089964619">
         <mark key="'" line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/NearbySearcher.java" timestamp="1481247964525">
-        <mark key="'" line="152" column="28" />
-        <mark key="[" line="30" column="28" />
-        <mark key="]" line="30" column="28" />
-        <mark key="." line="30" column="28" />
-        <mark key="^" line="30" column="56" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/NearbySearcher.java" timestamp="1481251647226">
+        <mark key="'" line="118" column="0" />
+        <mark key="[" line="165" column="13" />
+        <mark key="]" line="166" column="11" />
+        <mark key="." line="166" column="11" />
+        <mark key="^" line="166" column="11" />
       </file>
-      <file name="/fragment.java" timestamp="1481099218114">
+      <file name="/fragment.java" timestamp="1481250682914">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/ActionScript File Header.txt.ft" timestamp="1481094374669">
@@ -112,52 +127,86 @@
       <jump line="23" column="46" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/CacheManager.java" />
       <jump line="50" column="0" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/CacheManager.java" />
       <jump line="152" column="28" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/NearbySearcher.java" />
+      <jump line="34" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/NearbySearcher.java" />
+      <jump line="185" column="8" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/NearbySearcher.java" />
+      <jump line="96" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/NearbySearcher.java" />
+      <jump line="153" column="28" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/NearbySearcher.java" />
+      <jump line="175" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/NearbySearcher.java" />
+      <jump line="197" column="28" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/NearbySearcher.java" />
+      <jump line="171" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/NearbySearcher.java" />
+      <jump line="155" column="64" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/NearbySearcher.java" />
+      <jump line="39" column="26" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsBaseSearcher.java" />
+      <jump line="58" column="15" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsBaseSearcher.java" />
+      <jump line="61" column="36" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsBaseSearcher.java" />
+      <jump line="62" column="27" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsBaseSearcher.java" />
+      <jump line="100" column="12" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsBaseSearcher.java" />
+      <jump line="74" column="18" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/NearbySearcher.java" />
+      <jump line="34" column="90" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsTSearcher.java" />
+      <jump line="73" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/NearbySearcher.java" />
+      <jump line="117" column="4" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/NearbySearcher.java" />
+      <jump line="134" column="24" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/NearbySearcher.java" />
+      <jump line="118" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/NearbySearcher.java" />
     </jumps>
     <registers>
+      <register name="-" type="4">
+        <text>首拼只检索本市行政</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxsb2NEaXN0Q29kZVw+</text>
+      </register>
       <register name="0" type="4">
-        <text>tmpResult</text>
+        <text encoding="base64">KGlkMSwgaWQyKSAtPiBnZXREaXN0YW5jZShsb24sIGxhdCwgaWQxLCBpZDIp</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgamtqLHcK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIF9faW5pdF9fKHNlbGYsIG5hbWUgLCBhZ2UpOgo=</text>
+      <register name="3" type="4">
+        <text>else {
+                    return tmpResult;
+                }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm5hbWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gdG1wUmVzdWx0Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YW9wCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDb2xsZWN0b3JzLnNvcgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YS5qamtqCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gKChTZW1hbnRpY3NUU2VhcmNoZXIpIHNlYXJjaGVyKS5zZWFyY2goc2VtYW50aWNSZXQsIG5ldyBTZW1hbnRpY3NQYXJhbShwYXJhbSkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHJpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRtcFJlc3VsdDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyByZXR1cm4gdG1wUmV0OwogICAgICAgIHJldHVybiB0bXBSZXQuaXNFbXB0eSgpID8gZG9jSWRzIDogdG1wUmV0Owo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="-" type="4">
-        <text encoding="base64">ZXh0ZW5kcyAg</text>
-      </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
-      <show-last>false</show-last>
+      <last-search encoding="base64">XDxsb2NEaXN0Q29kZVw+</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxsb2NEaXN0Q29kZVw+</last-pattern>
+      <last-replace>2</last-replace>
+      <last-substitute>1</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>1</entry>
+        <entry encoding="base64">XDxsb2NEaXN0Q29kZVw+</entry>
+      </history-search>
       <history-cmd>
+        <entry encoding="base64">JzwsJz5zLzEvMi9n</entry>
+        <entry>reg</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -173,7 +222,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed U</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -191,7 +240,7 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed N</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
