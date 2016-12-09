@@ -39,13 +39,11 @@
       <file name="/a.dummy" timestamp="1481095400773">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/package-info.txt.ft" timestamp="1481262272133">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsBaseSearcher.java" timestamp="1481248958929">
         <mark key="'" line="100" column="12" />
-      </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/dispatch/SearcherProvider.java" timestamp="1481090442104">
-        <mark key="'" line="38" column="30" />
-        <mark key="[" line="34" column="27" />
-        <mark key="]" line="34" column="46" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/GenericController.java" timestamp="1481103258695">
         <mark key="'" line="131" column="0" />
@@ -61,6 +59,11 @@
         <mark key="[" line="90" column="0" />
         <mark key="]" line="90" column="69" />
       </file>
+      <file name="$USER_HOME$/workspace/jrec/src/main/java/RebelForAndroid.java" timestamp="1481262348851">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/py/zest/test.py" timestamp="1481168575785">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="7" column="4" />
@@ -71,20 +74,23 @@
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/autonavi/AmapDetailSearcher.java" timestamp="1481080948176">
         <mark key="'" line="161" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/jrec/src/main/java/CMybatis.java" timestamp="1481089964619">
-        <mark key="'" line="48" column="0" />
+      <file name="$USER_HOME$/workspace/jrec/src/main/java/CMybatis.java" timestamp="1481262068554">
+        <mark key="'" line="6" column="47" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/NearbySearcher.java" timestamp="1481252576677">
-        <mark key="'" line="141" column="30" />
-        <mark key="[" line="165" column="13" />
-        <mark key="]" line="166" column="11" />
-        <mark key="." line="166" column="11" />
-        <mark key="^" line="166" column="11" />
-      </file>
-      <file name="/fragment.java" timestamp="1481250682914">
+      <file name="/HTML File.txt.ft" timestamp="1481262267957">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/ActionScript File Header.txt.ft" timestamp="1481094374669">
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/NearbySearcher.java" timestamp="1481262229282">
+        <mark key="'" line="189" column="0" />
+        <mark key="[" line="204" column="5" />
+        <mark key="]" line="205" column="7" />
+        <mark key="." line="205" column="7" />
+        <mark key="^" line="205" column="7" />
+      </file>
+      <file name="/fragment.java" timestamp="1481262398692">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/ActionScript File Header.txt.ft" timestamp="1481261938431">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/CacheManager.java" timestamp="1481247305229">
@@ -147,6 +153,9 @@
       <jump line="134" column="24" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/NearbySearcher.java" />
       <jump line="118" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/NearbySearcher.java" />
       <jump line="141" column="30" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/NearbySearcher.java" />
+      <jump line="6" column="47" filename="$USER_HOME$/workspace/jrec/src/main/java/CMybatis.java" />
+      <jump line="83" column="39" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/NearbySearcher.java" />
+      <jump line="189" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/NearbySearcher.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -159,33 +168,31 @@
         <text encoding="base64">KGlkMSwgaWQyKSAtPiBnZXREaXN0YW5jZShsb24sIGxhdCwgaWQxLCBpZDIp</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgamtqLHcK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICAKICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1haW4K</text>
       </register>
-      <register name="3" type="4">
-        <text>else {
-                    return tmpResult;
-                }</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIG1haW4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gdG1wUmVzdWx0Owo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKCiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDb2xsZWN0b3JzLnNvcgo=</text>
+        <text encoding="base64">cGFja2FnZSAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gKChTZW1hbnRpY3NUU2VhcmNoZXIpIHNlYXJjaGVyKS5zZWFyY2goc2VtYW50aWNSZXQsIG5ldyBTZW1hbnRpY3NQYXJhbShwYXJhbSkpOwo=</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIFJlYmVsRm9yQW5kcm9pZCB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRtcFJlc3VsdDsK</text>
+        <text encoding="base64">ICAgIHBzdm0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyByZXR1cm4gdG1wUmV0OwogICAgICAgIHJldHVybiB0bXBSZXQuaXNFbXB0eSgpID8gZG9jSWRzIDogdG1wUmV0Owo=</text>
+        <text encoding="base64">ICAgIG1haW4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
