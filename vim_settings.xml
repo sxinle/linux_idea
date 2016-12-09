@@ -59,6 +59,13 @@
       <file name="$USER_HOME$/workspace/jrec/src/main/java/CMybatis.java" timestamp="1481089964619">
         <mark key="'" line="48" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/NearbySearcher.java" timestamp="1481247964525">
+        <mark key="'" line="152" column="28" />
+        <mark key="[" line="30" column="28" />
+        <mark key="]" line="30" column="28" />
+        <mark key="." line="30" column="28" />
+        <mark key="^" line="30" column="56" />
+      </file>
       <file name="/fragment.java" timestamp="1481099218114">
         <mark key="[" line="0" column="0" />
       </file>
@@ -104,46 +111,44 @@
       <jump line="187" column="66" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/LevenshteinComparator.java" />
       <jump line="23" column="46" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/CacheManager.java" />
       <jump line="50" column="0" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/CacheManager.java" />
+      <jump line="152" column="28" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/NearbySearcher.java" />
     </jumps>
     <registers>
-      <register name="0" type="8">
-        <text>mpty(param)) 
- = mapper.rea
-rds().length(
-EMPTY_RESULT;</text>
+      <register name="0" type="4">
+        <text>tmpResult</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIF9faW5pdF9fKHNlbGYsIG5hbWUgLCBhZ2UpOgo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLm5hbWUK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">YW9wCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">YS5qamtqCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">cHJpCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIF9faW5pdF9fKHNlbGYsIG5hbWUgLCBhZ2UpOgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLm5hbWUK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">YW9wCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">YS5qamtqCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">aQo=</text>
+        <text encoding="base64">cHJpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHJpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>Employee</text>
+        <text encoding="base64">ZXh0ZW5kcyAg</text>
       </register>
     </registers>
     <search>
