@@ -54,12 +54,12 @@
       <file name="/HTML File.txt.ft" timestamp="1481262267957">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/NearbySearcher.java" timestamp="1481594431747">
-        <mark key="'" line="205" column="0" />
-        <mark key="[" line="204" column="5" />
-        <mark key="]" line="205" column="7" />
-        <mark key="." line="205" column="7" />
-        <mark key="^" line="205" column="7" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/NearbySearcher.java" timestamp="1481612076605">
+        <mark key="'" line="91" column="0" />
+        <mark key="[" line="171" column="0" />
+        <mark key="]" line="171" column="0" />
+        <mark key="." line="171" column="0" />
+        <mark key="^" line="175" column="36" />
       </file>
       <file name="/ActionScript File Header.txt.ft" timestamp="1481261938431">
         <mark key="[" line="0" column="0" />
@@ -185,62 +185,67 @@
       <jump line="671" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/RouteSearcher.java" />
       <jump line="65" column="12" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/NearbySearcher.java" />
       <jump line="205" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/NearbySearcher.java" />
+      <jump line="82" column="24" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/NearbySearcher.java" />
+      <jump line="172" column="21" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/NearbySearcher.java" />
+      <jump line="64" column="12" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/NearbySearcher.java" />
+      <jump line="91" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/NearbySearcher.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>=</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
-        <text>#</text>
+        <text encoding="base64">XDx0bXBcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFN0cmluZyBqcl9hbmRyb2lkX2NsYXp6ICAgICAgICAgICA9ICJDYyI7CiAgICBwcml2YXRlIHN0YXRpYyBTdHJpbmcganJfYW5kcm9pZF9tZXRob2QgICAgICAgICAgPSAiYSI7CiAgICBwcml2YXRlIHN0YXRpYyBTdHJpbmcganJfYW5kcm9pZF8ydGhfcGFyYW1fY2xhenogPSAiY29tLnplcm90dXJuYXJvdW5kLmpyZWJlbC5hbmRyb2lkLkNuIjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWRzMSA9c2VhcmNoQnlDYXQocGFyYW0sIGZhbHNlKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oY21kKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBDb2xsZWN0aW9ucy5zb3J0KHRtcFJlc3VsdCwgKGlkMSwgaWQyKSAtPiBnZXREaXN0YW5jZShsb24sIGxhdCwgaWQxLCBpZDIpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyBTdHJpbmcgcHJvamVjdFBhdGggPSBSZWJlbEZvckFuZHJvaWQuY2xhc3MuZ2V0Q2xhc3NMb2FkZXIoKS5nZXRSZXNvdXJjZSgiLiIpLmdldFBhdGgoKSArICIuLi8uLiI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbiBmaW5kSW5DaXR5ID0gdHJ1ZSwgZmluZEluUmFkaXVzID0gdHJ1ZTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXRpZHMuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZHMxLmZvckVhY2goaWQgLT4gewogICAgICAgICAgICAgICAgICAgICAgICBpZiAodG1wLmFkZChpZCkpIHJldElkcy5hZGQoaWQpOwogICAgICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgICAgIGlkczIuZm9yRWFjaChpZCAtPiB7CiAgICAgICAgICAgICAgICAgICAgICAgIGlmICh0bXAuYWRkKGlkKSkgcmV0SWRzLmFkZChpZCk7CiAgICAgICAgICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImV4ZWM6ICIgKyBjbWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zb3J0ZWQoKGlkMSwgaWQyKSAtPiBnZXREaXN0YW5jZShsb24sIGxhdCwgaWQxLCBpZDIpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgY2RDbWQgPSAiY2QgIiArIHByb2plY3RQYXRoOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgcHJvamVjdFBhdGggPSBSZWJlbEZvckFuZHJvaWQuY2xhc3MuZ2V0Q2xhc3NMb2FkZXIoKS5nZXRSZXNvdXJjZSgiLiIpLmdldFBhdGgoKSArICIuLi8uLiI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oY21kKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvL2phciB1dmYganItYW5kcm9pZC5qYXIgY29tL3plcm90dXJuYXJvdW5kL2pyZWJlbC9hbmRyb2lkL0NDLmNsYXNzCg==</text>
+        <text encoding="base64">ICAgIHN0YXRpYyBTdHJpbmcgcHJvamVjdFBhdGggPSBSZWJlbEZvckFuZHJvaWQuY2xhc3MuZ2V0Q2xhc3NMb2FkZXIoKS5nZXRSZXNvdXJjZSgiLiIpLmdldFBhdGgoKSArICIuLi8uLiI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>#</last-search>
+      <last-search encoding="base64">XDx0bXBcPg==</last-search>
       <last-offset />
-      <last-pattern>#</last-pattern>
+      <last-pattern encoding="base64">XDx0bXBcPg==</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>#</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
         <entry>1</entry>
         <entry encoding="base64">XDxsb2NEaXN0Q29kZVw+</entry>
         <entry>#</entry>
+        <entry encoding="base64">XDx0bXBcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzEvMi9n</entry>
