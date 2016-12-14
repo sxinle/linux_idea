@@ -27,10 +27,6 @@
       <file name="/a.dummy" timestamp="1481095400773">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/jrec/jr-android.jar!/com/zeroturnaround/licensing/UserLicense.class" timestamp="1481264296214">
-        <mark key="[" line="5" column="8" />
-        <mark key="]" line="5" column="35" />
-      </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" timestamp="1481522355877">
         <mark key="'" line="211" column="70" />
       </file>
@@ -41,10 +37,6 @@
         <mark key="." line="28" column="21" />
         <mark key="^" line="28" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/KeywordSearcher.java" timestamp="1481249319929">
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="90" column="69" />
-      </file>
       <file name="$USER_HOME$/workspace/py/zest/test.py" timestamp="1481168575785">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="7" column="4" />
@@ -54,11 +46,6 @@
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/autonavi/AmapDetailSearcher.java" timestamp="1481080948176">
         <mark key="'" line="161" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/jrec/src/main/java/CMybatis.java" timestamp="1481263766540">
-        <mark key="'" line="6" column="47" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="26" column="80" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1481262267957">
         <mark key="[" line="0" column="0" />
@@ -76,6 +63,9 @@
       <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/CacheManager.java" timestamp="1481678667569">
         <mark key="'" line="50" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/MatchWeightScore.java" timestamp="1481681912916">
+        <mark key="'" line="63" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsTSearcher.java" timestamp="1481249098774">
         <mark key="'" line="34" column="90" />
       </file>
@@ -84,6 +74,9 @@
         <mark key="]" line="3" column="7" />
         <mark key="." line="3" column="7" />
       </file>
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/ScoreAlgorithm.java" timestamp="1481681954524">
+        <mark key="'" line="222" column="55" />
+      </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/LevenshteinComparator.java" timestamp="1481186919275">
         <mark key="'" line="187" column="66" />
         <mark key="[" line="24" column="23" />
@@ -91,11 +84,12 @@
         <mark key="^" line="24" column="22" />
         <mark key="." line="24" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/doc/DocAttr.java" timestamp="1481679612400">
+      <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/doc/DocAttr.java" timestamp="1481681824983">
         <mark key="'" line="84" column="0" />
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
+        <mark key="[" line="23" column="48" />
+        <mark key="]" line="23" column="48" />
+        <mark key="." line="23" column="48" />
+        <mark key="^" line="23" column="51" />
       </file>
       <file name="/package-info.txt.ft" timestamp="1481262272133">
         <mark key="[" line="0" column="0" />
@@ -135,6 +129,12 @@
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/RouteSearcher.java" timestamp="1481531928709">
         <mark key="'" line="671" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosComparator.java" timestamp="1481682001511">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="13" column="38" />
+        <mark key="^" line="13" column="38" />
+        <mark key="." line="13" column="38" />
+      </file>
       <file name="$USER_HOME$/workspace/search_tool/src/main/java/com/mx/server/search/tool/service/impl/SerializeServiceImpl.java" timestamp="1481681332957">
         <mark key="[" line="177" column="42" />
         <mark key="]" line="177" column="55" />
@@ -153,7 +153,7 @@
         <mark key="." line="95" column="12" />
         <mark key="^" line="95" column="12" />
       </file>
-      <file name="/fragment.java" timestamp="1481262398692">
+      <file name="/fragment.java" timestamp="1481681961826">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsAAASearcher.java" timestamp="1481679406862">
@@ -163,12 +163,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="0" filename="$USER_HOME$/workspace/jrec/src/main/java/CMybatis.java" />
-      <jump line="48" column="0" filename="$USER_HOME$/workspace/jrec/src/main/java/CMybatis.java" />
-      <jump line="4" column="0" filename="$USER_HOME$/workspace/py/zest/test.py" />
-      <jump line="38" column="30" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/dispatch/SearcherProvider.java" />
-      <jump line="2" column="11" filename="$USER_HOME$/workspace/py/zest/test.py" />
-      <jump line="55" column="16" filename="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/GenericController.java" />
       <jump line="17" column="20" filename="/CityDetailResp.java" />
       <jump line="165" column="0" filename="/CityDetailResp.java" />
       <jump line="31" column="37" filename="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/GenericController.java" />
@@ -263,10 +257,16 @@
       <jump line="535" column="0" filename="$USER_HOME$/workspace/search_tool/src/main/java/com/mx/server/search/tool/service/impl/DataInfoServiceImpl.java" />
       <jump line="9" column="53" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/index/IndexInfoArr.java" />
       <jump line="61" column="0" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/index/IndexInfoArr.java" />
+      <jump line="43" column="8" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/MatchWeightScore.java" />
+      <jump line="37" column="53" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/MatchWeightScore.java" />
+      <jump line="27" column="42" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/MatchWeightScore.java" />
+      <jump line="63" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/MatchWeightScore.java" />
+      <jump line="35" column="36" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/ScoreAlgorithm.java" />
+      <jump line="222" column="55" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/ScoreAlgorithm.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>_Data</text>
+        <text>type</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxURVJNX0tFWV9OQU1FXD4=</text>
@@ -312,7 +312,7 @@
       <last-replace>=</last-replace>
       <last-substitute>#</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
