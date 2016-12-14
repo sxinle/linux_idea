@@ -9,11 +9,11 @@
       <file name="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/business/poi/searcher/PoiSearcher.java" timestamp="1481678116767">
         <mark key="'" line="50" column="46" />
       </file>
-      <file name="$USER_HOME$/workspace/search_tool/src/main/java/com/mx/server/search/tool/service/DataInfoService.java" timestamp="1481680407229">
+      <file name="$USER_HOME$/workspace/search_tool/src/main/java/com/mx/server/search/tool/service/DataInfoService.java" timestamp="1481681329488">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="79" />
-        <mark key="." line="29" column="26" />
+        <mark key="[" line="37" column="26" />
+        <mark key="]" line="37" column="38" />
+        <mark key="." line="29" column="41" />
       </file>
       <file name="/File Header.txt.ft" timestamp="1481094374135">
         <mark key="[" line="0" column="0" />
@@ -79,7 +79,7 @@
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsTSearcher.java" timestamp="1481249098774">
         <mark key="'" line="34" column="90" />
       </file>
-      <file name="/Dummy.txt" timestamp="1481679621942">
+      <file name="/Dummy.txt" timestamp="1481681391917">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="7" />
         <mark key="." line="3" column="7" />
@@ -107,11 +107,23 @@
         <mark key="." line="26" column="46" />
         <mark key="^" line="26" column="46" />
       </file>
+      <file name="$USER_HOME$/workspace/search_tool/src/main/java/com/mx/server/search/tool/service/UtilService.java" timestamp="1481681371645">
+        <mark key="[" line="23" column="66" />
+        <mark key="]" line="23" column="66" />
+        <mark key="." line="23" column="66" />
+        <mark key="^" line="15" column="57" />
+      </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsBaseSearcher.java" timestamp="1481248958929">
         <mark key="'" line="100" column="12" />
       </file>
       <file name="$USER_HOME$/.PyCharm2016.3/system/python_stubs/-1247971764/math.py" timestamp="1481102432889">
         <mark key="'" line="461" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/search_tool/src/main/java/com/mx/server/search/tool/service/impl/UtilServiceImpl.java" timestamp="1481681356659">
+        <mark key="[" line="20" column="66" />
+        <mark key="]" line="20" column="66" />
+        <mark key="." line="20" column="66" />
+        <mark key="^" line="15" column="57" />
       </file>
       <file name="$USER_HOME$/workspace/jrec/src/main/java/RebelForAndroid.java" timestamp="1481269828716">
         <mark key="'" line="83" column="0" />
@@ -123,12 +135,16 @@
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/RouteSearcher.java" timestamp="1481531928709">
         <mark key="'" line="671" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search_tool/src/main/java/com/mx/server/search/tool/service/impl/DataInfoServiceImpl.java" timestamp="1481680416057">
-        <mark key="'" line="536" column="0" />
-        <mark key="[" line="38" column="4" />
-        <mark key="]" line="38" column="10" />
-        <mark key="^" line="38" column="10" />
-        <mark key="." line="38" column="10" />
+      <file name="$USER_HOME$/workspace/search_tool/src/main/java/com/mx/server/search/tool/service/impl/SerializeServiceImpl.java" timestamp="1481681332957">
+        <mark key="[" line="177" column="42" />
+        <mark key="]" line="177" column="55" />
+        <mark key="." line="177" column="42" />
+      </file>
+      <file name="$USER_HOME$/workspace/search_tool/src/main/java/com/mx/server/search/tool/service/impl/DataInfoServiceImpl.java" timestamp="1481681292556">
+        <mark key="'" line="534" column="0" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/search/common-conf/search.properties" timestamp="1481613194478">
         <mark key="'" line="5" column="0" />
@@ -250,37 +266,37 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>Share_Attribute</text>
+        <text>_Data</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxURVJNX0tFWV9OQU1FXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CU1hcDxTdHJpbmcsIE1hcDxMb25nLCBTaGFyZV9BdHRyaWJ1dGU+PiBidWlsZFNoYXJlQXR0cmlidXRlKFN0cmluZyBjb3VudHJ5KTsK</text>
+      <register name="0" type="4">
+        <text>Share_Text_aa</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICBNYXA8U3RyaW5nLCBNYXA8TG9uZywgU2hhcmVfQXR0cmlidXRlPj4gYnVpbGRTaGFyZUF0dHJpYnV0ZShTdHJpbmcgY291bnRyeSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIE1hcDxTdHJpbmcsIE1hcDxMb25nLCBTaGFyZV9BdHRyaWJ1dGU+PiBidWlsZFNoYXJlQXR0cmlidXRlKFN0cmluZyBjb3VudHJ5KSB7CiAgICAgICAgcmV0dXJuIG51bGw7CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBNYXA8U3RyaW5nLCBNYXA8TG9uZywgU2hhcmVfQXR0cmlidXRlPj4gYnVpbGRTaGFyZUF0dHJpYnV0ZShTdHJpbmcgY291bnRyeSkgewo=</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIE1hcDxTdHJpbmcsIE1hcDxMb25nLCBTaGFyZV9BdHRyaWJ1dGU+PiBidWlsZFNoYXJlQXR0cmlidXRlKFN0cmluZyBjb3VudHJ5KSB7CiAgICAgICAgcmV0dXJuIG51bGw7CiAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQlCZWFuVXRpbHMuY29weVByb3BlcnRpZXMoc2hhcmVfQXR0cmlidXRlX0NDQywgZGF0YSk7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBNYXA8U3RyaW5nLCBNYXA8TG9uZywgU2hhcmVfQXR0cmlidXRlPj4gYnVpbGRTaGFyZUF0dHJpYnV0ZShTdHJpbmcgY291bnRyeSkgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQlTaGFyZV9BdHRyaWJ1dGVfRGF0YSBkYXRhID0gbmV3IFNoYXJlX0F0dHJpYnV0ZV9EYXRhKCk7Cg==</text>
+        <text encoding="base64">CQkJCQlCZWFuVXRpbHMuY29weVByb3BlcnRpZXMoc2hhcmVfQXR0cmlidXRlX0NDQywgZGF0YSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQlCZWFuVXRpbHMuY29weVByb3BlcnRpZXMoc2hhcmVfVGV4dF9DQ0NfYWEsIGRhdGEpOwo=</text>
+        <text encoding="base64">CQkJCQlTaGFyZV9BdHRyaWJ1dGVfRGF0YSBkYXRhID0gbmV3IFNoYXJlX0F0dHJpYnV0ZV9EYXRhKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQlTaGFyZV9UZXh0X0RhdGEgZGF0YSA9IG5ldyBTaGFyZV9UZXh0X0RhdGEoKTsK</text>
+        <text encoding="base64">CQkJCQlCZWFuVXRpbHMuY29weVByb3BlcnRpZXMoc2hhcmVfVGV4dF9DQ0NfYWEsIGRhdGEpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQlTaGFyZV9UZXh0X0RhdGEgZGF0YSA9IG5ldyBTaGFyZV9UZXh0X0RhdGEoKTsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
