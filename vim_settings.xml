@@ -105,12 +105,11 @@
         <mark key="^" line="146" column="47" />
         <mark key="." line="146" column="47" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosComparator.java" timestamp="1481686716178">
-        <mark key="'" line="115" column="29" />
-        <mark key="[" line="116" column="28" />
-        <mark key="]" line="117" column="34" />
-        <mark key="." line="117" column="34" />
-        <mark key="^" line="117" column="34" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosComparator.java" timestamp="1481693113354">
+        <mark key="[" line="107" column="29" />
+        <mark key="]" line="107" column="78" />
+        <mark key="." line="107" column="78" />
+        <mark key="^" line="107" column="78" />
       </file>
       <file name="vim_settings.xml" timestamp="1481173568487">
         <mark key="[" line="0" column="0" />
@@ -356,7 +355,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>值</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxMZXZlbnNodGVpbkNvbXBhcmF0b3JcPg==</text>
@@ -365,31 +364,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgSW5kZXhJbmZvQXJyLlRFUk1fS0VZX05BTUU6CiAgICAgICAgICAgICAgICAgICAgYnJlYWs7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50W10gYXJyOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5sb2dnaW5nLkxvZ2dlcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbG9nLmVycgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbG9nLmVycm9yKCLmlbDmja7lhrLnqoEgdGVybXNNYXAuZ2V0KHt9KSDmnIlJRC0+e33vvIzkvYbmmK90ZXJt5LitIHt9IOaJvuS4jeWIsOS9jee9ruS/oeaBryIsIHRlcm0sIGRvY0lkLCBkb2NJZCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGludFtdIGFyciA9IGluZm9BcnIuZ2V0SW5Eb2NQb3NNYXAoKS5nZXQoc29ydEZpZWxkS2V5KTsK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5sb2dnaW5nLkxvZ2dlcjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENvbnN0YW50UG9vbC5JbmRleAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbG9nLmVycgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKHRlcm1zTWFwLmdldCh0ZXJtKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGVybXNNYXAuZ2V0KGNvdW50cnkpOwoKCiAgICAgICAgICAgIHN3aXRjaCAoc29ydEJ5KSB7CiAgICAgICAgICAgICAgICBjYXNlIEluZGV4SW5mb0Fyci5URVJNX0tFWV9OQU1FOgogICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgY2FzZSBJbmRleEluZm9BcnIuVEVSTV9LRVlfUElOWUlOOgogICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgY2FzZSBJbmRleEluZm9BcnIuVEVSTV9LRVlfUFk6CiAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGludFtdIGFyciA9IGluZm9BcnIuZ2V0SW5Eb2NQb3NNYXAoKS5nZXQoc29ydEZpZWxkS2V5KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXJtc01hcC4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIENvbnN0YW50UG9vbC5JbmRleAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
