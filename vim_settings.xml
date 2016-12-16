@@ -33,6 +33,12 @@
         <mark key="^" line="103" column="56" />
         <mark key="." line="104" column="39" />
       </file>
+      <file name="$USER_HOME$/workspace/search/search_web/src/main/java/com/mx/server/search/web/Test.java" timestamp="1481869577106">
+        <mark key="[" line="11" column="66" />
+        <mark key="]" line="11" column="67" />
+        <mark key="^" line="11" column="66" />
+        <mark key="." line="11" column="67" />
+      </file>
       <file name="$USER_HOME$/workspace/py/zest/test.py" timestamp="1481168575785">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="7" column="4" />
@@ -133,8 +139,8 @@
       <file name="/DataInfoServiceImpl.java" timestamp="1481699341746">
         <mark key="'" line="625" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/pom.xml" timestamp="1481867690821">
-        <mark key="'" line="51" column="20" />
+      <file name="$USER_HOME$/workspace/search/search_core/pom.xml" timestamp="1481869385925">
+        <mark key="'" line="16" column="41" />
         <mark key="[" line="72" column="21" />
         <mark key="]" line="73" column="7" />
         <mark key="^" line="73" column="7" />
@@ -280,8 +286,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="205" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/NearbySearcher.java" />
-      <jump line="82" column="24" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/NearbySearcher.java" />
       <jump line="172" column="21" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/NearbySearcher.java" />
       <jump line="64" column="12" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/NearbySearcher.java" />
       <jump line="91" column="55" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/NearbySearcher.java" />
@@ -380,10 +384,12 @@
       <jump line="12" column="49" filename="$MAVEN_REPOSITORY$/org/wisdom-framework/sqlite-jdbc/3.8.7_1/sqlite-jdbc-3.8.7_1.jar!/org/sqlite/core/Codes.java" />
       <jump line="58" column="35" filename="$MAVEN_REPOSITORY$/org/wisdom-framework/sqlite-jdbc/3.8.7_1/sqlite-jdbc-3.8.7_1.jar!/org/sqlite/core/NativeDB.class" />
       <jump line="51" column="20" filename="$USER_HOME$/workspace/search/search_core/pom.xml" />
+      <jump line="37" column="0" filename="$USER_HOME$/workspace/search/search_core/pom.xml" />
+      <jump line="16" column="41" filename="$USER_HOME$/workspace/search/search_core/pom.xml" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text />
+        <text>ClassNotFound</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzb3J0RmllbGRLZXlcPg==</text>
@@ -392,31 +398,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBwcmlvckNtcCA9IExvbmcuY29tcGFyZShvMS5wcmlvciwgbzIucHJpb3IpOwogICAgICAgICAgICAgICAgaWYocHJpb3JDbXAgIT0gMCkgcmV0dXJuIHByaW9yQ21wOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLm5lZWRDbnQgPSBuZWVkQ250Owo=</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbyhmaWxlU3RyKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLm5lZWRDbnQgPSBuZWVkQ250Owo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgaW50IG5lZWRDbnQ7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgaW50IG5lZWRDbnQ7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBMaXN0PERvY0lkV2l0aEluZm8+IHNvcnRSZXR1cm5JZFdpdGhJbmZvKCkgewogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gaWRXaXRoSW5mb3M7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBMaXN0PERvY0lkV2l0aEluZm8+IHNvcnRSZXR1cm5JZFdpdGhJbmZvKCkgewogICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBib29sZWFuIHNob3VwaW4gPSBmYWxzZSwgcXVhbnBpbiA9IGZhbHNlOyAvLyDmjInlk6rkuKrlrZfmrrXmr5TovoMKICAgICAgICBpZiAodXNlcklucHV0Lm1hdGNoZXMoIl5b772BLe+9mu+8oS3vvLpdKyQiKSkgewogICAgICAgICAgICBpZiAodGVybXMuc2l6ZSgpID09IDEpIHsKICAgICAgICAgICAgICAgIHNob3VwaW4gPSB0cnVlOwogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgcXVhbnBpbiA9IHRydWU7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgaW50IHNvcnRGaWVsZEtleSA9IHF1YW5waW4gPyBJbmRleEluZm9BcnIuVEVSTV9LRVlfUElOWUlOIDogc2hvdXBpbiA/IEluZGV4SW5mb0Fyci5URVJNX0tFWV9QWSA6IEluZGV4SW5mb0Fyci5URVJNX0tFWV9OQU1FOwoKICAgICAgICBMaXN0PERvY0lkV2l0aEluZm8+IGlkV2l0aEluZm9zID0gbmV3IEFycmF5TGlzdDw+KGRvY0lkcy5zaXplKCkpOwogICAgICAgIGRvY0lkcy5mb3JFYWNoKGlkIC0+IGlkV2l0aEluZm9zLmFkZChuZXcgRG9jSWRXaXRoSW5mbyhpZCwgc29ydEZpZWxkS2V5KSkpOwogICAgICAgIGlkV2l0aEluZm9zLnNvcnQoKG8xLCBvMikgLT4gewogICAgICAgICAgICBpZiAobzEuZnVsbE1hdGNoICYmICFvMi5mdWxsTWF0Y2gpIHJldHVybiAtMTsKICAgICAgICAgICAgaWYgKG8yLmZ1bGxNYXRjaCAmJiBvMS5mdWxsTWF0Y2gpIHJldHVybiAxOwogICAgICAgICAgICBpZiAobzEuZnVsbE1hdGNoICYmIG8yLmZ1bGxNYXRjaCkgewogICAgICAgICAgICAgICAgaW50IHByaW9yQ21wID0gTG9uZy5jb21wYXJlKG8xLnByaW9yLCBvMi5wcmlvcik7CiAgICAgICAgICAgICAgICBpZiAocHJpb3JDbXAgIT0gMCkgcmV0dXJuIHByaW9yQ21wOwogICAgICAgICAgICB9CgogICAgICAgICAgICBpbnQgcmV2Q250Q21wID0gSW50ZWdlci5jb21wYXJlKG8xLnJldkNudCwgbzIucmV2Q250KTsKICAgICAgICAgICAgaWYgKHJldkNudENtcCAhPSAwKSByZXR1cm4gcmV2Q250Q21wOwoKICAgICAgICAgICAgaW50IGJpdENudENtcCA9IEludGVnZXIuY29tcGFyZShvMS5iaXRDbnQsIG8yLmJpdENudCk7CiAgICAgICAgICAgIGlmIChiaXRDbnRDbXAgIT0gMCkgcmV0dXJuIGJpdENudENtcDsKCiAgICAgICAgICAgIGludCBmaXJQb3NDbXAgPSBJbnRlZ2VyLmNvbXBhcmUobzEuZmlyUG9zLCBvMi5maXJQb3MpOwogICAgICAgICAgICBpZiAoZmlyUG9zQ21wICE9IDApIHJldHVybiBmaXJQb3NDbXA7CgogICAgICAgICAgICBpbnQgbmljZUNtcCA9IEludGVnZXIuY29tcGFyZShvMS5uaWNlQ250LCBvMi5uaWNlQ250KTsKICAgICAgICAgICAgaWYgKG5pY2VDbXAgIT0gMCkgcmV0dXJuIG5pY2VDbXA7CgogICAgICAgICAgICBpbnQgcHJpb3JDbXAgPSBMb25nLmNvbXBhcmUobzEucHJpb3IsIG8yLnByaW9yKTsKICAgICAgICAgICAgaWYgKHByaW9yQ21wICE9IDApIHJldHVybiBwcmlvckNtcDsKCiAgICAgICAgICAgIGludCBuYW1lTGVuQ21wID0gSW50ZWdlci5jb21wYXJlKG8xLmZpZWxkTGVuZ3RoLCBvMi5maWVsZExlbmd0aCk7CiAgICAgICAgICAgIGlmIChuYW1lTGVuQ21wICE9IDApIHJldHVybiBuYW1lTGVuQ21wOwoKICAgICAgICAgICAgcmV0dXJuIExvbmcuY29tcGFyZShvMS5kb2NJZCwgbzIuZG9jSWQpOwogICAgICAgIH0pOwogICAgICAgIHJldHVybiBpZFdpdGhJbmZvczsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gaWRXaXRoSW5mb3M7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -429,7 +435,7 @@
       <last-replace>=</last-replace>
       <last-substitute>#</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -488,7 +494,7 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed O</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
