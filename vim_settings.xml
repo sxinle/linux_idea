@@ -48,8 +48,8 @@
         <mark key="." line="7" column="7" />
         <mark key="^" line="7" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_web/pom.xml" timestamp="1481876961756">
-        <mark key="'" line="98" column="23" />
+      <file name="$USER_HOME$/workspace/search/search_web/pom.xml" timestamp="1481877644960">
+        <mark key="'" line="96" column="0" />
         <mark key="[" line="95" column="0" />
         <mark key="]" line="99" column="20" />
         <mark key="." line="95" column="0" />
@@ -181,10 +181,10 @@
         <mark key="'" line="138" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_web/src/main/java/com/mx/server/search/web/AppInitializer.java" timestamp="1481877028284">
-        <mark key="[" line="34" column="39" />
-        <mark key="]" line="34" column="41" />
-        <mark key="." line="34" column="41" />
-        <mark key="^" line="34" column="41" />
+        <mark key="[" line="24" column="39" />
+        <mark key="]" line="24" column="41" />
+        <mark key="." line="24" column="41" />
+        <mark key="^" line="24" column="41" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/SuggestSearcher.java" timestamp="1481696957389">
         <mark key="'" line="75" column="0" />
@@ -247,7 +247,7 @@
         <mark key="." line="95" column="12" />
         <mark key="^" line="95" column="12" />
       </file>
-      <file name="/fragment.java" timestamp="1481870606373">
+      <file name="/fragment.java" timestamp="1481877691810">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosSorter.java" timestamp="1481871357650">
@@ -258,8 +258,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="39" filename="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/business/poi/searcher/PoiSearcher.java" />
-      <jump line="50" column="46" filename="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/business/poi/searcher/PoiSearcher.java" />
       <jump line="25" column="43" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/index/IndexInfoArr.java" />
       <jump line="26" column="39" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/CacheManager.java" />
       <jump line="12" column="0" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/CacheManager.java" />
@@ -358,6 +356,8 @@
       <jump line="632" column="41" filename="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/sql/DriverManager.java" />
       <jump line="204" column="29" filename="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/sql/DriverManager.java" />
       <jump line="98" column="23" filename="$USER_HOME$/workspace/search/search_web/pom.xml" />
+      <jump line="77" column="49" filename="$USER_HOME$/workspace/search/search_web/pom.xml" />
+      <jump line="96" column="0" filename="$USER_HOME$/workspace/search/search_web/pom.xml" />
     </jumps>
     <registers>
       <register name="-" type="4">
