@@ -133,8 +133,8 @@
       <file name="/DataInfoServiceImpl.java" timestamp="1481699341746">
         <mark key="'" line="625" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/pom.xml" timestamp="1481859502469">
-        <mark key="'" line="1" column="0" />
+      <file name="$USER_HOME$/workspace/search/search_core/pom.xml" timestamp="1481867690821">
+        <mark key="'" line="51" column="20" />
         <mark key="[" line="72" column="21" />
         <mark key="]" line="73" column="7" />
         <mark key="^" line="73" column="7" />
@@ -280,7 +280,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="671" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/RouteSearcher.java" />
       <jump line="205" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/NearbySearcher.java" />
       <jump line="82" column="24" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/NearbySearcher.java" />
       <jump line="172" column="21" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/NearbySearcher.java" />
@@ -380,6 +379,7 @@
       <jump line="138" column="27" filename="$MAVEN_REPOSITORY$/org/wisdom-framework/sqlite-jdbc/3.8.7_1/sqlite-jdbc-3.8.7_1.jar!/org/sqlite/core/DB.java" />
       <jump line="12" column="49" filename="$MAVEN_REPOSITORY$/org/wisdom-framework/sqlite-jdbc/3.8.7_1/sqlite-jdbc-3.8.7_1.jar!/org/sqlite/core/Codes.java" />
       <jump line="58" column="35" filename="$MAVEN_REPOSITORY$/org/wisdom-framework/sqlite-jdbc/3.8.7_1/sqlite-jdbc-3.8.7_1.jar!/org/sqlite/core/NativeDB.class" />
+      <jump line="51" column="20" filename="$USER_HOME$/workspace/search/search_core/pom.xml" />
     </jumps>
     <registers>
       <register name="-" type="4">
