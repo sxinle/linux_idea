@@ -209,7 +209,9 @@
         <mark key="^" line="83" column="56" />
         <mark key="." line="85" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" timestamp="1482116470095" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" timestamp="1482140104394">
+        <mark key="'" line="331" column="0" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/wisdom-framework/sqlite-jdbc/3.8.7_1/sqlite-jdbc-3.8.7_1.jar!/org/sqlite/core/Codes.java" timestamp="1481859948691">
         <mark key="'" line="12" column="49" />
       </file>
@@ -268,8 +270,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="46" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/index/IndexInfoArr.java" />
-      <jump line="39" column="21" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/doc/DocAttr.java" />
       <jump line="10" column="48" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/doc/DocAttr.java" />
       <jump line="84" column="0" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/doc/DocAttr.java" />
       <jump line="39" column="4" filename="$USER_HOME$/workspace/search_tool/src/main/java/com/mx/server/search/tool/service/impl/DataInfoServiceImpl.java" />
@@ -368,6 +368,8 @@
       <jump line="217" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/LevenshteinComparator.java" />
       <jump line="3" column="0" filename="$USER_HOME$/workspace/search/search_web/src/test/resources/old_search_from_baidu.xml" />
       <jump line="170" column="0" filename="$USER_HOME$/workspace/search/search_web/src/test/resources/old_search_from_baidu.xml" />
+      <jump line="160" column="12" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" />
+      <jump line="331" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
