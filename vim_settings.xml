@@ -54,6 +54,9 @@
         <mark key="]" line="99" column="20" />
         <mark key="." line="95" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/search/search_web/src/test/resources/old_search_from_baidu.xml" timestamp="1482125103373">
+        <mark key="'" line="170" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/CacheManager.java" timestamp="1481678667569">
         <mark key="'" line="50" column="0" />
       </file>
@@ -265,8 +268,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="0" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/CacheManager.java" />
-      <jump line="7" column="28" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/index/IndexInfoArr.java" />
       <jump line="26" column="46" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/index/IndexInfoArr.java" />
       <jump line="39" column="21" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/doc/DocAttr.java" />
       <jump line="10" column="48" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/doc/DocAttr.java" />
@@ -365,6 +366,8 @@
       <jump line="96" column="0" filename="$USER_HOME$/workspace/search/search_web/pom.xml" />
       <jump line="137" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/LevenshteinComparator.java" />
       <jump line="217" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/LevenshteinComparator.java" />
+      <jump line="3" column="0" filename="$USER_HOME$/workspace/search/search_web/src/test/resources/old_search_from_baidu.xml" />
+      <jump line="170" column="0" filename="$USER_HOME$/workspace/search/search_web/src/test/resources/old_search_from_baidu.xml" />
     </jumps>
     <registers>
       <register name="-" type="4">
