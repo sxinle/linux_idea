@@ -70,11 +70,12 @@
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/ScoreAlgorithm.java" timestamp="1481681954524">
         <mark key="'" line="222" column="55" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/LevenshteinComparator.java" timestamp="1482384934867">
-        <mark key="'" line="217" column="0" />
-        <mark key="[" line="123" column="0" />
-        <mark key="]" line="123" column="0" />
-        <mark key="." line="123" column="0" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/LevenshteinComparator.java" timestamp="1482388045345">
+        <mark key="'" line="219" column="0" />
+        <mark key="[" line="103" column="56" />
+        <mark key="]" line="103" column="56" />
+        <mark key="." line="103" column="56" />
+        <mark key="^" line="103" column="56" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/doc/DocAttr.java" timestamp="1481871223126">
         <mark key="'" line="26" column="0" />
@@ -127,7 +128,7 @@
         <mark key="." line="28" column="21" />
         <mark key="^" line="28" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/KeywordSearcher.java" timestamp="1482385444180">
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/KeywordSearcher.java" timestamp="1482387130674">
         <mark key="'" line="404" column="51" />
         <mark key="[" line="103" column="13" />
         <mark key="]" line="104" column="11" />
@@ -137,7 +138,7 @@
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/autonavi/AmapDetailSearcher.java" timestamp="1481080948176">
         <mark key="'" line="161" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/Sorter.java" timestamp="1482385157988">
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/Sorter.java" timestamp="1482387154550">
         <mark key="'" line="157" column="30" />
         <mark key="[" line="144" column="153" />
         <mark key="]" line="144" column="153" />
@@ -211,7 +212,7 @@
         <mark key="^" line="83" column="56" />
         <mark key="." line="85" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" timestamp="1482140104394">
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" timestamp="1482387258976">
         <mark key="'" line="333" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/wisdom-framework/sqlite-jdbc/3.8.7_1/sqlite-jdbc-3.8.7_1.jar!/org/sqlite/core/Codes.java" timestamp="1481859948691">
@@ -261,7 +262,7 @@
         <mark key="." line="95" column="12" />
         <mark key="^" line="95" column="12" />
       </file>
-      <file name="/fragment.java" timestamp="1482384609520">
+      <file name="/fragment.java" timestamp="1482387643985">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="^" line="0" column="7" />
@@ -383,13 +384,13 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>delete</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbmZvXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKFNlcnZlckNvbmZpZy5jZmcucmVtb3ZlU2FtZVJvYWQoKSkgewogICAgICAgICAgICAgICAgc2FtZV9uYW1lX3JvYWRfbWVyZ2UocGFyYW0uZ2V0Q291bnRyeSgpLCBwYXJhbS5nZXRMYW5ndWFnZSgpLCBkb2NJZHMpOwogICAgICAgICAgICB9Cg==</text>
+      <register name="0" type="4">
+        <text>ortField.indexOf(terms.get(i))</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKFNlcnZlckNvbmZpZy5jZmcucmVtb3ZlU2FtZVJvYWQoKSkgewogICAgICAgICAgICAgICAgc2FtZV9uYW1lX3JvYWRfbWVyZ2UocGFyYW0uZ2V0Q291bnRyeSgpLCBwYXJhbS5nZXRMYW5ndWFnZSgpLCBkb2NJZHMpOwogICAgICAgICAgICB9Cg==</text>
@@ -429,7 +430,7 @@
       <last-replace>=</last-replace>
       <last-substitute>#</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
