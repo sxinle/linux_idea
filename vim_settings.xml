@@ -70,7 +70,7 @@
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/ScoreAlgorithm.java" timestamp="1481681954524">
         <mark key="'" line="222" column="55" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/LevenshteinComparator.java" timestamp="1482281899576">
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/LevenshteinComparator.java" timestamp="1482378313703">
         <mark key="'" line="217" column="0" />
         <mark key="[" line="162" column="0" />
         <mark key="]" line="163" column="44" />
@@ -105,7 +105,6 @@
         <mark key="^" line="146" column="47" />
         <mark key="." line="146" column="39" />
       </file>
-      <file name="/Utility.java" timestamp="1482281081321" />
       <file name="/SerializeServiceImpl.java" timestamp="1481699345998">
         <mark key="'" line="19" column="19" />
       </file>
@@ -129,8 +128,8 @@
         <mark key="." line="28" column="21" />
         <mark key="^" line="28" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/KeywordSearcher.java" timestamp="1481696936378">
-        <mark key="'" line="558" column="0" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/KeywordSearcher.java" timestamp="1482378486674">
+        <mark key="'" line="403" column="51" />
         <mark key="[" line="97" column="45" />
         <mark key="]" line="97" column="45" />
         <mark key="^" line="97" column="82" />
@@ -202,6 +201,9 @@
         <mark key="]" line="175" column="112" />
         <mark key="^" line="175" column="130" />
         <mark key="." line="175" column="112" />
+      </file>
+      <file name="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/util/Comparator.java" timestamp="1482378318493">
+        <mark key="'" line="533" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsTXSearcher.java" timestamp="1481696897550">
         <mark key="'" line="30" column="37" />
@@ -275,12 +277,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="48" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/doc/DocAttr.java" />
-      <jump line="84" column="0" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/doc/DocAttr.java" />
-      <jump line="39" column="4" filename="$USER_HOME$/workspace/search_tool/src/main/java/com/mx/server/search/tool/service/impl/DataInfoServiceImpl.java" />
-      <jump line="99" column="20" filename="$USER_HOME$/workspace/search_tool/src/main/java/com/mx/server/search/tool/service/DataInfoService.java" />
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/search_tool/src/main/java/com/mx/server/search/tool/service/DataInfoService.java" />
-      <jump line="63" column="12" filename="$USER_HOME$/workspace/search_tool/src/main/java/com/mx/server/search/tool/service/impl/DataInfoServiceImpl.java" />
       <jump line="40" column="78" filename="$USER_HOME$/workspace/search_tool/src/main/java/com/mx/server/search/tool/service/impl/DataInfoServiceImpl.java" />
       <jump line="82" column="0" filename="$USER_HOME$/workspace/search_tool/src/main/java/com/mx/server/search/tool/service/impl/DataInfoServiceImpl.java" />
       <jump line="535" column="0" filename="$USER_HOME$/workspace/search_tool/src/main/java/com/mx/server/search/tool/service/impl/DataInfoServiceImpl.java" />
@@ -370,11 +366,17 @@
       <jump line="13" column="12" filename="$USER_HOME$/workspace/search/search_web/pom.xml" />
       <jump line="96" column="0" filename="$USER_HOME$/workspace/search/search_web/pom.xml" />
       <jump line="137" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/LevenshteinComparator.java" />
-      <jump line="217" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/LevenshteinComparator.java" />
       <jump line="3" column="0" filename="$USER_HOME$/workspace/search/search_web/src/test/resources/old_search_from_baidu.xml" />
       <jump line="170" column="0" filename="$USER_HOME$/workspace/search/search_web/src/test/resources/old_search_from_baidu.xml" />
       <jump line="160" column="12" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" />
       <jump line="331" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" />
+      <jump line="93" column="50" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/KeywordSearcher.java" />
+      <jump line="609" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/KeywordSearcher.java" />
+      <jump line="148" column="49" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/LevenshteinComparator.java" />
+      <jump line="217" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/LevenshteinComparator.java" />
+      <jump line="108" column="31" filename="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/util/Comparator.java" />
+      <jump line="533" column="0" filename="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/util/Comparator.java" />
+      <jump line="403" column="51" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/KeywordSearcher.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
