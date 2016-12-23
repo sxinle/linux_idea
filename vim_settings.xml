@@ -152,19 +152,19 @@
         <mark key="^" line="97" column="47" />
         <mark key="." line="94" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsXSearcher.java" timestamp="1481696791475">
-        <mark key="'" line="16" column="13" />
-        <mark key="[" line="276" column="44" />
-        <mark key="]" line="276" column="44" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsXSearcher.java" timestamp="1482457255783">
+        <mark key="'" line="96" column="22" />
+        <mark key="[" line="23" column="22" />
+        <mark key="]" line="23" column="41" />
         <mark key="^" line="278" column="44" />
         <mark key="." line="276" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/NearbySearcher.java" timestamp="1481617404106">
-        <mark key="'" line="31" column="0" />
-        <mark key="[" line="171" column="0" />
-        <mark key="]" line="171" column="0" />
-        <mark key="." line="171" column="0" />
-        <mark key="^" line="175" column="36" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/NearbySearcher.java" timestamp="1482457719662">
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="139" column="0" />
+        <mark key="]" line="139" column="0" />
+        <mark key="." line="139" column="0" />
+        <mark key="^" line="136" column="40" />
       </file>
       <file name="$USER_HOME$/workspace/search/pom.xml" timestamp="1481871549174">
         <mark key="'" line="27" column="48" />
@@ -181,7 +181,7 @@
       <file name="/SemanticsTSearcher.java" timestamp="1481785519072">
         <mark key="'" line="98" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1482389230911">
+      <file name="/Dummy.txt" timestamp="1482457865937">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="25" />
         <mark key="." line="3" column="25" />
@@ -262,11 +262,11 @@
         <mark key="." line="95" column="12" />
         <mark key="^" line="95" column="12" />
       </file>
-      <file name="/fragment.java" timestamp="1482387643985">
+      <file name="/fragment.java" timestamp="1482457624199">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="7" />
+        <mark key="]" line="0" column="19" />
         <mark key="^" line="0" column="7" />
-        <mark key="." line="0" column="7" />
+        <mark key="." line="0" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosSorter.java" timestamp="1481871357650">
         <mark key="'" line="226" column="0" />
@@ -281,8 +281,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="0" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/index/IndexInfoArr.java" />
-      <jump line="43" column="8" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/MatchWeightScore.java" />
       <jump line="37" column="53" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/MatchWeightScore.java" />
       <jump line="27" column="42" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/MatchWeightScore.java" />
       <jump line="63" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/MatchWeightScore.java" />
@@ -381,43 +379,45 @@
       <jump line="105" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/KeywordSearcher.java" />
       <jump line="610" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/KeywordSearcher.java" />
       <jump line="93" column="23" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/LevenshteinComparator.java" />
+      <jump line="291" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsXSearcher.java" />
+      <jump line="96" column="22" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsXSearcher.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>i</text>
+        <text>set</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbmZvXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>ortField.indexOf(terms.get(i))</text>
+        <text>search_whold_country</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKFNlcnZlckNvbmZpZy5jZmcucmVtb3ZlU2FtZVJvYWQoKSkgewogICAgICAgICAgICAgICAgc2FtZV9uYW1lX3JvYWRfbWVyZ2UocGFyYW0uZ2V0Q291bnRyeSgpLCBwYXJhbS5nZXRMYW5ndWFnZSgpLCBkb2NJZHMpOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgRmllbGQgZiA9IHNlYXJjaGVyLmdldENsYXNzKCkuZ2V0RGVjbGFyZWRGaWVsZCgic2VhcmNoX3dob2xkX2NvdW50cnkiKTsKICAgICAgICAgICAgaWYgKG51bGwgIT0gZikgewogICAgICAgICAgICAgICAgZi5zZXRBY2Nlc3NpYmxlKHRydWUpOwogICAgICAgICAgICAgICAgZi5zZXQoc2VhcmNoZXIsIGZhbHNlKTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZDEgPSAyMzc4MTgyMDg2ODMzODk0OTYzTDsKICAgICAgICBpZDIgPSAyMzc4MTgyMTA0MDEzOTI5NDgwTDsK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBGaWVsZCBmID0gc2VhcmNoZXIuZ2V0Q2xhc3MoKS5nZXREZWNsYXJlZEZpZWxkKCJzZWFyY2hfd2hvbGRfY291bnRyeSIpOwo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzb3J0VGV4dDEgPSAiImsK</text>
+        <text encoding="base64">ICAgICAgICBzZWFyY2goKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzb3J0VGV4dDFbMF0K</text>
+        <text encoding="base64">ICAgICAgICBzZWFyY2hlci4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBDb25uZWN0aW9uIGNvbm4gPSBEcml2ZXJNYW5hZ2VyLmdldENvbm5lY3Rpb24oImpkYmM6c3FsaXRlOi9ob21lL2hzb25nL2IvdG1jLWRhdGEvRU1HLTE2UTMtMDQtMS43LjMvdG1jX2RiX2RhdGEvMTVRMS8yMTAwLzAwMS5kYXQiLCBwKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKFNlcnZlckNvbmZpZy5jZmcucmVtb3ZlU2FtZVJvYWQoKSkgewogICAgICAgICAgICAgICAgc2FtZV9uYW1lX3JvYWRfbWVyZ2UocGFyYW0uZ2V0Q291bnRyeSgpLCBwYXJhbS5nZXRMYW5ndWFnZSgpLCBkb2NJZHMpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBUaHJlYWQuc2xlZXAoMzAwMDAwMDAwKTsK</text>
+        <text encoding="base64">ICAgICAgICBpZDEgPSAyMzc4MTgyMDg2ODMzODk0OTYzTDsKICAgICAgICBpZDIgPSAyMzc4MTgyMTA0MDEzOTI5NDgwTDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLndpc2RvbS1mcmFtZXdvcms8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPnNxbGl0ZS1qZGJjPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4zLjguN18xPC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25uLgo=</text>
+        <text encoding="base64">ICAgICAgICBzb3J0VGV4dDEgPSAiImsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -430,7 +430,7 @@
       <last-replace>=</last-replace>
       <last-substitute>#</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
