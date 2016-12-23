@@ -110,19 +110,20 @@
         <mark key="." line="6" column="45" />
         <mark key="^" line="6" column="45" />
       </file>
-      <file name="$USER_HOME$/html/stat.html" timestamp="1482462331446">
-        <mark key="[" line="24" column="6" />
-        <mark key="]" line="27" column="7" />
-        <mark key="." line="27" column="7" />
-        <mark key="^" line="27" column="7" />
+      <file name="$USER_HOME$/html/stat.html" timestamp="1482468310267">
+        <mark key="'" line="76" column="51" />
+        <mark key="[" line="5" column="11" />
+        <mark key="]" line="5" column="16" />
+        <mark key="." line="5" column="16" />
+        <mark key="^" line="5" column="16" />
       </file>
       <file name="/SerializeServiceImpl.java" timestamp="1481699345998">
         <mark key="'" line="19" column="19" />
       </file>
-      <file name="$USER_HOME$/html/index.html" timestamp="1482461474075">
-        <mark key="'" line="173" column="24" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="9" column="58" />
+      <file name="$USER_HOME$/html/index.html" timestamp="1482465119590">
+        <mark key="'" line="133" column="16" />
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="80" column="0" />
         <mark key="." line="174" column="54" />
         <mark key="^" line="174" column="54" />
       </file>
@@ -293,21 +294,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="36" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/ScoreAlgorithm.java" />
-      <jump line="222" column="55" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/ScoreAlgorithm.java" />
-      <jump line="156" column="24" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/Sorter.java" />
-      <jump line="151" column="28" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/Sorter.java" />
-      <jump line="84" column="22" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsBaseSearcher.java" />
-      <jump line="156" column="6" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsBaseSearcher.java" />
-      <jump line="687" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsBaseSearcher.java" />
-      <jump line="174" column="15" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/SuggestSearcher.java" />
-      <jump line="13" column="13" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsRTSearcher.java" />
-      <jump line="11" column="13" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsRTXSearcher.java" />
-      <jump line="13" column="13" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsRXESearcher.java" />
-      <jump line="15" column="13" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsRXYSearcher.java" />
-      <jump line="13" column="13" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsTSearcher.java" />
-      <jump line="16" column="13" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsXSearcher.java" />
-      <jump line="493" column="14" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsBaseSearcher.java" />
       <jump line="8" column="13" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsXYSearcher.java" />
       <jump line="79" column="22" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsXYSearcher.java" />
       <jump line="100" column="77" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/KeywordSearcher.java" />
@@ -393,52 +379,67 @@
       <jump line="414" column="40" filename="$USER_HOME$/html/index.html" />
       <jump line="150" column="76" filename="$USER_HOME$/html/index.html" />
       <jump line="173" column="24" filename="$USER_HOME$/html/index.html" />
+      <jump line="11" column="0" filename="$USER_HOME$/html/stat.html" />
+      <jump line="48" column="7" filename="$USER_HOME$/html/stat.html" />
+      <jump line="29" column="4" filename="$USER_HOME$/html/stat.html" />
+      <jump line="20" column="43" filename="$USER_HOME$/html/stat.html" />
+      <jump line="66" column="1" filename="$USER_HOME$/html/index.html" />
+      <jump line="132" column="17" filename="$USER_HOME$/html/index.html" />
+      <jump line="140" column="12" filename="$USER_HOME$/html/index.html" />
+      <jump line="147" column="12" filename="$USER_HOME$/html/index.html" />
+      <jump line="154" column="12" filename="$USER_HOME$/html/index.html" />
+      <jump line="160" column="12" filename="$USER_HOME$/html/index.html" />
+      <jump line="148" column="17" filename="$USER_HOME$/html/index.html" />
+      <jump line="141" column="17" filename="$USER_HOME$/html/index.html" />
+      <jump line="133" column="16" filename="$USER_HOME$/html/index.html" />
+      <jump line="80" column="44" filename="$USER_HOME$/html/stat.html" />
+      <jump line="76" column="51" filename="$USER_HOME$/html/stat.html" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>Chart.min.js</text>
+        <text>人流疏导监控</text>
       </register>
       <register name="/" type="4">
-        <text>总人流量</text>
+        <text encoding="base64">XDxpbm5lclw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9IkNoYXJ0Lm1pbi5qcyI+PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkKCdzcGFuI2luZm8nKS5odG1sKCflvZPml6XmgLvkurrmtYHph4/otovlir8nKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkKCdzcGFuI21heCcpLmh0bWwocmVzdWx0WzBdLnB1cmVfaW5jb3VudCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YWxlcnQoCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkKCdzcGFuI21heCcpLmh0bWwocmVzdWx0WzBdLm5ld2NvdW50KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly/ov5Tlm57lj4LmlbDlgLwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly/ljLnphY3nm67moIflj4LmlbAK</text>
+        <text encoding="base64">ICAgICAgICBhbGVydCgkKCdzcGFuI21heCcpLmh0bWwoJ3NkZicpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly/mnoTpgKDkuIDkuKrlkKvmnInnm67moIflj4LmlbDnmoTmraPliJnooajovr7lvI/lr7nosaEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJC5hamF4KHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHVybDogbWF4VXJsLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgZGF0YVR5cGU6ICdqc29uJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN1Y2Nlc3M6IGZ1bmN0aW9uIChyZXN1bHQpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzd2l0Y2ggKHR5cGUpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2FzZSAndG90YWwnOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJCgnI21heCcpLmlubmVySFRNTCA9IHJlc3VsdC50b3RhbDsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjYXNlICdpbmNvbWUnOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJCgnI21heCcpLmlubmVySFRNTCA9IHJlc3VsdC5uZXdjb3VudDsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjYXNlICdwdXJlaW4nOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJCgnI21heCcpLmlubmVySFRNTCA9IHJlc3VsdC5wdXJlX2luY291bnQ7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJodHRwOi8vd2ViYXBpLmFtYXAuY29tL21hcHM/dj0xLjMma2V5PWNkNWNhZDFjYmU4YTE1Y2Q3NDU4ZDMxYTFjMjhiOTAxIj48L3NjcmlwdD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxtZXRhIGNoYXJzZXQ9IlVURi04Ij4KICAgIDx0aXRsZT5UaXRsZTwvdGl0bGU+CiAgICA8bWV0YSBjaGFyc2V0PSJ1dGYtOCI+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZDEgPSAyMzc4MTgyMDg2ODMzOTA3MTczTDsKICAgICAgICBpZDIgPSAyMzc4MTgyMTA0MDEzOTEwNzI5TDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJhckNoYXJ0RGF0YS5kYXRhc2V0c1swXS5kYXRhLnB1c2godi5wdXJlX2luY291bnQpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRmllbGQgZiA9IHNlYXJjaGVyLmdldENsYXNzKCkuZ2V0RGVjbGFyZWRGaWVsZCgic2VhcmNoX3dob2xkX2NvdW50cnkiKTsKICAgICAgICAgICAgaWYgKG51bGwgIT0gZikgewogICAgICAgICAgICAgICAgZi5zZXRBY2Nlc3NpYmxlKHRydWUpOwogICAgICAgICAgICAgICAgZi5zZXQoc2VhcmNoZXIsIGZhbHNlKTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJhckNoYXJ0RGF0YS5kYXRhc2V0c1swXS5kYXRhLnB1c2godi5uZXdjb3VudCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>总人流量</last-search>
+      <last-search encoding="base64">XDxpbm5lclw+</last-search>
       <last-offset />
-      <last-pattern>总人流量</last-pattern>
+      <last-pattern encoding="base64">XDxpbm5lclw+</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>#</last-substitute>
       <last-dir>1</last-dir>
@@ -460,6 +461,8 @@
         <entry>data</entry>
         <entry encoding="base64">XDxpbmZvXD4=</entry>
         <entry>总人流量</entry>
+        <entry encoding="base64">XDxmbG9hdGJveFw+</entry>
+        <entry encoding="base64">XDxpbm5lclw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzEvMi9n</entry>
