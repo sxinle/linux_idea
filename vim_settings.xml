@@ -104,8 +104,27 @@
         <mark key="^" line="146" column="47" />
         <mark key="." line="146" column="39" />
       </file>
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/stat.html" timestamp="1482461884350">
+        <mark key="[" line="6" column="40" />
+        <mark key="]" line="6" column="45" />
+        <mark key="." line="6" column="45" />
+        <mark key="^" line="6" column="45" />
+      </file>
+      <file name="$USER_HOME$/html/stat.html" timestamp="1482462331446">
+        <mark key="[" line="24" column="6" />
+        <mark key="]" line="27" column="7" />
+        <mark key="." line="27" column="7" />
+        <mark key="^" line="27" column="7" />
+      </file>
       <file name="/SerializeServiceImpl.java" timestamp="1481699345998">
         <mark key="'" line="19" column="19" />
+      </file>
+      <file name="$USER_HOME$/html/index.html" timestamp="1482461474075">
+        <mark key="'" line="173" column="24" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="9" column="58" />
+        <mark key="." line="174" column="54" />
+        <mark key="^" line="174" column="54" />
       </file>
       <file name="/CityDetailResp.java" timestamp="1481102510553">
         <mark key="'" line="165" column="0" />
@@ -267,12 +286,6 @@
         <mark key="^" line="0" column="7" />
         <mark key="." line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosSorter.java" timestamp="1481871357650">
-        <mark key="'" line="226" column="0" />
-        <mark key="]" line="15" column="24" />
-        <mark key="^" line="15" column="24" />
-        <mark key="." line="15" column="24" />
-      </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsAAASearcher.java" timestamp="1482385862160">
         <mark key="'" line="86" column="52" />
         <mark key="[" line="92" column="0" />
@@ -280,9 +293,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="53" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/MatchWeightScore.java" />
-      <jump line="27" column="42" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/MatchWeightScore.java" />
-      <jump line="63" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/MatchWeightScore.java" />
       <jump line="35" column="36" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/ScoreAlgorithm.java" />
       <jump line="222" column="55" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/ScoreAlgorithm.java" />
       <jump line="156" column="24" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/Sorter.java" />
@@ -380,56 +390,59 @@
       <jump line="93" column="23" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/LevenshteinComparator.java" />
       <jump line="291" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsXSearcher.java" />
       <jump line="96" column="22" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsXSearcher.java" />
+      <jump line="414" column="40" filename="$USER_HOME$/html/index.html" />
+      <jump line="150" column="76" filename="$USER_HOME$/html/index.html" />
+      <jump line="173" column="24" filename="$USER_HOME$/html/index.html" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>set</text>
+        <text>Chart.min.js</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbmZvXD4=</text>
+        <text>总人流量</text>
       </register>
-      <register name="0" type="4">
-        <text>search_whold_country</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9IkNoYXJ0Lm1pbi5qcyI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZDEgPSAyMzc4MTgyMDg2ODMzOTA3MTczTDsKICAgICAgICBpZDIgPSAyMzc4MTgyMTA0MDEzOTEwNzI5TDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRmllbGQgZiA9IHNlYXJjaGVyLmdldENsYXNzKCkuZ2V0RGVjbGFyZWRGaWVsZCgic2VhcmNoX3dob2xkX2NvdW50cnkiKTsKICAgICAgICAgICAgaWYgKG51bGwgIT0gZikgewogICAgICAgICAgICAgICAgZi5zZXRBY2Nlc3NpYmxlKHRydWUpOwogICAgICAgICAgICAgICAgZi5zZXQoc2VhcmNoZXIsIGZhbHNlKTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">YWxlcnQoCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly/ov5Tlm57lj4LmlbDlgLwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBGaWVsZCBmID0gc2VhcmNoZXIuZ2V0Q2xhc3MoKS5nZXREZWNsYXJlZEZpZWxkKCJzZWFyY2hfd2hvbGRfY291bnRyeSIpOwo=</text>
+        <text encoding="base64">Ly/ljLnphY3nm67moIflj4LmlbAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWFyY2goKQo=</text>
+        <text encoding="base64">Ly/mnoTpgKDkuIDkuKrlkKvmnInnm67moIflj4LmlbDnmoTmraPliJnooajovr7lvI/lr7nosaEK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWFyY2hlci4K</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJodHRwOi8vd2ViYXBpLmFtYXAuY29tL21hcHM/dj0xLjMma2V5PWNkNWNhZDFjYmU4YTE1Y2Q3NDU4ZDMxYTFjMjhiOTAxIj48L3NjcmlwdD4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKFNlcnZlckNvbmZpZy5jZmcucmVtb3ZlU2FtZVJvYWQoKSkgewogICAgICAgICAgICAgICAgc2FtZV9uYW1lX3JvYWRfbWVyZ2UocGFyYW0uZ2V0Q291bnRyeSgpLCBwYXJhbS5nZXRMYW5ndWFnZSgpLCBkb2NJZHMpOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIDxtZXRhIGNoYXJzZXQ9IlVURi04Ij4KICAgIDx0aXRsZT5UaXRsZTwvdGl0bGU+CiAgICA8bWV0YSBjaGFyc2V0PSJ1dGYtOCI+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZDEgPSAyMzc4MTgyMDg2ODMzODk0OTYzTDsKICAgICAgICBpZDIgPSAyMzc4MTgyMTA0MDEzOTI5NDgwTDsK</text>
+        <text encoding="base64">ICAgICAgICBpZDEgPSAyMzc4MTgyMDg2ODMzOTA3MTczTDsKICAgICAgICBpZDIgPSAyMzc4MTgyMTA0MDEzOTEwNzI5TDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgRmllbGQgZiA9IHNlYXJjaGVyLmdldENsYXNzKCkuZ2V0RGVjbGFyZWRGaWVsZCgic2VhcmNoX3dob2xkX2NvdW50cnkiKTsKICAgICAgICAgICAgaWYgKG51bGwgIT0gZikgewogICAgICAgICAgICAgICAgZi5zZXRBY2Nlc3NpYmxlKHRydWUpOwogICAgICAgICAgICAgICAgZi5zZXQoc2VhcmNoZXIsIGZhbHNlKTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpbmZvXD4=</last-search>
+      <last-search>总人流量</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbmZvXD4=</last-pattern>
+      <last-pattern>总人流量</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>#</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -446,6 +459,7 @@
         <entry encoding="base64">XDxzb3J0RmllbGRLZXlcPg==</entry>
         <entry>data</entry>
         <entry encoding="base64">XDxpbmZvXD4=</entry>
+        <entry>总人流量</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzEvMi9n</entry>
