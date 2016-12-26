@@ -48,12 +48,6 @@
         <mark key="." line="7" column="7" />
         <mark key="^" line="7" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_web/pom.xml" timestamp="1481878104470">
-        <mark key="'" line="96" column="0" />
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="99" column="20" />
-        <mark key="." line="95" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/search/search_web/src/test/resources/old_search_from_baidu.xml" timestamp="1482125103373">
         <mark key="'" line="170" column="0" />
       </file>
@@ -70,7 +64,7 @@
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/ScoreAlgorithm.java" timestamp="1481681954524">
         <mark key="'" line="222" column="55" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/LevenshteinComparator.java" timestamp="1482730168341">
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/LevenshteinComparator.java" timestamp="1482734650148">
         <mark key="'" line="219" column="0" />
         <mark key="[" line="125" column="0" />
         <mark key="]" line="125" column="0" />
@@ -300,7 +294,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="119" column="30" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosComparator.java" />
       <jump line="190" column="59" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosComparator.java" />
       <jump line="17" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/Sorter.java" />
       <jump line="35" column="25" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/Sorter.java" />
@@ -397,9 +390,10 @@
       <jump line="230" column="24" filename="$USER_HOME$/fx/his.html" />
       <jump line="344" column="53" filename="$USER_HOME$/fx/his.html" />
       <jump line="132" column="19" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/LevenshteinComparator.java" />
-      <jump line="219" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/LevenshteinComparator.java" />
       <jump line="22" column="58" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/transfer/req/SemanticsParam.java" />
       <jump line="55" column="0" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/transfer/req/SemanticsParam.java" />
+      <jump line="76" column="72" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/LevenshteinComparator.java" />
+      <jump line="219" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/LevenshteinComparator.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
