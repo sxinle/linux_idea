@@ -70,8 +70,8 @@
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/ScoreAlgorithm.java" timestamp="1481681954524">
         <mark key="'" line="222" column="55" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/LevenshteinComparator.java" timestamp="1482459009848">
-        <mark key="'" line="93" column="23" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/LevenshteinComparator.java" timestamp="1482730168341">
+        <mark key="'" line="219" column="0" />
         <mark key="[" line="125" column="0" />
         <mark key="]" line="125" column="0" />
         <mark key="." line="125" column="0" />
@@ -133,7 +133,6 @@
       <file name="/CityDetailResp.java" timestamp="1481102510553">
         <mark key="'" line="165" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsXYTSearcher.java" timestamp="1482553641771" />
       <file name="/DataInfoServiceImpl.java" timestamp="1481699341746">
         <mark key="'" line="625" column="0" />
       </file>
@@ -301,8 +300,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="114" column="29" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosComparator.java" />
-      <jump line="110" column="20" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosComparator.java" />
       <jump line="123" column="68" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosComparator.java" />
       <jump line="93" column="20" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosComparator.java" />
       <jump line="119" column="30" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosComparator.java" />
@@ -401,6 +398,8 @@
       <jump line="220" column="24" filename="$USER_HOME$/fx/his.html" />
       <jump line="230" column="24" filename="$USER_HOME$/fx/his.html" />
       <jump line="344" column="53" filename="$USER_HOME$/fx/his.html" />
+      <jump line="132" column="19" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/LevenshteinComparator.java" />
+      <jump line="219" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/LevenshteinComparator.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
