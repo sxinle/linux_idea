@@ -10,6 +10,9 @@
         <mark key="^" line="126" column="96" />
         <mark key="." line="126" column="45" />
       </file>
+      <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/transfer/req/BaseParam.java" timestamp="1482808865532">
+        <mark key="'" line="85" column="40" />
+      </file>
       <file name="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/sql/DriverManager.java" timestamp="1481876333837">
         <mark key="'" line="204" column="29" />
       </file>
@@ -179,8 +182,8 @@
         <mark key="^" line="278" column="44" />
         <mark key="." line="276" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/NearbySearcher.java" timestamp="1482457719662">
-        <mark key="'" line="32" column="0" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/NearbySearcher.java" timestamp="1482808887988">
+        <mark key="'" line="124" column="4" />
         <mark key="[" line="139" column="0" />
         <mark key="]" line="139" column="0" />
         <mark key="." line="139" column="0" />
@@ -302,8 +305,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="40" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsRXYTSearcher.java" />
-      <jump line="30" column="37" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsTXSearcher.java" />
       <jump line="66" column="50" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsXYSearcher.java" />
       <jump line="75" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/SuggestSearcher.java" />
       <jump line="142" column="13" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/Sorter.java" />
@@ -402,13 +403,15 @@
       <jump line="129" column="28" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" />
       <jump line="130" column="28" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" />
       <jump line="132" column="28" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" />
+      <jump line="85" column="40" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/transfer/req/BaseParam.java" />
+      <jump line="124" column="4" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/NearbySearcher.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>terms.get(terms.size() - 1).getWord()</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkaXN0TmFtZTJDb2RlTWFwXD4=</text>
+        <text>tag</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2NhbGVzOiB7CiAgICAgICAgICAgICAgICB4QXhlczogW3sKICAgICAgICAgICAgICAgICAgICBkaXNwbGF5OiB0cnVlLAogICAgICAgICAgICAgICAgICAgIHNjYWxlTGFiZWw6IHsKICAgICAgICAgICAgICAgICAgICAgICAgZGlzcGxheTogZmFsc2UsCiAgICAgICAgICAgICAgICAgICAgICAgIGxhYmVsU3RyaW5nOiAnTW9udGgnCiAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICBncmlkTGluZXM6IHsKICAgICAgICAgICAgICAgICAgICAgICAgY29sb3I6ICcjNDQ0NDQ0JwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH1dLAogICAgICAgICAgICAgICAgeUF4ZXM6IFt7CiAgICAgICAgICAgICAgICAgICAgZGlzcGxheTogdHJ1ZSwKICAgICAgICAgICAgICAgICAgICBzY2FsZUxhYmVsOiB7CiAgICAgICAgICAgICAgICAgICAgICAgIGRpc3BsYXk6IGZhbHNlLAogICAgICAgICAgICAgICAgICAgICAgICBsYWJlbFN0cmluZzogJ1ZhbHVlJwogICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgZ3JpZExpbmVzOiB7CiAgICAgICAgICAgICAgICAgICAgICAgIGNvbG9yOiAnIzQ0NDQ0NCcKICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgIHRpY2tzOiB7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgc3VnZ2VzdGVkTWF4OiAyNTAKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9XQogICAgICAgICAgICB9Cg==</text>
@@ -445,17 +448,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkaXN0TmFtZTJDb2RlTWFwXD4=</last-search>
+      <last-search>tag</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkaXN0TmFtZTJDb2RlTWFwXD4=</last-pattern>
+      <last-pattern>tag</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>#</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>1</entry>
         <entry encoding="base64">XDxsb2NEaXN0Q29kZVw+</entry>
         <entry>#</entry>
         <entry encoding="base64">XDx0bXBcPg==</entry>
@@ -475,6 +477,7 @@
         <entry>options</entry>
         <entry>line</entry>
         <entry encoding="base64">XDxkaXN0TmFtZTJDb2RlTWFwXD4=</entry>
+        <entry>tag</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzEvMi9n</entry>
