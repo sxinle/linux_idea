@@ -110,6 +110,11 @@
         <mark key="^" line="146" column="47" />
         <mark key="." line="146" column="39" />
       </file>
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/ServerConfig.java" timestamp="1482815927780">
+        <mark key="'" line="218" column="27" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="14" column="1" />
+      </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/stat.html" timestamp="1482461884350">
         <mark key="[" line="6" column="40" />
         <mark key="]" line="6" column="45" />
@@ -144,8 +149,8 @@
         <mark key="^" line="73" column="7" />
         <mark key="." line="73" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/GenericController.java" timestamp="1481103258695">
-        <mark key="'" line="131" column="0" />
+      <file name="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/GenericController.java" timestamp="1482815916137">
+        <mark key="'" line="35" column="53" />
         <mark key="[" line="28" column="22" />
         <mark key="]" line="28" column="21" />
         <mark key="." line="28" column="21" />
@@ -285,10 +290,10 @@
         <mark key="^" line="64" column="113" />
         <mark key="." line="82" column="39" />
       </file>
-      <file name="$USER_HOME$/workspace/search/common-conf/search.properties" timestamp="1481613194478">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="94" column="82" />
-        <mark key="]" line="95" column="12" />
+      <file name="$USER_HOME$/workspace/search/common-conf/search.properties" timestamp="1482816026845">
+        <mark key="'" line="21" column="39" />
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="96" column="22" />
         <mark key="." line="95" column="12" />
         <mark key="^" line="95" column="12" />
       </file>
@@ -305,10 +310,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="50" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsXYSearcher.java" />
-      <jump line="75" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/SuggestSearcher.java" />
-      <jump line="142" column="13" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/Sorter.java" />
-      <jump line="166" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/Sorter.java" />
       <jump line="182" column="35" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosSorter.java" />
       <jump line="21" column="29" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosSorter.java" />
       <jump line="33" column="34" filename="/DataInfoServiceImpl.java" />
@@ -405,16 +406,20 @@
       <jump line="132" column="28" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" />
       <jump line="85" column="40" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/transfer/req/BaseParam.java" />
       <jump line="124" column="4" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/NearbySearcher.java" />
+      <jump line="20" column="13" filename="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/GenericController.java" />
+      <jump line="218" column="27" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/ServerConfig.java" />
+      <jump line="35" column="53" filename="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/GenericController.java" />
+      <jump line="21" column="39" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>terms.get(terms.size() - 1).getWord()</text>
       </register>
       <register name="/" type="4">
-        <text>tag</text>
+        <text>limit</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2NhbGVzOiB7CiAgICAgICAgICAgICAgICB4QXhlczogW3sKICAgICAgICAgICAgICAgICAgICBkaXNwbGF5OiB0cnVlLAogICAgICAgICAgICAgICAgICAgIHNjYWxlTGFiZWw6IHsKICAgICAgICAgICAgICAgICAgICAgICAgZGlzcGxheTogZmFsc2UsCiAgICAgICAgICAgICAgICAgICAgICAgIGxhYmVsU3RyaW5nOiAnTW9udGgnCiAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICBncmlkTGluZXM6IHsKICAgICAgICAgICAgICAgICAgICAgICAgY29sb3I6ICcjNDQ0NDQ0JwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH1dLAogICAgICAgICAgICAgICAgeUF4ZXM6IFt7CiAgICAgICAgICAgICAgICAgICAgZGlzcGxheTogdHJ1ZSwKICAgICAgICAgICAgICAgICAgICBzY2FsZUxhYmVsOiB7CiAgICAgICAgICAgICAgICAgICAgICAgIGRpc3BsYXk6IGZhbHNlLAogICAgICAgICAgICAgICAgICAgICAgICBsYWJlbFN0cmluZzogJ1ZhbHVlJwogICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgZ3JpZExpbmVzOiB7CiAgICAgICAgICAgICAgICAgICAgICAgIGNvbG9yOiAnIzQ0NDQ0NCcKICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgIHRpY2tzOiB7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgc3VnZ2VzdGVkTWF4OiAyNTAKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9XQogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">I2xpbWl0IOWNleasoeacgOWkp+adoeaVsApjb2RlLnNlYXJjaC5saW1pdCA9IDIwMAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -448,9 +453,9 @@
       </register>
     </registers>
     <search>
-      <last-search>tag</last-search>
+      <last-search>limit</last-search>
       <last-offset />
-      <last-pattern>tag</last-pattern>
+      <last-pattern>limit</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>#</last-substitute>
       <last-dir>1</last-dir>
@@ -461,7 +466,6 @@
         <entry encoding="base64">XDxsb2NEaXN0Q29kZVw+</entry>
         <entry>#</entry>
         <entry encoding="base64">XDx0bXBcPg==</entry>
-        <entry>limit</entry>
         <entry>置顶</entry>
         <entry encoding="base64">XDxJbmRleEluZm9BcnJcPg==</entry>
         <entry encoding="base64">XDxURVJNX0tFWV9OQU1FXD4=</entry>
@@ -478,6 +482,7 @@
         <entry>line</entry>
         <entry encoding="base64">XDxkaXN0TmFtZTJDb2RlTWFwXD4=</entry>
         <entry>tag</entry>
+        <entry>limit</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzEvMi9n</entry>
