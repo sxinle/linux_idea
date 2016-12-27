@@ -124,6 +124,9 @@
         <mark key="." line="6" column="45" />
         <mark key="^" line="6" column="45" />
       </file>
+      <file name="/IndexInfoArr.java" timestamp="1482817203579">
+        <mark key="'" line="52" column="4" />
+      </file>
       <file name="$USER_HOME$/html/stat.html" timestamp="1482475683470">
         <mark key="'" line="163" column="20" />
         <mark key="[" line="40" column="60" />
@@ -293,8 +296,8 @@
         <mark key="^" line="64" column="113" />
         <mark key="." line="82" column="39" />
       </file>
-      <file name="$USER_HOME$/workspace/search/common-conf/search.properties" timestamp="1482816026845">
-        <mark key="'" line="21" column="39" />
+      <file name="$USER_HOME$/workspace/search/common-conf/search.properties" timestamp="1482817247890">
+        <mark key="'" line="18" column="39" />
         <mark key="[" line="95" column="0" />
         <mark key="]" line="96" column="22" />
         <mark key="." line="95" column="12" />
@@ -313,9 +316,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="29" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosSorter.java" />
-      <jump line="33" column="34" filename="/DataInfoServiceImpl.java" />
-      <jump line="625" column="0" filename="/DataInfoServiceImpl.java" />
       <jump line="19" column="19" filename="/SerializeServiceImpl.java" />
       <jump line="86" column="26" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosSorter.java" />
       <jump line="14" column="2" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosSorter.java" />
@@ -413,6 +413,9 @@
       <jump line="35" column="53" filename="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/GenericController.java" />
       <jump line="21" column="39" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
       <jump line="157" column="23" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
+      <jump line="52" column="4" filename="/IndexInfoArr.java" />
+      <jump line="78" column="63" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
+      <jump line="18" column="39" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
     </jumps>
     <registers>
       <register name="-" type="4">
