@@ -280,6 +280,13 @@
         <mark key="." line="50" column="54" />
         <mark key="^" line="50" column="52" />
       </file>
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/A.java" timestamp="1483003638478">
+        <mark key="'" line="44" column="0" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="42" column="19" />
+      </file>
       <file name="/fragment.java" timestamp="1482978110884">
         <mark key="'" line="0" column="48" />
         <mark key="[" line="0" column="0" />
@@ -296,9 +303,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="632" column="41" filename="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/sql/DriverManager.java" />
-      <jump line="204" column="29" filename="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/sql/DriverManager.java" />
-      <jump line="98" column="23" filename="$USER_HOME$/workspace/search/search_web/pom.xml" />
       <jump line="77" column="49" filename="$USER_HOME$/workspace/search/search_web/pom.xml" />
       <jump line="13" column="12" filename="$USER_HOME$/workspace/search/search_web/pom.xml" />
       <jump line="96" column="0" filename="$USER_HOME$/workspace/search/search_web/pom.xml" />
@@ -396,10 +400,13 @@
       <jump line="30" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" />
       <jump line="232" column="33" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" />
       <jump line="236" column="46" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" />
+      <jump line="18" column="23" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/A.java" />
+      <jump line="31" column="26" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/A.java" />
+      <jump line="44" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/A.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">PFN0cmluZz4=</text>
+        <text>void</text>
       </register>
       <register name="/" type="4">
         <text>isTag</text>
@@ -408,34 +415,37 @@
         <text>posInfoStartIdx</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gR0lGCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgY291bnRyeSA9IGNvdW50cnlMYW5nS2V5LnNwbGl0KCJfIilbMF07CiAgICAgICAgTWFwIHRhZ01hcCA9IENhY2hlTWFuYWdlci5VdGlsQ2FjaGUudGFnTWFwLmdldChjb3VudHJ5KTsK</text>
+        <text encoding="base64">Ly8gUE5HCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBidWcjIGh0dHA6Ly8xOTIuMTY4LjMuMjYvaXNzdWVzLzEwMzg5OSAgVOajgOe0oum7mOiupOaUueS4uuWMuemFjeW6puaOkuW6jwovLyAgICAgICAgc3VwZXIuc29ydChkb2NJZHMpOwo=</text>
+        <text encoding="base64">Ly8gSlBHCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTb3J0ZXIuc29ydERpc3RhbmNlKGRvY0lkcywgY291bnRyeSwgbG9uLCBsYXQpOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY2hlY2soZGF0YSk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBpbWFnZS5zZXRUeXBlKHR5cGUpOwo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBnZXQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IGxlbmV3IEZpbGVJbnB1dFN0cmVhbShmaWxlKS5hdmFpbGFibGUoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBnZXRwYXJhCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmlsZQo=</text>
       </register>
       <register name="9" type="8">
-        <text>人民
-人民
-人民
-人民</text>
+        <text>.()
+.()
+.()
+.()
+.()
+.()
+.()</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
