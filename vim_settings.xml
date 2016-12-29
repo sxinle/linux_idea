@@ -147,8 +147,8 @@
         <mark key="." line="28" column="21" />
         <mark key="^" line="28" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/KeywordSearcher.java" timestamp="1482403830219">
-        <mark key="'" line="610" column="0" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/KeywordSearcher.java" timestamp="1482978107395">
+        <mark key="'" line="50" column="38" />
         <mark key="[" line="103" column="13" />
         <mark key="]" line="104" column="11" />
         <mark key="^" line="104" column="11" />
@@ -276,7 +276,7 @@
         <mark key="." line="50" column="54" />
         <mark key="^" line="50" column="52" />
       </file>
-      <file name="/fragment.java" timestamp="1482827315252">
+      <file name="/fragment.java" timestamp="1482978110884">
         <mark key="'" line="0" column="48" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
@@ -292,7 +292,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="20" filename="$USER_HOME$/workspace/search/search_core/pom.xml" />
       <jump line="37" column="0" filename="$USER_HOME$/workspace/search/search_core/pom.xml" />
       <jump line="16" column="41" filename="$USER_HOME$/workspace/search/search_core/pom.xml" />
       <jump line="133" column="46" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosSorter.java" />
@@ -392,6 +391,7 @@
       <jump line="210" column="37" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosSorter.java" />
       <jump line="235" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosSorter.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosSorter.java" />
+      <jump line="50" column="38" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/KeywordSearcher.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
