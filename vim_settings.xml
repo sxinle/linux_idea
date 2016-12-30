@@ -26,8 +26,8 @@
       <file name="/a.dummy" timestamp="1482914854619">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" timestamp="1483067304886">
-        <mark key="'" line="624" column="0" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" timestamp="1483076929172">
+        <mark key="'" line="890" column="69" />
         <mark key="[" line="341" column="0" />
         <mark key="]" line="341" column="0" />
         <mark key="^" line="340" column="20" />
@@ -103,10 +103,10 @@
         <mark key="." line="25" column="46" />
         <mark key="^" line="25" column="46" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsBaseSearcher.java" timestamp="1483065982775">
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsBaseSearcher.java" timestamp="1483077524200">
         <mark key="'" line="705" column="0" />
-        <mark key="[" line="418" column="52" />
-        <mark key="]" line="418" column="52" />
+        <mark key="[" line="161" column="0" />
+        <mark key="]" line="161" column="102" />
         <mark key="^" line="57" column="69" />
         <mark key="." line="279" column="84" />
       </file>
@@ -137,10 +137,6 @@
         <mark key="'" line="6" column="13" />
         <mark key="[" line="6" column="0" />
         <mark key="]" line="7" column="24" />
-      </file>
-      <file name="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/util/HashMap.java" timestamp="1482831230337">
-        <mark key="[" line="478" column="0" />
-        <mark key="]" line="489" column="4" />
       </file>
       <file name="/DataInfoServiceImpl.java" timestamp="1481699341746">
         <mark key="'" line="625" column="0" />
@@ -206,7 +202,7 @@
       <file name="/SemanticsTSearcher.java" timestamp="1483062276073">
         <mark key="'" line="98" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1483065961100">
+      <file name="/Dummy.txt" timestamp="1483076900471">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="25" />
         <mark key="." line="3" column="25" />
@@ -224,6 +220,7 @@
       <file name="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/util/Comparator.java" timestamp="1482378318493">
         <mark key="'" line="533" column="0" />
       </file>
+      <file name="/SemanticsBaseSearcher.java" timestamp="1483077606455" />
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsTXSearcher.java" timestamp="1481696897550">
         <mark key="'" line="30" column="37" />
         <mark key="[" line="85" column="25" />
@@ -310,10 +307,9 @@
         <mark key="." line="183" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/BaseController.java" timestamp="1483062377344" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsAAASearcher.java" timestamp="1483077338580" />
     </filemarks>
     <jumps>
-      <jump line="140" column="12" filename="$USER_HOME$/html/index.html" />
-      <jump line="147" column="12" filename="$USER_HOME$/html/index.html" />
       <jump line="154" column="12" filename="$USER_HOME$/html/index.html" />
       <jump line="160" column="12" filename="$USER_HOME$/html/index.html" />
       <jump line="148" column="17" filename="$USER_HOME$/html/index.html" />
@@ -412,6 +408,8 @@
       <jump line="631" column="29" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
       <jump line="645" column="16" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
       <jump line="624" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
+      <jump line="60" column="92" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
+      <jump line="890" column="69" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -420,8 +418,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxoZWlnaHRcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>acheManager.UtilCache.tagMap.get(country).keySet()</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBBcnJheUxpc3Q8TG9uZz4gZ2V0RnRzRG9jTGlzdChTdHJpbmcgdGVybSxpbnQgZnJlcXVlbmN5LCBsb25nIGRpc3RDb2RlLCBib29sZWFuIHJlU2VnbWVudCkgewo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHN3MUlzVGFnICYmIHN3MklzVGFnID8gMCA6CiAgICAgICAgICAgICAgICAgICAgc3cxSXNUYWcgJiYgIXN3MklzVGFnID8gLTEgOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgIXN3MUlzVGFnICYmIHN3MklzVGFnID8gMSA6IDA7Cg==</text>
