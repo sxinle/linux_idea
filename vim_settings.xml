@@ -26,8 +26,8 @@
       <file name="/a.dummy" timestamp="1482914854619">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" timestamp="1483065906717">
-        <mark key="'" line="157" column="23" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" timestamp="1483067304886">
+        <mark key="'" line="624" column="0" />
         <mark key="[" line="341" column="0" />
         <mark key="]" line="341" column="0" />
         <mark key="^" line="340" column="20" />
@@ -312,11 +312,6 @@
       <file name="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/BaseController.java" timestamp="1483062377344" />
     </filemarks>
     <jumps>
-      <jump line="48" column="7" filename="$USER_HOME$/html/stat.html" />
-      <jump line="29" column="4" filename="$USER_HOME$/html/stat.html" />
-      <jump line="20" column="43" filename="$USER_HOME$/html/stat.html" />
-      <jump line="66" column="1" filename="$USER_HOME$/html/index.html" />
-      <jump line="132" column="17" filename="$USER_HOME$/html/index.html" />
       <jump line="140" column="12" filename="$USER_HOME$/html/index.html" />
       <jump line="147" column="12" filename="$USER_HOME$/html/index.html" />
       <jump line="154" column="12" filename="$USER_HOME$/html/index.html" />
@@ -412,13 +407,18 @@
       <jump line="30" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" />
       <jump line="276" column="21" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsBaseSearcher.java" />
       <jump line="705" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsBaseSearcher.java" />
+      <jump line="627" column="12" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
+      <jump line="629" column="22" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
+      <jump line="631" column="29" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
+      <jump line="645" column="16" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
+      <jump line="624" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>CacheManager.UtilCache.tagMap.get(country).keySet().contains(sw2);</text>
       </register>
       <register name="/" type="4">
-        <text>isTag</text>
+        <text encoding="base64">XDxoZWlnaHRcPg==</text>
       </register>
       <register name="0" type="4">
         <text>acheManager.UtilCache.tagMap.get(country).keySet()</text>
@@ -455,17 +455,16 @@
       </register>
     </registers>
     <search>
-      <last-search>isTag</last-search>
+      <last-search encoding="base64">XDxoZWlnaHRcPg==</last-search>
       <last-offset />
-      <last-pattern>isTag</last-pattern>
+      <last-pattern encoding="base64">XDxoZWlnaHRcPg==</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>#</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxURVJNX0tFWV9OQU1FXD4=</entry>
         <entry encoding="base64">XDxMZXZlbnNodGVpbkNvbXBhcmF0b3JcPg==</entry>
         <entry>priori</entry>
         <entry encoding="base64">XDxzb3J0RmllbGRLZXlcPg==</entry>
@@ -485,6 +484,7 @@
         <entry encoding="base64">XDxmaXJQb3NcPg==</entry>
         <entry>setkey</entry>
         <entry>isTag</entry>
+        <entry encoding="base64">XDxoZWlnaHRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzEvMi9n</entry>
