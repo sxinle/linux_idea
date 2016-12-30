@@ -238,7 +238,13 @@
       <file name="$MAVEN_REPOSITORY$/org/wisdom-framework/sqlite-jdbc/3.8.7_1/sqlite-jdbc-3.8.7_1.jar!/org/sqlite/core/Codes.java" timestamp="1481859948691">
         <mark key="'" line="12" column="49" />
       </file>
-      <file name="$USER_HOME$/workspace/uauth/src/main/resources/app.properties" timestamp="1483080476916" />
+      <file name="$USER_HOME$/workspace/uauth/src/main/resources/app.properties" timestamp="1483085398865">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="71" column="40" />
+        <mark key="]" line="71" column="41" />
+        <mark key="." line="71" column="41" />
+        <mark key="^" line="63" column="41" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/wisdom-framework/sqlite-jdbc/3.8.7_1/sqlite-jdbc-3.8.7_1.jar!/org/sqlite/core/NativeDB.class" timestamp="1481860023942">
         <mark key="'" line="58" column="35" />
       </file>
@@ -310,9 +316,6 @@
       <file name="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/BaseController.java" timestamp="1483062377344" />
     </filemarks>
     <jumps>
-      <jump line="141" column="17" filename="$USER_HOME$/html/index.html" />
-      <jump line="133" column="16" filename="$USER_HOME$/html/index.html" />
-      <jump line="80" column="44" filename="$USER_HOME$/html/stat.html" />
       <jump line="76" column="51" filename="$USER_HOME$/html/stat.html" />
       <jump line="21" column="9" filename="$USER_HOME$/html/stat.html" />
       <jump line="53" column="15" filename="$USER_HOME$/html/stat.html" />
@@ -410,10 +413,13 @@
       <jump line="46" column="0" filename="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/business/address/searcher/AddressSearcher.java" />
       <jump line="88" column="25" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosSorter.java" />
       <jump line="235" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosSorter.java" />
+      <jump line="69" column="40" filename="$USER_HOME$/workspace/uauth/src/main/resources/app.properties" />
+      <jump line="75" column="0" filename="$USER_HOME$/workspace/uauth/src/main/resources/app.properties" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/uauth/src/main/resources/app.properties" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>CacheManager.UtilCache.tagMap.get(country).keySet().contains(sw2);</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWlnaHRcPg==</text>
