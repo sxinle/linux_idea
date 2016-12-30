@@ -69,6 +69,9 @@
         <mark key="." line="103" column="0" />
         <mark key="^" line="101" column="11" />
       </file>
+      <file name="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/business/address/searcher/AddressSearcher.java" timestamp="1483081237789">
+        <mark key="'" line="46" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/ScoreAlgorithm.java" timestamp="1481681954524">
         <mark key="'" line="222" column="55" />
       </file>
@@ -190,7 +193,7 @@
         <mark key="." line="139" column="0" />
         <mark key="^" line="136" column="40" />
       </file>
-      <file name="$USER_HOME$/workspace/search/pom.xml" timestamp="1483078998031">
+      <file name="$USER_HOME$/workspace/search/pom.xml" timestamp="1483080642738">
         <mark key="'" line="13" column="35" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/MatchWeightScore.java" timestamp="1481681912916">
@@ -235,6 +238,7 @@
       <file name="$MAVEN_REPOSITORY$/org/wisdom-framework/sqlite-jdbc/3.8.7_1/sqlite-jdbc-3.8.7_1.jar!/org/sqlite/core/Codes.java" timestamp="1481859948691">
         <mark key="'" line="12" column="49" />
       </file>
+      <file name="$USER_HOME$/workspace/uauth/src/main/resources/app.properties" timestamp="1483080476916" />
       <file name="$MAVEN_REPOSITORY$/org/wisdom-framework/sqlite-jdbc/3.8.7_1/sqlite-jdbc-3.8.7_1.jar!/org/sqlite/core/NativeDB.class" timestamp="1481860023942">
         <mark key="'" line="58" column="35" />
       </file>
@@ -306,7 +310,6 @@
       <file name="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/BaseController.java" timestamp="1483062377344" />
     </filemarks>
     <jumps>
-      <jump line="160" column="12" filename="$USER_HOME$/html/index.html" />
       <jump line="148" column="17" filename="$USER_HOME$/html/index.html" />
       <jump line="141" column="17" filename="$USER_HOME$/html/index.html" />
       <jump line="133" column="16" filename="$USER_HOME$/html/index.html" />
@@ -406,6 +409,7 @@
       <jump line="60" column="92" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
       <jump line="890" column="69" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
       <jump line="13" column="35" filename="$USER_HOME$/workspace/search/pom.xml" />
+      <jump line="46" column="0" filename="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/business/address/searcher/AddressSearcher.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
