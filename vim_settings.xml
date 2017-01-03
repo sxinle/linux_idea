@@ -89,12 +89,12 @@
         <mark key="." line="12" column="9" />
         <mark key="^" line="12" column="9" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" timestamp="1483428946829">
-        <mark key="'" line="45" column="8" />
-        <mark key="[" line="62" column="18" />
-        <mark key="]" line="62" column="23" />
-        <mark key="." line="62" column="23" />
-        <mark key="^" line="62" column="23" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" timestamp="1483434989940">
+        <mark key="'" line="43" column="30" />
+        <mark key="[" line="126" column="68" />
+        <mark key="]" line="126" column="69" />
+        <mark key="." line="126" column="69" />
+        <mark key="^" line="126" column="69" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/index/IndexInfoArr.java" timestamp="1482827394954">
         <mark key="'" line="60" column="0" />
@@ -314,11 +314,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="219" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/LevenshteinComparator.java" />
-      <jump line="201" column="6" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" />
-      <jump line="23" column="51" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" />
-      <jump line="120" column="8" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" />
-      <jump line="129" column="28" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" />
       <jump line="130" column="28" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" />
       <jump line="132" column="28" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" />
       <jump line="85" column="40" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/transfer/req/BaseParam.java" />
@@ -414,43 +409,48 @@
       <jump line="38" column="34" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
       <jump line="39" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
       <jump line="45" column="8" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
+      <jump line="57" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
+      <jump line="56" column="30" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
+      <jump line="124" column="29" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
+      <jump line="40" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
+      <jump line="43" column="30" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>德宝大厦</text>
+        <text>二零二医院</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWlnaHRcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBBcnJheUxpc3Q8TG9uZz4gZ2V0RnRzRG9jTGlzdChTdHJpbmcgdGVybSxpbnQgZnJlcXVlbmN5LCBsb25nIGRpc3RDb2RlLCBib29sZWFuIHJlU2VnbWVudCkgewo=</text>
+      <register name="0" type="4">
+        <text>二零二医院</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHN3MUlzVGFnICYmIHN3MklzVGFnID8gMCA6CiAgICAgICAgICAgICAgICAgICAgc3cxSXNUYWcgJiYgIXN3MklzVGFnID8gLTEgOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgIXN3MUlzVGFnICYmIHN3MklzVGFnID8gMSA6IDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICDpmL/mi4nkvK8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHN3MUlzVGFnICYmIHN3MklzVGFnKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gMDsKICAgICAgICAgICAgfSBlbHNlIGlmIChzdzFJc1RhZyAmJiAhc3cySXNUYWcpIHsKICAgICAgICAgICAgICAgIHJldHVybiAtMTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHN3MUlzVGFnICYmIHN3MklzVGFnID8gMCA6CiAgICAgICAgICAgICAgICAgICAgc3cxSXNUYWcgJiYgIXN3MklzVGFnID8gLTEgOgogICAgICAgICAgICAgICAgICAgICAgICAgICAgIXN3MUlzVGFnICYmIHN3MklzVGFnID8gMSA6IDA7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIDE7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHN3MUlzVGFnICYmIHN3MklzVGFnKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gMDsKICAgICAgICAgICAgfSBlbHNlIGlmIChzdzFJc1RhZyAmJiAhc3cySXNUYWcpIHsKICAgICAgICAgICAgICAgIHJldHVybiAtMTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoV29yZFR5cGVKdWRnZXIudGEpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIDE7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYoV29yZFR5cGVKdWRnZXIudGEpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSB3b3JkcyAgICDmjInph43opoHluqbmjpLluo/lkI7nmoTlvoXmo4DntKLnmoTliIbor43liJfooagK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoV29yZFR5cGVKdWRnZXIudGEpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSB3b3JkcyAgICDmjInph43opoHluqbmjpLluo/lkI7nmoTlvoXmo4DntKLnmoTliIbor43liJfooagK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSB3b3Jkcwo=</text>
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgLy8gc2hvdWxkUmVwbGFjZUluZGV4OiDmnIDlkI7kuKTkuKpUZXJtCiAgICAgICAgTGlzdDxJbnRlZ2VyPiBzaG91bGRSZXBsYWNlSW5kZXggPSBuZXcgQXJyYXlMaXN0PD4oQXJyYXlzLmFzTGlzdChuZXcgSW50ZWdlcltde3Rlcm1zLnNpemUoKSAtIDEsIHRlcm1zLnNpemUoKSAtIDIgPCAwID8gMCA6IHRlcm1zLnNpemUoKSAtIDJ9KSk7Cg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSB3b3Jkcwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
