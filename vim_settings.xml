@@ -89,8 +89,8 @@
         <mark key="." line="12" column="9" />
         <mark key="^" line="12" column="9" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" timestamp="1483062680721">
-        <mark key="'" line="127" column="0" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" timestamp="1483405894867">
+        <mark key="'" line="1" column="0" />
         <mark key="[" line="122" column="65" />
         <mark key="]" line="122" column="66" />
         <mark key="." line="122" column="66" />
@@ -103,7 +103,7 @@
         <mark key="." line="25" column="46" />
         <mark key="^" line="25" column="46" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsBaseSearcher.java" timestamp="1483077524200">
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsBaseSearcher.java" timestamp="1483405576374">
         <mark key="'" line="705" column="0" />
         <mark key="[" line="161" column="0" />
         <mark key="]" line="161" column="102" />
@@ -220,7 +220,6 @@
       <file name="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/util/Comparator.java" timestamp="1482378318493">
         <mark key="'" line="533" column="0" />
       </file>
-      <file name="/SemanticsBaseSearcher.java" timestamp="1483077606455" />
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsTXSearcher.java" timestamp="1481696897550">
         <mark key="'" line="30" column="37" />
         <mark key="[" line="85" column="25" />
@@ -313,13 +312,8 @@
         <mark key="^" line="183" column="3" />
         <mark key="." line="183" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/BaseController.java" timestamp="1483062377344" />
     </filemarks>
     <jumps>
-      <jump line="76" column="51" filename="$USER_HOME$/html/stat.html" />
-      <jump line="21" column="9" filename="$USER_HOME$/html/stat.html" />
-      <jump line="53" column="15" filename="$USER_HOME$/html/stat.html" />
-      <jump line="86" column="0" filename="$USER_HOME$/html/stat.html" />
       <jump line="163" column="20" filename="$USER_HOME$/html/stat.html" />
       <jump line="211" column="12" filename="$USER_HOME$/fx/his.html" />
       <jump line="220" column="24" filename="$USER_HOME$/fx/his.html" />
@@ -401,7 +395,6 @@
       <jump line="96" column="38" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsXSearcher.java" />
       <jump line="30" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" />
       <jump line="276" column="21" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsBaseSearcher.java" />
-      <jump line="705" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsBaseSearcher.java" />
       <jump line="627" column="12" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
       <jump line="629" column="22" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
       <jump line="631" column="29" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
@@ -416,6 +409,11 @@
       <jump line="69" column="40" filename="$USER_HOME$/workspace/uauth/src/main/resources/app.properties" />
       <jump line="75" column="0" filename="$USER_HOME$/workspace/uauth/src/main/resources/app.properties" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/uauth/src/main/resources/app.properties" />
+      <jump line="170" column="62" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsBaseSearcher.java" />
+      <jump line="705" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsBaseSearcher.java" />
+      <jump line="52" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
+      <jump line="109" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -465,7 +463,7 @@
       <last-replace>=</last-replace>
       <last-substitute>#</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
