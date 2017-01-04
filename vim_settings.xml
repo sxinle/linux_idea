@@ -166,6 +166,9 @@
         <mark key="^" line="104" column="11" />
         <mark key="." line="104" column="11" />
       </file>
+      <file name="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/util/stream/Stream.java" timestamp="1483520968824">
+        <mark key="'" line="943" column="45" />
+      </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/autonavi/AmapDetailSearcher.java" timestamp="1481080948176">
         <mark key="'" line="161" column="0" />
       </file>
@@ -227,7 +230,7 @@
       <file name="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/util/Optional.java" timestamp="1483507803594">
         <mark key="'" line="132" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsTXSearcher.java" timestamp="1483516069997">
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsTXSearcher.java" timestamp="1483520975226">
         <mark key="'" line="30" column="56" />
         <mark key="[" line="89" column="0" />
         <mark key="]" line="93" column="8" />
@@ -321,7 +324,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="4" filename="/IndexInfoArr.java" />
       <jump line="78" column="63" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
       <jump line="18" column="39" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
       <jump line="20" column="52" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/transfer/req/SemanticsParam.java" />
@@ -421,6 +423,7 @@
       <jump line="31" column="56" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsTXSearcher.java" />
       <jump line="62" column="51" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsRTSearcher.java" />
       <jump line="126" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsRTSearcher.java" />
+      <jump line="943" column="45" filename="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/util/stream/Stream.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
