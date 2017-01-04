@@ -138,6 +138,12 @@
         <mark key="[" line="6" column="0" />
         <mark key="]" line="7" column="24" />
       </file>
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsXTSearcher.java" timestamp="1483509721441">
+        <mark key="[" line="74" column="71" />
+        <mark key="]" line="74" column="82" />
+        <mark key="^" line="73" column="33" />
+        <mark key="." line="74" column="71" />
+      </file>
       <file name="/DataInfoServiceImpl.java" timestamp="1481699341746">
         <mark key="'" line="625" column="0" />
       </file>
@@ -223,10 +229,10 @@
       <file name="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/util/Optional.java" timestamp="1483507803594">
         <mark key="'" line="132" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsTXSearcher.java" timestamp="1483507905191">
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsTXSearcher.java" timestamp="1483509688860">
         <mark key="'" line="93" column="8" />
-        <mark key="[" line="90" column="23" />
-        <mark key="]" line="90" column="23" />
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="94" column="18" />
         <mark key="." line="90" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" timestamp="1483001546447">
@@ -419,13 +425,13 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>get()</text>
+        <text>xSemanticRet</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWlnaHRcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>二零二医院</text>
+        <text>semanticRet</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">KCkKICAgICAgICAgICAgICAgIA==</text>
