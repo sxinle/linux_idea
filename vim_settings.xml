@@ -229,7 +229,7 @@
       <file name="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/util/Optional.java" timestamp="1483507803594">
         <mark key="'" line="132" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsTXSearcher.java" timestamp="1483582471318">
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsTXSearcher.java" timestamp="1483596481545">
         <mark key="'" line="103" column="0" />
         <mark key="[" line="89" column="0" />
         <mark key="]" line="93" column="8" />
@@ -323,8 +323,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="14" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
-      <jump line="8" column="0" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
       <jump line="55" column="12" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
       <jump line="223" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosSorter.java" />
       <jump line="181" column="19" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosSorter.java" />
@@ -422,6 +420,8 @@
       <jump line="84" column="91" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsTXSearcher.java" />
       <jump line="15" column="29" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/dispatch/SearcherProvider.java" />
       <jump line="83" column="47" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsTXSearcher.java" />
+      <jump line="24" column="61" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsTXSearcher.java" />
+      <jump line="25" column="56" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsTXSearcher.java" />
       <jump line="103" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsTXSearcher.java" />
     </jumps>
     <registers>
