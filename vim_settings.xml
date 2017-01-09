@@ -132,6 +132,11 @@
       <file name="/CityDetailResp.java" timestamp="1481102510553">
         <mark key="'" line="165" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/gdautonavi/AutonaviNearBySearcher.java" timestamp="1483953628844">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/autonavi/test.clj" timestamp="1483951256350">
         <mark key="[" line="2" column="16" />
         <mark key="]" line="2" column="17" />
@@ -196,6 +201,11 @@
         <mark key="]" line="229" column="118" />
         <mark key="^" line="229" column="118" />
         <mark key="." line="229" column="118" />
+      </file>
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/gdautonavi/AutonaviSearcher.java" timestamp="1483953212651">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/NearbySearcher.java" timestamp="1482808887988">
         <mark key="'" line="124" column="4" />
@@ -312,7 +322,7 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="42" column="19" />
       </file>
-      <file name="/fragment.java" timestamp="1483926096580">
+      <file name="/fragment.java" timestamp="1483953638758">
         <mark key="'" line="0" column="48" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
@@ -431,7 +441,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>postLabel</text>
+        <text>abc</text>
       </register>
       <register name="/" type="4">
         <text>RT</text>
@@ -443,28 +453,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTGFiZWwgbmV4dExhYmVsID0gaSA8IHRlcm1zLnNpemUoKSAtIDEgPyB0ZXJtcy5nZXQoaSArIDEpLmdldExhYmxlKCkgOiBudWxsOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHRocm93cyBFeGNlcHRpb24gewogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihuZXcgQXV0b25hdmlOZWFyQnlTZWFyY2hlcigpLnRvTUQ1KCIxMjM0NTYiKSk7CiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBNZXNzYWdlRGlnZXN0IG1kID0gTWVzc2FnZURpZ2VzdC5nZXRJbnN0YW5jZSgiTUQ1Iik7CiAgICAgICAgbWQudXBkYXRlKCJhYmMiLmdldEJ5dGVzKCkpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihuZXcgU3RyaW5nKG1kLmRpZ2VzdCgpKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBkaXN0Q29kZSA9IHRoaXMuZ2V0RGlzdENvZGVCeU5hbWVzKGdldFIoc2VtYW50aWNSZXQpLCBsb24sIGxhdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBEaWdpc3RVCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaWRzLmlzRW1wdHkoKQogICAgICAgICAgICAgICAgJiYgQXJyYXlzLnN0cmVhbSh4U2VtYW50aWNSZXQuZ2V0U2VnV29yZHMoKSkuZmlsdGVyKHRlcm0gLT4gV29yZFR5cGVKdWRnZXIuc3BlY2lhbFRhZy5jb250YWlucyh0ZXJtKSkuZmluZEFueSgpLmlzUHJlc2VudCgpKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBNZXNzYWdlRGlnZXN0LmdldEluc3RhbmNlKCJtZDUiKS51cGRhdGUoImFiYyIuZ2V0Qnl0ZXMoKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBQT0nlkI3np7Ar5YW25LuW6YeN6KaB5YiG57G7KOaZr+eCuS/lpKflraYv5pS/5bqc5py65YWzKSAg5peg57uT5p6c5qOA57Si54Ot6ZeoUE9JCg==</text>
+        <text encoding="base64">ICAgICAgICBNRDUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBNZDVDcnlwdC5tZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obmV3IEF1dG9uYXZpc2VhcnRvTUQ1KCJhYmMiKSk7CgogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
