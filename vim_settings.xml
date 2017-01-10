@@ -99,12 +99,12 @@
         <mark key="." line="126" column="69" />
         <mark key="^" line="126" column="69" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/index/IndexInfoArr.java" timestamp="1484020987707">
-        <mark key="'" line="72" column="32" />
-        <mark key="[" line="25" column="15" />
-        <mark key="]" line="25" column="24" />
-        <mark key="." line="25" column="24" />
-        <mark key="^" line="25" column="24" />
+      <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/index/IndexInfoArr.java" timestamp="1484027602391">
+        <mark key="'" line="86" column="32" />
+        <mark key="[" line="42" column="35" />
+        <mark key="]" line="10" column="36" />
+        <mark key="." line="10" column="36" />
+        <mark key="^" line="10" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsBaseSearcher.java" timestamp="1484026502880">
         <mark key="'" line="398" column="39" />
@@ -340,7 +340,7 @@
         <mark key="^" line="183" column="3" />
         <mark key="." line="183" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsAAASearcher.java" timestamp="1484025800513">
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsAAASearcher.java" timestamp="1484028193801">
         <mark key="'" line="125" column="4" />
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -451,40 +451,40 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>d</text>
+        <text>new int[]{1,2,3};</text>
       </register>
       <register name="/" type="4">
         <text>sort</text>
       </register>
-      <register name="0" type="4">
-        <text>transient</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBhWzBdWzRdID0gbmV3IGludFtdezEsMiwzfTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBhWzBdWzFdID0gbmV3IGludFtdezEsMiwzfTsKICAgICAgICBhWzBdWzFdID0gbmV3IGludFtdezEsMiwzfTsKICAgICAgICBhWzBdWzFdID0gbmV3IGludFtdezEsMiwzfTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgTWFwPFN0cmluZyxTdHJpbmc+IHNwTWFwID0gbmV3IEhhc2hNYXA8U3RyaW5nLFN0cmluZz4oKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBUaHJlYWQuY3VycmVudFRocmVhZCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBhWzBdID0gbmV3IGludFtpZHMubGVuZ3RoXVs2XTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAJCQlUaHJlYWQuY3VycmVudFRocmVhZCgpLgo=</text>
+        <text encoding="base64">ICAgICAgICBhWzBdID0gCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAJCQlUaHJlYWQuCg==</text>
+        <text encoding="base64">ICAgICAgICBpbnQgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgTWFwPFN0cmluZyxTdHJpbmc+IHNwTWFwID0gbmV3IEhhc2hNYXA8U3RyaW5nLFN0cmluZz4oKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHRocm93cyBFeGNlcHRpb24gewogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihuZXcgQXV0b25hdmlOZWFyQnlTZWFyY2hlcigpLnRvTUQ1KCIxMjM0NTYiKSk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBUaHJlYWQuY3VycmVudFRocmVhZCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBNZXNzYWdlRGlnZXN0IG1kID0gTWVzc2FnZURpZ2VzdC5nZXRJbnN0YW5jZSgiTUQ1Iik7CiAgICAgICAgbWQudXBkYXRlKCJhYmMiLmdldEJ5dGVzKCkpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihuZXcgU3RyaW5nKG1kLmRpZ2VzdCgpKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAJCQlUaHJlYWQuY3VycmVudFRocmVhZCgpLgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
