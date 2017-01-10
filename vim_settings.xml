@@ -336,9 +336,14 @@
         <mark key="^" line="183" column="3" />
         <mark key="." line="183" column="3" />
       </file>
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsAAASearcher.java" timestamp="1484025800513">
+        <mark key="'" line="125" column="4" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="29" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/transfer/req/BaseParam.java" />
       <jump line="46" column="41" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" />
       <jump line="362" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" />
       <jump line="92" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsTSearcher.java" />
@@ -438,6 +443,7 @@
       <jump line="87" column="41" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
       <jump line="130" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
       <jump line="72" column="32" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/index/IndexInfoArr.java" />
+      <jump line="142" column="4" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsAAASearcher.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -450,31 +456,31 @@
         <text>transient</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgTWFwPFN0cmluZyxTdHJpbmc+IHNwTWFwID0gbmV3IEhhc2hNYXA8U3RyaW5nLFN0cmluZz4oKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHRocm93cyBFeGNlcHRpb24gewogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihuZXcgQXV0b25hdmlOZWFyQnlTZWFyY2hlcigpLnRvTUQ1KCIxMjM0NTYiKSk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBUaHJlYWQuY3VycmVudFRocmVhZCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBNZXNzYWdlRGlnZXN0IG1kID0gTWVzc2FnZURpZ2VzdC5nZXRJbnN0YW5jZSgiTUQ1Iik7CiAgICAgICAgbWQudXBkYXRlKCJhYmMiLmdldEJ5dGVzKCkpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihuZXcgU3RyaW5nKG1kLmRpZ2VzdCgpKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAJCQlUaHJlYWQuY3VycmVudFRocmVhZCgpLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBEaWdpc3RVCg==</text>
+        <text encoding="base64">ICAgICAgICAJCQlUaHJlYWQuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBNZXNzYWdlRGlnZXN0LmdldEluc3RhbmNlKCJtZDUiKS51cGRhdGUoImFiYyIuZ2V0Qnl0ZXMoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBNRDUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBNZDVDcnlwdC5tZAo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHRocm93cyBFeGNlcHRpb24gewogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihuZXcgQXV0b25hdmlOZWFyQnlTZWFyY2hlcigpLnRvTUQ1KCIxMjM0NTYiKSk7CiAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBNZXNzYWdlRGlnZXN0IG1kID0gTWVzc2FnZURpZ2VzdC5nZXRJbnN0YW5jZSgiTUQ1Iik7CiAgICAgICAgbWQudXBkYXRlKCJhYmMiLmdldEJ5dGVzKCkpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihuZXcgU3RyaW5nKG1kLmRpZ2VzdCgpKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
