@@ -96,12 +96,12 @@
         <mark key="." line="126" column="69" />
         <mark key="^" line="126" column="69" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/index/IndexInfoArr.java" timestamp="1484017963675">
-        <mark key="'" line="60" column="0" />
-        <mark key="[" line="7" column="28" />
-        <mark key="]" line="7" column="40" />
-        <mark key="." line="25" column="46" />
-        <mark key="^" line="25" column="46" />
+      <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/index/IndexInfoArr.java" timestamp="1484019629009">
+        <mark key="'" line="72" column="32" />
+        <mark key="[" line="25" column="15" />
+        <mark key="]" line="25" column="24" />
+        <mark key="." line="25" column="24" />
+        <mark key="^" line="25" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsBaseSearcher.java" timestamp="1483929061324">
         <mark key="'" line="398" column="39" />
@@ -223,7 +223,7 @@
       <file name="/SemanticsTSearcher.java" timestamp="1483062276073">
         <mark key="'" line="98" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1483929377779">
+      <file name="/Dummy.txt" timestamp="1484019648736">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="25" />
         <mark key="." line="3" column="25" />
@@ -338,7 +338,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="38" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/KeywordSearcher.java" />
       <jump line="81" column="29" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/transfer/req/BaseParam.java" />
       <jump line="46" column="41" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" />
       <jump line="362" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" />
@@ -438,43 +437,44 @@
       <jump line="116" column="47" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" />
       <jump line="87" column="41" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
       <jump line="130" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
+      <jump line="72" column="32" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/index/IndexInfoArr.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>abc</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>RT</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICh1c2VySW5wdXQubWF0Y2hlcygiLipbXFxzfFxcdTMwMDBdIiArIHJLZXkpKSB7Cg==</text>
+      <register name="0" type="4">
+        <text>transient</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHRocm93cyBFeGNlcHRpb24gewogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihuZXcgQXV0b25hdmlOZWFyQnlTZWFyY2hlcigpLnRvTUQ1KCIxMjM0NTYiKSk7CiAgICB9Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBNZXNzYWdlRGlnZXN0IG1kID0gTWVzc2FnZURpZ2VzdC5nZXRJbnN0YW5jZSgiTUQ1Iik7CiAgICAgICAgbWQudXBkYXRlKCJhYmMiLmdldEJ5dGVzKCkpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihuZXcgU3RyaW5nKG1kLmRpZ2VzdCgpKSk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBEaWdpc3RVCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBNZXNzYWdlRGlnZXN0LmdldEluc3RhbmNlKCJtZDUiKS51cGRhdGUoImFiYyIuZ2V0Qnl0ZXMoKSk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBNRDUK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBNZDVDcnlwdC5tZAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHRocm93cyBFeGNlcHRpb24gewogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihuZXcgQXV0b25hdmlOZWFyQnlTZWFyY2hlcigpLnRvTUQ1KCIxMjM0NTYiKSk7CiAgICB9Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBNZXNzYWdlRGlnZXN0IG1kID0gTWVzc2FnZURpZ2VzdC5nZXRJbnN0YW5jZSgiTUQ1Iik7CiAgICAgICAgbWQudXBkYXRlKCJhYmMiLmdldEJ5dGVzKCkpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihuZXcgU3RyaW5nKG1kLmRpZ2VzdCgpKSk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBEaWdpc3RVCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBNZXNzYWdlRGlnZXN0LmdldEluc3RhbmNlKCJtZDUiKS51cGRhdGUoImFiYyIuZ2V0Qnl0ZXMoKSk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBNRDUK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBNZDVDcnlwdC5tZAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obmV3IEF1dG9uYXZpc2VhcnRvTUQ1KCJhYmMiKSk7CgogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
