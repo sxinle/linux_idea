@@ -332,11 +332,11 @@
         <mark key="^" line="0" column="7" />
         <mark key="." line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosSorter.java" timestamp="1484115131291">
-        <mark key="[" line="119" column="63" />
-        <mark key="]" line="119" column="63" />
-        <mark key="." line="119" column="63" />
-        <mark key="^" line="119" column="72" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosSorter.java" timestamp="1484118009247">
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="97" column="38" />
+        <mark key="." line="97" column="0" />
+        <mark key="^" line="128" column="11" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsAAASearcher.java" timestamp="1484032421461">
         <mark key="'" line="23" column="35" />
@@ -450,7 +450,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>this.</text>
       </register>
       <register name="/" type="4">
         <text>goto</text>
@@ -459,31 +459,33 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbnRbXSBwb3MxID0gZ2V0VGVybVBvcyhwMSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG51bGwgPT0gcHlNYXApIHJldHVybjsK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5kb2NJZCA9IGRvY0lkOwo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>else {
+                this.sortFieldKey = sortFieldKey;
+            }</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5zb3J0RmllbGRLZXkgPT0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9vcFN0YXJ0Ogo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5zb3J0RmllbGRLZXkgPSBJbmRleEluZm9BcnIuVEVSTV9LRVlfUElOWUlOOy8vIOaUueS4uuaMieaLvOmfs+aOkuW6jwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwb3MxLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
