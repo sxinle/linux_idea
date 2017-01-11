@@ -254,8 +254,8 @@
         <mark key="." line="91" column="106" />
         <mark key="^" line="90" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" timestamp="1483948985822">
-        <mark key="'" line="116" column="47" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" timestamp="1484114566800">
+        <mark key="'" line="107" column="47" />
         <mark key="[" line="309" column="0" />
         <mark key="]" line="309" column="0" />
         <mark key="." line="309" column="0" />
@@ -332,11 +332,11 @@
         <mark key="^" line="0" column="7" />
         <mark key="." line="0" column="19" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosSorter.java" timestamp="1484113663532">
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="82" column="0" />
-        <mark key="^" line="98" column="11" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosSorter.java" timestamp="1484115131291">
+        <mark key="[" line="119" column="63" />
+        <mark key="]" line="119" column="63" />
+        <mark key="." line="119" column="63" />
+        <mark key="^" line="119" column="72" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsAAASearcher.java" timestamp="1484032421461">
         <mark key="'" line="23" column="35" />
@@ -347,14 +347,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="40" filename="$USER_HOME$/workspace/uauth/src/main/resources/app.properties" />
-      <jump line="75" column="0" filename="$USER_HOME$/workspace/uauth/src/main/resources/app.properties" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/uauth/src/main/resources/app.properties" />
-      <jump line="170" column="62" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsBaseSearcher.java" />
-      <jump line="705" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsBaseSearcher.java" />
-      <jump line="52" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
-      <jump line="109" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
-      <jump line="60" column="51" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
       <jump line="98" column="30" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
       <jump line="49" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsBaseSearcher.java" />
@@ -447,19 +439,27 @@
       <jump line="108" column="68" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosSorter.java" />
       <jump line="46" column="21" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/index/IndexInfoArr.java" />
       <jump line="185" column="29" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosSorter.java" />
+      <jump line="391" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" />
+      <jump line="393" column="42" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" />
+      <jump line="394" column="12" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" />
+      <jump line="6" column="49" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" />
+      <jump line="22" column="56" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" />
+      <jump line="23" column="56" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" />
+      <jump line="37" column="31" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" />
+      <jump line="107" column="47" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">ID0gbnVsbDs=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>terms</text>
+        <text>goto</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSW5kZXhJbmZvQXJyIGluZm9BcnIgPSB0ZXJtc01hcC5nZXQodGVybSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbnRbXSBwb3MxID0gZ2V0VGVybVBvcyhwMSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIGludCAgICAgICAgICAgICAgICAgICAgICAgYXJySW5kZXg7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -468,40 +468,38 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXJySW5kZXggPSBBcnJheXMuYmluYXJ5U2VhcmNoKCkKICAgICAgICAgICAgdGhpcy5zb3J0RmllbGRLZXkgPSBzb3J0RmllbGRLZXk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXJySW5kZXggPSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9vcFN0YXJ0Ogo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5zb3J0RmllbGRLZXkgPSBJbmRleEluZm9BcnIuVEVSTV9LRVlfUElOWUlOOy8vIOaUueS4uuaMieaLvOmfs+aOkuW6jwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEFycmF5cwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwb3MxLgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>terms</last-search>
+      <last-search>goto</last-search>
       <last-offset />
-      <last-pattern>terms</last-pattern>
+      <last-pattern>goto</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>#</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>总人流量</entry>
-        <entry encoding="base64">XDxmbG9hdGJveFw+</entry>
         <entry encoding="base64">XDxpbm5lclw+</entry>
         <entry encoding="base64">XDxyYW5kb21TY2FsaW5nRmFjdG9yXD4=</entry>
         <entry>options</entry>
@@ -520,6 +518,8 @@
         <entry encoding="base64">XDxxdWFuUGluXD4=</entry>
         <entry encoding="base64">XDx0ZXJtc1w+</entry>
         <entry>terms</entry>
+        <entry>label</entry>
+        <entry>goto</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzEvMi9n</entry>
