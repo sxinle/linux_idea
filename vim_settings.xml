@@ -92,12 +92,12 @@
         <mark key="." line="12" column="9" />
         <mark key="^" line="12" column="9" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" timestamp="1484009982820">
-        <mark key="'" line="130" column="0" />
-        <mark key="[" line="126" column="68" />
-        <mark key="]" line="126" column="69" />
-        <mark key="." line="126" column="69" />
-        <mark key="^" line="126" column="69" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" timestamp="1484202527496">
+        <mark key="'" line="126" column="65" />
+        <mark key="[" line="126" column="65" />
+        <mark key="]" line="126" column="65" />
+        <mark key="." line="126" column="65" />
+        <mark key="^" line="126" column="65" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/index/IndexInfoArr.java" timestamp="1484112653299">
         <mark key="'" line="46" column="21" />
@@ -351,7 +351,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsTSearcher.java" />
       <jump line="235" column="12" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" />
       <jump line="88" column="8" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsTXSearcher.java" />
       <jump line="245" column="32" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/SuggestSearcher.java" />
@@ -451,10 +450,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosSorter.java" />
       <jump line="17" column="45" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosSorter.java" />
       <jump line="267" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosSorter.java" />
+      <jump line="126" column="65" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>-</text>
+        <text>二〇二医院</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsZW4yXD4=</text>
