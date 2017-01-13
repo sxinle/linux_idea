@@ -335,22 +335,22 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="42" column="19" />
       </file>
-      <file name="/fragment.java" timestamp="1484211551883">
+      <file name="/fragment.java" timestamp="1484277426562">
         <mark key="'" line="0" column="62" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosSorter.java" timestamp="1484276603622">
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosSorter.java" timestamp="1484277436330">
         <mark key="'" line="118" column="0" />
-        <mark key="[" line="98" column="29" />
-        <mark key="]" line="98" column="36" />
-        <mark key="." line="98" column="36" />
-        <mark key="^" line="98" column="36" />
+        <mark key="[" line="103" column="50" />
+        <mark key="]" line="103" column="53" />
+        <mark key="." line="103" column="53" />
+        <mark key="^" line="103" column="53" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsAAASearcher.java" timestamp="1484032421461">
-        <mark key="'" line="23" column="35" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsAAASearcher.java" timestamp="1484277364570">
+        <mark key="'" line="213" column="12" />
         <mark key="[" line="23" column="42" />
         <mark key="]" line="23" column="42" />
         <mark key="." line="23" column="42" />
@@ -358,7 +358,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="103" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsTXSearcher.java" />
       <jump line="398" column="39" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsBaseSearcher.java" />
       <jump line="16" column="11" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsTSearcher.java" />
       <jump line="120" column="33" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" />
@@ -383,7 +382,6 @@
       <jump line="87" column="60" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsAAASearcher.java" />
       <jump line="211" column="12" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsAAASearcher.java" />
       <jump line="337" column="97" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsAAASearcher.java" />
-      <jump line="23" column="35" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsAAASearcher.java" />
       <jump line="18" column="25" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosSorter.java" />
       <jump line="123" column="44" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosSorter.java" />
       <jump line="126" column="41" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosSorter.java" />
@@ -458,13 +456,15 @@
       <jump line="124" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" />
       <jump line="47" column="0" filename="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/GenericController.java" />
       <jump line="118" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosSorter.java" />
+      <jump line="23" column="35" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsAAASearcher.java" />
+      <jump line="213" column="12" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsAAASearcher.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>terms</text>
       </register>
       <register name="/" type="4">
-        <text>jvm</text>
+        <text encoding="base64">XDxxdWFuUGluXD4=</text>
       </register>
       <register name="0" type="4">
         <text>termsMap.get(term);</text>
@@ -501,9 +501,9 @@
       </register>
     </registers>
     <search>
-      <last-search>jvm</last-search>
+      <last-search encoding="base64">XDxxdWFuUGluXD4=</last-search>
       <last-offset />
-      <last-pattern>jvm</last-pattern>
+      <last-pattern encoding="base64">XDxxdWFuUGluXD4=</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>#</last-substitute>
       <last-dir>1</last-dir>
@@ -524,13 +524,13 @@
         <entry encoding="base64">XDxoZWlnaHRcPg==</entry>
         <entry>RT</entry>
         <entry>sort</entry>
-        <entry encoding="base64">XDxxdWFuUGluXD4=</entry>
         <entry encoding="base64">XDx0ZXJtc1w+</entry>
         <entry>terms</entry>
         <entry>label</entry>
         <entry>goto</entry>
         <entry encoding="base64">XDxsZW4yXD4=</entry>
         <entry>jvm</entry>
+        <entry encoding="base64">XDxxdWFuUGluXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzEvMi9n</entry>
