@@ -104,30 +104,18 @@
         <mark key="." line="12" column="9" />
         <mark key="^" line="12" column="9" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" timestamp="1484536937705">
-        <mark key="'" line="78" column="37" />
-        <mark key="[" line="126" column="65" />
-        <mark key="]" line="126" column="69" />
-        <mark key="." line="126" column="69" />
-        <mark key="^" line="126" column="69" />
-      </file>
-      <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/index/IndexInfoArr.java" timestamp="1484210863819">
-        <mark key="'" line="46" column="21" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" timestamp="1484640710355">
+        <mark key="'" line="126" column="65" />
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="48" />
+        <mark key="." line="126" column="67" />
+        <mark key="^" line="126" column="67" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsRXSearcher.java" timestamp="1484635860239">
         <mark key="[" line="145" column="13" />
         <mark key="]" line="145" column="13" />
         <mark key="." line="145" column="15" />
         <mark key="^" line="166" column="29" />
-      </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsBaseSearcher.java" timestamp="1484635324193">
-        <mark key="'" line="782" column="0" />
-        <mark key="[" line="189" column="0" />
-        <mark key="]" line="189" column="0" />
-        <mark key="." line="189" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/test/java/search_core/UtilityTest.java" timestamp="1484636678218">
         <mark key="[" line="22" column="13" />
@@ -392,9 +380,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="6" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/index/IndexInfoArr.java" />
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/index/IndexInfoArr.java" />
-      <jump line="26" column="31" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/index/IndexInfoArr.java" />
       <jump line="61" column="0" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/index/IndexInfoArr.java" />
       <jump line="101" column="32" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosSorter.java" />
       <jump line="238" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosSorter.java" />
@@ -453,7 +438,6 @@
       <jump line="70" column="46" filename="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/GenericController.java" />
       <jump line="20" column="43" filename="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/GenericController.java" />
       <jump line="123" column="38" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosSorter.java" />
-      <jump line="126" column="66" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
       <jump line="38" column="54" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
       <jump line="78" column="37" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
       <jump line="325" column="43" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsXSearcher.java" />
@@ -492,16 +476,20 @@
       <jump line="40" column="6" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsRXESearcher.java" />
       <jump line="102" column="8" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsXYTSearcher.java" />
       <jump line="371" column="49" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsAAASearcher.java" />
+      <jump line="39" column="45" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
+      <jump line="128" column="4" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
+      <jump line="67" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
+      <jump line="126" column="65" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>Long</text>
+        <text>国家体育场</text>
       </register>
       <register name="/" type="4">
         <text>inters</text>
       </register>
-      <register name="0" type="4">
-        <text>IdWithTerms.convertLongList(catIds)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBuYXRpdmUgU3RyaW5nIGNvbnZlcnROdW0oU3RyaW5nIHRlcm0pOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkvKgoJCS8v56ys5LiA6L2u5YiG6Kej5Ye6WFlU5Lit55qEWO+8jOajgOe0ogoJCUxpc3Q8TG9uZz4gcmV0WCA9IHNlYXJjaDFSb3VuZChzZW1hbnRpY1JldCwgcGFyYW0pOwoJCWlmKHJldFguc2l6ZSgpID09IDApewoJCQlyZXR1cm4gbmV3IEFycmF5TGlzdDxMb25nPigpOwoJCX0KCQkKCQkvL+esrOS6jOi9ruWIhuino+WHulhZVOS4reeahFnvvIzmo4DntKIKCQlMaXN0PExvbmc+IHJldFkgPSBzZWFyY2gyUm91bmQoc2VtYW50aWNSZXQsIHBhcmFtKTsKCQlpZihyZXRZLnNpemUoKSA9PSAwKXsKCQkJcmV0dXJuIG5ldyBBcnJheUxpc3Q8TG9uZz4oKTsKCQl9CgkJCgkJLy/lj5ZYWeS6pOmbhgoJCUFycmF5TGlzdDxMb25nPiByZXRYWSA9IERvY0lkc0ludGVyc2VjdGlvbihyZXRYLCByZXRZKTsKCQlpZihyZXRYWS5zaXplKCkgPT0gMCl7CgkJCXJldHVybiBuZXcgQXJyYXlMaXN0PExvbmc+KCk7CgkJfQoJCQoJCS8v5a+55qOA57Si57uT5p6c6L+b6KGM5omT5YiG5o6S5bqP77yM5Y+W56ys5LiA5p2h6K6w5b2V5L2c5Li65Lit5b+D54K5CgkJU2NvcmVBbGdvcml0aG0gYWxnb3JpdGhtID0gbmV3IFNjb3JlQWxnb3JpdGhtKHRoaXMuY291bnRyeSwgdGhpcy5sYW5ndWFnZSwgc2VtYW50aWNSZXQuZ2V0VXNlcklucHV0KCksIHBhcmFtLmdldFBvc19sb24oKSwgcGFyYW0uZ2V0UG9zX2xhdCgpKTsKCQlMaXN0PFRlcm0+IHRlcm1zID0gc2VtYW50aWNSZXQuZ2V0RW50aXRpZXMoKS5nZXQoMCkuZ2V0VGVybXMoKTsKCQl0ZXJtcy5hZGRBbGwoc2VtYW50aWNSZXQuZ2V0RW50aXRpZXMoKS5nZXQoMSkuZ2V0VGVybXMoKSk7CgkJTGlzdDxTY29yZVJldD4gc2NvcmVSZXRzID0gYWxnb3JpdGhtLnNjb3JlKHRlcm1zVG9TdHJpbmdMaXN0KHRlcm1zKSwgcmV0WFkpOwoJCWxvbmcgZG9jSWQgPSBzY29yZVJldHMuZ2V0KDApLmdldERvY0lkKCk7CgogICAgICAgIEluZm9EZXRhaWwgaW5mb0RldGFpbCA9IENhY2hlTWFuYWdlci5VdGlsQ2FjaGUuZG9jU2hhcmVJbmZvTWFwLmdldChjb3VudHJ5KS5nZXREZXRhaWwoZG9jSWQpLmdldEluZm9EZXRhaWwoKTsKICAgICAgICBpbnQgbG9uID0gaW5mb0RldGFpbC5nZXRTaG93TG9uKCk7CgkJaW50IGxhdCA9IGluZm9EZXRhaWwuZ2V0U2hvd0xhdCgpOwoJCWludCByYWRpdXMgPSBwYXJhbS5nZXRSYWRpdXMoKTsKCQlMaXN0PExvbmc+IHhEb2NJZHMgPSBudWxsOwoJCQoJCS8v5aaC5p6c5piv6YGT6Lev77yM5Y+W6YGT6Lev6ZmE5bGeUE9JCgkJaWYoaW5mb0RldGFpbC5nZXRUeXBlKCkgPT0gQ29uc3RhbnRzLkRPQ0lEX1RZUEVfUk9BRCl7CgkJCXhEb2NJZHMgPSBnZXRSb2FkQXR0YWNoZWRQb2lzKGRvY0lkKTsKCQl9ZWxzZXsKCQkJLy/lj5blvpfnrKzkuIDmnaHorrDlvZXkvZzkuLrkuK3lv4PngrnlkajovrnmiYDmnIlkb2NJZOeahOmbhuWQiAoJCQl4RG9jSWRzID0gVXRpbGl0eS5nZXROZWFyQnlEb2NJZHMobG9uLCBsYXQsIHJhZGl1cyk7CgkJfQoKCQlTZW1hbnRpY3NQYXJhbSB0UGFyYW0gPSBuZXcgU2VtYW50aWNzUGFyYW0oKTsKICAgICAgICBCZWFuVXRpbHMuY29weVByb3BlcnRpZXMocGFyYW0sIHRQYXJhbSk7CgkJdFBhcmFtLnNldFBvc19sb24oaW5mb0RldGFpbC5nZXRTaG93TG9uKCkpOwoJCXRQYXJhbS5zZXRQb3NfbGF0KGluZm9EZXRhaWwuZ2V0U2hvd0xhdCgpKTsKCQkKCQlTZW1hbnRpY1JldCB0UmV0ID0gbmV3IFNlbWFudGljUmV0KCk7CiAgICAgICAgQmVhblV0aWxzLmNvcHlQcm9wZXJ0aWVzKHNlbWFudGljUmV0LCB0UmV0KTsKCQlpZihzZW1hbnRpY1JldC5nZXRFbnRpdGllcygpLnNpemUoKSA+IDEpewoJCQl0UmV0LnNldFRlcm1zKHNlbWFudGljUmV0LmdldEVudGl0aWVzKCkuZ2V0KDIpLmdldFRlcm1zKCkpOwoJCX0KCQkKCQkvL+S7peesrOS4gOadoeiusOW9leS9nOS4uuS4reW/g+eCue+8jOajgOe0olQKCQlTZW1hbnRpY3NUU2VhcmNoZXIgc2VhcmNoZXIgPSBuZXcgU2VtYW50aWNzVFNlYXJjaGVyKGxvY0Rpc3RDb2RlLHNlYXJjaF93aG9sZF9jb3VudHJ5KTsKICAgICAgICBzZWFyY2hlci5zZXRGdHNGaWVsZEZpbHRlcih0aGlzLmdldEZ0c0ZpZWxkRmlsdGVyKCkgJiBzZWFyY2hlci5nZXRGdHNGaWVsZEZpbHRlcigpKTsKCQlMaXN0PExvbmc+IHRSZXNwID0gc2VhcmNoZXIuc2VhcmNoKHRSZXQsIHRQYXJhbSk7CgkJaWYodFJlc3Auc2l6ZSgpID09IDApewoJCQlyZXR1cm4gbmV3IEFycmF5TGlzdDxMb25nPigpOwoJCX0KCQkKCQkvL+WPluS6pOmbhgoJCUFycmF5TGlzdDxMb25nPiBpbnRlcnNlY3Rpb24gPSAgRG9jSWRzSW50ZXJzZWN0aW9uKHhEb2NJZHMsIHRSZXNwKTsKCQkKCQkvL+iuoeeul+i3neemu++8jOaMiei3neemu+Wwj+S6jnJhZGl1c+i/m+ihjOi/h+a7pAoJCXJldHVybiBmaWx0ZXJCeVJhZGl1cyhpbnRlcnNlY3Rpb24sIGxvbiwgbGF0LCByYWRpdXMpOwoJCSovCg==</text>
