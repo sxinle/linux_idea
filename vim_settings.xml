@@ -222,8 +222,8 @@
         <mark key="]" line="123" column="39" />
         <mark key="." line="123" column="41" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsXSearcher.java" timestamp="1484633091527">
-        <mark key="'" line="306" column="4" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsXSearcher.java" timestamp="1484706003041">
+        <mark key="'" line="196" column="26" />
         <mark key="[" line="311" column="34" />
         <mark key="]" line="311" column="34" />
         <mark key="." line="311" column="34" />
@@ -379,8 +379,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="107" column="47" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" />
-      <jump line="107" column="47" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosSorter.java" />
       <jump line="191" column="23" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosSorter.java" />
       <jump line="796" column="61" filename="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/util/TimSort.java" />
       <jump line="797" column="27" filename="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/util/TimSort.java" />
@@ -479,13 +477,15 @@
       <jump line="129" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
       <jump line="44" column="31" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
       <jump line="130" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
+      <jump line="93" column="26" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsXSearcher.java" />
+      <jump line="196" column="26" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsXSearcher.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>inters</text>
+        <text encoding="base64">XDxsYXN0UmVzdWx0XD4=</text>
       </register>
       <register name="0" type="4">
         <text>二零二</text>
@@ -522,18 +522,16 @@
       </register>
     </registers>
     <search>
-      <last-search>inters</last-search>
+      <last-search encoding="base64">XDxsYXN0UmVzdWx0XD4=</last-search>
       <last-offset />
-      <last-pattern>inters</last-pattern>
+      <last-pattern encoding="base64">XDxsYXN0UmVzdWx0XD4=</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>#</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>limit</entry>
-        <entry>lev</entry>
         <entry encoding="base64">XDwyMzc4MTgyMDg2ODMzOTA0MTM1bFw+</entry>
         <entry encoding="base64">XDxmaXJQb3NcPg==</entry>
         <entry>setkey</entry>
@@ -552,6 +550,8 @@
         <entry>doc</entry>
         <entry>ins</entry>
         <entry>inters</entry>
+        <entry encoding="base64">XDxsaXN0XD4=</entry>
+        <entry encoding="base64">XDxsYXN0UmVzdWx0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzEvMi9n</entry>
