@@ -190,7 +190,12 @@
         <mark key="." line="108" column="114" />
         <mark key="^" line="108" column="114" />
       </file>
-      <file name="/Dummy.txt" timestamp="1484718479759">
+      <file name="$USER_HOME$/workspace/search/pom.xml" timestamp="1484732627047">
+        <mark key="'" line="13" column="35" />
+        <mark key="[" line="271" column="0" />
+        <mark key="]" line="290" column="19" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1484728163320">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="25" />
         <mark key="." line="3" column="25" />
@@ -286,8 +291,8 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosSorter.java" timestamp="1484720440019">
-        <mark key="'" line="308" column="62" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosSorter.java" timestamp="1484732659005">
+        <mark key="'" line="314" column="0" />
         <mark key="[" line="101" column="62" />
         <mark key="]" line="101" column="73" />
         <mark key="." line="101" column="62" />
@@ -301,8 +306,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="796" column="61" filename="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/util/TimSort.java" />
-      <jump line="797" column="27" filename="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/util/TimSort.java" />
       <jump line="801" column="33" filename="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/util/TimSort.java" />
       <jump line="803" column="49" filename="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/util/TimSort.java" />
       <jump line="806" column="32" filename="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/util/TimSort.java" />
@@ -401,6 +404,8 @@
       <jump line="93" column="26" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsXSearcher.java" />
       <jump line="196" column="26" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsXSearcher.java" />
       <jump line="24" column="35" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsAAASearcher.java" />
+      <jump line="125" column="50" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosSorter.java" />
+      <jump line="314" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosSorter.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -410,7 +415,7 @@
         <text encoding="base64">XDxxdWFuUGluXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTb3J0ZXIuc29ydChkb2NJZHMsIHNlbWFudGljUmV0LmdldFNlZ1dvcmRzKCksIGNvdW50cnksIGxhbmd1YWdlLCBzZW1hbnRpY1JldCwgbG9uLCBsYXQsIHF1YW5QaW4pOwo=</text>
+        <text encoding="base64">ICAgICAgICA8cmVzb3VyY2VzPgogICAgICAgICAgICA8cmVzb3VyY2U+CiAgICAgICAgICAgICAgICA8ZGlyZWN0b3J5PnNyYy9tYWluL2phdmE8L2RpcmVjdG9yeT4KICAgICAgICAgICAgICAgIDxpbmNsdWRlcz4KICAgICAgICAgICAgICAgICAgICA8aW5jbHVkZT4qKi8qLnByb3BlcnRpZXM8L2luY2x1ZGU+CiAgICAgICAgICAgICAgICAgICAgPGluY2x1ZGU+KiovKi54bWw8L2luY2x1ZGU+CiAgICAgICAgICAgICAgICA8L2luY2x1ZGVzPgogICAgICAgICAgICAgICAgPGZpbHRlcmluZz5mYWxzZTwvZmlsdGVyaW5nPgogICAgICAgICAgICA8L3Jlc291cmNlPgogICAgICAgICAgICA8cmVzb3VyY2U+CiAgICAgICAgICAgICAgICA8ZGlyZWN0b3J5PnNyYy9tYWluL3Jlc291cmNlczwvZGlyZWN0b3J5PgogICAgICAgICAgICAgICAgPGluY2x1ZGVzPgogICAgICAgICAgICAgICAgICAgIDxpbmNsdWRlPioqLyouc3FsPC9pbmNsdWRlPgogICAgICAgICAgICAgICAgICAgIDxpbmNsdWRlPioqLyouc288L2luY2x1ZGU+CiAgICAgICAgICAgICAgICAgICAgPGluY2x1ZGU+KiovKi5wcm9wZXJ0aWVzPC9pbmNsdWRlPgogICAgICAgICAgICAgICAgICAgIDxpbmNsdWRlPioqLyoueG1sPC9pbmNsdWRlPgogICAgICAgICAgICAgICAgPC9pbmNsdWRlcz4KICAgICAgICAgICAgICAgIDxmaWx0ZXJpbmc+ZmFsc2U8L2ZpbHRlcmluZz4KICAgICAgICAgICAgPC9yZXNvdXJjZT4KICAgICAgICA8L3Jlc291cmNlcz4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
