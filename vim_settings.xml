@@ -146,7 +146,7 @@
         <mark key="." line="97" column="49" />
         <mark key="^" line="97" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1484728163320">
+      <file name="/Dummy.txt" timestamp="1484804513764">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="25" />
         <mark key="." line="3" column="25" />
@@ -293,8 +293,8 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosSorter.java" timestamp="1484732659005">
-        <mark key="'" line="314" column="0" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosSorter.java" timestamp="1484804522886">
+        <mark key="'" line="82" column="87" />
         <mark key="[" line="101" column="62" />
         <mark key="]" line="101" column="73" />
         <mark key="." line="101" column="62" />
@@ -308,7 +308,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="806" column="32" filename="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/util/TimSort.java" />
       <jump line="807" column="27" filename="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/util/TimSort.java" />
       <jump line="812" column="65" filename="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/util/TimSort.java" />
       <jump line="815" column="12" filename="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/util/TimSort.java" />
@@ -408,6 +407,7 @@
       <jump line="314" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosSorter.java" />
       <jump line="284" column="43" filename="$USER_HOME$/workspace/search/pom.xml" />
       <jump line="295" column="32" filename="$USER_HOME$/workspace/search/pom.xml" />
+      <jump line="82" column="87" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosSorter.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
