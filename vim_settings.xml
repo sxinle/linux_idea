@@ -304,12 +304,12 @@
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosSorter.java" timestamp="1484895259773">
-        <mark key="'" line="134" column="21" />
-        <mark key="[" line="173" column="0" />
-        <mark key="]" line="173" column="0" />
-        <mark key="." line="173" column="0" />
-        <mark key="^" line="174" column="34" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosSorter.java" timestamp="1484897282219">
+        <mark key="'" line="90" column="11" />
+        <mark key="[" line="202" column="100" />
+        <mark key="]" line="202" column="100" />
+        <mark key="." line="202" column="100" />
+        <mark key="^" line="202" column="100" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsAAASearcher.java" timestamp="1484720667242">
         <mark key="'" line="24" column="35" />
@@ -319,9 +319,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="43" filename="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/GenericController.java" />
-      <jump line="123" column="38" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosSorter.java" />
-      <jump line="38" column="54" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
       <jump line="78" column="37" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
       <jump line="325" column="43" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsXSearcher.java" />
       <jump line="69" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsBaseSearcher.java" />
@@ -419,25 +416,28 @@
       <jump line="164" column="48" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsNNNSearcher.java" />
       <jump line="109" column="68" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsNNNSearcher.java" />
       <jump line="155" column="23" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsNNNSearcher.java" />
+      <jump line="136" column="39" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosSorter.java" />
+      <jump line="198" column="15" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosSorter.java" />
+      <jump line="90" column="11" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosSorter.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>tel + &quot;&quot;);</text>
+        <text>getdo</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb252ZXJ0XD4=</text>
+        <text>IndexOu</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZvciAoSWRXaXRoVGVybXMgaWRXaXRoVGVybXMgOiB0ZWxMaXN0KSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTGlzdDxTdHJpbmc+IHRlcm1zID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGVybXMuYWRkKHRlbCArICIiKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZFdpdGhUZXJtcy5zZXRVc2VkVGVybXModGVybXMpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbmRleEluZm8uZ2V0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRlbExpc3QuZm9yRWFjaChpdyAtPiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTGlzdDxTdHJpbmc+IHRlcm1zID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGVybXMuYWRkKHRlbCArICIiKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICBpbmRleEluZm8uZ2V0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRlbExpc3QuZm9yRWFjaChpdyAtPiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTGlzdDxTdHJpbmc+IHRlcm1zID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGVybXMuYWRkKHRlbCArICIiKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -449,22 +449,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkb2NJZHMuc29ydCgobzEsIG8yKSAtPiB7CiAgICAgICAgICAgIGlmKGkpCiAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGlkV2l0aFRlcm1zLmdldERvY0lkKCkgPT0gNTg1MTMwMjAzMDYyNjI0NzI3NUwpIHsKICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigpOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBkb2NJZHMuc29ydCgobzEsIG8yKSAtPiB7CiAgICAgICAgICAgIGlmKGkpCiAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGlkV2l0aFRlcm1zLmdldERvY0lkKCkgPT0gNTg1MTMwMjAzMDYyNjI0NzI3NUwpIHsKICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb252ZXJ0XD4=</last-search>
+      <last-search>IndexOu</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb252ZXJ0XD4=</last-pattern>
+      <last-pattern>IndexOu</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>#</last-substitute>
       <last-dir>1</last-dir>
@@ -472,7 +472,6 @@
     </search>
     <history>
       <history-search>
-        <entry>terms</entry>
         <entry>label</entry>
         <entry>goto</entry>
         <entry encoding="base64">XDxsZW4yXD4=</entry>
@@ -492,6 +491,7 @@
         <entry encoding="base64">XDx0ZW1wUmVzdWx0XD4=</entry>
         <entry encoding="base64">XDxyZW1vdmVOb1Bvc1Rlcm1zXD4=</entry>
         <entry encoding="base64">XDxjb252ZXJ0XD4=</entry>
+        <entry>IndexOu</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzEvMi9n</entry>
