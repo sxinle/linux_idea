@@ -38,12 +38,8 @@
         <mark key="." line="102" column="41" />
       </file>
       <file name="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/util/ArrayList.java" timestamp="1485136942390" />
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" timestamp="1483930759186">
-        <mark key="'" line="237" column="12" />
-        <mark key="[" line="31" column="106" />
-        <mark key="]" line="31" column="106" />
-        <mark key="." line="31" column="106" />
-        <mark key="^" line="30" column="45" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" timestamp="1485140939694">
+        <mark key="'" line="219" column="40" />
       </file>
       <file name="$USER_HOME$/GeoEncoder.class" timestamp="1484806348977">
         <mark key="'" line="5" column="20" />
@@ -189,7 +185,7 @@
         <mark key="." line="296" column="33" />
         <mark key="^" line="296" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1485136806609">
+      <file name="/Dummy.txt" timestamp="1485141347674">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="25" />
         <mark key="." line="3" column="25" />
@@ -208,12 +204,11 @@
         <mark key="." line="100" column="39" />
         <mark key="^" line="100" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" timestamp="1485138748626">
-        <mark key="'" line="279" column="32" />
-        <mark key="[" line="289" column="57" />
-        <mark key="]" line="290" column="39" />
-        <mark key="." line="290" column="39" />
-        <mark key="^" line="290" column="39" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" timestamp="1485141491460">
+        <mark key="'" line="182" column="0" />
+        <mark key="[" line="184" column="68" />
+        <mark key="]" line="184" column="69" />
+        <mark key="." line="184" column="69" />
       </file>
       <file name="$USER_HOME$/workspace/uauth/src/main/resources/app.properties" timestamp="1483085398865">
         <mark key="'" line="0" column="0" />
@@ -278,7 +273,7 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="42" column="19" />
       </file>
-      <file name="/fragment.java" timestamp="1485138130758">
+      <file name="/fragment.java" timestamp="1485141202642">
         <mark key="'" line="0" column="62" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
@@ -300,11 +295,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="267" column="62" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosSorter.java" />
-      <jump line="553" column="30" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
-      <jump line="557" column="22" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
-      <jump line="600" column="26" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
-      <jump line="516" column="59" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
       <jump line="142" column="13" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/RouteSearcher.java" />
       <jump line="542" column="26" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/RouteSearcher.java" />
       <jump line="672" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/RouteSearcher.java" />
@@ -400,31 +390,36 @@
       <jump line="123" column="49" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsRTSearcher.java" />
       <jump line="90" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsTSearcher.java" />
       <jump line="279" column="32" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" />
+      <jump line="183" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" />
+      <jump line="182" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" />
+      <jump line="56" column="23" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" />
+      <jump line="25" column="5" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" />
+      <jump line="215" column="40" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>&quot;献县&quot;</text>
+        <text>办事处</text>
       </register>
       <register name="/" type="4">
         <text>驻北京</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZvciAoSWRXaXRoVGVybXMgaWRXaXRoVGVybXMgOiB0ZWxMaXN0KSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTGlzdDxTdHJpbmc+IHRlcm1zID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGVybXMuYWRkKHRlbCArICIiKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZFdpdGhUZXJtcy5zZXRVc2VkVGVybXModGVybXMpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgYSA9ICLmsojpmLPpqbvljJfkuqzlip7kuovlpIQiOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZExpc3QuZm9yRWFjaChkb2MtPnsKCgogICAgICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgIG1haW4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZExpc3QuZm9yRWFjaChkb2MtPnsKCgogICAgICAgICAgICB9KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbmRleEluZm8uZ2V0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRlbExpc3QuZm9yRWFjaChpdyAtPiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTGlzdDxTdHJpbmc+IHRlcm1zID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGVybXMuYWRkKHRlbCArICIiKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICBpbmRleEluZm8uZ2V0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRlbExpc3QuZm9yRWFjaChpdyAtPiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTGlzdDxTdHJpbmc+IHRlcm1zID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGVybXMuYWRkKHRlbCArICIiKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -436,7 +431,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkb2NJZHMuc29ydCgobzEsIG8yKSAtPiB7CiAgICAgICAgICAgIGlmKGkpCiAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
