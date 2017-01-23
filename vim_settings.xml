@@ -32,17 +32,12 @@
         <mark key="]" line="12" column="16" />
         <mark key="." line="12" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/common/base/BaseSearcher.java" timestamp="1484636756604">
-        <mark key="[" line="24" column="16" />
-        <mark key="]" line="24" column="26" />
-        <mark key="." line="24" column="26" />
-        <mark key="^" line="24" column="26" />
-      </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsRXTSearcher.java" timestamp="1484635948998">
         <mark key="[" line="102" column="39" />
         <mark key="]" line="102" column="39" />
         <mark key="." line="102" column="41" />
       </file>
+      <file name="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/util/ArrayList.java" timestamp="1485136942390" />
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" timestamp="1483930759186">
         <mark key="'" line="237" column="12" />
         <mark key="[" line="31" column="106" />
@@ -62,7 +57,7 @@
         <mark key="." line="7" column="7" />
         <mark key="^" line="7" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsTSearcher.java" timestamp="1484902561718">
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsTSearcher.java" timestamp="1485135793085">
         <mark key="'" line="90" column="0" />
         <mark key="[" line="97" column="39" />
         <mark key="]" line="97" column="49" />
@@ -96,11 +91,8 @@
         <mark key="^" line="126" column="65" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsRXSearcher.java" timestamp="1485133772907" />
-      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/search_core/UtilityTest.java" timestamp="1484636678218">
-        <mark key="[" line="22" column="13" />
-        <mark key="]" line="22" column="23" />
-        <mark key="." line="22" column="23" />
-        <mark key="^" line="22" column="23" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsBaseSearcher.java" timestamp="1485136976565">
+        <mark key="." line="264" column="80" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsRXYSearcher.java" timestamp="1484636153367">
         <mark key="'" line="15" column="13" />
@@ -125,12 +117,6 @@
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsXTSearcher.java" timestamp="1484636362634">
-        <mark key="[" line="81" column="39" />
-        <mark key="]" line="81" column="50" />
-        <mark key="." line="81" column="39" />
-        <mark key="^" line="81" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/models/IdWithTerms.java" timestamp="1484895520204">
         <mark key="'" line="59" column="0" />
@@ -203,7 +189,7 @@
         <mark key="." line="296" column="33" />
         <mark key="^" line="296" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1484901731721">
+      <file name="/Dummy.txt" timestamp="1485136806609">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="25" />
         <mark key="." line="3" column="25" />
@@ -222,12 +208,12 @@
         <mark key="." line="100" column="39" />
         <mark key="^" line="100" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" timestamp="1484900301812">
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" timestamp="1485136747918">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="297" column="35" />
-        <mark key="]" line="297" column="36" />
-        <mark key="." line="297" column="36" />
-        <mark key="^" line="282" column="46" />
+        <mark key="[" line="289" column="57" />
+        <mark key="]" line="290" column="39" />
+        <mark key="." line="290" column="39" />
+        <mark key="^" line="290" column="39" />
       </file>
       <file name="$USER_HOME$/workspace/uauth/src/main/resources/app.properties" timestamp="1483085398865">
         <mark key="'" line="0" column="0" />
@@ -292,14 +278,14 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="42" column="19" />
       </file>
-      <file name="/fragment.java" timestamp="1484892371814">
+      <file name="/fragment.java" timestamp="1485136325801">
         <mark key="'" line="0" column="62" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosSorter.java" timestamp="1484902053652">
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosSorter.java" timestamp="1485136329039">
         <mark key="'" line="314" column="0" />
         <mark key="[" line="309" column="56" />
         <mark key="]" line="309" column="57" />
