@@ -208,8 +208,8 @@
         <mark key="." line="100" column="39" />
         <mark key="^" line="100" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" timestamp="1485136747918">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" timestamp="1485138748626">
+        <mark key="'" line="279" column="32" />
         <mark key="[" line="289" column="57" />
         <mark key="]" line="290" column="39" />
         <mark key="." line="290" column="39" />
@@ -300,7 +300,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosSorter.java" />
       <jump line="267" column="62" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosSorter.java" />
       <jump line="553" column="30" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
       <jump line="557" column="22" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
@@ -400,13 +399,14 @@
       <jump line="314" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosSorter.java" />
       <jump line="123" column="49" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsRTSearcher.java" />
       <jump line="90" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsTSearcher.java" />
+      <jump line="279" column="32" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>&quot;献县&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>火车站</text>
+        <text>驻北京</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZvciAoSWRXaXRoVGVybXMgaWRXaXRoVGVybXMgOiB0ZWxMaXN0KSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTGlzdDxTdHJpbmc+IHRlcm1zID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGVybXMuYWRkKHRlbCArICIiKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZFdpdGhUZXJtcy5zZXRVc2VkVGVybXModGVybXMpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
@@ -443,17 +443,16 @@
       </register>
     </registers>
     <search>
-      <last-search>火车站</last-search>
+      <last-search>驻北京</last-search>
       <last-offset />
-      <last-pattern>火车站</last-pattern>
+      <last-pattern>驻北京</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>#</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>keywords</entry>
         <entry>doc</entry>
         <entry>ins</entry>
         <entry>inters</entry>
@@ -473,6 +472,7 @@
         <entry>献县</entry>
         <entry>idwith</entry>
         <entry>火车站</entry>
+        <entry>驻北京</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzEvMi9n</entry>
