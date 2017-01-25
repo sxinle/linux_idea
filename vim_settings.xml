@@ -135,7 +135,7 @@
         <mark key="." line="97" column="49" />
         <mark key="^" line="97" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1485141347674">
+      <file name="/Dummy.txt" timestamp="1485311093681">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="25" />
         <mark key="." line="3" column="25" />
@@ -166,12 +166,12 @@
         <mark key="." line="12" column="9" />
         <mark key="^" line="12" column="9" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" timestamp="1484879578857">
-        <mark key="'" line="104" column="35" />
-        <mark key="[" line="126" column="65" />
-        <mark key="]" line="126" column="65" />
-        <mark key="." line="126" column="65" />
-        <mark key="^" line="126" column="65" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" timestamp="1485311067869">
+        <mark key="'" line="92" column="31" />
+        <mark key="[" line="39" column="55" />
+        <mark key="]" line="39" column="59" />
+        <mark key="." line="39" column="59" />
+        <mark key="^" line="39" column="59" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsTXSearcher.java" timestamp="1484636252895">
         <mark key="'" line="103" column="0" />
@@ -180,7 +180,7 @@
         <mark key="." line="100" column="39" />
         <mark key="^" line="100" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" timestamp="1485310026129">
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" timestamp="1485310805059">
         <mark key="'" line="182" column="0" />
         <mark key="[" line="184" column="68" />
         <mark key="]" line="184" column="69" />
@@ -293,8 +293,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="142" column="13" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/RouteSearcher.java" />
-      <jump line="542" column="26" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/RouteSearcher.java" />
       <jump line="672" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/RouteSearcher.java" />
       <jump line="62" column="23" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsNNNSearcher.java" />
       <jump line="40" column="6" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsRXESearcher.java" />
@@ -393,10 +391,12 @@
       <jump line="56" column="23" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" />
       <jump line="25" column="5" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" />
       <jump line="215" column="40" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" />
+      <jump line="83" column="69" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
+      <jump line="92" column="31" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>办事处</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>驻北京</text>
