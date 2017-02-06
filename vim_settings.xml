@@ -10,6 +10,9 @@
         <mark key="^" line="588" column="62" />
         <mark key="." line="588" column="62" />
       </file>
+      <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/transfer/req/BaseParam.java" timestamp="1486365611351">
+        <mark key="'" line="13" column="21" />
+      </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsRXYTSearcher.java" timestamp="1484636186963">
         <mark key="'" line="28" column="40" />
         <mark key="[" line="101" column="39" />
@@ -21,6 +24,9 @@
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1486365624718">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" timestamp="1484899684858">
         <mark key="'" line="881" column="33" />
@@ -79,11 +85,6 @@
         <mark key="]" line="443" column="65" />
         <mark key="." line="443" column="61" />
         <mark key="^" line="443" column="60" />
-      </file>
-      <file name="$USER_HOME$/GeoEncoder.class" timestamp="1484806348977">
-        <mark key="'" line="5" column="20" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="74" />
       </file>
       <file name="$USER_HOME$/workspace/py/zest/test.py" timestamp="1481168575785">
         <mark key="'" line="0" column="0" />
@@ -179,10 +180,10 @@
         <mark key="." line="100" column="39" />
         <mark key="^" line="100" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" timestamp="1486362104909">
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" timestamp="1486365646577">
         <mark key="'" line="394" column="77" />
-        <mark key="[" line="166" column="111" />
-        <mark key="]" line="166" column="114" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="55" column="46" />
         <mark key="." line="379" column="54" />
         <mark key="^" line="379" column="54" />
       </file>
@@ -196,11 +197,6 @@
         <mark key="]" line="120" column="26" />
         <mark key="^" line="120" column="26" />
         <mark key="." line="120" column="26" />
-      </file>
-      <file name="$USER_HOME$/HttpURLUtils.class" timestamp="1484806270039">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="92" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/uauth/src/main/resources/app.properties" timestamp="1483085398865">
         <mark key="'" line="0" column="0" />
@@ -294,7 +290,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="118" column="36" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
       <jump line="27" column="4" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
       <jump line="121" column="46" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
       <jump line="28" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
@@ -394,16 +389,17 @@
       <jump line="7" column="30" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/models/IdWithTerms.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/models/IdWithTerms.java" />
       <jump line="78" column="0" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/models/IdWithTerms.java" />
+      <jump line="13" column="21" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/transfer/req/BaseParam.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>Utility.half2full(&quot;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpc0NvdW50cnlcPg==</text>
+        <text encoding="base64">XDxrZXl3b3Jkc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIAkJCWlmKHNpZ24pewogICAgCQkJCWxhc3RMaXN0LmFkZChuZXcgSWRXaXRoVGVybXMob2JqLmdldERvY0lEKCkpKTsKICAgIAkJCQlweU1hcC5wdXRBbGwob2JqLmdldFB5TWFwKCkpOwogICAgCQkJfQo=</text>
+        <text encoding="base64">ICAgICAgICBkaXN0UmVwbGFjZU1hcC5wdXQoIuW4guaUv+W6nCIsICLluILkurrmsJHmlL/lupwiKTsKICAgICAgICBkaXN0UmVwbGFjZU1hcC5wdXQoIuecgeaUv+W6nCIsICLnnIHkurrmsJHmlL/lupwiKTsKICAgICAgICBkaXN0UmVwbGFjZU1hcC5wdXQoIuWMuuaUv+W6nCIsICLljLrkurrmsJHmlL/lupwiKTsKICAgICAgICBkaXN0UmVwbGFjZU1hcC5wdXQoIuWOv+aUv+W6nCIsICLljr/kurrmsJHmlL/lupwiKTsKICAgICAgICBkaXN0UmVwbGFjZU1hcC5wdXQoIuS5oeaUv+W6nCIsICLkuaHkurrmsJHmlL/lupwiKTsKICAgICAgICBkaXN0UmVwbGFjZU1hcC5wdXQoIumVh+aUv+W6nCIsICLplYfkurrmsJHmlL/lupwiKTsKICAgICAgICBkaXN0UmVwbGFjZU1hcC5wdXQoIuiHquayu+WMuuaUv+W6nCIsICLoh6rmsrvljLrmlL/kurrmsJHlupwiKTsKICAgICAgICBkaXN0UmVwbGFjZU1hcC5wdXQoIuiHquayu+W3nuaUv+W6nCIsICLoh6rmsrvlt57mlL/kurrmsJHlupwiKTsKICAgICAgICBkaXN0UmVwbGFjZU1hcC5wdXQoIuiHquayu+WOv+aUv+W6nCIsICLoh6rmsrvljr/mlL/kurrmsJHlupwiKTsKICAgICAgICBkaXN0UmVwbGFjZU1hcC5wdXQoIuiHquayu+aXl+aUv+W6nCIsICLoh6rmsrvml5fmlL/kurrmsJHlupwiKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -437,9 +433,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpc0NvdW50cnlcPg==</last-search>
+      <last-search encoding="base64">XDxrZXl3b3Jkc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpc0NvdW50cnlcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxrZXl3b3Jkc1w+</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>#</last-substitute>
       <last-dir>1</last-dir>
@@ -447,7 +443,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxxdWFuUGluXD4=</entry>
         <entry>maven-compiler</entry>
         <entry>firP</entry>
         <entry>System.out</entry>
@@ -467,6 +462,7 @@
         <entry encoding="base64">XDxmdWxsTWF0Y2hcPg==</entry>
         <entry encoding="base64">XDxmaWVsZExlbmd0aFw+</entry>
         <entry encoding="base64">XDxpc0NvdW50cnlcPg==</entry>
+        <entry encoding="base64">XDxrZXl3b3Jkc1w+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzEvMi9n</entry>
