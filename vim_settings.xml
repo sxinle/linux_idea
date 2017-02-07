@@ -148,12 +148,11 @@
         <mark key="." line="443" column="61" />
         <mark key="^" line="443" column="60" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/Sorter.java" timestamp="1484635008160">
-        <mark key="'" line="163" column="48" />
-        <mark key="[" line="45" column="112" />
-        <mark key="]" line="45" column="123" />
-        <mark key="^" line="45" column="123" />
-        <mark key="." line="45" column="123" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/Sorter.java" timestamp="1486456186761">
+        <mark key="'" line="165" column="0" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsXSearcher.java" timestamp="1486447189131">
         <mark key="'" line="317" column="39" />
@@ -184,7 +183,7 @@
         <mark key="." line="296" column="33" />
         <mark key="^" line="296" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1486456116842">
+      <file name="/Dummy.txt" timestamp="1486456190613">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="25" />
         <mark key="." line="3" column="25" />
@@ -298,7 +297,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="284" column="43" filename="$USER_HOME$/workspace/search/pom.xml" />
       <jump line="295" column="32" filename="$USER_HOME$/workspace/search/pom.xml" />
       <jump line="82" column="87" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosSorter.java" />
       <jump line="127" column="12" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosSorter.java" />
@@ -398,52 +396,53 @@
       <jump line="55" column="0" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/transfer/req/SemanticsParam.java" />
       <jump line="93" column="23" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosSorter.java" />
       <jump line="0" column="92" filename="/fragment.java" />
+      <jump line="164" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/Sorter.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmaWVsZExlbmd0aFw+</text>
+        <text>44</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">KG8xLmlkV2l0aFRlcm1zLmdldERvY0lkKCkgPT0gMjM3ODE4MjA4NjgzNDIzODk4N0wgJiYgbzIuaWRXaXRoVGVybXMuZ2V0RG9jSWQoKSA9PSAyMzc4MTgyMDg2ODM0MjIwODY5TA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoKG8xLmlkV2l0aFRlcm1zLmdldERvY0lkKCkgPT0gMjM3ODE4MjA4NjgzNDIzODk4N0wgJiYgbzIuaWRXaXRoVGVybXMuZ2V0RG9jSWQoKSA9PSAyMzc4MTgyMDg2ODM0MjIwODY5TCkKICAgICAgICAgICAgICAgIHx8IChvMi5pZFdpdGhUZXJtcy5nZXREb2NJZCgpID09IDIzNzgxODIwODY4MzQyMzg5ODdMICYmIG8xLmlkV2l0aFRlcm1zLmdldERvY0lkKCkgPT0gMjM3ODE4MjA4NjgzNDIyMDg2OUwpKSB7CiAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImFhYSIpOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBzb3J0RGlzdGFuY2UoTGlzdDxJZFdpdGhUZXJtcz4gc3JjLCBTdHJpbmcgY291bnRyeSwgbG9uZyBsb24sIGxvbmcgbGF0KSB7CiAgICAgICAgU29ydGVyLnNvcnREaXN0YW5jZShzcmMsIChkb2NJZCwgbG9uMSwgbGF0MSkgLT4gewogICAgICAgICAgICBJbmZvRGV0YWlsIGluZm8gPSBDYWNoZU1hbmFnZXIuVXRpbENhY2hlLmRvY1NoYXJlSW5mb01hcC5nZXQoY291bnRyeSkuZ2V0RGV0YWlsKCgoSWRXaXRoVGVybXMpIGRvY0lkKS5nZXREb2NJZCgpKS5nZXRJbmZvRGV0YWlsKCk7CiAgICAgICAgICAgIGxvbmcgbG9uMiA9IGluZm8uZ2V0U2hvd0xvbigpOwogICAgICAgICAgICBsb25nIGxhdDIgPSBpbmZvLmdldFNob3dMYXQoKTsKICAgICAgICAgICAgZG91YmxlIGRpc3RhbmNlID0gR2VvTGliLmNhbGNfZGlzdF9vbmVhcnRoKAogICAgICAgICAgICAgICAgICAgIG5ldyBHZW9Mb2NhdGlvbigoaW50KSBsb24xLCAoaW50KSBsYXQxKSwKICAgICAgICAgICAgICAgICAgICBuZXcgR2VvTG9jYXRpb24oKGludCkgbG9uMiwgKGludCkgbGF0MikpOwogICAgICAgICAgICByZXR1cm4gKGludCkgZGlzdGFuY2U7CiAgICAgICAgfSwgbG9uLCBsYXQpOwogICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBzb3J0RGlzdGFuY2UoTGlzdDxJZFdpdGhUZXJtcz4gc3JjLCBTdHJpbmcgY291bnRyeSwgbG9uZyBsb24sIGxvbmcgbGF0KSB7CiAgICAgICAgU29ydGVyLnNvcnREaXN0YW5jZShzcmMsIChkb2NJZCwgbG9uMSwgbGF0MSkgLT4gewogICAgICAgICAgICBJbmZvRGV0YWlsIGluZm8gPSBDYWNoZU1hbmFnZXIuVXRpbENhY2hlLmRvY1NoYXJlSW5mb01hcC5nZXQoY291bnRyeSkuZ2V0RGV0YWlsKCgoSWRXaXRoVGVybXMpIGRvY0lkKS5nZXREb2NJZCgpKS5nZXRJbmZvRGV0YWlsKCk7CiAgICAgICAgICAgIGxvbmcgbG9uMiA9IGluZm8uZ2V0U2hvd0xvbigpOwogICAgICAgICAgICBsb25nIGxhdDIgPSBpbmZvLmdldFNob3dMYXQoKTsKICAgICAgICAgICAgZG91YmxlIGRpc3RhbmNlID0gR2VvTGliLmNhbGNfZGlzdF9vbmVhcnRoKAogICAgICAgICAgICAgICAgICAgIG5ldyBHZW9Mb2NhdGlvbigoaW50KSBsb24xLCAoaW50KSBsYXQxKSwKICAgICAgICAgICAgICAgICAgICBuZXcgR2VvTG9jYXRpb24oKGludCkgbG9uMiwgKGludCkgbGF0MikpOwogICAgICAgICAgICByZXR1cm4gKGludCkgZGlzdGFuY2U7CiAgICAgICAgfSwgbG9uLCBsYXQpOwogICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmllbGRMZW5ndGggPSBDYWNoZU1hbmFnZXIuVXRpbENhY2hlLmRvY1NoYXJlSW5mb01hcC5nZXQoY291bnRyeSkuZ2V0VGV4dEluZm9BcnIoaWRXaXRoVGVybXMuZ2V0RG9jSWQoKSlbMF0ubGVuZ3RoKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoKG8xLmlkV2l0aFRlcm1zLmdldERvY0lkKCkgPT0gMjM3ODE4MjA4NjgzNDIzODk4N0wgJiYgbzIuaWRXaXRoVGVybXMuZ2V0RG9jSWQoKSA9PSAyMzc4MTgyMDg2ODM0MjIwODY5TCkKICAgICAgICAgICAgICAgIHx8IChvMi5pZFdpdGhUZXJtcy5nZXREb2NJZCgpID09IDIzNzgxODIwODY4MzQyMzg5ODdMICYmIG8xLmlkV2l0aFRlcm1zLmdldERvY0lkKCkgPT0gMjM3ODE4MjA4NjgzNDIyMDg2OUwpKSB7CiAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImFhYSIpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICghZmlsdGVyZFJldC5jb250YWlucyhyaWdodFRlcm0pKSB7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZmllbGRMZW5ndGggPSBDYWNoZU1hbmFnZXIuVXRpbENhY2hlLmRvY1NoYXJlSW5mb01hcC5nZXQoY291bnRyeSkuZ2V0VGV4dEluZm9BcnIoaWRXaXRoVGVybXMuZ2V0RG9jSWQoKSlbMF0ubGVuZ3RoKCk7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbHRlcmRSZXQuYWRkKHJpZ2h0VGVybSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU2V0PFN0cmluZz4gbm9EdXBUZXJtcyA9IG5ldyBIYXNoU2V0PD4oKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICghZmlsdGVyZFJldC5jb250YWlucyhyaWdodFRlcm0pKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmaWVsZExlbmd0aFw+</last-search>
+      <last-search>44</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmaWVsZExlbmd0aFw+</last-pattern>
+      <last-pattern>44</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>#</last-substitute>
       <last-dir>1</last-dir>
@@ -451,7 +450,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZXN1bHRcPg==</entry>
         <entry encoding="base64">XDx0ZW1wUmVzdWx0XD4=</entry>
         <entry encoding="base64">XDxyZW1vdmVOb1Bvc1Rlcm1zXD4=</entry>
         <entry encoding="base64">XDxjb252ZXJ0XD4=</entry>
@@ -471,6 +469,7 @@
         <entry encoding="base64">XDxjb250YWluc1w+</entry>
         <entry encoding="base64">XDxiaXRDbnRcPg==</entry>
         <entry encoding="base64">XDxmaWVsZExlbmd0aFw+</entry>
+        <entry>44</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzEvMi9n</entry>
