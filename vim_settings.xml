@@ -238,7 +238,9 @@
         <mark key="^" line="236" column="18" />
         <mark key="." line="236" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/transfer/req/SemanticsParam.java" timestamp="1486449770089" />
+      <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/transfer/req/SemanticsParam.java" timestamp="1486450454891">
+        <mark key="'" line="55" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsRXESearcher.java" timestamp="1484635706395">
         <mark key="'" line="40" column="6" />
         <mark key="[" line="87" column="39" />
@@ -293,8 +295,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="35" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsAAASearcher.java" />
-      <jump line="125" column="50" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosSorter.java" />
       <jump line="284" column="43" filename="$USER_HOME$/workspace/search/pom.xml" />
       <jump line="295" column="32" filename="$USER_HOME$/workspace/search/pom.xml" />
       <jump line="82" column="87" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosSorter.java" />
@@ -393,6 +393,8 @@
       <jump line="319" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosSorter.java" />
       <jump line="346" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosSorter.java" />
       <jump line="0" column="91" filename="/fragment.java" />
+      <jump line="27" column="40" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/transfer/req/SemanticsParam.java" />
+      <jump line="55" column="0" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/transfer/req/SemanticsParam.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
