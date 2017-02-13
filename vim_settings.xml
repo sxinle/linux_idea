@@ -91,7 +91,8 @@
         <mark key="." line="80" column="62" />
         <mark key="^" line="80" column="62" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/index/IndexInfoArr.java" timestamp="1486438097259">
+      <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/index/IndexInfoArr.java" timestamp="1486976663048">
+        <mark key="'" line="86" column="0" />
         <mark key="[" line="24" column="0" />
         <mark key="]" line="28" column="31" />
       </file>
@@ -145,8 +146,8 @@
         <mark key="^" line="73" column="7" />
         <mark key="." line="73" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/GenericController.java" timestamp="1484533482050">
-        <mark key="'" line="20" column="43" />
+      <file name="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/GenericController.java" timestamp="1486976668727">
+        <mark key="'" line="88" column="24" />
         <mark key="[" line="28" column="22" />
         <mark key="]" line="28" column="21" />
         <mark key="." line="28" column="21" />
@@ -217,8 +218,8 @@
         <mark key="." line="100" column="39" />
         <mark key="^" line="100" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" timestamp="1486534343334">
-        <mark key="'" line="287" column="29" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" timestamp="1486977437412">
+        <mark key="'" line="418" column="0" />
         <mark key="[" line="387" column="24" />
         <mark key="]" line="387" column="24" />
         <mark key="." line="387" column="24" />
@@ -318,11 +319,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="29" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsNNNSearcher.java" />
-      <jump line="203" column="40" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsXSearcher.java" />
-      <jump line="177" column="12" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosSorter.java" />
-      <jump line="134" column="21" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosSorter.java" />
-      <jump line="157" column="48" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsNNNSearcher.java" />
       <jump line="107" column="68" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsNNNSearcher.java" />
       <jump line="164" column="48" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsNNNSearcher.java" />
       <jump line="109" column="68" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsNNNSearcher.java" />
@@ -418,6 +414,11 @@
       <jump line="84" column="59" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
       <jump line="107" column="51" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
       <jump line="100" column="45" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
+      <jump line="23" column="0" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/index/IndexInfoArr.java" />
+      <jump line="86" column="0" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/index/IndexInfoArr.java" />
+      <jump line="88" column="24" filename="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/GenericController.java" />
+      <jump line="234" column="23" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" />
+      <jump line="418" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
