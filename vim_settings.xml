@@ -308,7 +308,8 @@
         <mark key="." line="206" column="61" />
         <mark key="^" line="206" column="61" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsAAASearcher.java" timestamp="1486455433168">
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsAAASearcher.java" timestamp="1487043621497">
+        <mark key="'" line="406" column="0" />
         <mark key="[" line="404" column="8" />
         <mark key="]" line="404" column="16" />
         <mark key="^" line="404" column="16" />
@@ -322,7 +323,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="90" column="11" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosSorter.java" />
       <jump line="378" column="85" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/KeywordSearcher.java" />
       <jump line="396" column="20" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/KeywordSearcher.java" />
       <jump line="416" column="20" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/KeywordSearcher.java" />
@@ -422,13 +422,14 @@
       <jump line="27" column="0" filename="$USER_HOME$/workspace/search/search_web/src/main/resources/logback.xml" />
       <jump line="211" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosSorter.java" />
       <jump line="91" column="53" filename="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/GenericController.java" />
+      <jump line="406" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsAAASearcher.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>error</text>
       </register>
       <register name="/" type="4">
-        <text>!!!!!</text>
+        <text>e.prin</text>
       </register>
       <register name="0" type="4">
         <text>2378182164143815263L</text>
@@ -465,9 +466,9 @@
       </register>
     </registers>
     <search>
-      <last-search>!!!!!</last-search>
+      <last-search>e.prin</last-search>
       <last-offset />
-      <last-pattern>!!!!!</last-pattern>
+      <last-pattern>e.prin</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>#</last-substitute>
       <last-dir>1</last-dir>
@@ -475,7 +476,6 @@
     </search>
     <history>
       <history-search>
-        <entry>献县</entry>
         <entry>idwith</entry>
         <entry>火车站</entry>
         <entry>驻北京</entry>
@@ -495,6 +495,7 @@
         <entry encoding="base64">XDxkaXN0TmFtZTJDb2RlTWFwXD4=</entry>
         <entry encoding="base64">XDxpbnB1dFw+</entry>
         <entry>!!!!!</entry>
+        <entry>e.prin</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzEvMi9n</entry>
