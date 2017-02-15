@@ -130,6 +130,7 @@
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsBaseSearcher.java" timestamp="1487144802490">
         <mark key="'" line="703" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-tx/4.2.5.RELEASE/spring-tx-4.2.5.RELEASE-sources.jar!/org/springframework/transaction/annotation/Transactional.java" timestamp="1487147577483" />
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsRXYSearcher.java" timestamp="1484636153367">
         <mark key="'" line="15" column="13" />
         <mark key="[" line="120" column="16" />
@@ -175,6 +176,12 @@
         <mark key="]" line="105" column="0" />
         <mark key="." line="105" column="0" />
         <mark key="^" line="108" column="26" />
+      </file>
+      <file name="$USER_HOME$/workspace/search/search_db/src/main/java/com/mx/server/search/db/service/impl/UserService.java" timestamp="1487147546985">
+        <mark key="[" line="12" column="15" />
+        <mark key="]" line="12" column="29" />
+        <mark key="^" line="12" column="29" />
+        <mark key="." line="12" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/pom.xml" timestamp="1481869385925">
         <mark key="'" line="16" column="41" />
@@ -478,7 +485,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">T2JqZWN0W10g</text>
+        <text encoding="base64">aXNvbGF0aW9uID0g</text>
       </register>
       <register name="/" type="4">
         <text>PoisBean</text>
