@@ -353,8 +353,8 @@
       <file name="$USER_HOME$/.share/PEUSystem_DR/out/artifacts/PEUSystem_DR_war_exploded/WEB-INF/web.xml" timestamp="1487060617673">
         <mark key="'" line="123" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosSorter.java" timestamp="1487226120666">
-        <mark key="'" line="350" column="0" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosSorter.java" timestamp="1487302145968">
+        <mark key="'" line="33" column="65" />
         <mark key="[" line="206" column="0" />
         <mark key="]" line="206" column="0" />
         <mark key="." line="206" column="0" />
@@ -374,8 +374,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="206" column="60" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosSorter.java" />
-      <jump line="17" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosSorter.java" />
       <jump line="27" column="0" filename="$USER_HOME$/workspace/search/search_web/src/main/resources/logback.xml" />
       <jump line="211" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosSorter.java" />
       <jump line="91" column="53" filename="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/GenericController.java" />
@@ -430,7 +428,6 @@
       <jump line="1090" column="19" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
       <jump line="1116" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
       <jump line="95" column="38" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosSorter.java" />
-      <jump line="350" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosSorter.java" />
       <jump line="45" column="51" filename="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/business/address/searcher/AddressSearcher.java" />
       <jump line="66" column="65" filename="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/business/address/searcher/AddressSearcher.java" />
       <jump line="499" column="23" filename="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/common/util/SortUtil.java" />
@@ -474,6 +471,9 @@
       <jump line="23" column="0" filename="$USER_HOME$/workspace/zest/src/main/java/com/Mcode2Lon.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/zest/src/main/java/com/Mcode2Lon.java" />
       <jump line="5" column="0" filename="$USER_HOME$/workspace/zest/src/main/java/com/Mcode2Lon.java" />
+      <jump line="321" column="54" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosSorter.java" />
+      <jump line="350" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosSorter.java" />
+      <jump line="33" column="65" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosSorter.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -525,7 +525,7 @@
       <last-replace>=</last-replace>
       <last-substitute>#</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
