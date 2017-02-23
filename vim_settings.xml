@@ -30,11 +30,13 @@
         <mark key="^" line="102" column="36" />
         <mark key="." line="102" column="36" />
       </file>
-      <file name="/a.dummy" timestamp="1487554668394">
+      <file name="/a.dummy" timestamp="1487819325271">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" timestamp="1487818625728">
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" timestamp="1487819489382">
         <mark key="'" line="49" column="50" />
+        <mark key="[" line="313" column="0" />
+        <mark key="]" line="314" column="100" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsRTXSearcher.java" timestamp="1484635643690">
         <mark key="'" line="10" column="13" />
@@ -122,12 +124,12 @@
         <mark key="." line="172" column="103" />
         <mark key="^" line="172" column="69" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" timestamp="1486948504588">
-        <mark key="'" line="100" column="45" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="92" />
-        <mark key="." line="80" column="62" />
-        <mark key="^" line="80" column="62" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" timestamp="1487820527770">
+        <mark key="'" line="15" column="13" />
+        <mark key="[" line="126" column="65" />
+        <mark key="]" line="126" column="69" />
+        <mark key="." line="126" column="69" />
+        <mark key="^" line="126" column="69" />
       </file>
       <file name="$USER_HOME$/workspace/mx_tsp_stub_service/src/main/java/com/mx/server/tsp/stub/controller/StubController.java" timestamp="1487557311575">
         <mark key="'" line="57" column="18" />
@@ -155,6 +157,12 @@
         <mark key="]" line="96" column="11" />
         <mark key="." line="96" column="11" />
         <mark key="^" line="96" column="23" />
+      </file>
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/HzNumberConverter.java" timestamp="1487820727076">
+        <mark key="[" line="486" column="17" />
+        <mark key="]" line="486" column="17" />
+        <mark key="^" line="486" column="18" />
+        <mark key="." line="486" column="17" />
       </file>
       <file name="$USER_HOME$/html/stat.html" timestamp="1482475683470">
         <mark key="'" line="163" column="20" />
@@ -336,7 +344,7 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="42" column="19" />
       </file>
-      <file name="/fragment.java" timestamp="1487817878458">
+      <file name="/fragment.java" timestamp="1487819934861">
         <mark key="'" line="0" column="43" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="21" />
@@ -353,7 +361,7 @@
       <file name="$USER_HOME$/.share/PEUSystem_DR/out/artifacts/PEUSystem_DR_war_exploded/WEB-INF/web.xml" timestamp="1487060617673">
         <mark key="'" line="123" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosSorter.java" timestamp="1487817956440">
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosSorter.java" timestamp="1487819976526">
         <mark key="[" line="260" column="20" />
         <mark key="]" line="260" column="34" />
         <mark key="." line="260" column="34" />
@@ -368,7 +376,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="121" column="28" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/autonavi/AmapDetailSearcher.java" />
       <jump line="78" column="21" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/autonavi/AmapDetailSearcher.java" />
       <jump line="112" column="20" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/autonavi/AmapDetailSearcher.java" />
       <jump line="107" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/autonavi/AmapDetailSearcher.java" />
@@ -468,16 +475,17 @@
       <jump line="126" column="46" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosSorter.java" />
       <jump line="0" column="43" filename="/fragment.java" />
       <jump line="49" column="50" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
+      <jump line="15" column="13" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>k</text>
+        <text>阳</text>
       </register>
       <register name="/" type="4">
         <text>authCode</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGludGVydmFsTWF0Y2ggPSBuaWNlQ250ID09IDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICBIYXNoTWFwPFN0cmluZywgSGFzaE1hcDxTdHJpbmcsIFN1YnN0aXR1dGVJbmZvPj4gaW5kZXhJbmZvTWFwU1NUID0gQ2FjaGVNYW5hZ2VyLlV0aWxDYWNoZS5zdWJzdGl0dXRlTmFtZU1hcDsKICAgICAgICBIYXNoTWFwPFN0cmluZywgU3Vic3RpdHV0ZUluZm8+IGluZGV4SW5mb01hcCA9IGluZGV4SW5mb01hcFNTVC5nZXQoY291bnRyeSArICJfIiArIGxhbmd1YWdlKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICh1c2VPcmdUZXJtcykgewogICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICBhbGxJbk5hbWUgPSBmYWxzZTsKICAgICAgICAgICAgICAgIH0K</text>
