@@ -79,8 +79,8 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="23" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" timestamp="1486534141079">
-        <mark key="'" line="129" column="8" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" timestamp="1487837823426">
+        <mark key="'" line="26" column="84" />
         <mark key="[" line="94" column="45" />
         <mark key="]" line="94" column="97" />
         <mark key="^" line="94" column="97" />
@@ -140,7 +140,7 @@
       <file name="$USER_HOME$/.share/PEUSystem_DR/src/main/java/com/mansion/peus/common/po/ActiveCodeOrder.java" timestamp="1487066248992">
         <mark key="'" line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsBaseSearcher.java" timestamp="1487835175723">
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsBaseSearcher.java" timestamp="1487837701249">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="704" column="12" />
         <mark key="]" line="704" column="20" />
@@ -380,7 +380,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="177" column="33" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/SuggestSearcher.java" />
       <jump line="222" column="27" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/SuggestSearcher.java" />
       <jump line="244" column="27" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/SuggestSearcher.java" />
       <jump line="283" column="26" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/SuggestSearcher.java" />
@@ -480,6 +479,7 @@
       <jump line="174" column="48" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosSorter.java" />
       <jump line="0" column="45" filename="/fragment.java" />
       <jump line="328" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosSorter.java" />
+      <jump line="26" column="84" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
