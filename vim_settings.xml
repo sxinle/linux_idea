@@ -48,7 +48,6 @@
         <mark key="]" line="12" column="16" />
         <mark key="." line="12" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/common/base/BaseSearcher.java" timestamp="1487750820742" />
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsRXTSearcher.java" timestamp="1487225872501">
         <mark key="'" line="118" column="17" />
         <mark key="[" line="119" column="8" />
@@ -337,7 +336,7 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="42" column="19" />
       </file>
-      <file name="/fragment.java" timestamp="1487753020860">
+      <file name="/fragment.java" timestamp="1487813004967">
         <mark key="'" line="0" column="92" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="21" />
@@ -354,12 +353,12 @@
       <file name="$USER_HOME$/.share/PEUSystem_DR/out/artifacts/PEUSystem_DR_war_exploded/WEB-INF/web.xml" timestamp="1487060617673">
         <mark key="'" line="123" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosSorter.java" timestamp="1487753624857">
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosSorter.java" timestamp="1487813925865">
         <mark key="'" line="90" column="27" />
-        <mark key="[" line="287" column="42" />
-        <mark key="]" line="287" column="52" />
-        <mark key="." line="287" column="52" />
-        <mark key="^" line="287" column="52" />
+        <mark key="[" line="299" column="0" />
+        <mark key="]" line="299" column="0" />
+        <mark key="." line="299" column="0" />
+        <mark key="^" line="298" column="51" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsAAASearcher.java" timestamp="1487043621497">
         <mark key="'" line="406" column="0" />
@@ -473,40 +472,40 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>0</text>
+        <text>ter</text>
       </register>
       <register name="/" type="4">
         <text>authCode</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFNvcnRlci5zb3J0RGlzdGFuY2UoZG9jSWRzLCBwYXJhbS5nZXRDb3VudHJ5KCksIHBhcmFtLmdldFBvc19sb24oKSwgcGFyYW0uZ2V0UG9zX2xhdCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGludGVydmFsTWF0Y2ggPSBuaWNlQ250ID09IDA7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyDmjpDlpLTljrvlsL7vvIzkuK3pl7Tlh6DkuKp0ZXJtc+eahOWtl+espumVv+W6puato+WlveetieS6jm5pY2VDbnQKICAgICAgICAgICAgICAgICAgICBuaWNlQ250ID09IChmaWVsZExlbmd0aCAtICh0ZXJtcy5nZXQoMCkubGVuZ3RoKCkgKyB0ZXJtcy5nZXQodGVybXMuc2l6ZSgpIC0gMSkubGVuZ3RoKCkpKTsK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIChpbnQgaSA9IDE7IGkgPCB0ZXJtcy5zaXplKCkgLSAxOyBpKyspIHsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IGlubmVyTGVuZ3RoID0gMDsvLyDljrvmjonnrKzkuIDkuKp0ZXJt77yM5pyA5ZCO5LiA5LiqdGVybe+8jOS4remXtHRlcm3lrZfnrKbplb/luqYK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvL+esrOS6jOasoeaOkuW6jwogICAgICAgIGlmICghIiIuZXF1YWxzKHBhcmFtLmdldFNlY29uZF9vcmRlcigpKSkgewogICAgICAgICAgICBpZiAoImRpc3RhbmNlIi5lcXVhbHMocGFyYW0uZ2V0U2Vjb25kX29yZGVyKCkpKSB7CiAgICAgICAgICAgICAgICBTb3J0VXRpbC5zb3J0RGlzdGFuY2UodXNlZExpc3QsIHBhcmFtLmdldFBvc19sb24oKSwgcGFyYW0uZ2V0UG9zX2xhdCgpKTsKICAgICAgICAgICAgfSBlbHNlIGlmICgiYWxsX2xldHRlcnMiLmVxdWFscyhwYXJhbS5nZXRTZWNvbmRfb3JkZXIoKSkpIHsKICAgICAgICAgICAgICAgIFNvcnRVdGlsLnNvcnRBbm5vdW5jZW1lbnQodXNlZExpc3QpOwogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICDpl7TpmpQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvL+WvuWRvY0lk6L+b6KGM5omT5YiG5o6S5bqP77yM56ys5LiA5qyh5o6S5bqPCiAgICAgICAgU29ydFV0aWwuc29ydFNjb3JlKHBvaXMsIHBhcmFtLmdldEtleXdvcmRzKCksIHBhcmFtLmdldFBvc19sb24oKSwgcGFyYW0uZ2V0UG9zX2xhdCgpKTsKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChpbnQgaSA9IDE7IGkgPCB0ZXJtcy5zaXplKCkgLSAxOyBpKyspIHsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIExpc3Q8SWRXaXRoVGVybXM+IHNvcnQoTGlzdDxJZFdpdGhUZXJtcz4gZG9jSWRzLCBpbnQgZm9yT3ZlcnJpZGUpIHsKICAgICAgICByZXR1cm4gc29ydChkb2NJZHMpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IGlubmVyTGVuZ3RoID0gMDsvLyDljrvmjonnrKzkuIDkuKp0ZXJt77yM5pyA5ZCO5LiA5LiqdGVybe+8jOS4remXtHRlcm3lrZfnrKbplb/luqYK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -519,7 +518,7 @@
       <last-replace>=</last-replace>
       <last-substitute>#</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
