@@ -305,6 +305,13 @@
         <mark key="]" line="3" column="25" />
         <mark key="." line="3" column="25" />
       </file>
+      <file name="$USER_HOME$/workspace/uauth/src/main/web/s/js/admin/customer/customer.js" timestamp="1488188170764">
+        <mark key="'" line="353" column="38" />
+        <mark key="[" line="6" column="27" />
+        <mark key="]" line="7" column="14" />
+        <mark key="." line="7" column="14" />
+        <mark key="^" line="7" column="14" />
+      </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/SuggestSearcher.java" timestamp="1487216576420">
         <mark key="'" line="47" column="41" />
         <mark key="[" line="178" column="0" />
@@ -332,12 +339,12 @@
         <mark key="^" line="326" column="35" />
         <mark key="." line="326" column="35" />
       </file>
-      <file name="$USER_HOME$/workspace/uauth/src/main/resources/app.properties" timestamp="1488182221629">
+      <file name="$USER_HOME$/workspace/uauth/src/main/resources/app.properties" timestamp="1488186567200">
         <mark key="'" line="64" column="11" />
-        <mark key="[" line="71" column="40" />
-        <mark key="]" line="71" column="41" />
-        <mark key="." line="71" column="41" />
-        <mark key="^" line="63" column="41" />
+        <mark key="[" line="25" column="39" />
+        <mark key="]" line="25" column="39" />
+        <mark key="." line="25" column="39" />
+        <mark key="^" line="25" column="39" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Constants.java" timestamp="1487912770154">
         <mark key="'" line="10" column="13" />
@@ -345,6 +352,13 @@
         <mark key="]" line="109" column="0" />
         <mark key="." line="109" column="0" />
         <mark key="^" line="102" column="51" />
+      </file>
+      <file name="$USER_HOME$/workspace/uauth/src/main/web/WEB-INF/view/jsp/admin/customer/add.jsp" timestamp="1488187234536">
+        <mark key="'" line="175" column="56" />
+        <mark key="[" line="267" column="34" />
+        <mark key="]" line="267" column="43" />
+        <mark key="." line="267" column="34" />
+        <mark key="^" line="270" column="42" />
       </file>
       <file name="$USER_HOME$/workspace/jrec/src/main/java/RebelForAndroid.java" timestamp="1481269828716">
         <mark key="'" line="83" column="0" />
@@ -431,14 +445,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="124" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsTSearcher.java" />
-      <jump line="47" column="13" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
-      <jump line="1075" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
-      <jump line="159" column="38" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
-      <jump line="16" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsTSearcher.java" />
-      <jump line="72" column="60" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsBaseSearcher.java" />
-      <jump line="35" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/UsePosSorter.java" />
-      <jump line="12" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsXYTSearcher.java" />
       <jump line="25" column="15" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsXYTSearcher.java" />
       <jump line="99" column="4" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsTSearcher.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/search/pom.xml" />
@@ -531,62 +537,67 @@
       <jump line="7" column="11" filename="$USER_HOME$/workspace/uauth/src/main/resources/cities.txt" />
       <jump line="15" column="51" filename="$USER_HOME$/workspace/uauth/src/main/resources/app.properties" />
       <jump line="64" column="11" filename="$USER_HOME$/workspace/uauth/src/main/resources/app.properties" />
+      <jump line="273" column="56" filename="$USER_HOME$/workspace/uauth/src/main/web/WEB-INF/view/jsp/admin/customer/add.jsp" />
+      <jump line="277" column="56" filename="$USER_HOME$/workspace/uauth/src/main/web/WEB-INF/view/jsp/admin/customer/add.jsp" />
+      <jump line="260" column="51" filename="$USER_HOME$/workspace/uauth/src/main/web/WEB-INF/view/jsp/admin/customer/add.jsp" />
+      <jump line="270" column="16" filename="$USER_HOME$/workspace/uauth/src/main/web/WEB-INF/view/jsp/admin/customer/add.jsp" />
+      <jump line="271" column="16" filename="$USER_HOME$/workspace/uauth/src/main/web/WEB-INF/view/jsp/admin/customer/add.jsp" />
+      <jump line="175" column="56" filename="$USER_HOME$/workspace/uauth/src/main/web/WEB-INF/view/jsp/admin/customer/add.jsp" />
+      <jump line="23" column="53" filename="$USER_HOME$/workspace/uauth/src/main/web/s/js/admin/customer/customer.js" />
+      <jump line="348" column="38" filename="$USER_HOME$/workspace/uauth/src/main/web/s/js/admin/customer/customer.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXZDbnRcPg==</text>
+        <text>已存在</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFLlpoLmnpzlnKjlkI7pnaIs77yy5LmL5YmN5b+F6aG75pyJ56m65qC8LOS+i+WmgiB76IKv5b635Z+6IOi+veWugeayiOmYsyBUUn0ge+iCr+W+t+Wfuui+veWugeayiOmYsyBUWH0K</text>
+      <register name="0" type="4">
+        <text>roads</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHJvYWRzLmZvckVhY2goZnVuY3Rpb24obm9kZSkgewogICAgICAgIHJvYWRTdHIgKz0gbm9kZS5pZCArICcsJzsKICAgIH0pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IgKGludCBpID0gKytsYXN0SW5kZXg7IGkgPCB0ZXJtcy5zaXplKCk7IGkrKykgewogICAgICAgICAgICAgICAgICAgICAgICB0ZXJtcy5nZXQoaSkuc2V0TGFibGUoUik7CiAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIGNpdGllcy5mb3JFYWNoKGZ1bmN0aW9uKG5vZGUpIHsKICAgICAgICBjaXR5U3RyICs9IG5vZGUuaWQgKyAnLCc7CiAgICB9KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGVybSBsYXN0ID0gdGVybXMuZ2V0KGxhc3RJbmRleCk7Cg==</text>
+        <text encoding="base64">ICAgIGFsZXJ0KGNpdHlTdHIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGlmICh1c2VySW5wdXQubWF0Y2hlcygiLipbXFxzfFxcdTMwMDBdIiArIHJLZXkpKSB7IOWPiOaUueS6hu+8jOayoeepuuagvOS5n+aYr1IK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFLlpoLmnpzlnKjlkI7pnaIs77yy5LmL5YmN5b+F6aG75pyJ56m65qC8LOS+i+WmgiB76IKv5b635Z+6IOi+veWugeayiOmYsyBUUn0ge+iCr+W+t+Wfuui+veWugeayiOmYsyBUWH0K</text>
+        <text encoding="base64">ICAgIGNpdGllcy5mb3IK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBhbGFlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIChpbnQgayA9IDE7IGsgPCB0ZXJtUG9zLmxlbmd0aDsgaysrKSB7Ly8gayA9IDEg55Wl6L+H5Ye6546w5qyh5pWwCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnY3VzdG9tZXJUd2ljZVB3ZCcpLmZvY3VzKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnY3VzdG9tZXJUd2ljZVB3ZCcpLmZvY3VzKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZXZDbnRcPg==</last-search>
+      <last-search>已存在</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXZDbnRcPg==</last-pattern>
+      <last-pattern>已存在</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>#</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>e.prin</entry>
-        <entry>序列化</entry>
-        <entry encoding="base64">XDxhY29cPg==</entry>
         <entry>current</entry>
         <entry>curr</entry>
         <entry>PoisBean</entry>
@@ -604,6 +615,9 @@
         <entry encoding="base64">XDxmaWVsZExlbmd0aFw+</entry>
         <entry>TERM_KEY_PINYIN</entry>
         <entry encoding="base64">XDxyZXZDbnRcPg==</entry>
+        <entry>focus</entry>
+        <entry encoding="base64">XDxwd2RUd2ljZUhpbnRcPg==</entry>
+        <entry>已存在</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzEvMi9n</entry>
