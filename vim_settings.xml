@@ -71,12 +71,12 @@
         <mark key="^" line="94" column="97" />
         <mark key="." line="94" column="97" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/RevAndMatchSetter.java" timestamp="1488270435919">
-        <mark key="'" line="36" column="36" />
-        <mark key="[" line="23" column="20" />
-        <mark key="]" line="23" column="20" />
-        <mark key="^" line="23" column="52" />
-        <mark key="." line="23" column="20" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/RevAndMatchSetter.java" timestamp="1488272342328">
+        <mark key="'" line="118" column="0" />
+        <mark key="[" line="24" column="51" />
+        <mark key="]" line="24" column="63" />
+        <mark key="." line="24" column="63" />
+        <mark key="^" line="24" column="63" />
       </file>
       <file name="$USER_HOME$/workspace/py/zest/test.py" timestamp="1481168575785">
         <mark key="'" line="0" column="0" />
@@ -464,8 +464,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="31" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/TermsSetter.java" />
-      <jump line="69" column="35" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/TermsSetter.java" />
       <jump line="34" column="12" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/NiceCntSetter.java" />
       <jump line="35" column="8" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/NiceCntSetter.java" />
       <jump line="62" column="8" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/TermsSetter.java" />
@@ -564,43 +562,45 @@
       <jump line="169" column="12" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" />
       <jump line="26" column="13" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" />
       <jump line="20" column="30" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" />
+      <jump line="24" column="40" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/RevAndMatchSetter.java" />
+      <jump line="119" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/RevAndMatchSetter.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>pinyinPos = 0;</text>
+        <text>, fromIndex</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpZFRlcm1zXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwaW55aW5Qb3MgPSBpZFdpdGhTY29yZS5vcmdUZXJtcy5nZXQoMCkuaW5kZXhPZih0ZXJtLmNoYXJBdCgwKSk7Cg==</text>
+      <register name="0" type="4">
+        <text>&quot;tjt&quot;.indexOf(&quot;tian&quot;.charAt(0), 0) == 0</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgcGlueWluUG9zID0gaWRXaXRoU2NvcmUub3JnVGVybXMuZ2V0KDApLmluZGV4T2YodGVybS5jaGFyQXQoMCkpOwogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETyDmi7zpn7Pmo4DntKLvvIzmmoLml7bmiorpobrluo/kuI3lr7nnmoTpg73lvoDlkI7mlL4s5bCG5p2l6ICD6JmR5aSa5Liq5L2N572u55qE5oOF5Ya1Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChpZFdpdGhTY29yZS5zaG91cGluU2VhcmNoKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8qICJ0anQiLmluZGV4T2YoInRpYW4iLmNoYXJBdCgwKSwgMCkgPT0gMCAidGp0Ii5pbmRleE9mKCJ0aWFuIi5jaGFyQXQoMCksIDEpID09IDIgKi8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IGZyb21JbmRleCA9IDA7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKHBpbikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBwaW55aW5Qb3MgPSBpZFdpdGhTY29yZS5vcmdUZXJtcy5nZXQoMCkuaW5kZXhPZih0ZXJtLmNoYXJBdCgwKSk7Cg==</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKSB7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJ0anQiLmluZGV4T2YoInQiLCAxKSk7CiAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZFRlcm1zLmZvckVhY2goaWQgLT4gKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJ0anQiLmluZGV4Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZAo=</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBMaXN0PEludGVnZXI+IGFyciA9IG5ldyBBcnJheUxpc3Q8PigpOy8vIHRlcm0g5Ye6546w5ZyoIHNvcnRGaWVsZFR5cGUg5Lit55qE5L2N572uCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBJZFdpdGhUZXJtcy4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgcGlueWluUG9zID0gaWRXaXRoU2NvcmUub3JnVGVybXMuZ2V0KDApLmluZGV4T2YodGVybS5jaGFyQXQoMCkpOwogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBJZFdpdGhUZXJtcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChpZFdpdGhTY29yZS5zaG91cGluU2VhcmNoKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
