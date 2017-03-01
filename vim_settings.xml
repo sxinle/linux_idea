@@ -81,11 +81,12 @@
         <mark key="^" line="94" column="97" />
         <mark key="." line="94" column="97" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/RevAndMatchSetter.java" timestamp="1488273610373">
-        <mark key="[" line="76" column="53" />
-        <mark key="]" line="76" column="53" />
-        <mark key="^" line="76" column="53" />
-        <mark key="." line="76" column="53" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/RevAndMatchSetter.java" timestamp="1488370067646">
+        <mark key="'" line="20" column="52" />
+        <mark key="[" line="24" column="65" />
+        <mark key="]" line="25" column="15" />
+        <mark key="^" line="25" column="15" />
+        <mark key="." line="25" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/py/zest/test.py" timestamp="1481168575785">
         <mark key="'" line="0" column="0" />
@@ -195,8 +196,8 @@
         <mark key="." line="96" column="11" />
         <mark key="^" line="96" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" timestamp="1488356480841">
-        <mark key="'" line="168" column="29" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" timestamp="1488369479376">
+        <mark key="'" line="145" column="0" />
         <mark key="[" line="168" column="24" />
         <mark key="]" line="168" column="28" />
         <mark key="." line="168" column="28" />
@@ -269,12 +270,6 @@
         <mark key="]" line="119" column="103" />
         <mark key="." line="54" column="53" />
         <mark key="^" line="54" column="53" />
-      </file>
-      <file name="$USER_HOME$/workspace/uauth/src/main/web/WEB-INF/view/jsp/admin/customer/cpwd.jsp" timestamp="1488251889892">
-        <mark key="[" line="70" column="33" />
-        <mark key="]" line="70" column="36" />
-        <mark key="." line="70" column="36" />
-        <mark key="^" line="70" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/NiceCntSetter.java" timestamp="1488270719546">
         <mark key="'" line="19" column="79" />
@@ -461,12 +456,12 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="42" column="19" />
       </file>
-      <file name="/fragment.java" timestamp="1488334551328">
+      <file name="/fragment.java" timestamp="1488369500673">
         <mark key="'" line="0" column="39" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
+        <mark key="]" line="0" column="18" />
         <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="." line="0" column="18" />
       </file>
       <file name="$USER_HOME$/.share/PEUSystem_DR/src/main/resources/log4j.properties" timestamp="1487069278902">
         <mark key="'" line="14" column="0" />
@@ -494,8 +489,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="270" column="16" filename="$USER_HOME$/workspace/uauth/src/main/web/WEB-INF/view/jsp/admin/customer/add.jsp" />
-      <jump line="271" column="16" filename="$USER_HOME$/workspace/uauth/src/main/web/WEB-INF/view/jsp/admin/customer/add.jsp" />
       <jump line="175" column="56" filename="$USER_HOME$/workspace/uauth/src/main/web/WEB-INF/view/jsp/admin/customer/add.jsp" />
       <jump line="23" column="53" filename="$USER_HOME$/workspace/uauth/src/main/web/s/js/admin/customer/customer.js" />
       <jump line="348" column="38" filename="$USER_HOME$/workspace/uauth/src/main/web/s/js/admin/customer/customer.js" />
@@ -594,10 +587,12 @@
       <jump line="86" column="37" filename="$USER_HOME$/workspace/uauth/src/main/web/WEB-INF/view/jsp/admin/customer/list.jsp" />
       <jump line="19" column="0" filename="$USER_HOME$/workspace/uauth/src/main/web/WEB-INF/view/jsp/common/base.jsp" />
       <jump line="10" column="92" filename="$USER_HOME$/workspace/uauth/src/main/web/WEB-INF/view/jsp/admin/index.jsp" />
+      <jump line="145" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" />
+      <jump line="20" column="52" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/RevAndMatchSetter.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>/</text>
+        <text>term</text>
       </register>
       <register name="/" type="4">
         <text>getSelec</text>
@@ -609,28 +604,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdmlldzsK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlucHV0Q29weSA9IGlucHV0Q29weS5zdWJzdHJpbmcoMSk7Ly8g5om+5a6M5LiA5Liq5a2X5q+N77yM5bCx5Yig5o6JCg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBNYXAgbWFwID0gbmV3IEhhc2hNYXAoKTsKICAgICAgICBtYXAuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBNb2RlbEFuZFZpZXcgdmlldyA9IG5ldyBNb2RlbEFuZFZpZXcoVklFVy5BRE1JTl9DVVNUT01FUl9MSVNUKTsKICAgICAgICB2aWV3LmFkZE9iamVjdCgiY3MiLCBjcyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBPUExvZyhkZXNjcmlwdGlvbiA9ICLmn6Xor6LlrqLmiLfliJfooagiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlucHV0Q29weSA9IGlucHV0Q29weS5yZXBsYWNlRmlyc3QoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJlbnQubG9jYXRpb24ucmVsb2FkKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBoaXN0b3J5Lgo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdmlldzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2luZG93LnJlbG9hZCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
