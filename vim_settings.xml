@@ -26,12 +26,12 @@
       <file name="/a.dummy" timestamp="1488349565217">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" timestamp="1488420493416">
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" timestamp="1488424663649">
         <mark key="'" line="37" column="9" />
-        <mark key="[" line="1039" column="47" />
-        <mark key="]" line="1039" column="47" />
-        <mark key="." line="1039" column="47" />
-        <mark key="^" line="1039" column="47" />
+        <mark key="[" line="1047" column="35" />
+        <mark key="]" line="1047" column="40" />
+        <mark key="." line="1047" column="40" />
+        <mark key="^" line="1047" column="40" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsRTXSearcher.java" timestamp="1484635643690">
         <mark key="'" line="10" column="13" />
@@ -206,18 +206,18 @@
         <mark key="." line="96" column="11" />
         <mark key="^" line="96" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" timestamp="1488423550067">
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" timestamp="1488424333455">
         <mark key="'" line="118" column="36" />
-        <mark key="[" line="104" column="111" />
-        <mark key="]" line="104" column="111" />
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="120" />
         <mark key="." line="104" column="111" />
         <mark key="^" line="104" column="43" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/SpecialHandler.java" timestamp="1488421066142">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-        <mark key="^" line="45" column="49" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/SpecialHandler.java" timestamp="1488424393526">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
+        <mark key="^" line="51" column="50" />
       </file>
       <file name="$USER_HOME$/html/stat.html" timestamp="1482475683470">
         <mark key="'" line="163" column="20" />
@@ -237,6 +237,10 @@
         <mark key="]" line="194" column="9" />
         <mark key="." line="194" column="9" />
         <mark key="^" line="194" column="9" />
+      </file>
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/UserInputSpecialCase.java" timestamp="1488424692465">
+        <mark key="[" line="6" column="14" />
+        <mark key="]" line="6" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/uauth/src/main/web/WEB-INF/view/jsp/admin/login.jsp" timestamp="1487734670304">
         <mark key="'" line="14" column="41" />
@@ -603,40 +607,40 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>{</text>
+        <text>docId</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0ZXJtc01hcFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocG9zMSA9PSBudWxsICYmIHBvczIgIT0gbnVsbCkgcmV0dXJuIDE7Cg==</text>
+      <register name="0" type="4">
+        <text>lnkdwjl</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gMDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBieXRlW10gcG9zMiA9IGlkV2l0aFNjb3JlLmdldFRlcm1Qb3MoaWRXaXRoU2NvcmUuc29ydEZpZWxkVHlwZSwgdGVybTIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnl0ZVtdIHRlcm1Qb3MgPSBpZFdpdGhTY29yZS5nZXRUZXJtUG9zKGlkV2l0aFNjb3JlLnNvcnRGaWVsZFR5cGUsIGlkV2l0aFNjb3JlLnRlcm1zLmdldChpKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBieXRlW10gcG9zMiA9IGlkV2l0aFNjb3JlLmdldFRlcm1Qb3MoaWRXaXRoU2NvcmUuc29ydEZpZWxkVHlwZSwgdGVybTIpOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYnl0ZVtdIHRlcm1Qb3MgPSBpZFdpdGhTY29yZS5nZXRUZXJtUG9zKGlkV2l0aFNjb3JlLnNvcnRGaWVsZFR5cGUsIGlkV2l0aFNjb3JlLnRlcm1zLmdldChpKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnl0ZVtdIHRlcm1Qb3MgPSBVdGlsaXR5LmdldFRlcm1Qb3MoaWRXaXRoU2NvcmUuaWRXaXRoVGVybXMuZ2V0RG9jSWQoKSwgaWRXaXRoU2NvcmUudGVybXMuZ2V0KGkpLCBpZFdpdGhTY29yZS5zb3J0RmllbGRUeXBlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnl0ZVtdIHRlcm1Qb3MgPSBpZFdpdGhTY29yZS5nZXRUZXJtUG9zKGlkV2l0aFNjb3JlLnNvcnRGaWVsZFR5cGUsIGlkV2l0aFNjb3JlLnRlcm1zLmdldChpKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
