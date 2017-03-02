@@ -169,8 +169,8 @@
         <mark key="^" line="10" column="3" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" timestamp="1488434695310">
-        <mark key="'" line="138" column="68" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" timestamp="1488436494022">
+        <mark key="'" line="100" column="13" />
         <mark key="[" line="41" column="23" />
         <mark key="]" line="41" column="33" />
         <mark key="." line="41" column="33" />
@@ -384,8 +384,8 @@
         <mark key="." line="99" column="16" />
         <mark key="^" line="99" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" timestamp="1488174407526">
-        <mark key="'" line="48" column="39" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" timestamp="1488437043872">
+        <mark key="'" line="405" column="32" />
         <mark key="[" line="326" column="34" />
         <mark key="]" line="326" column="35" />
         <mark key="^" line="326" column="35" />
@@ -471,12 +471,12 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="42" column="19" />
       </file>
-      <file name="/fragment.java" timestamp="1488432917159">
+      <file name="/fragment.java" timestamp="1488436754308">
         <mark key="'" line="0" column="41" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="25" />
-        <mark key="^" line="0" column="25" />
-        <mark key="." line="0" column="25" />
+        <mark key="]" line="0" column="44" />
+        <mark key="^" line="0" column="44" />
+        <mark key="." line="0" column="44" />
       </file>
       <file name="$USER_HOME$/.share/PEUSystem_DR/src/main/resources/log4j.properties" timestamp="1487069278902">
         <mark key="'" line="14" column="0" />
@@ -504,10 +504,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="21" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/doc/DocAttr.java" />
-      <jump line="152" column="0" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/doc/DocAttr.java" />
-      <jump line="84" column="27" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" />
-      <jump line="19" column="15" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/RevAndMatchSetter.java" />
       <jump line="69" column="24" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/RevAndMatchSetter.java" />
       <jump line="77" column="36" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/RevAndMatchSetter.java" />
       <jump line="82" column="36" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/RevAndMatchSetter.java" />
@@ -604,13 +600,17 @@
       <jump line="61" column="6" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
       <jump line="35" column="65" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
       <jump line="126" column="68" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
+      <jump line="416" column="4" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" />
+      <jump line="397" column="20" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" />
+      <jump line="405" column="32" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" />
+      <jump line="100" column="13" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>在</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1c2VySW5wdXRcPg==</text>
+        <text>endwith</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHN0cjJOdW0gPSBjb252ZXJ0TnVtKHJldHNbMF0udGVybSk7Cg==</text>
@@ -647,9 +647,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1c2VySW5wdXRcPg==</last-search>
+      <last-search>endwith</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1c2VySW5wdXRcPg==</last-pattern>
+      <last-pattern>endwith</last-pattern>
       <last-replace>aliasFullMatch</last-replace>
       <last-substitute>nameFullMatch</last-substitute>
       <last-dir>1</last-dir>
@@ -657,7 +657,6 @@
     </search>
     <history>
       <history-search>
-        <entry>nameFullMatch</entry>
         <entry encoding="base64">XDx1c2VPcmdUZXJtc1w+</entry>
         <entry encoding="base64">XDxpZFdpdGhUZXJtc1w+</entry>
         <entry>KEY_Name</entry>
@@ -677,6 +676,7 @@
         <entry>get</entry>
         <entry encoding="base64">XDx0ZXJtc01hcFw+</entry>
         <entry encoding="base64">XDx1c2VySW5wdXRcPg==</entry>
+        <entry>endwith</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzEvMi9n</entry>
