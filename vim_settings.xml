@@ -158,7 +158,7 @@
         <mark key="^" line="10" column="3" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" timestamp="1488443964464">
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" timestamp="1488525100040">
         <mark key="'" line="100" column="13" />
         <mark key="[" line="41" column="23" />
         <mark key="]" line="41" column="33" />
@@ -203,8 +203,8 @@
       <file name="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/lang/String.java" timestamp="1488438694840">
         <mark key="'" line="2323" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" timestamp="1488523607478">
-        <mark key="'" line="129" column="36" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" timestamp="1488524933609">
+        <mark key="'" line="95" column="18" />
         <mark key="[" line="100" column="0" />
         <mark key="]" line="100" column="0" />
         <mark key="^" line="97" column="20" />
@@ -466,12 +466,12 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="42" column="19" />
       </file>
-      <file name="/fragment.java" timestamp="1488523480134">
+      <file name="/fragment.java" timestamp="1488524569711">
         <mark key="'" line="0" column="105" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="3" />
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="1" />
         <mark key="^" line="0" column="3" />
-        <mark key="." line="0" column="3" />
+        <mark key="." line="0" column="1" />
       </file>
       <file name="$USER_HOME$/.share/PEUSystem_DR/src/main/resources/log4j.properties" timestamp="1487069278902">
         <mark key="'" line="14" column="0" />
@@ -499,7 +499,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="46" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" />
       <jump line="186" column="55" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" />
       <jump line="92" column="30" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" />
       <jump line="129" column="38" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" />
@@ -599,10 +598,11 @@
       <jump line="13" column="31" filename="$USER_HOME$/workspace/uauth/src/main/resources/app.properties" />
       <jump line="55" column="36" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" />
       <jump line="126" column="36" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" />
+      <jump line="95" column="18" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>root</text>
+        <text>dWithTerms.docId==2378463626235724056L</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0ZXJtTGVuTm9DaGFuZ2VcPg==</text>
