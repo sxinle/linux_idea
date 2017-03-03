@@ -92,11 +92,12 @@
         <mark key="^" line="94" column="97" />
         <mark key="." line="94" column="97" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/RevAndMatchSetter.java" timestamp="1488455204611">
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/RevAndMatchSetter.java" timestamp="1488510214383">
         <mark key="'" line="101" column="55" />
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="84" column="0" />
-        <mark key="." line="84" column="0" />
+        <mark key="[" line="42" column="93" />
+        <mark key="]" line="42" column="117" />
+        <mark key="." line="42" column="117" />
+        <mark key="^" line="42" column="117" />
       </file>
       <file name="$USER_HOME$/workspace/py/zest/test.py" timestamp="1481168575785">
         <mark key="'" line="0" column="0" />
@@ -148,7 +149,7 @@
         <mark key="^" line="32" column="32" />
         <mark key="." line="32" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/TermsSetter.java" timestamp="1488442257852">
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/TermsSetter.java" timestamp="1488510232371">
         <mark key="'" line="53" column="0" />
         <mark key="[" line="32" column="114" />
         <mark key="]" line="33" column="53" />
@@ -208,7 +209,7 @@
       <file name="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/lang/String.java" timestamp="1488438694840">
         <mark key="'" line="2323" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" timestamp="1488507596310">
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" timestamp="1488509695540">
         <mark key="'" line="69" column="0" />
         <mark key="[" line="22" column="44" />
         <mark key="]" line="22" column="44" />
@@ -360,7 +361,7 @@
       <file name="/SemanticsTSearcher.java" timestamp="1488005536466">
         <mark key="'" line="100" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1488449750196">
+      <file name="/Dummy.txt" timestamp="1488510252627">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="25" />
         <mark key="." line="3" column="25" />
@@ -479,7 +480,7 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="42" column="19" />
       </file>
-      <file name="/fragment.java" timestamp="1488507595094">
+      <file name="/fragment.java" timestamp="1488510016268">
         <mark key="'" line="0" column="105" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="44" />
@@ -503,7 +504,7 @@
         <mark key="." line="287" column="62" />
         <mark key="^" line="287" column="62" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsAAASearcher.java" timestamp="1488246582733">
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsAAASearcher.java" timestamp="1488510044980">
         <mark key="'" line="466" column="27" />
         <mark key="[" line="449" column="8" />
         <mark key="]" line="449" column="16" />
@@ -615,7 +616,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>nameLen1</text>
+        <text>IndexInfoArr.TERM_KEY_NAME</text>
       </register>
       <register name="/" type="4">
         <text>pos</text>
