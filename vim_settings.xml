@@ -208,8 +208,8 @@
       <file name="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/lang/String.java" timestamp="1488438694840">
         <mark key="'" line="2323" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" timestamp="1488766228545">
-        <mark key="'" line="47" column="44" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" timestamp="1488766410206">
+        <mark key="'" line="210" column="0" />
         <mark key="[" line="31" column="39" />
         <mark key="]" line="31" column="51" />
         <mark key="^" line="31" column="51" />
@@ -503,7 +503,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="139" column="26" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
       <jump line="149" column="29" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
       <jump line="260" column="15" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
       <jump line="607" column="46" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
@@ -583,7 +582,6 @@
       <jump line="193" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" />
       <jump line="72" column="23" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" />
       <jump line="85" column="12" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" />
-      <jump line="210" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" />
       <jump line="170" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" />
       <jump line="26" column="4" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticRet.java" />
       <jump line="14" column="41" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticRet.java" />
@@ -603,6 +601,8 @@
       <jump line="49" column="23" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" />
       <jump line="70" column="17" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" />
       <jump line="47" column="44" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" />
+      <jump line="44" column="58" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" />
+      <jump line="210" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
