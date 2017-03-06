@@ -89,11 +89,11 @@
         <mark key="." line="67" column="103" />
         <mark key="^" line="67" column="103" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/T.java" timestamp="1488786262189">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="43" />
-        <mark key="." line="9" column="29" />
-        <mark key="^" line="9" column="29" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/T.java" timestamp="1488786424863">
+        <mark key="[" line="7" column="34" />
+        <mark key="]" line="7" column="34" />
+        <mark key="." line="7" column="34" />
+        <mark key="^" line="7" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/py/zest/test.py" timestamp="1481168575785">
         <mark key="'" line="0" column="0" />
@@ -390,12 +390,12 @@
         <mark key="." line="99" column="16" />
         <mark key="^" line="99" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" timestamp="1488785209768">
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" timestamp="1488786586698">
         <mark key="'" line="55" column="8" />
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="76" column="20" />
-        <mark key="." line="76" column="20" />
-        <mark key="^" line="76" column="20" />
+        <mark key="[" line="132" column="37" />
+        <mark key="]" line="132" column="37" />
+        <mark key="." line="132" column="37" />
+        <mark key="^" line="133" column="40" />
       </file>
       <file name="$USER_HOME$/workspace/uauth/src/main/resources/app.properties" timestamp="1488522908112">
         <mark key="'" line="13" column="31" />
@@ -613,7 +613,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>?</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzeW1ib2xSZWdleFw+</text>
@@ -622,31 +622,31 @@
         <text encoding="base64">ICAgICAgICBTdHJpbmcgcmVnZXggPSAiKOacuuWcunzngavovabnq5l85aSn5a2mKSguezIsfSkiOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobS5ncm91cENvdW50KCkgPT0gMikgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVnZXg7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKG0uZ3JvdXAoMSkpOwogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obS5ncm91cCgwKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBEYXRhRm9ybWF0UmVhZGVycy5NYXRjaGsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB3aGlsZSAobS5maW5kKCkpIHsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBXb3JkVHlwZUp1ZGdlci5pbXBvcnRhbnRUYWcuZm9yRWFjaCgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKG0uZ3JvdXAoMSkpOwogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obS5ncm91cCgxKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc291dAo=</text>
+        <text encoding="base64">ICAgICAgICBzcGVjaWFsVGFnLmZvckVhY2goKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBQYXR0ZXJuIHAgPSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBNYXRjaGVyIG0gPSBQYXR0ZXJuLmNvbQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
