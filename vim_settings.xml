@@ -31,12 +31,6 @@
         <mark key="'" line="10" column="29" />
       </file>
       <file name="$USER_HOME$/.share/Adobe Reader XI.lnk/src/main/java/com/mansion/peus/clientadmin/serviceimpl/ClientAdminCountServiceImpl.java" timestamp="1488874554197" />
-      <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/doc/DocAttr.java" timestamp="1488885524679">
-        <mark key="'" line="153" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="152" column="1" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/index/IndexInfoArr.java" timestamp="1488884315823">
         <mark key="'" line="21" column="22" />
       </file>
@@ -165,8 +159,8 @@
         <mark key="[" line="276" column="0" />
         <mark key="]" line="280" column="5" />
       </file>
-      <file name="/DocAttr.java" timestamp="1488885515807">
-        <mark key="'" line="45" column="28" />
+      <file name="/DocAttr.java" timestamp="1488885886973">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="152" column="0" />
       </file>
@@ -201,6 +195,13 @@
       </file>
       <file name="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/business/poi/action/PoiController.java" timestamp="1488789344428">
         <mark key="'" line="37" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/Sorter.java" timestamp="1488885860725">
+        <mark key="'" line="144" column="0" />
+        <mark key="[" line="144" column="0" />
+        <mark key="]" line="144" column="0" />
+        <mark key="^" line="22" column="18" />
+        <mark key="." line="144" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/LabelRechecker.java" timestamp="1488854529233">
         <mark key="'" line="139" column="0" />
@@ -250,11 +251,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="161" column="43" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" />
-      <jump line="396" column="6" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" />
-      <jump line="41" column="28" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" />
-      <jump line="13" column="21" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/transfer/req/BaseParam.java" />
-      <jump line="63" column="29" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" />
       <jump line="42" column="44" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" />
       <jump line="46" column="8" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" />
       <jump line="47" column="8" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" />
@@ -344,16 +340,21 @@
       <jump line="68" column="20" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/doc/DocAttr.java" />
       <jump line="25" column="30" filename="/DocAttr.java" />
       <jump line="12" column="0" filename="/DocAttr.java" />
-      <jump line="0" column="0" filename="/DocAttr.java" />
       <jump line="45" column="28" filename="/DocAttr.java" />
       <jump line="13" column="45" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/doc/DocAttr.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/doc/DocAttr.java" />
       <jump line="25" column="42" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/doc/DocAttr.java" />
       <jump line="153" column="0" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/doc/DocAttr.java" />
+      <jump line="115" column="16" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/doc/DocAttr.java" />
+      <jump line="42" column="0" filename="/DocAttr.java" />
+      <jump line="43" column="24" filename="/DocAttr.java" />
+      <jump line="47" column="46" filename="/DocAttr.java" />
+      <jump line="13" column="28" filename="/DocAttr.java" />
+      <jump line="0" column="0" filename="/DocAttr.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">CQ==</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>half</text>
