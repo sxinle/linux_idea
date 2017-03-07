@@ -1,5 +1,7 @@
 <application>
   <component name="ParameterNameHintsSettings">
-    <blacklists />
+    <blacklists>
+      <blacklist language="Java" />
+    </blacklists>
   </component>
 </application>
