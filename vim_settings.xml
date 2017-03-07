@@ -416,6 +416,9 @@
       <file name="$USER_HOME$/workspace/mx_tsp_stub_service/db/003_db_mx_tsp_stub_insert_data.sql" timestamp="1487557275465">
         <mark key="'" line="15" column="43" />
       </file>
+      <file name="/SemanticsBaseSearcher.java" timestamp="1488852464115">
+        <mark key="'" line="613" column="25" />
+      </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsTXSearcher.java" timestamp="1487913327220">
         <mark key="'" line="102" column="0" />
         <mark key="[" line="99" column="8" />
@@ -423,11 +426,12 @@
         <mark key="." line="99" column="16" />
         <mark key="^" line="99" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" timestamp="1488852378453">
-        <mark key="[" line="55" column="65" />
-        <mark key="]" line="55" column="64" />
-        <mark key="." line="55" column="64" />
-        <mark key="^" line="55" column="64" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" timestamp="1488852568615">
+        <mark key="'" line="44" column="8" />
+        <mark key="[" line="52" column="28" />
+        <mark key="]" line="52" column="30" />
+        <mark key="." line="52" column="30" />
+        <mark key="^" line="52" column="30" />
       </file>
       <file name="$USER_HOME$/workspace/uauth/src/main/resources/app.properties" timestamp="1488522908112">
         <mark key="'" line="13" column="31" />
@@ -546,8 +550,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="23" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" />
-      <jump line="52" column="41" filename="$USER_HOME$/workspace/uauth/src/main/resources/app.properties" />
       <jump line="27" column="53" filename="$USER_HOME$/workspace/uauth/src/main/resources/app.properties" />
       <jump line="110" column="4" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/Sorter.java" />
       <jump line="13" column="31" filename="$USER_HOME$/workspace/uauth/src/main/resources/app.properties" />
@@ -646,13 +648,15 @@
       <jump line="82" column="40" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/UserInputPreProcess.java" />
       <jump line="168" column="14" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" />
       <jump line="68" column="37" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" />
+      <jump line="613" column="25" filename="/SemanticsBaseSearcher.java" />
+      <jump line="44" column="8" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>sResult.getEntities().get(1)</text>
+        <text>param.getCountry()</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1c2VySW5wdXRcPg==</text>
+        <text encoding="base64">XDxjb3VudHJ5TGFuZ0tleVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgU2VtYW50aWNFbnRpdHkgckVudGl0eSA9IHNSZXN1bHQuZ2V0RW50aXRpZXMoKS5nZXQoMCk7Cg==</text>
@@ -689,9 +693,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1c2VySW5wdXRcPg==</last-search>
+      <last-search encoding="base64">XDxjb3VudHJ5TGFuZ0tleVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1c2VySW5wdXRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxjb3VudHJ5TGFuZ0tleVw+</last-pattern>
       <last-replace>aliasFullMatch</last-replace>
       <last-substitute>nameFullMatch</last-substitute>
       <last-dir>1</last-dir>
@@ -699,7 +703,6 @@
     </search>
     <history>
       <history-search>
-        <entry>null</entry>
         <entry>pos</entry>
         <entry encoding="base64">XDxvcmdUZXJtc1w+</entry>
         <entry encoding="base64">XDx0ZXJtc1w+</entry>
@@ -719,6 +722,7 @@
         <entry encoding="base64">XDxkaXN0UmVwbGFjZU1hcFw+</entry>
         <entry encoding="base64">XDxzeW1ib2xSZWdleFw+</entry>
         <entry encoding="base64">XDx1c2VySW5wdXRcPg==</entry>
+        <entry encoding="base64">XDxjb3VudHJ5TGFuZ0tleVw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzEvMi9n</entry>
