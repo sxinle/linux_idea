@@ -204,7 +204,7 @@
       <file name="/HTML File.txt.ft" timestamp="1488789639269">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/NearbySearcher.java" timestamp="1484634309408">
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/NearbySearcher.java" timestamp="1488865751933">
         <mark key="'" line="120" column="4" />
         <mark key="[" line="108" column="104" />
         <mark key="]" line="108" column="114" />
@@ -382,8 +382,8 @@
         <mark key="^" line="10" column="3" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" timestamp="1488854538226">
-        <mark key="'" line="43" column="29" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" timestamp="1488866265513">
+        <mark key="'" line="33" column="22" />
         <mark key="[" line="139" column="77" />
         <mark key="]" line="139" column="77" />
         <mark key="^" line="139" column="75" />
@@ -416,12 +416,12 @@
       <file name="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/lang/String.java" timestamp="1488438694840">
         <mark key="'" line="2323" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" timestamp="1488864158146">
-        <mark key="'" line="51" column="19" />
-        <mark key="[" line="122" column="38" />
-        <mark key="]" line="122" column="38" />
-        <mark key="." line="122" column="38" />
-        <mark key="^" line="122" column="59" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" timestamp="1488866794350">
+        <mark key="'" line="18" column="16" />
+        <mark key="[" line="136" column="8" />
+        <mark key="]" line="136" column="15" />
+        <mark key="." line="136" column="15" />
+        <mark key="^" line="136" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/gdautonavi/AutonaviNearBySearcher.java" timestamp="1483953628844">
         <mark key="[" line="45" column="0" />
@@ -462,7 +462,7 @@
       <file name="/SemanticsTSearcher.java" timestamp="1488005536466">
         <mark key="'" line="100" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1488864168107">
+      <file name="/Dummy.txt" timestamp="1488866685884">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="25" />
         <mark key="." line="3" column="25" />
@@ -476,7 +476,7 @@
       <file name="/SemanticsBaseSearcher.java" timestamp="1488852464115">
         <mark key="'" line="613" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" timestamp="1488864595769">
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" timestamp="1488866079488">
         <mark key="'" line="381" column="0" />
         <mark key="[" line="85" column="71" />
         <mark key="]" line="86" column="47" />
@@ -529,7 +529,7 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="42" column="19" />
       </file>
-      <file name="/fragment.java" timestamp="1488864580209">
+      <file name="/fragment.java" timestamp="1488865898649">
         <mark key="'" line="0" column="105" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -538,9 +538,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="197" column="68" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" />
-      <jump line="47" column="43" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/ScoreRetComparator.java" />
-      <jump line="50" column="33" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/Sorter.java" />
       <jump line="144" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/Sorter.java" />
       <jump line="33" column="4" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/LabelRechecker.java" />
       <jump line="349" column="28" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" />
@@ -638,52 +635,55 @@
       <jump line="381" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" />
       <jump line="39" column="28" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" />
       <jump line="51" column="19" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" />
+      <jump line="33" column="22" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
+      <jump line="118" column="19" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" />
+      <jump line="18" column="16" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>出现次数不考虑了,</text>
+        <text encoding="base64">c2hvdXBpbiA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbk5hbWVDbnRcPg==</text>
+        <text>输入</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbk5hbWVDbnQgKz0gdGVybS5sZW5ndGgoKTsvLyDlh7rnjrDmrKHmlbDkuI3ogIPomZHkuoYK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBpbk5hbWVDbnQgKz0gdGVybS5sZW5ndGgoKTsvLyDlh7rnjrDmrKHmlbDkuI3ogIPomZHkuoYK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IGVsc2UgewogICAgICAgICAgICB9</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgc3RyID0gc291cmNlOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaW1tdXRhYmxlU2VtYW50aWNSZXQuZ2V0VXNlcklucHV0KCkubWF0Y2hlcygiXlvvvYEt772a77yhLe+8umEtekEtWl17Mix9JCIpKSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBpbk5hbWVDbnQgKz0gdGVybS5sZW5ndGgoKTsvLyDlh7rnjrDmrKHmlbDkuI3ogIPomZHkuoYK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB9IGVsc2UgewogICAgICAgIC8vICAgICBkb2NJZHMgPSBTb3J0ZXIuc29ydChkb2NJZHMsIHNlbWFudGljUmV0LmdldFNlZ1dvcmRzKCksIGNvdW50cnksIGxhbmcsIHNlbWFudGljUmV0LCBwb3NfbG9uLCBwb3NfbGF0KTsK</text>
+      <register name="5" type="4">
+        <text encoding="base64">IGVsc2UgewogICAgICAgICAgICB9</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDovpPlhaXmj5DnpLrvvIzmoLnmja7ljLnphY3luqbmjpLluo/lsLHooYwKICAgICAgICAvLyBpZiAoc2VhcmNoZXIgaW5zdGFuY2VvZiBTZW1hbnRpY3NUU2VhcmNoZXIgfHwgc2VhcmNoZXIgaW5zdGFuY2VvZiBTZW1hbnRpY3NTUEVDSUFMU2VhcmNoZXIpIHsK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgc3RyID0gc291cmNlOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyB9IGVsc2UgewogICAgICAgIC8vICAgICBkb2NJZHMgPSBTb3J0ZXIuc29ydChkb2NJZHMsIHNlbWFudGljUmV0LmdldFNlZ1dvcmRzKCksIGNvdW50cnksIGxhbmcsIHNlbWFudGljUmV0LCBwb3NfbG9uLCBwb3NfbGF0KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICBTdHJpbmcgaW5wdXQgPSAi5YyX56uZIjsKICAgICAgICBNYXRjaGVyIG0gPSBQYXR0ZXJuLmNvbXBpbGUoIl4o5LicfOWNl3zopb985YyXKXsxfeermSIpLm1hdGNoZXIoaW5wdXQpOwogICAgICAgIGlmIChtLmZpbmQoKSkgewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImZpbmQiKTsKICAgICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyDovpPlhaXmj5DnpLrvvIzmoLnmja7ljLnphY3luqbmjpLluo/lsLHooYwKICAgICAgICAvLyBpZiAoc2VhcmNoZXIgaW5zdGFuY2VvZiBTZW1hbnRpY3NUU2VhcmNoZXIgfHwgc2VhcmNoZXIgaW5zdGFuY2VvZiBTZW1hbnRpY3NTUEVDSUFMU2VhcmNoZXIpIHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpbk5hbWVDbnRcPg==</last-search>
+      <last-search>输入</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbk5hbWVDbnRcPg==</last-pattern>
+      <last-pattern>输入</last-pattern>
       <last-replace>aliasFullMatch</last-replace>
       <last-substitute>nameFullMatch</last-substitute>
       <last-dir>1</last-dir>
@@ -691,9 +691,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvcmdUZXJtc1w+</entry>
-        <entry encoding="base64">XDx0ZXJtc1w+</entry>
-        <entry encoding="base64">XDx1c2VySW5wdXRUZXJtc1w+</entry>
         <entry encoding="base64">XDxjb3VudHJ5XD4=</entry>
         <entry encoding="base64">XDxpZFdpdGhUZXJtc1w+</entry>
         <entry encoding="base64">XDx0ZXJtTGVuTm9DaGFuZ2VcPg==</entry>
@@ -711,6 +708,9 @@
         <entry encoding="base64">XDxjb3VudHJ5TGFuZ0tleVw+</entry>
         <entry encoding="base64">XDxzZWFyY2hTdXBwbHlUZXJtc1w+</entry>
         <entry encoding="base64">XDxpbk5hbWVDbnRcPg==</entry>
+        <entry>half</entry>
+        <entry>full</entry>
+        <entry>输入</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzEvMi9n</entry>
