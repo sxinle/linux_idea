@@ -78,8 +78,8 @@
         <mark key="]" line="45" column="144" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" timestamp="1488866265513">
-        <mark key="'" line="33" column="22" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" timestamp="1489022219173">
+        <mark key="'" line="33" column="52" />
         <mark key="[" line="139" column="77" />
         <mark key="]" line="139" column="77" />
         <mark key="^" line="139" column="75" />
@@ -305,7 +305,6 @@
       <jump line="364" column="6" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" />
       <jump line="381" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" />
       <jump line="51" column="19" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" />
-      <jump line="33" column="22" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
       <jump line="118" column="19" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" />
       <jump line="18" column="16" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" />
       <jump line="52" column="55" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" />
@@ -361,13 +360,14 @@
       <jump line="39" column="28" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" />
       <jump line="142" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" />
       <jump line="220" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" />
+      <jump line="33" column="52" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>.halfToFull()</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZWFyY2hTdXBwbHlUZXJtc1w+</text>
+        <text encoding="base64">XDxuZWVkQ29ycmVjdFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IFN0cmluZ1tdIHsgaWUuZ2V0TmFtZSgpICsgaWUuZ2V0TmFtZTIoKSwgaWUuZ2V0Rmlyc3RMZXR0ZXIoKSArIGllLmdldEZpcnN0TGV0dGVyMigpLCBpZS5nZXRBbGxMZXR0ZXIoKSArIGllLmdldEFsbExldHRlcjIoKSB9Owo=</text>
@@ -404,17 +404,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZWFyY2hTdXBwbHlUZXJtc1w+</last-search>
+      <last-search encoding="base64">XDxuZWVkQ29ycmVjdFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZWFyY2hTdXBwbHlUZXJtc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxuZWVkQ29ycmVjdFw+</last-pattern>
       <last-replace>aliasFullMatch</last-replace>
       <last-substitute>nameFullMatch</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpZFdpdGhUZXJtc1w+</entry>
         <entry encoding="base64">XDx0ZXJtTGVuTm9DaGFuZ2VcPg==</entry>
         <entry encoding="base64">XDx0ZXJtc0NoYXJMZW5cPg==</entry>
         <entry encoding="base64">XDxzb3J0VXNlVGVybXNcPg==</entry>
@@ -434,6 +433,7 @@
         <entry>half</entry>
         <entry encoding="base64">XDxnZXRMb25sYXRcPg==</entry>
         <entry encoding="base64">XDxzZWFyY2hTdXBwbHlUZXJtc1w+</entry>
+        <entry encoding="base64">XDxuZWVkQ29ycmVjdFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzEvMi9n</entry>
