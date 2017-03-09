@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="incorrect" />
+      <item value="uncorrect" />
+      <item value="纠正" />
+      <item value="未合并" />
       <item value="Correct" />
       <item value="Dispute" />
       <item value="process" />
@@ -12,7 +16,6 @@
       <item value="顺序" />
       <item value="immutable" />
       <item value="Special Handler" />
-      <item value="incorrect" />
       <item value="Supply" />
       <item value="Chain" />
       <item value="校区" />
@@ -48,9 +51,6 @@
       <item value="hello" />
       <item value="colon" />
       <item value="True" />
-      <item value="literal" />
-      <item value="string" />
-      <item value="tuple" />
     </histories>
   </component>
 </application>
