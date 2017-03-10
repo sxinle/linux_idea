@@ -13,7 +13,7 @@
         <mark key="." line="72" column="28" />
         <mark key="^" line="72" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" timestamp="1489110612214">
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" timestamp="1489134879902">
         <mark key="'" line="346" column="22" />
         <mark key="[" line="473" column="13" />
         <mark key="]" line="473" column="13" />
@@ -66,6 +66,9 @@
       </file>
       <file name="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/lang/System.java" timestamp="1489023421941">
         <mark key="'" line="258" column="4" />
+      </file>
+      <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/CacheManager.java" timestamp="1489134929410">
+        <mark key="'" line="29" column="87" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsRSearcher.java" timestamp="1484635493873">
         <mark key="[" line="55" column="16" />
@@ -213,10 +216,6 @@
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/UserInputPreProcess.java" timestamp="1489134572870">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="114" column="80" />
-        <mark key="]" line="114" column="81" />
-        <mark key="^" line="114" column="81" />
-        <mark key="." line="114" column="81" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_web/src/main/java/com/mx/server/search/web/AppInitializer.java" timestamp="1489128563667" />
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/SuggestSearcher.java" timestamp="1489126808100">
@@ -282,9 +281,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="5" filename="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/lang/Integer.java" />
-      <jump line="62" column="5" filename="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/lang/Integer.java" />
-      <jump line="1255" column="55" filename="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/lang/Long.java" />
       <jump line="64" column="5" filename="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/lang/Long.java" />
       <jump line="1342" column="5" filename="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/lang/Long.java" />
       <jump line="1618" column="5" filename="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/lang/Long.java" />
@@ -382,13 +378,16 @@
       <jump line="458" column="31" filename="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/util/ArrayList.java" />
       <jump line="196" column="24" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/ServerConfig.java" />
       <jump line="254" column="29" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" />
+      <jump line="16" column="24" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/CacheManager.java" />
+      <jump line="28" column="51" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/CacheManager.java" />
+      <jump line="29" column="87" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/CacheManager.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>// 直接检索</text>
       </register>
       <register name="/" type="4">
-        <text>endWith</text>
+        <text>subStitute</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHBhcmFtLnNldEtleXdvcmRzKHdvcmRzLmdldCgwKSk7Cg==</text>
@@ -425,9 +424,9 @@
       </register>
     </registers>
     <search>
-      <last-search>endWith</last-search>
+      <last-search>subStitute</last-search>
       <last-offset />
-      <last-pattern>endWith</last-pattern>
+      <last-pattern>subStitute</last-pattern>
       <last-replace>aliasFullMatch</last-replace>
       <last-substitute>nameFullMatch</last-substitute>
       <last-dir>1</last-dir>
@@ -435,7 +434,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1c2VySW5wdXRcPg==</entry>
         <entry>half</entry>
         <entry encoding="base64">XDxnZXRMb25sYXRcPg==</entry>
         <entry encoding="base64">XDxzZWFyY2hTdXBwbHlUZXJtc1w+</entry>
@@ -455,6 +453,7 @@
         <entry>remove</entry>
         <entry>isR</entry>
         <entry>endWith</entry>
+        <entry>subStitute</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzEvMi9n</entry>
