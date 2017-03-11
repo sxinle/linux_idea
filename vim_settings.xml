@@ -68,12 +68,12 @@
         <mark key="]" line="55" column="16" />
         <mark key="." line="55" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/TermsSetter.java" timestamp="1489214311683">
-        <mark key="'" line="40" column="64" />
-        <mark key="[" line="40" column="36" />
-        <mark key="]" line="40" column="46" />
-        <mark key="^" line="40" column="46" />
-        <mark key="." line="40" column="46" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/TermsSetter.java" timestamp="1489215357487">
+        <mark key="'" line="39" column="50" />
+        <mark key="[" line="45" column="65" />
+        <mark key="]" line="45" column="65" />
+        <mark key="^" line="45" column="65" />
+        <mark key="." line="45" column="65" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/doc/DocAttr.java" timestamp="1489201951335">
         <mark key="'" line="98" column="20" />
@@ -82,12 +82,12 @@
         <mark key="^" line="74" column="56" />
         <mark key="." line="74" column="56" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" timestamp="1489122877323">
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" timestamp="1489216380921">
         <mark key="'" line="142" column="0" />
-        <mark key="[" line="70" column="11" />
-        <mark key="]" line="70" column="11" />
-        <mark key="^" line="44" column="18" />
-        <mark key="." line="70" column="11" />
+        <mark key="[" line="33" column="63" />
+        <mark key="]" line="33" column="62" />
+        <mark key="^" line="33" column="62" />
+        <mark key="." line="33" column="62" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/index/IndexInfoArr.java" timestamp="1488884315823">
         <mark key="'" line="21" column="22" />
@@ -117,7 +117,7 @@
       <file name="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/lang/String.java" timestamp="1488438694840">
         <mark key="'" line="2323" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" timestamp="1489212721382">
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" timestamp="1489215914530">
         <mark key="'" line="192" column="25" />
         <mark key="[" line="53" column="23" />
         <mark key="]" line="53" column="22" />
@@ -215,7 +215,7 @@
       <file name="/SemanticsTSearcher.java" timestamp="1488005536466">
         <mark key="'" line="100" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1489211527718">
+      <file name="/Dummy.txt" timestamp="1489215362062">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="25" />
         <mark key="." line="3" column="25" />
@@ -277,12 +277,12 @@
       <file name="$USER_HOME$/.share/PEUSystem_DR/out/artifacts/PEUSystem_DR_war_exploded/WEB-INF/web.xml" timestamp="1487060617673">
         <mark key="'" line="123" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1489213854674">
+      <file name="/fragment.java" timestamp="1489215911197">
+        <mark key="'" line="0" column="44" />
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="126" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/UserInputPreProcess.java" />
       <jump line="346" column="22" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
       <jump line="66" column="11" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
       <jump line="179" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/KeywordSearcher.java" />
@@ -368,7 +368,6 @@
       <jump line="42" column="105" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/RevAndMatchSetter.java" />
       <jump line="80" column="102" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/RevAndMatchSetter.java" />
       <jump line="21" column="64" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/RevAndMatchSetter.java" />
-      <jump line="39" column="43" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/TermsSetter.java" />
       <jump line="119" column="53" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" />
       <jump line="40" column="28" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" />
       <jump line="135" column="55" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" />
@@ -382,10 +381,12 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/KeywordSearcher.java" />
       <jump line="192" column="25" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" />
       <jump line="40" column="64" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/TermsSetter.java" />
+      <jump line="39" column="50" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/TermsSetter.java" />
+      <jump line="0" column="44" filename="/fragment.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>terms</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0ZXJtc1w+</text>
@@ -394,31 +395,31 @@
         <text>noDupTerms</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRlcm0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkgewogICAgICAgICAgICAgICAgaXQucmVtb3ZlKCk7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXJtcyA9IG5ldyBBcnJheUxpc3Q8PihuZXcgSGFzaFNldDw+KHRlcm1zKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRlcm0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4K</text>
+        <text encoding="base64">ICAgICAgICB0ZXJtcyA9IG5ldyBBcnJheUxpc3Q8PihuZXcgSGFzaFNldDw+KHRlcm1zKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETyBhbGlhc0xlbiA9PSBzb3J0VXNlVGVybXMuc3VtbGVuZ3RoIC0tPiBhbGlhc0Z1bGxNYXRjaAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETyBhbGlhc0xlbiA9PSBzb3J0VXNlVGVybXMuc3VtbGVuZ3RoIC0tPiBhbGlhc0Z1bGxNYXRjaAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gIFRPRE8g5LiL5qyh5YGa5pWw5o2u5LyY5YyW6L+Z6YeMLOebtOaOpeWPlu+8jOS4jeeUqOino+aekOS6jOi/m+WItgo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gIFRPRE8g5LiL5qyh5YGa5pWw5o2u5LyY5YyW6L+Z6YeMLOebtOaOpeWPlu+8jOS4jeeUqOino+aekOS6jOi/m+WItgo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IGluZGV4ID0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
