@@ -33,12 +33,12 @@
       <file name="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/util/ArrayList.java" timestamp="1489131523313">
         <mark key="'" line="458" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/RevAndMatchSetter.java" timestamp="1489304172919">
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/RevAndMatchSetter.java" timestamp="1489372742885">
         <mark key="'" line="102" column="134" />
-        <mark key="[" line="126" column="40" />
-        <mark key="]" line="126" column="40" />
-        <mark key="." line="126" column="40" />
-        <mark key="^" line="126" column="40" />
+        <mark key="[" line="22" column="23" />
+        <mark key="]" line="22" column="70" />
+        <mark key="." line="22" column="70" />
+        <mark key="^" line="22" column="70" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" timestamp="1489301986521">
         <mark key="'" line="22" column="30" />
@@ -72,12 +72,12 @@
         <mark key="]" line="55" column="16" />
         <mark key="." line="55" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/TermsSetter.java" timestamp="1489304150463">
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/TermsSetter.java" timestamp="1489372754812">
         <mark key="'" line="39" column="50" />
-        <mark key="[" line="49" column="28" />
-        <mark key="]" line="49" column="49" />
-        <mark key="^" line="49" column="49" />
-        <mark key="." line="49" column="49" />
+        <mark key="[" line="55" column="24" />
+        <mark key="]" line="55" column="69" />
+        <mark key="." line="55" column="69" />
+        <mark key="^" line="55" column="69" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/doc/DocAttr.java" timestamp="1489201951335">
         <mark key="'" line="98" column="20" />
@@ -124,12 +124,12 @@
       <file name="/Utility.java" timestamp="1489301846023">
         <mark key="'" line="695" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" timestamp="1489304103351">
-        <mark key="'" line="227" column="0" />
-        <mark key="[" line="43" column="71" />
-        <mark key="]" line="43" column="74" />
-        <mark key="." line="43" column="74" />
-        <mark key="^" line="43" column="74" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" timestamp="1489372519978">
+        <mark key="'" line="117" column="0" />
+        <mark key="[" line="91" column="16" />
+        <mark key="]" line="91" column="51" />
+        <mark key="." line="91" column="51" />
+        <mark key="^" line="91" column="51" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SegmentRet.java" timestamp="1489028789598">
         <mark key="[" line="10" column="0" />
@@ -308,8 +308,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="142" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
-      <jump line="48" column="53" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" />
       <jump line="139" column="16" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" />
       <jump line="238" column="57" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" />
       <jump line="106" column="58" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/NearbySearcher.java" />
@@ -408,10 +406,12 @@
       <jump line="50" column="29" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/RevAndMatchSetter.java" />
       <jump line="126" column="24" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/RevAndMatchSetter.java" />
       <jump line="102" column="134" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/RevAndMatchSetter.java" />
+      <jump line="51" column="36" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" />
+      <jump line="117" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>果</text>
+        <text>quanpinSearch</text>
       </register>
       <register name="/" type="4">
         <text>contains</text>
@@ -420,31 +420,31 @@
         <text>驻(.*?)办事处</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5xdWFucGluU2VhcmNoID0gc29ydEZpZWxkS2V5ID09IEluZGV4SW5mb0Fyci5URVJNX0tFWV9QSU5ZSU47Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwb3N0UHJvY2Vzc1N0YXRpb25XaXRoRGlyKHNSZXN1bHQpOy8vIOaAgOaflOWMly0+5oCA5p+U5YyX56uZLi4uCg==</text>
+        <text encoding="base64">ICAgICAgICDmsYnlrZcK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAoVFlQRV9QSU5ZSU4sICk7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDikaIg5a6e5L2T5o6S5YiX57qg6ZSZL+mHjeaOkgogICAgICAgIExhYmVsUmVjaGVja2VyLnJlQ2hlY2socmVzdWx0KTsKCg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgZW51bSBTZWFyY2hUeXBlIHsKCiAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDikaIg5a6e5L2T5o6S5YiX57qg6ZSZL+mHjeaOkgogICAgICAgIExhYmVsUmVjaGVja2VyLnJlQ2hlY2socmVzdWx0KTsK</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgYm9vbGVhbiBweVNlYXJjaDsgICAgICAgIC8vIOaYr+WQpuaYr+aLvOmfs+ajgOe0ogo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgYm9vbGVhbiBuYW1lRnVsbE1hdGNoOyAgIC8vIOmdkuW5tOWkp+ihlwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExpc3Q8U3RyaW5nPiBuZXdTZWdXb3JkcyA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgICAgICAgICAgZm9yIChTZW1hbnRpY1JldC5TZW1hbnRpY0VudGl0eSBlbnRpdHkgOiByZXN1bHQuZ2V0RW50aXRpZXMoKSkgewogICAgICAgICAgICAgICAgICAgIGVudGl0eS5nZXRUZXJtcygpLmZvckVhY2godGVybSAtPiBuZXdTZWdXb3Jkcy5hZGQodGVybS5nZXRXb3JkKCkpKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIFN0cmluZ1tdIG5ld1NlZ0FyciA9IG5ldyBTdHJpbmdbbmV3U2VnV29yZHMuc2l6ZSgpXTsKICAgICAgICAgICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgbmV3U2VnV29yZHMuc2l6ZSgpOyBpKyspIHsKICAgICAgICAgICAgICAgICAgICBuZXdTZWdBcnJbaV0gPSBuZXdTZWdXb3Jkcy5nZXQoaSk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICByZXN1bHQuc2V0U2VnV29yZHMobmV3U2VnQXJyKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -457,7 +457,7 @@
       <last-replace>aliasFullMatch</last-replace>
       <last-substitute>nameFullMatch</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
