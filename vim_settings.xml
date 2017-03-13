@@ -33,8 +33,8 @@
       <file name="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/util/ArrayList.java" timestamp="1489131523313">
         <mark key="'" line="458" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/RevAndMatchSetter.java" timestamp="1489386224753">
-        <mark key="'" line="121" column="20" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/RevAndMatchSetter.java" timestamp="1489387083687">
+        <mark key="'" line="57" column="20" />
         <mark key="[" line="87" column="0" />
         <mark key="]" line="87" column="0" />
         <mark key="^" line="66" column="11" />
@@ -107,6 +107,9 @@
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsBaseSearcher.java" timestamp="1489210987523">
         <mark key="'" line="673" column="0" />
+      </file>
+      <file name="/NiceCntSetter.java" timestamp="1489387075855">
+        <mark key="'" line="40" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/ScoreRetComparator.java" timestamp="1488531876776">
         <mark key="'" line="47" column="43" />
@@ -228,7 +231,7 @@
       <file name="/SemanticsTSearcher.java" timestamp="1488005536466">
         <mark key="'" line="100" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1489304705928">
+      <file name="/Dummy.txt" timestamp="1489387061707">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="25" />
         <mark key="." line="3" column="25" />
@@ -309,9 +312,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="70" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/RouteSearcher.java" />
-      <jump line="128" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/SuggestSearcher.java" />
-      <jump line="96" column="35" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/SuggestSearcher.java" />
       <jump line="368" column="10" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/KeywordSearcher.java" />
       <jump line="169" column="30" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/KeywordSearcher.java" />
       <jump line="104" column="18" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/KeywordSearcher.java" />
@@ -409,6 +409,9 @@
       <jump line="22" column="15" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/NiceCntSetter.java" />
       <jump line="23" column="51" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/RevAndMatchSetter.java" />
       <jump line="121" column="20" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/RevAndMatchSetter.java" />
+      <jump line="57" column="20" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/RevAndMatchSetter.java" />
+      <jump line="23" column="61" filename="/NiceCntSetter.java" />
+      <jump line="40" column="0" filename="/NiceCntSetter.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
