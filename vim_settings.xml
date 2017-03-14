@@ -17,8 +17,8 @@
         <mark key="[" line="61" column="0" />
         <mark key="]" line="61" column="106" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" timestamp="1489134879902">
-        <mark key="'" line="346" column="22" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" timestamp="1489474892628">
+        <mark key="'" line="710" column="0" />
         <mark key="[" line="473" column="13" />
         <mark key="]" line="473" column="13" />
         <mark key="^" line="36" column="3" />
@@ -332,8 +332,8 @@
         <mark key="^" line="0" column="36" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsAAASearcher.java" timestamp="1489473852296">
-        <mark key="'" line="200" column="44" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsAAASearcher.java" timestamp="1489474818544">
+        <mark key="'" line="342" column="48" />
         <mark key="[" line="201" column="71" />
         <mark key="]" line="201" column="71" />
         <mark key="." line="201" column="71" />
@@ -341,10 +341,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="132" column="5" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsRTSearcher.java" />
-      <jump line="91" column="5" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsRTSearcher.java" />
-      <jump line="94" column="20" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/doc/DocAttr.java" />
-      <jump line="16" column="16" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/RevAndMatchSetter.java" />
       <jump line="11" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/RevAndMatchSetter.java" />
       <jump line="129" column="16" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/RevAndMatchSetter.java" />
       <jump line="72" column="99" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/RevAndMatchSetter.java" />
@@ -439,15 +435,19 @@
       <jump line="341" column="76" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsAAASearcher.java" />
       <jump line="362" column="62" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsAAASearcher.java" />
       <jump line="502" column="44" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsAAASearcher.java" />
-      <jump line="503" column="68" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsAAASearcher.java" />
-      <jump line="200" column="44" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsAAASearcher.java" />
+      <jump line="363" column="62" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsAAASearcher.java" />
+      <jump line="503" column="44" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsAAASearcher.java" />
+      <jump line="504" column="68" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsAAASearcher.java" />
+      <jump line="200" column="75" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsAAASearcher.java" />
+      <jump line="342" column="48" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsAAASearcher.java" />
+      <jump line="710" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>,i+1</text>
       </register>
       <register name="/" type="4">
-        <text>subString</text>
+        <text>IdWith</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYoZW50cnkuZ2V0VmFsdWUoKS5zdWJzdHJpbmcoMCwgMSkuZXF1YWxzKHdvcmQuc3Vic3RyaW5nKGksaSsxKSkpewo=</text>
@@ -484,9 +484,9 @@
       </register>
     </registers>
     <search>
-      <last-search>subString</last-search>
+      <last-search>IdWith</last-search>
       <last-offset />
-      <last-pattern>subString</last-pattern>
+      <last-pattern>IdWith</last-pattern>
       <last-replace>aliasFullMatch</last-replace>
       <last-substitute>nameFullMatch</last-substitute>
       <last-dir>1</last-dir>
@@ -494,7 +494,6 @@
     </search>
     <history>
       <history-search>
-        <entry>subStitute</entry>
         <entry encoding="base64">XDxPdmVycmlkZVw+</entry>
         <entry encoding="base64">XDxjaGVja0FsaWFzRnVsbE1hdGNoXD4=</entry>
         <entry encoding="base64">XDxzb3J0RmllbGRUeXBlXD4=</entry>
@@ -514,6 +513,7 @@
         <entry>firstR</entry>
         <entry>compareTo</entry>
         <entry>subString</entry>
+        <entry>IdWith</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzEvMi9n</entry>
