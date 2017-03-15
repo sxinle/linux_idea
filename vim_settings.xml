@@ -206,6 +206,9 @@
         <mark key="." line="143" column="44" />
         <mark key="^" line="143" column="44" />
       </file>
+      <file name="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/GenericController.java" timestamp="1489540022605">
+        <mark key="'" line="132" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsSPECIALSearcher.java" timestamp="1489461205947">
         <mark key="'" line="302" column="8" />
         <mark key="[" line="16" column="13" />
@@ -349,9 +352,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="46" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/NiceCntSetter.java" />
-      <jump line="21" column="23" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/NiceCntSetter.java" />
-      <jump line="18" column="16" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/RevAndMatchSetter.java" />
       <jump line="28" column="26" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/RevAndMatchSetter.java" />
       <jump line="32" column="30" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/RevAndMatchSetter.java" />
       <jump line="33" column="28" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/RevAndMatchSetter.java" />
@@ -449,13 +449,16 @@
       <jump line="3" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/TermsSetter.java" />
       <jump line="105" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/TermsSetter.java" />
       <jump line="0" column="38" filename="/fragment.java" />
+      <jump line="20" column="13" filename="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/GenericController.java" />
+      <jump line="96" column="22" filename="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/GenericController.java" />
+      <jump line="132" column="0" filename="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/GenericController.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRUZXJtUG9zXD4=</text>
+        <text>cityDe</text>
       </register>
       <register name="0" type="4">
         <text>usedTerms_containsR</text>
@@ -492,9 +495,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRUZXJtUG9zXD4=</last-search>
+      <last-search>cityDe</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRUZXJtUG9zXD4=</last-pattern>
+      <last-pattern>cityDe</last-pattern>
       <last-replace>aliasFullMatch</last-replace>
       <last-substitute>nameFullMatch</last-substitute>
       <last-dir>1</last-dir>
@@ -502,7 +505,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzb3J0RmllbGRUeXBlXD4=</entry>
         <entry encoding="base64">XDxzZWFyY2hTdXBwbHlUZXJtc1w+</entry>
         <entry>inAddrCnt</entry>
         <entry encoding="base64">XDx0ZXJtc1w+</entry>
@@ -522,6 +524,7 @@
         <entry>subString</entry>
         <entry encoding="base64">XDx0ZXJtVXRpbFNldFw+</entry>
         <entry encoding="base64">XDxnZXRUZXJtUG9zXD4=</entry>
+        <entry>cityDe</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzEvMi9n</entry>
