@@ -177,6 +177,9 @@
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
       </file>
+      <file name="$USER_HOME$/.share/websocket_test/src/WebSocket/WebSocketTest.java" timestamp="1489628815644">
+        <mark key="'" line="91" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/BaseSearcher.java" timestamp="1489219950381">
         <mark key="'" line="14" column="22" />
         <mark key="[" line="37" column="47" />
@@ -198,7 +201,6 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="/UserInputPreProcess.java" timestamp="1489577529506" />
       <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/models/IdWithTerms.java" timestamp="1489472694563">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -228,6 +230,9 @@
       </file>
       <file name="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/GenericController.java" timestamp="1489540022605">
         <mark key="'" line="132" column="0" />
+      </file>
+      <file name="$USER_HOME$/.share/websocket_test/.idea/workspace.xml" timestamp="1489627673400">
+        <mark key="'" line="263" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/NiceCntSetter.java" timestamp="1489495701930">
         <mark key="'" line="45" column="4" />
@@ -315,6 +320,12 @@
       <file name="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/util/List.java" timestamp="1487899591606">
         <mark key="'" line="733" column="0" />
       </file>
+      <file name="$USER_HOME$/.share/websocket_test/WebContent/jsp/testWebSocket.jsp" timestamp="1489629081377">
+        <mark key="[" line="48" column="64" />
+        <mark key="]" line="48" column="68" />
+        <mark key="." line="48" column="68" />
+        <mark key="^" line="48" column="68" />
+      </file>
       <file name="$USER_HOME$/workspace/mx_tsp_stub_service/db/003_db_mx_tsp_stub_insert_data.sql" timestamp="1487557275465">
         <mark key="'" line="15" column="43" />
       </file>
@@ -371,10 +382,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="15" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/NiceCntSetter.java" />
-      <jump line="23" column="51" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/RevAndMatchSetter.java" />
-      <jump line="121" column="20" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/RevAndMatchSetter.java" />
-      <jump line="57" column="20" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/RevAndMatchSetter.java" />
       <jump line="23" column="61" filename="/NiceCntSetter.java" />
       <jump line="40" column="0" filename="/NiceCntSetter.java" />
       <jump line="114" column="31" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" />
@@ -471,10 +478,14 @@
       <jump line="46" column="6" filename="$USER_HOME$/workspace/red/conf/application.conf" />
       <jump line="6" column="0" filename="$USER_HOME$/workspace/red/app/controllers/Application.scala" />
       <jump line="11" column="0" filename="$USER_HOME$/workspace/red/app/controllers/Application.scala" />
+      <jump line="15" column="67" filename="$USER_HOME$/.share/websocket_test/.idea/workspace.xml" />
+      <jump line="263" column="0" filename="$USER_HOME$/.share/websocket_test/.idea/workspace.xml" />
+      <jump line="11" column="1" filename="$USER_HOME$/.share/websocket_test/src/WebSocket/WebSocketTest.java" />
+      <jump line="91" column="0" filename="$USER_HOME$/.share/websocket_test/src/WebSocket/WebSocketTest.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>)</text>
+        <text>websocket_test</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkaXN0Q29kZU1hcFw+</text>
@@ -520,7 +531,7 @@
       <last-replace>aliasFullMatch</last-replace>
       <last-substitute>nameFullMatch</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
