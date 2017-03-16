@@ -92,11 +92,11 @@
         <mark key="]" line="55" column="16" />
         <mark key="." line="55" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/red/app/models/User.scala" timestamp="1489635438218">
-        <mark key="[" line="4" column="2" />
-        <mark key="]" line="4" column="9" />
-        <mark key="^" line="4" column="9" />
-        <mark key="." line="4" column="9" />
+      <file name="$USER_HOME$/workspace/red/app/models/User.scala" timestamp="1489641237694">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="14" column="2" />
+        <mark key="." line="13" column="5" />
+        <mark key="^" line="12" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/red/conf/application.conf" timestamp="1489581190242">
         <mark key="'" line="46" column="6" />
@@ -322,11 +322,10 @@
         <mark key="." line="32" column="76" />
         <mark key="^" line="32" column="76" />
       </file>
-      <file name="$USER_HOME$/workspace/red/app/controllers/Application.scala" timestamp="1489633507509">
-        <mark key="[" line="13" column="12" />
-        <mark key="]" line="13" column="3" />
-        <mark key="." line="13" column="3" />
-        <mark key="^" line="13" column="3" />
+      <file name="$USER_HOME$/workspace/red/app/controllers/Application.scala" timestamp="1489641287614">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/SuggestSearcher.java" timestamp="1489214224279">
         <mark key="'" line="166" column="27" />
@@ -503,40 +502,44 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">YWJzdHJhY3Qg</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkaXN0Q29kZU1hcFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbmQgPSB0cnVlOwo=</text>
+        <text encoding="base64">ICBpbXBsaWNpdCB2YWwgdXNlcldyaXRlcyA9IG5ldyBXcml0ZXNbVXNlcl0gewogICAgb3ZlcnJpZGUgZGVmIHdyaXRlcyhvOiBVc2VyKSA9IEpzb24ub2JqKAogICAgICAidXNlck5hbWUiIC0+IG8udXNlck5hbWUsCiAgICAgICJwYXNzV29yZCIgLT4gby5wYXNzV29yZAogICAgKQogIH0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIE9rCg==</text>
+        <text encoding="base64">ICBpbXBsaWNpdCB2YWwgdXNlcldyaXRlcyA9IG5ldyBXcml0ZXNbVXNlcl0gewogICAgb3ZlcnJpZGUgZGVmIHdyaXRlcyhvOiBVc2VyKSA9IEpzb24ub2JqKAogICAgICAidXNlck5hbWUiIC0+IG8udXNlck5hbWUsCiAgICAgICJwYXNzV29yZCIgLT4gby5wYXNzV29yZAogICAgKQogIH0K</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHJlcXVlc3QgPT4gT2soIiIgKyByZXF1ZXN0ICsgInBhcmFtOiIgKyByZXF1ZXN0LmdldFF1ZXJ5U3RyaW5nKCJ0ZXN0IikpCg==</text>
+      <register name="4" type="4">
+        <text>{
+
+    }</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIE9LKCkK</text>
+      <register name="5" type="4">
+        <text>{
+
+  }</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIHZhciBwYXNzV29yZDogU3RyaW5nID0gbnVsbDsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkZWYgZmluZCA9IEFjdGlvbiB7CiAgICBPSyhKU09OLnRvKQogIH0K</text>
+        <text encoding="base64">ICAgIE9rCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEpTT04oImhlbGxvIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
