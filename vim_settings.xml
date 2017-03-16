@@ -25,6 +25,15 @@
         <mark key="]" line="12" column="16" />
         <mark key="." line="12" column="16" />
       </file>
+      <file name="$USER_HOME$/workspace/red/app/models/Models.scala" timestamp="1489645199053">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="14" column="2" />
+        <mark key="." line="4" column="1" />
+        <mark key="^" line="4" column="1" />
+      </file>
+      <file name="$USER_HOME$/.ivy2/cache/com.typesafe.play/play-json_2.11/srcs/play-json_2.11-2.4.2-sources.jar!/play/api/libs/json/package.scala" timestamp="1489644289186">
+        <mark key="'" line="37" column="2" />
+      </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/Tet.java" timestamp="1489629401675">
         <mark key="'" line="7" column="30" />
         <mark key="[" line="0" column="0" />
@@ -92,11 +101,10 @@
         <mark key="]" line="55" column="16" />
         <mark key="." line="55" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/red/app/models/User.scala" timestamp="1489641237694">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="14" column="2" />
-        <mark key="." line="13" column="5" />
-        <mark key="^" line="12" column="29" />
+      <file name="$USER_HOME$/workspace/red/app/models/User.scala" timestamp="1489644428556">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/red/conf/application.conf" timestamp="1489581190242">
         <mark key="'" line="46" column="6" />
@@ -322,10 +330,11 @@
         <mark key="." line="32" column="76" />
         <mark key="^" line="32" column="76" />
       </file>
-      <file name="$USER_HOME$/workspace/red/app/controllers/Application.scala" timestamp="1489642640267">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/workspace/red/app/controllers/Application.scala" timestamp="1489645260426">
+        <mark key="'" line="13" column="26" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/SuggestSearcher.java" timestamp="1489214224279">
         <mark key="'" line="166" column="27" />
@@ -399,8 +408,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="128" column="35" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" />
-      <jump line="37" column="28" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" />
       <jump line="218" column="22" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticRet.java" />
       <jump line="82" column="18" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
       <jump line="29" column="18" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
@@ -499,10 +506,12 @@
       <jump line="386" column="18" filename="$USER_HOME$/.ivy2/cache/com.typesafe.play/play_2.11/srcs/play_2.11-2.4.2-sources.jar!/play/api/mvc/Results.scala" />
       <jump line="4" column="10" filename="$USER_HOME$/workspace/red/conf/routes" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsRTSearcher.java" />
+      <jump line="37" column="2" filename="$USER_HOME$/.ivy2/cache/com.typesafe.play/play-json_2.11/srcs/play-json_2.11-2.4.2-sources.jar!/play/api/libs/json/package.scala" />
+      <jump line="13" column="26" filename="$USER_HOME$/workspace/red/app/controllers/Application.scala" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>models.</text>
+        <text>getUserName()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkaXN0Q29kZU1hcFw+</text>
@@ -514,32 +523,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBpbXBvcnQgVXNlci51c2VyV3JpdGVzOwo=</text>
+        <text encoding="base64">ICBpbXBsaWNpdCB2YWwgdXNlcldyaXRlcyA9IAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBVc2VyLgo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">bmV3IFdyaXRlc1tVc2VyXSB7CiAgICBvdmVycmlkZSBkZWYgd3JpdGVzKG86IFVzZXIpID0gSnNvbi5vYmooCiAgICAgICJ1c2VyTmFtZSIgLT4gby51c2VyV3JpdGVzCiAgICAgICJwYXNzV29yZCIgLT4gby5wYXNzV29yZAogICAgKQogIH0=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG1vZGVscy5Nb2RlbHMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBpbXBsaWNpdCB2YWwgdXNlcldyaXRlcyA9IG5ldyBXcml0ZXNbVXNlcl0gewogICAgb3ZlcnJpZGUgZGVmIHdyaXRlcyhvOiBVc2VyKSA9IEpzb24ub2JqKAogICAgICAidXNlck5hbWUiIC0+IG8udXNlck5hbWUsCiAgICAgICJwYXNzV29yZCIgLT4gby5wYXNzV29yZAogICAgKQogIH0K</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>{
-
-    }</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICBkZWYgVXNlcih1c2VyTmFtZTogU3RyaW5nLCBwYXNzV29yZDogU3RyaW5nKTogVW5pdCA9IHsKICAgIHRoaXMudXNlck5hbWUgPSB1c2VyTmFtZQogICAgdGhpcy5wYXNzV29yZCA9IHBhc3NXb3JkCiAgfTsK</text>
       </register>
-      <register name="8" type="4">
-        <text>{
-
-  }</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBpbXBvcnQgVXNlci51c2VyV3JpdGVzOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHZhciBwYXNzV29yZDogU3RyaW5nID0gbnVsbDsK</text>
+        <text encoding="base64">ICAgIGltcG9ydCBVc2VyLgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
