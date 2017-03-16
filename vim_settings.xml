@@ -37,8 +37,12 @@
         <mark key="]" line="18" column="1" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/red/conf/routes" timestamp="1489630905123">
+      <file name="$USER_HOME$/workspace/red/conf/routes" timestamp="1489631923135">
         <mark key="'" line="4" column="10" />
+        <mark key="[" line="6" column="35" />
+        <mark key="]" line="6" column="35" />
+        <mark key="^" line="6" column="35" />
+        <mark key="." line="6" column="35" />
       </file>
       <file name="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/util/ArrayList.java" timestamp="1489131523313">
         <mark key="'" line="458" column="31" />
@@ -312,11 +316,11 @@
         <mark key="." line="32" column="76" />
         <mark key="^" line="32" column="76" />
       </file>
-      <file name="$USER_HOME$/workspace/red/app/controllers/Application.scala" timestamp="1489631138296">
-        <mark key="[" line="8" column="33" />
-        <mark key="]" line="8" column="43" />
-        <mark key="." line="8" column="43" />
-        <mark key="^" line="8" column="43" />
+      <file name="$USER_HOME$/workspace/red/app/controllers/Application.scala" timestamp="1489632102285">
+        <mark key="[" line="11" column="8" />
+        <mark key="]" line="11" column="26" />
+        <mark key="." line="11" column="26" />
+        <mark key="^" line="11" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/SuggestSearcher.java" timestamp="1489214224279">
         <mark key="'" line="166" column="27" />
@@ -493,7 +497,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">cmVxdWVzdCgpICsg</text>
+        <text>Any</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkaXN0Q29kZU1hcFw+</text>
@@ -502,31 +506,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbmQgPSB0cnVlOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIE9LKCkK</text>
+        <text encoding="base64">ICAgIE9rCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlcXVlc3QgPT4gT2soIiIgKyByZXF1ZXN0ICsgInBhcmFtOiIgKyByZXF1ZXN0LmdldFF1ZXJ5U3RyaW5nKCJ0ZXN0IikpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBkZWYgZmluZCA9IEFjdGlvbiB7CiAgICBPSyhKU09OLnRvKQogIH0K</text>
+        <text encoding="base64">ICAgIE9LKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEpTT04oImhlbGxvIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAucmVwbGFjZUFsbCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICBkZWYgZmluZCA9IEFjdGlvbiB7CiAgICBPSyhKU09OLnRvKQogIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqCiAgICAgKiBAcmV0dXJuCg==</text>
+        <text encoding="base64">ICAgIEpTT04oImhlbGxvIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAucmVwbGFjZUFsbCgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -569,6 +573,7 @@
         <entry encoding="base64">JzwsJz5zLyMvPS9n</entry>
         <entry>reg</entry>
         <entry encoding="base64">JzwsJz5zL25hbWVGdWxsTWF0Y2gvYWxpYXNGdWxsTWF0Y2gvZw==</entry>
+        <entry>se list</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
