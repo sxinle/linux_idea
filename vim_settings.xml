@@ -56,14 +56,13 @@
         <mark key="^" line="99" column="93" />
         <mark key="." line="52" column="82" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" timestamp="1489575827771">
-        <mark key="'" line="77" column="21" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" timestamp="1489715636996">
+        <mark key="'" line="270" column="0" />
         <mark key="[" line="96" column="0" />
         <mark key="]" line="96" column="0" />
         <mark key="." line="96" column="0" />
         <mark key="^" line="98" column="32" />
       </file>
-      <file name="$USER_HOME$/.ivy2/cache/com.typesafe.play/play-json_2.11/srcs/play-json_2.11-2.4.2-sources.jar!/play/api/libs/json/Json.scala" timestamp="1489646659119" />
       <file name="$USER_HOME$/workspace/uauth/src/main/resources/logback.xml" timestamp="1487734471204">
         <mark key="'" line="115" column="16" />
       </file>
@@ -278,11 +277,11 @@
       <file name="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/lang/Integer.java" timestamp="1489023312919">
         <mark key="'" line="62" column="5" />
       </file>
-      <file name="$USER_HOME$/workspace/red/app/controllers/JsonWritters.scala" timestamp="1489646901860">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="8" column="27" />
+      <file name="$USER_HOME$/workspace/red/app/controllers/JsonWritters.scala" timestamp="1489715129629">
+        <mark key="[" line="5" column="19" />
+        <mark key="]" line="5" column="18" />
+        <mark key="." line="5" column="18" />
+        <mark key="^" line="5" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/gdautonavi/AutonaviSearcher.java" timestamp="1483953212651">
         <mark key="[" line="69" column="0" />
@@ -330,8 +329,8 @@
         <mark key="." line="32" column="76" />
         <mark key="^" line="32" column="76" />
       </file>
-      <file name="$USER_HOME$/workspace/red/app/controllers/Application.scala" timestamp="1489647037999">
-        <mark key="'" line="16" column="0" />
+      <file name="$USER_HOME$/workspace/red/app/controllers/Application.scala" timestamp="1489715135544">
+        <mark key="'" line="9" column="18" />
         <mark key="[" line="5" column="20" />
         <mark key="]" line="5" column="21" />
         <mark key="^" line="5" column="20" />
@@ -409,9 +408,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="36" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" />
-      <jump line="137" column="16" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" />
-      <jump line="142" column="16" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" />
       <jump line="145" column="29" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" />
       <jump line="123" column="38" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/RevAndMatchSetter.java" />
       <jump line="27" column="15" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/index/IndexInfoArr.java" />
@@ -509,6 +505,9 @@
       <jump line="87" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" />
       <jump line="73" column="60" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" />
       <jump line="187" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" />
+      <jump line="9" column="18" filename="$USER_HOME$/workspace/red/app/controllers/Application.scala" />
+      <jump line="257" column="45" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" />
+      <jump line="270" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -558,7 +557,7 @@
       <last-replace>users</last-replace>
       <last-substitute>find</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
