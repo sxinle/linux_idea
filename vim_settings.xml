@@ -142,6 +142,10 @@
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsBaseSearcher.java" timestamp="1489990011824">
         <mark key="'" line="83" column="29" />
       </file>
+      <file name="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/lang/Long.java" timestamp="1489992072268">
+        <mark key="[" line="1251" column="0" />
+        <mark key="]" line="1251" column="48" />
+      </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/ScoreRetComparator.java" timestamp="1488531876776">
         <mark key="'" line="47" column="43" />
       </file>
@@ -183,12 +187,12 @@
         <mark key="^" line="19" column="16" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" timestamp="1489989579694">
-        <mark key="'" line="20" column="33" />
-        <mark key="[" line="158" column="57" />
-        <mark key="]" line="158" column="57" />
-        <mark key="." line="158" column="57" />
-        <mark key="^" line="39" column="11" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" timestamp="1489993918667">
+        <mark key="'" line="131" column="8" />
+        <mark key="[" line="135" column="24" />
+        <mark key="]" line="135" column="24" />
+        <mark key="." line="135" column="24" />
+        <mark key="^" line="135" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SegmentRet.java" timestamp="1489028789598">
         <mark key="[" line="10" column="0" />
@@ -271,8 +275,10 @@
         <mark key="^" line="22" column="18" />
         <mark key="." line="138" column="49" />
       </file>
-      <file name="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/lang/Integer.java" timestamp="1489023312919">
+      <file name="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/lang/Integer.java" timestamp="1489991857564">
         <mark key="'" line="62" column="5" />
+        <mark key="[" line="1233" column="0" />
+        <mark key="]" line="1233" column="48" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/gdautonavi/AutonaviSearcher.java" timestamp="1483953212651">
         <mark key="[" line="69" column="0" />
@@ -401,9 +407,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="38" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/TermsSetter.java" />
-      <jump line="59" column="73" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/TermsSetter.java" />
-      <jump line="97" column="40" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/TermsSetter.java" />
       <jump line="15" column="16" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/RevAndMatchSetter.java" />
       <jump line="25" column="40" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/RevAndMatchSetter.java" />
       <jump line="66" column="37" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/RevAndMatchSetter.java" />
@@ -501,62 +504,62 @@
       <jump line="654" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsBaseSearcher.java" />
       <jump line="44" column="29" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsBaseSearcher.java" />
       <jump line="83" column="29" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsBaseSearcher.java" />
+      <jump line="45" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" />
+      <jump line="140" column="18" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" />
+      <jump line="131" column="8" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Collections</text>
       </register>
       <register name="/" type="4">
-        <text>sort</text>
+        <text>y.doc2.prior</text>
       </register>
-      <register name="0" type="4">
-        <text>original_term</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbG9uZyBpZDEgPSBkb2MxLmlkV2l0aFRlcm1zLmdldERvY0lkKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBDb3VudCBjID0gbmV3IENvdW50KCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgc3luY2hyb25pemVkIHZvaWQgYWRkKGludCBpKSB7CiAgICAgICAgY250Kys7CiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZmF1bHQgaW50IGNvbXBhcmUoIFBvc1NvcnRlci5SYXRlT2JqZWN0IHJhdGVPYmplY3QxLCBQb3NTb3J0ZXIuUmF0ZU9iamVjdCByYXRlT2JqZWN0MikgewogICAgICAgIHJldHVybiBjb21wYXJlKHJhdGVPYmplY3QxLCByYXRlT2JqZWN0Mik7CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBJbnRlZ2VyIGEgPSBuZXcgSW50ZWdlcigwKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEludGVnZXIuc2UK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZWdpc3RIYW5kbGVyKEhhbmRsZXJYaWFvUXUuaW5zdGFuY2UoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGEucyA9IG5ldyBJbnRlZ2VyKGEuaW50VmFsdWUoKSArIDEpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIXNob3VsZEhhbmRsZShzZW1hbnRpY1JldCkpIHJldHVybiAwOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEludGVnZXIgYTEgPSBhOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGEuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGJvb2xlYW4gc2hvdWxkSGFuZGxlKFNlbWFudGljUmV0IHNlbWFudGljUmV0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGkrKzsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>sort</last-search>
+      <last-search>y.doc2.prior</last-search>
       <last-offset />
-      <last-pattern>sort</last-pattern>
-      <last-replace>users</last-replace>
-      <last-substitute>find</last-substitute>
+      <last-pattern>y.doc2.prior</last-pattern>
+      <last-replace />
+      <last-substitute>y.doc2.prior</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>IdWith</entry>
-        <entry>subString</entry>
-        <entry encoding="base64">XDx0ZXJtVXRpbFNldFw+</entry>
         <entry encoding="base64">XDxnZXRUZXJtUG9zXD4=</entry>
         <entry>cityDe</entry>
         <entry encoding="base64">XDxkaXN0TmFtZTJDb2RlTWFwXD4=</entry>
@@ -574,6 +577,9 @@
         <entry encoding="base64">XDxzZW1hbnRpY1JldFw+</entry>
         <entry encoding="base64">XDxoYW5kbGVyQ2hhaW5cPg==</entry>
         <entry>sort</entry>
+        <entry>compare</entry>
+        <entry>x</entry>
+        <entry>y.doc2.prior</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzEvMi9n</entry>
@@ -582,6 +588,8 @@
         <entry encoding="base64">JzwsJz5zL25hbWVGdWxsTWF0Y2gvYWxpYXNGdWxsTWF0Y2gvZw==</entry>
         <entry>se list</entry>
         <entry encoding="base64">JzwsJz5zL2ZpbmQvdXNlcnM=</entry>
+        <entry encoding="base64">JzwsJz5zL3gvZG9jMS5wcmlvcg==</entry>
+        <entry encoding="base64">JzwsJz5zL3kuZG9jMi5wcmlvcg==</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
