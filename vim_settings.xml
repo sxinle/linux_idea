@@ -319,12 +319,11 @@
       <file name="$USER_HOME$/workspace/search/search_web/src/test/java/com/mx/server/search/CGITest.java" timestamp="1489482312092">
         <mark key="'" line="50" column="41" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" timestamp="1490073240539">
-        <mark key="'" line="60" column="48" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="129" column="37" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" timestamp="1490073319570">
+        <mark key="'" line="38" column="47" />
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SegmentRet.java" timestamp="1489028789598">
         <mark key="[" line="10" column="0" />
@@ -440,7 +439,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="13" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsRXTSearcher.java" />
       <jump line="18" column="13" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsXTSearcher.java" />
       <jump line="69" column="47" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" />
       <jump line="82" column="49" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" />
@@ -540,6 +538,7 @@
       <jump line="39" column="36" filename="$USER_HOME$/workspace/red/conf/application.conf" />
       <jump line="62" column="0" filename="$USER_HOME$/workspace/red/conf/application.conf" />
       <jump line="60" column="48" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" />
+      <jump line="38" column="47" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -552,31 +551,31 @@
         <text>rs.getString(&quot;password&quot;)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGIuZGVmYXVsdC5kcml2ZXI9Y29tLm15c3FsLmpkYmMuRHJpdmVyCmRiLmRlZmF1bHQudXJsPSJqZGJjOm15c3FsOi8vbG9jYWxob3N0L3JlZCIKZGIuZGVmYXVsdC51c2VybmFtZT1yb290CmRiLmRlZmF1bHQucGFzc3dvcmQ9ImFkbWluIgo=</text>
+        <text encoding="base64">ICAgIGhlbGxqamtqCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGIuZGVmYXVsdC5sb2dTcWw9dHJ1ZQo=</text>
+        <text encoding="base64">ZGIuZGVmYXVsdC5kcml2ZXI9Y29tLm15c3FsLmpkYmMuRHJpdmVyCmRiLmRlZmF1bHQudXJsPSJqZGJjOm15c3FsOi8vbG9jYWxob3N0L3JlZCIKZGIuZGVmYXVsdC51c2VybmFtZT1yb290CmRiLmRlZmF1bHQucGFzc3dvcmQ9ImFkbWluIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBldm9sdXRpb25zLAo=</text>
+        <text encoding="base64">ZGIuZGVmYXVsdC5sb2dTcWw9dHJ1ZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ImNvbS50eXBlc2FmZS5wbGF5IiAlJSAicGxheS1zbGljayIgJSAiMi4wLjAiCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICBldm9sdXRpb25zLAo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="5" type="2">
+        <text encoding="base64">ImNvbS50eXBlc2FmZS5wbGF5IiAlJSAicGxheS1zbGljayIgJSAiMi4wLjAiCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBldm9sdXRpb25zLAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdmFsIHVzZXIgPSBycy5nZXRTdHJpbmcoInVzZXJfbmFtZSIpCiAgICAgIHZhbCBwYXNzd29yZCA9IHJzLmdldFN0cmluZygicGFzc3dvcmQiKQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
