@@ -21,6 +21,9 @@
         <mark key="]" line="12" column="16" />
         <mark key="." line="12" column="16" />
       </file>
+      <file name="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/math/Ordering.scala" timestamp="1490059338071">
+        <mark key="'" line="333" column="18" />
+      </file>
       <file name="$USER_HOME$/.ivy2/cache/com.typesafe.play/play-json_2.11/srcs/play-json_2.11-2.4.2-sources.jar!/play/api/libs/json/package.scala" timestamp="1489644289186">
         <mark key="'" line="37" column="2" />
       </file>
@@ -71,6 +74,9 @@
         <mark key="[" line="120" column="0" />
         <mark key="]" line="120" column="0" />
         <mark key="." line="120" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/A.scala" timestamp="1490015145032">
+        <mark key="'" line="8" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/mx_tsp_stub_service/db/002_db_mx_tsp_stub_alert.sql" timestamp="1487557266355">
         <mark key="'" line="10" column="29" />
@@ -142,10 +148,6 @@
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsBaseSearcher.java" timestamp="1489990011824">
         <mark key="'" line="83" column="29" />
       </file>
-      <file name="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/lang/Long.java" timestamp="1489992072268">
-        <mark key="[" line="1251" column="0" />
-        <mark key="]" line="1251" column="48" />
-      </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/ScoreRetComparator.java" timestamp="1488531876776">
         <mark key="'" line="47" column="43" />
       </file>
@@ -160,6 +162,13 @@
         <mark key="]" line="9" column="0" />
         <mark key="^" line="192" column="34" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/red/app/controllers/A.java" timestamp="1490015102723">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="16" column="37" />
+        <mark key="]" line="16" column="37" />
+        <mark key="." line="16" column="37" />
+        <mark key="^" line="16" column="37" />
       </file>
       <file name="$USER_HOME$/workspace/scalaTest/src/com/st/HelloWorld.scala" timestamp="1489559736680">
         <mark key="'" line="7" column="0" />
@@ -241,6 +250,9 @@
       <file name="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/business/poi/action/PoiController.java" timestamp="1488789344428">
         <mark key="'" line="37" column="0" />
       </file>
+      <file name="$USER_HOME$/.ivy2/cache/org.scalaz/scalaz-core_2.11/srcs/scalaz-core_2.11-7.1.1-sources.jar!/scalaz/syntax/std/StringOps.scala" timestamp="1490059286164">
+        <mark key="'" line="12" column="48" />
+      </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/dispatch/SearcherProvider.java" timestamp="1489987380927">
         <mark key="'" line="18" column="29" />
       </file>
@@ -281,11 +293,6 @@
         <mark key="]" line="138" column="49" />
         <mark key="^" line="22" column="18" />
         <mark key="." line="138" column="49" />
-      </file>
-      <file name="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/lang/Integer.java" timestamp="1489991857564">
-        <mark key="'" line="62" column="5" />
-        <mark key="[" line="1233" column="0" />
-        <mark key="]" line="1233" column="48" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/gdautonavi/AutonaviSearcher.java" timestamp="1483953212651">
         <mark key="[" line="69" column="0" />
@@ -333,11 +340,11 @@
         <mark key="." line="32" column="76" />
         <mark key="^" line="32" column="76" />
       </file>
-      <file name="$USER_HOME$/workspace/red/app/controllers/Application.scala" timestamp="1490012356196">
-        <mark key="[" line="24" column="27" />
-        <mark key="]" line="24" column="27" />
-        <mark key="." line="24" column="27" />
-        <mark key="^" line="24" column="27" />
+      <file name="$USER_HOME$/workspace/red/app/controllers/Application.scala" timestamp="1490058997590">
+        <mark key="[" line="29" column="48" />
+        <mark key="]" line="29" column="48" />
+        <mark key="." line="29" column="48" />
+        <mark key="^" line="29" column="47" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/SuggestSearcher.java" timestamp="1489987554716">
         <mark key="'" line="49" column="24" />
@@ -361,6 +368,9 @@
         <mark key="]" line="357" column="20" />
         <mark key="." line="357" column="20" />
         <mark key="^" line="357" column="20" />
+      </file>
+      <file name="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/Array.scala" timestamp="1490059243745">
+        <mark key="'" line="504" column="24" />
       </file>
       <file name="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/util/HashSet.java" timestamp="1489480244148">
         <mark key="'" line="103" column="21" />
@@ -408,19 +418,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="0" filename="$USER_HOME$/workspace/red/app/controllers/Application.scala" />
-      <jump line="15" column="0" filename="$USER_HOME$/workspace/red/app/controllers/Application.scala" />
-      <jump line="14" column="43" filename="$USER_HOME$/workspace/red/app/controllers/Application.scala" />
-      <jump line="16" column="0" filename="$USER_HOME$/workspace/red/app/controllers/Application.scala" />
-      <jump line="68" column="33" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" />
-      <jump line="87" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" />
-      <jump line="73" column="60" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" />
-      <jump line="187" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" />
-      <jump line="9" column="18" filename="$USER_HOME$/workspace/red/app/controllers/Application.scala" />
-      <jump line="257" column="45" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" />
-      <jump line="270" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" />
-      <jump line="342" column="0" filename="$USER_HOME$/workspace/uauth/src/main/java/com/mx/server/buss/admin/service/impl/CustomerService.java" />
       <jump line="128" column="20" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
       <jump line="64" column="41" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" />
       <jump line="347" column="34" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" />
@@ -508,52 +505,65 @@
       <jump line="184" column="18" filename="$USER_HOME$/.ivy2/cache/javax.inject/javax.inject/srcs/javax.inject-1-sources.jar!/javax/inject/Inject.java" />
       <jump line="177" column="1" filename="$USER_HOME$/.ivy2/cache/javax.inject/javax.inject/srcs/javax.inject-1-sources.jar!/javax/inject/Inject.java" />
       <jump line="117" column="6" filename="$USER_HOME$/.ivy2/cache/com.typesafe.play/play-json_2.11/srcs/play-json_2.11-2.4.2-sources.jar!/play/api/libs/json/Json.scala" />
+      <jump line="11" column="37" filename="$USER_HOME$/workspace/red/app/controllers/A.java" />
+      <jump line="9" column="0" filename="$USER_HOME$/workspace/red/app/controllers/A.java" />
+      <jump line="8" column="22" filename="$APPLICATION_CONFIG_DIR$/scratches/A.scala" />
+      <jump line="473" column="14" filename="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/Array.scala" />
+      <jump line="478" column="41" filename="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/Array.scala" />
+      <jump line="487" column="119" filename="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/Array.scala" />
+      <jump line="488" column="17" filename="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/Array.scala" />
+      <jump line="489" column="18" filename="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/Array.scala" />
+      <jump line="497" column="24" filename="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/Array.scala" />
+      <jump line="502" column="12" filename="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/Array.scala" />
+      <jump line="504" column="24" filename="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/Array.scala" />
+      <jump line="12" column="48" filename="$USER_HOME$/.ivy2/cache/org.scalaz/scalaz-core_2.11/srcs/scalaz-core_2.11-7.1.1-sources.jar!/scalaz/syntax/std/StringOps.scala" />
+      <jump line="333" column="18" filename="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/math/Ordering.scala" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">LCAicGFzc3dvcmQiIC0+IHBhc3N3b3Jk</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRUZXJtUG9zXD4=</text>
+        <text>apply</text>
       </register>
       <register name="0" type="4">
         <text>rateObject.sorter.getPos(&quot;&quot; + rateObject.idWithTerms.getDocId() + &quot;_&quot; + term + &quot;_&quot; + IndexInfoArr.TERM_KEY_ALIAS)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJzLmdldHMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBSZXN1bHRTZXQgcnMgPSBDbGFzcy5mb3JOYW1lKCIiKS5nZXQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCB1cyA9IG5ldyB1dGlsLkFycmF5TGlzdFtBcnJheV0oKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIExpc3QocnMpLm1hcCgidXNlcl9uYW1lIi0+IHJzLmdldFN0cmluZygidXNlcl9uYW1lIikpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJzLnRvTGlzCg==</text>
+        <text encoding="base64">ICAgIHZhbCB1cyA9IG5ldyB1dGlsLkFycmF5TGlzdFtBcnJheV0oKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHVzZXIudG9MaXN0Cg==</text>
+        <text encoding="base64">ICAgIExpc3QocnMpLm1hcCgidXNlcl9uYW1lIi0+IHJzLmdldFN0cmluZygidXNlcl9uYW1lIikpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdXMuYWRkKCkK</text>
+        <text encoding="base64">ICAgIHJzLnRvTGlzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRUZXJtUG9zXD4=</last-search>
+      <last-search>apply</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRUZXJtUG9zXD4=</last-pattern>
+      <last-pattern>apply</last-pattern>
       <last-replace />
       <last-substitute>y.doc2.prior</last-substitute>
       <last-dir>1</last-dir>
@@ -561,8 +571,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpZFdpdGhUZXJtTGlzdFw+</entry>
-        <entry encoding="base64">XDxyZW1vdmVcPg==</entry>
         <entry encoding="base64">XDxzZW1hbnRpY1JldFw+</entry>
         <entry encoding="base64">XDxoYW5kbGVyQ2hhaW5cPg==</entry>
         <entry>sort</entry>
@@ -581,6 +589,8 @@
         <entry>getTerm</entry>
         <entry>getTermPo</entry>
         <entry encoding="base64">XDxnZXRUZXJtUG9zXD4=</entry>
+        <entry encoding="base64">XDxBcnJheVw+</entry>
+        <entry>apply</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzEvMi9n</entry>
