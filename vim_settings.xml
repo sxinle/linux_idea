@@ -278,8 +278,8 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/red/conf/application.conf" timestamp="1490066906428">
-        <mark key="'" line="48" column="6" />
+      <file name="$USER_HOME$/workspace/red/conf/application.conf" timestamp="1490073229305">
+        <mark key="'" line="62" column="0" />
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
         <mark key="^" line="39" column="35" />
@@ -440,8 +440,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="128" column="20" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
-      <jump line="64" column="41" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" />
       <jump line="347" column="34" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" />
       <jump line="14" column="13" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsRXTSearcher.java" />
       <jump line="18" column="13" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsXTSearcher.java" />
@@ -540,6 +538,8 @@
       <jump line="504" column="24" filename="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/Array.scala" />
       <jump line="12" column="48" filename="$USER_HOME$/.ivy2/cache/org.scalaz/scalaz-core_2.11/srcs/scalaz-core_2.11-7.1.1-sources.jar!/scalaz/syntax/std/StringOps.scala" />
       <jump line="333" column="18" filename="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/math/Ordering.scala" />
+      <jump line="39" column="36" filename="$USER_HOME$/workspace/red/conf/application.conf" />
+      <jump line="62" column="0" filename="$USER_HOME$/workspace/red/conf/application.conf" />
     </jumps>
     <registers>
       <register name="-" type="4">
