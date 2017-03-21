@@ -351,11 +351,11 @@
         <mark key="." line="32" column="76" />
         <mark key="^" line="32" column="76" />
       </file>
-      <file name="$USER_HOME$/workspace/red/app/controllers/Application.scala" timestamp="1490062149957">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="23" column="14" />
+      <file name="$USER_HOME$/workspace/red/app/controllers/Application.scala" timestamp="1490062528975">
+        <mark key="[" line="17" column="24" />
+        <mark key="]" line="17" column="36" />
+        <mark key="." line="17" column="36" />
+        <mark key="^" line="17" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/SuggestSearcher.java" timestamp="1489987554716">
         <mark key="'" line="49" column="24" />
@@ -533,40 +533,40 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>String</text>
+        <text>controllers.</text>
       </register>
       <register name="/" type="4">
         <text>apply</text>
       </register>
-      <register name="0" type="4">
-        <text>rateObject.sorter.getPos(&quot;&quot; + rateObject.idWithTerms.getDocId() + &quot;_&quot; + term + &quot;_&quot; + IndexInfoArr.TERM_KEY_ALIAS)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHZhbCByczogUmVzdWx0U2V0ID0gZGIuZ2V0Q29ubmVjdGlvbihmYWxzZSkuY3JlYXRlU3RhdGVtZW50KCkuZXhlY3V0ZVF1ZXJ5KCJzZWxlY3QgKiBmcm9tIHVzZXJzIikKICAgIHZhbCB1c2VycyA9IG5ldyBMaXN0QnVmZmVyW1VzZXJdCgogICAgd2hpbGUgKHJzLm5leHQoKSkgewogICAgICB2YWwgdXNlciA9IHJzLmdldFN0cmluZygidXNlcl9uYW1lIikKICAgICAgdmFsIHBhc3N3b3JkID0gcnMuZ2V0U3RyaW5nKCJwYXNzd29yZCIpCiAgICAgIHVzZXJzICs9IFVzZXIodXNlciwgcGFzc3dvcmQpCiAgICB9CgoKICAgIE9rKEpzb24udG9Kc29uKEpzb24ub2JqKCJ1c2VyX25hbWUiIC0+IHVzZXJzKSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG1vZGVscy5Nb2RlbHMuVXNlcgo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdXNlcnMgKz0gdXNlcgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">IAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBBcHBlbmRhYmxlCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhciB1c2VyLCBwYXNzd29yZCA9ICIiCg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHZhbCByczogUmVzdWx0U2V0ID0gZGIuZ2V0Q29ubmVjdGlvbihmYWxzZSkuY3JlYXRlU3RhdGVtZW50KCkuZXhlY3V0ZVF1ZXJ5KCJzZWxlY3QgKiBmcm9tIHVzZXJzIikKICAgIHZhbCB1c2VycyA9IG5ldyBMaXN0QnVmZmVyW1VzZXJdCgogICAgd2hpbGUgKHJzLm5leHQoKSkgewogICAgICB2YWwgdXNlciA9IHJzLmdldFN0cmluZygidXNlcl9uYW1lIikKICAgICAgdmFsIHBhc3N3b3JkID0gcnMuZ2V0U3RyaW5nKCJwYXNzd29yZCIpCiAgICAgIHVzZXJzICs9IFVzZXIodXNlciwgcGFzc3dvcmQpCiAgICB9CgoKICAgIE9rKEpzb24udG9Kc29uKEpzb24ub2JqKCJ1c2VyX25hbWUiIC0+IHVzZXJzKSkpCg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIE9rKEpzb24udG9Kc29uKG5ldyBVc2VyKCJoZWxsbyIsIG51bGwpKSkK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">aW1wb3J0IG1vZGVscy5Nb2RlbHMuVXNlcgo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgdXNlcnMgKz0gdXNlcgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">IAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBBcHBlbmRhYmxlCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
