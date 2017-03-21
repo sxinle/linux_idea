@@ -24,6 +24,12 @@
       <file name="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/math/Ordering.scala" timestamp="1490059338071">
         <mark key="'" line="333" column="18" />
       </file>
+      <file name="$USER_HOME$/workspace/red/app/models/Models.scala" timestamp="1490062079107">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="9" column="65" />
+      </file>
       <file name="$USER_HOME$/.ivy2/cache/com.typesafe.play/play-json_2.11/srcs/play-json_2.11-2.4.2-sources.jar!/play/api/libs/json/package.scala" timestamp="1489644289186">
         <mark key="'" line="37" column="2" />
       </file>
@@ -294,6 +300,11 @@
         <mark key="^" line="22" column="18" />
         <mark key="." line="138" column="49" />
       </file>
+      <file name="$USER_HOME$/workspace/red/app/controllers/JsonWritters.scala" timestamp="1490062121490">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/gdautonavi/AutonaviSearcher.java" timestamp="1483953212651">
         <mark key="[" line="69" column="0" />
         <mark key="]" line="69" column="0" />
@@ -328,7 +339,7 @@
       <file name="/SemanticsTSearcher.java" timestamp="1488005536466">
         <mark key="'" line="100" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1490008771215">
+      <file name="/Dummy.txt" timestamp="1490062174587">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="25" />
         <mark key="." line="3" column="25" />
@@ -340,11 +351,11 @@
         <mark key="." line="32" column="76" />
         <mark key="^" line="32" column="76" />
       </file>
-      <file name="$USER_HOME$/workspace/red/app/controllers/Application.scala" timestamp="1490058997590">
-        <mark key="[" line="29" column="48" />
-        <mark key="]" line="29" column="48" />
-        <mark key="." line="29" column="48" />
-        <mark key="^" line="29" column="47" />
+      <file name="$USER_HOME$/workspace/red/app/controllers/Application.scala" timestamp="1490062149957">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="23" column="14" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/SuggestSearcher.java" timestamp="1489987554716">
         <mark key="'" line="49" column="24" />
@@ -369,6 +380,7 @@
         <mark key="." line="357" column="20" />
         <mark key="^" line="357" column="20" />
       </file>
+      <file name="$USER_HOME$/.ivy2/cache/javax.inject/javax.inject/srcs/javax.inject-1-sources.jar!/javax/inject/Singleton.java" timestamp="1490062165711" />
       <file name="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/Array.scala" timestamp="1490059243745">
         <mark key="'" line="504" column="24" />
       </file>
@@ -521,7 +533,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">LCAicGFzc3dvcmQiIC0+IHBhc3N3b3Jk</text>
+        <text>String</text>
       </register>
       <register name="/" type="4">
         <text>apply</text>
@@ -530,31 +542,31 @@
         <text>rateObject.sorter.getPos(&quot;&quot; + rateObject.idWithTerms.getDocId() + &quot;_&quot; + term + &quot;_&quot; + IndexInfoArr.TERM_KEY_ALIAS)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJzLmdldHMK</text>
+        <text encoding="base64">aW1wb3J0IG1vZGVscy5Nb2RlbHMuVXNlcgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBSZXN1bHRTZXQgcnMgPSBDbGFzcy5mb3JOYW1lKCIiKS5nZXQK</text>
+        <text encoding="base64">ICAgICAgdXNlcnMgKz0gdXNlcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBBcHBlbmRhYmxlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCB1cyA9IG5ldyB1dGlsLkFycmF5TGlzdFtBcnJheV0oKQo=</text>
+        <text encoding="base64">ICAgIHZhciB1c2VyLCBwYXNzd29yZCA9ICIiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIExpc3QocnMpLm1hcCgidXNlcl9uYW1lIi0+IHJzLmdldFN0cmluZygidXNlcl9uYW1lIikpCg==</text>
+        <text encoding="base64">aW1wb3J0IG1vZGVscy5Nb2RlbHMuVXNlcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJzLnRvTGlzCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
