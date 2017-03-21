@@ -186,11 +186,11 @@
         <mark key="." line="158" column="28" />
         <mark key="^" line="158" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/red/app/controllers/Application.scala" timestamp="1490063776923">
-        <mark key="[" line="17" column="25" />
-        <mark key="]" line="17" column="35" />
-        <mark key="." line="17" column="35" />
-        <mark key="^" line="17" column="35" />
+      <file name="$USER_HOME$/workspace/red/app/controllers/Application.scala" timestamp="1490067369896">
+        <mark key="[" line="15" column="101" />
+        <mark key="]" line="15" column="135" />
+        <mark key="." line="15" column="135" />
+        <mark key="^" line="15" column="135" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/SuggestSearcher.java" timestamp="1489987554716">
         <mark key="'" line="49" column="24" />
@@ -278,8 +278,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/red/conf/application.conf" timestamp="1489977016485">
-        <mark key="'" line="46" column="6" />
+      <file name="$USER_HOME$/workspace/red/conf/application.conf" timestamp="1490066906428">
+        <mark key="'" line="48" column="6" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="^" line="39" column="35" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" timestamp="1489996903004">
         <mark key="'" line="12" column="2" />
@@ -397,7 +401,7 @@
         <mark key="." line="357" column="20" />
         <mark key="^" line="357" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/red/build.sbt" timestamp="1490064545148">
+      <file name="$USER_HOME$/workspace/red/build.sbt" timestamp="1490066508484">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="^" line="12" column="47" />
@@ -539,49 +543,49 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>,</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>apply</text>
+        <text>slick</text>
       </register>
       <register name="0" type="4">
         <text>rs.getString(&quot;password&quot;)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBldm9sdXRpb25zLAo=</text>
+        <text encoding="base64">ZGIuZGVmYXVsdC5kcml2ZXI9Y29tLm15c3FsLmpkYmMuRHJpdmVyCmRiLmRlZmF1bHQudXJsPSJqZGJjOm15c3FsOi8vbG9jYWxob3N0L3JlZCIKZGIuZGVmYXVsdC51c2VybmFtZT1yb290CmRiLmRlZmF1bHQucGFzc3dvcmQ9ImFkbWluIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ImNvbS50eXBlc2FmZS5wbGF5IiAlJSAicGxheS1zbGljayIgJSAiMi4wLjAiCg==</text>
+        <text encoding="base64">ZGIuZGVmYXVsdC5sb2dTcWw9dHJ1ZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBldm9sdXRpb25zLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBldm9sdXRpb25zLAo=</text>
+        <text encoding="base64">ImNvbS50eXBlc2FmZS5wbGF5IiAlJSAicGxheS1zbGljayIgJSAiMi4wLjAiCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICBldm9sdXRpb25zLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdmFsIHVzZXIgPSBycy5nZXRTdHJpbmcoInVzZXJfbmFtZSIpCiAgICAgIHZhbCBwYXNzd29yZCA9IHJzLmdldFN0cmluZygicGFzc3dvcmQiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdmFsIHVzZXIgPSBycy5nZXRTdHJpbmcoInVzZXJfbmFtZSIpCiAgICAgIHZhbCBwYXNzd29yZCA9IHJzLmdldFN0cmluZygicGFzc3dvcmQiKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>apply</last-search>
+      <last-search>slick</last-search>
       <last-offset />
-      <last-pattern>apply</last-pattern>
+      <last-pattern>slick</last-pattern>
       <last-replace />
       <last-substitute>y.doc2.prior</last-substitute>
       <last-dir>1</last-dir>
@@ -589,7 +593,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZW1hbnRpY1JldFw+</entry>
         <entry encoding="base64">XDxoYW5kbGVyQ2hhaW5cPg==</entry>
         <entry>sort</entry>
         <entry>compare</entry>
@@ -609,6 +612,7 @@
         <entry encoding="base64">XDxnZXRUZXJtUG9zXD4=</entry>
         <entry encoding="base64">XDxBcnJheVw+</entry>
         <entry>apply</entry>
+        <entry>slick</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzEvMi9n</entry>
