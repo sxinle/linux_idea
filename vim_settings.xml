@@ -21,11 +21,11 @@
         <mark key="]" line="12" column="16" />
         <mark key="." line="12" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/red/app/models/Models.scala" timestamp="1490168238981">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="2" column="24" />
+      <file name="$USER_HOME$/workspace/red/app/models/Models.scala" timestamp="1490171679787">
+        <mark key="[" line="2" column="20" />
+        <mark key="]" line="2" column="23" />
+        <mark key="." line="2" column="23" />
+        <mark key="^" line="2" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/Tet.java" timestamp="1489629401675">
         <mark key="'" line="7" column="30" />
@@ -177,8 +177,8 @@
         <mark key="]" line="7" column="16" />
         <mark key="." line="7" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/red/app/views/user.scala.html" timestamp="1490167937775">
-        <mark key="'" line="123" column="79" />
+      <file name="$USER_HOME$/workspace/red/app/views/user.scala.html" timestamp="1490172001657">
+        <mark key="'" line="128" column="0" />
         <mark key="[" line="123" column="72" />
         <mark key="]" line="123" column="79" />
         <mark key="." line="123" column="79" />
@@ -318,6 +318,7 @@
         <mark key="." line="19" column="63" />
         <mark key="^" line="19" column="75" />
       </file>
+      <file name="$USER_HOME$/workspace/uauth/src/main/web/WEB-INF/view/jsp/admin/customer/add.jsp" timestamp="1490172335851" />
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/RouteSearcher.java" timestamp="1490079975035">
         <mark key="'" line="95" column="12" />
         <mark key="[" line="43" column="58" />
@@ -346,9 +347,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="488" column="17" filename="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/Array.scala" />
-      <jump line="489" column="18" filename="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/Array.scala" />
-      <jump line="497" column="24" filename="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/Array.scala" />
       <jump line="502" column="12" filename="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/Array.scala" />
       <jump line="504" column="24" filename="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/Array.scala" />
       <jump line="12" column="48" filename="$USER_HOME$/.ivy2/cache/org.scalaz/scalaz-core_2.11/srcs/scalaz-core_2.11-7.1.1-sources.jar!/scalaz/syntax/std/StringOps.scala" />
@@ -446,10 +444,13 @@
       <jump line="6" column="9" filename="$USER_HOME$/.ivy2/cache/com.typesafe.slick/slick_2.11/bundles/slick_2.11-3.1.0.jar!/slick/profile/RelationalProfile.class" />
       <jump line="76" column="25" filename="$USER_HOME$/.ivy2/cache/com.typesafe.slick/slick_2.11/srcs/slick_2.11-3.1.0-sources.jar!/slick/profile/RelationalProfile.scala" />
       <jump line="22" column="15" filename="$USER_HOME$/.ivy2/cache/com.typesafe.slick/slick_2.11/srcs/slick_2.11-3.1.0-sources.jar!/slick/lifted/Shape.scala" />
+      <jump line="16" column="52" filename="$USER_HOME$/workspace/red/app/views/user.scala.html" />
+      <jump line="15" column="32" filename="$USER_HOME$/workspace/red/app/views/user.scala.html" />
+      <jump line="128" column="0" filename="$USER_HOME$/workspace/red/app/views/user.scala.html" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Int</text>
       </register>
       <register name="/" type="4">
         <text>mapping</text>
