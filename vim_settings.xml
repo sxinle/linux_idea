@@ -95,12 +95,15 @@
         <mark key="." line="20" column="18" />
         <mark key="^" line="20" column="8" />
       </file>
-      <file name="$USER_HOME$/workspace/red/conf/application.conf" timestamp="1490073229305">
-        <mark key="'" line="62" column="0" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="^" line="39" column="35" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/.ivy2/cache/com.typesafe.play/play_2.11/srcs/play_2.11-2.5.0-sources.jar!/play/api/Logger.scala" timestamp="1490173282509">
+        <mark key="'" line="161" column="36" />
+      </file>
+      <file name="$USER_HOME$/workspace/red/conf/application.conf" timestamp="1490173344165">
+        <mark key="'" line="11" column="21" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="^" line="40" column="9" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/doc/DocAttr.java" timestamp="1489201951335">
         <mark key="'" line="98" column="20" />
@@ -281,11 +284,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="502" column="12" filename="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/Array.scala" />
-      <jump line="504" column="24" filename="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/Array.scala" />
-      <jump line="12" column="48" filename="$USER_HOME$/.ivy2/cache/org.scalaz/scalaz-core_2.11/srcs/scalaz-core_2.11-7.1.1-sources.jar!/scalaz/syntax/std/StringOps.scala" />
-      <jump line="333" column="18" filename="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/math/Ordering.scala" />
-      <jump line="39" column="36" filename="$USER_HOME$/workspace/red/conf/application.conf" />
       <jump line="62" column="0" filename="$USER_HOME$/workspace/red/conf/application.conf" />
       <jump line="60" column="48" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" />
       <jump line="38" column="47" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" />
@@ -381,52 +379,57 @@
       <jump line="16" column="52" filename="$USER_HOME$/workspace/red/app/views/user.scala.html" />
       <jump line="15" column="32" filename="$USER_HOME$/workspace/red/app/views/user.scala.html" />
       <jump line="128" column="0" filename="$USER_HOME$/workspace/red/app/views/user.scala.html" />
+      <jump line="161" column="36" filename="$USER_HOME$/.ivy2/cache/com.typesafe.play/play_2.11/srcs/play_2.11-2.5.0-sources.jar!/play/api/Logger.scala" />
+      <jump line="41" column="0" filename="$USER_HOME$/workspace/red/conf/application.conf" />
+      <jump line="55" column="0" filename="$USER_HOME$/workspace/red/conf/application.conf" />
+      <jump line="61" column="0" filename="$USER_HOME$/workspace/red/conf/application.conf" />
+      <jump line="11" column="21" filename="$USER_HOME$/workspace/red/conf/application.conf" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>Int</text>
       </register>
       <register name="/" type="4">
-        <text>mapping</text>
+        <text>init</text>
       </register>
       <register name="0" type="4">
         <text>/cgi/admin/login</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QFNpbmdsZXRvbgo=</text>
+        <text encoding="base64">ZGIuZGVmYXVsdC5sb2dTcWw9dHJ1ZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QFNpbmdsZXRvbgo=</text>
+        <text encoding="base64">c2xpY2suZGJzLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QFNpbmdsZXRvbgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QFNpbmdsZXRvbgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB2YWwgZm9ybTIgPSBGb3JtKAogICAgbWFwcGluZygKICAgICAgInVzZXJOYW1lIiAtPiBvZltTdHJpbmddLAogICAgICAicGFzc1dvcmQiIC0+IG9mW1N0cmluZ10KICAgICkoVXNlckZvcm1EYXRhLmFwcGx5KShVc2VyRm9ybURhdGEudW5hcHBseSkKICApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgImlkIiAtPiBJbnQsCg==</text>
+        <text encoding="base64">ICB2YWwgZm9ybTIgPSBGb3JtKAogICAgbWFwcGluZygKICAgICAgInVzZXJOYW1lIiAtPiBvZltTdHJpbmddLAogICAgICAicGFzc1dvcmQiIC0+IG9mW1N0cmluZ10KICAgICkoVXNlckZvcm1EYXRhLmFwcGx5KShVc2VyRm9ybURhdGEudW5hcHBseSkKICApCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB2YXIgZnJvbSA9IEZvcm0obWFwcGluZygKICAgICJpZCIgLT4gSW50CiAgKSkoVXNlckZvcm1EYXRhLmFwcGx5KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgImlkIiAtPiBJbnQsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>mapping</last-search>
+      <last-search>init</last-search>
       <last-offset />
-      <last-pattern>mapping</last-pattern>
+      <last-pattern>init</last-pattern>
       <last-replace />
       <last-substitute>*</last-substitute>
       <last-dir>1</last-dir>
@@ -434,7 +437,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getTermPo</entry>
         <entry encoding="base64">XDxnZXRUZXJtUG9zXD4=</entry>
         <entry encoding="base64">XDxBcnJheVw+</entry>
         <entry>apply</entry>
@@ -454,6 +456,7 @@
         <entry encoding="base64">XDx0ZXJtc0NoYXJMZW5cPg==</entry>
         <entry>*</entry>
         <entry>mapping</entry>
+        <entry>init</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzEvMi9n</entry>
