@@ -31,10 +31,6 @@
         <mark key="." line="2" column="23" />
         <mark key="^" line="2" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/uauth/src/main/java/com/mx/server/core/misc/LoginFilter.java" timestamp="1490173117762">
-        <mark key="[" line="34" column="62" />
-        <mark key="]" line="34" column="77" />
-      </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/Tet.java" timestamp="1489629401675">
         <mark key="'" line="7" column="30" />
         <mark key="[" line="0" column="0" />
@@ -92,7 +88,7 @@
         <mark key="]" line="120" column="0" />
         <mark key="." line="120" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/red/app/controllers/UserController.scala" timestamp="1490170197191">
+      <file name="$USER_HOME$/workspace/red/app/controllers/UserController.scala" timestamp="1490253081922">
         <mark key="'" line="36" column="27" />
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -105,7 +101,8 @@
         <mark key="." line="50" column="60" />
         <mark key="^" line="50" column="60" />
       </file>
-      <file name="$USER_HOME$/workspace/red/app/daos/UserDao.scala" timestamp="1490170610068">
+      <file name="$USER_HOME$/workspace/red/app/daos/UserDao.scala" timestamp="1490253048356">
+        <mark key="'" line="31" column="19" />
         <mark key="[" line="20" column="5" />
         <mark key="]" line="20" column="8" />
         <mark key="." line="20" column="18" />
@@ -385,7 +382,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="43" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/SuggestSearcher.java" />
       <jump line="87" column="31" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/SuggestSearcher.java" />
       <jump line="64" column="12" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
       <jump line="247" column="30" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/ServerConfig.java" />
@@ -485,6 +481,7 @@
       <jump line="37" column="62" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/BaseSearcher.java" />
       <jump line="24" column="23" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/BaseSearcher.java" />
       <jump line="119" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/BaseSearcher.java" />
+      <jump line="31" column="19" filename="$USER_HOME$/workspace/red/app/daos/UserDao.scala" />
     </jumps>
     <registers>
       <register name="-" type="4">
