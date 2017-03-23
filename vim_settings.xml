@@ -402,8 +402,8 @@
         <mark key="]" line="11" column="24" />
         <mark key="." line="11" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" timestamp="1490160594130">
-        <mark key="'" line="297" column="38" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" timestamp="1490272679374">
+        <mark key="'" line="46" column="0" />
         <mark key="[" line="125" column="0" />
         <mark key="]" line="129" column="8" />
         <mark key="." line="126" column="39" />
@@ -475,10 +475,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="6" filename="$USER_HOME$/workspace/red/app/pojos/UserFormData.scala" />
-      <jump line="339" column="0" filename="$USER_HOME$/.ivy2/cache/com.typesafe.play/play_2.11/srcs/play_2.11-2.5.0-sources.jar!/play/api/data/Form.scala" />
-      <jump line="14" column="4" filename="$USER_HOME$/workspace/red/app/pojos/UserFormData.scala" />
-      <jump line="374" column="6" filename="$USER_HOME$/.ivy2/cache/com.typesafe.play/play_2.11/srcs/play_2.11-2.5.0-sources.jar!/play/api/data/Form.scala" />
       <jump line="246" column="48" filename="$USER_HOME$/.ivy2/cache/com.typesafe.play/play_2.11/srcs/play_2.11-2.5.0-sources.jar!/play/api/data/Form.scala" />
       <jump line="315" column="12" filename="$USER_HOME$/.ivy2/cache/com.typesafe.play/play_2.11/srcs/play_2.11-2.5.0-sources.jar!/play/api/data/Form.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/.ivy2/cache/com.typesafe.play/play_2.11/srcs/play_2.11-2.5.0-sources.jar!/play/api/data/Form.scala" />
@@ -575,6 +571,10 @@
       <jump line="64" column="27" filename="$USER_HOME$/workspace/search/pom.xml" />
       <jump line="22" column="9" filename="$USER_HOME$/workspace/search/pom.xml" />
       <jump line="57" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
+      <jump line="53" column="31" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" />
+      <jump line="386" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" />
+      <jump line="32" column="37" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" />
+      <jump line="46" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
