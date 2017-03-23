@@ -41,19 +41,18 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="7" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/thirdpart/taskmng_web/pom.xml" timestamp="1490266916466">
-        <mark key="'" line="33" column="53" />
-        <mark key="[" line="42" column="35" />
-        <mark key="]" line="42" column="35" />
-        <mark key="." line="42" column="35" />
-        <mark key="^" line="42" column="35" />
+      <file name="$USER_HOME$/workspace/thirdpart/taskmng_web/pom.xml" timestamp="1490268152606">
+        <mark key="'" line="46" column="34" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="46" column="35" />
       </file>
-      <file name="$USER_HOME$/workspace/thirdpart/pom.xml" timestamp="1490267007894">
-        <mark key="'" line="63" column="26" />
-        <mark key="[" line="82" column="39" />
-        <mark key="]" line="82" column="39" />
-        <mark key="^" line="82" column="39" />
-        <mark key="." line="82" column="39" />
+      <file name="$USER_HOME$/workspace/thirdpart/pom.xml" timestamp="1490268141235">
+        <mark key="'" line="93" column="39" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="44" column="24" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/.share/PEUSystem_DR/src/main/resources/application.properties" timestamp="1487062588696">
         <mark key="[" line="18" column="0" />
@@ -245,11 +244,11 @@
       <file name="$USER_HOME$/.ivy2/cache/com.typesafe.slick/slick_2.11/bundles/slick_2.11-3.1.0.jar!/slick/profile/RelationalProfile.class" timestamp="1490170401019">
         <mark key="'" line="6" column="9" />
       </file>
-      <file name="$USER_HOME$/workspace/thirdpart/taskmng_web/src/main/java/com/mx/thirdpart/taskmng/ScheduleMng.java" timestamp="1490266901089">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
+      <file name="$USER_HOME$/workspace/thirdpart/taskmng_web/src/main/java/com/mx/thirdpart/taskmng/ScheduleMng.java" timestamp="1490268308442">
+        <mark key="[" line="21" column="23" />
+        <mark key="]" line="21" column="24" />
         <mark key="^" line="9" column="23" />
-        <mark key="." line="2" column="0" />
+        <mark key="." line="21" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/SpecialHandler.java" timestamp="1490163799910">
         <mark key="'" line="0" column="0" />
@@ -304,11 +303,11 @@
       <file name="$USER_HOME$/.ivy2/cache/com.typesafe.slick/slick_2.11/srcs/slick_2.11-3.1.0-sources.jar!/slick/lifted/Shape.scala" timestamp="1490170568490">
         <mark key="'" line="22" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/thirdpart/taskmng_web/src/main/resources/spring-mvc.xml" timestamp="1490257722432">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="15" column="57" />
+      <file name="$USER_HOME$/workspace/thirdpart/taskmng_web/src/main/resources/spring-mvc.xml" timestamp="1490268346282">
+        <mark key="[" line="14" column="5" />
+        <mark key="]" line="14" column="8" />
+        <mark key="." line="14" column="8" />
+        <mark key="^" line="14" column="8" />
       </file>
       <file name="$USER_HOME$/workspace/red/app/views/main.scala.html" timestamp="1490166638529">
         <mark key="'" line="13" column="10" />
@@ -359,10 +358,12 @@
         <mark key="." line="131" column="69" />
         <mark key="^" line="131" column="69" />
       </file>
-      <file name="$USER_HOME$/workspace/search/pom.xml" timestamp="1490260741580">
-        <mark key="'" line="198" column="23" />
+      <file name="$USER_HOME$/workspace/search/pom.xml" timestamp="1490268145945">
+        <mark key="'" line="22" column="9" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="47" />
       </file>
-      <file name="/Dummy.txt" timestamp="1490247958578">
+      <file name="/Dummy.txt" timestamp="1490267719166">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="25" />
         <mark key="." line="3" column="25" />
@@ -483,23 +484,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="0" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/transfer/resp/SuggestResp.java" />
-      <jump line="67" column="30" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/transfer/resp/SuggestResp.java" />
-      <jump line="210" column="31" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/NearbySearcher.java" />
-      <jump line="22" column="51" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" />
-      <jump line="260" column="25" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" />
-      <jump line="256" column="6" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" />
-      <jump line="52" column="12" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
-      <jump line="97" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
-      <jump line="9" column="33" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/RevAndMatchSetter.java" />
-      <jump line="16" column="12" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/RevAndMatchSetter.java" />
-      <jump line="19" column="12" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/RevAndMatchSetter.java" />
-      <jump line="56" column="0" filename="$USER_HOME$/workspace/red/app/dao/UserDao.scala" />
-      <jump line="15" column="136" filename="$USER_HOME$/workspace/red/app/controllers/Application.scala" />
-      <jump line="174" column="8" filename="$USER_HOME$/.ivy2/cache/com.typesafe.slick/slick_2.11/srcs/slick_2.11-3.1.0-sources.jar!/slick/profile/RelationalProfile.scala" />
-      <jump line="2" column="6" filename="$USER_HOME$/workspace/red/app/controllers/UserController.scala" />
-      <jump line="13" column="10" filename="$USER_HOME$/workspace/red/app/views/main.scala.html" />
-      <jump line="9" column="6" filename="$USER_HOME$/workspace/red/app/views/user.scala.html" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/red/app/views/user.scala.html" />
       <jump line="2" column="6" filename="$USER_HOME$/workspace/red/app/pojos/UserFormData.scala" />
       <jump line="339" column="0" filename="$USER_HOME$/.ivy2/cache/com.typesafe.play/play_2.11/srcs/play_2.11-2.5.0-sources.jar!/play/api/data/Form.scala" />
@@ -583,62 +567,76 @@
       <jump line="6" column="16" filename="$USER_HOME$/workspace/search/search_web/pom.xml" />
       <jump line="42" column="9" filename="$USER_HOME$/workspace/search/pom.xml" />
       <jump line="198" column="23" filename="$USER_HOME$/workspace/search/pom.xml" />
+      <jump line="42" column="34" filename="$USER_HOME$/workspace/thirdpart/taskmng_web/pom.xml" />
+      <jump line="82" column="39" filename="$USER_HOME$/workspace/thirdpart/pom.xml" />
+      <jump line="9" column="34" filename="$USER_HOME$/workspace/search/pom.xml" />
+      <jump line="104" column="0" filename="$USER_HOME$/workspace/search/pom.xml" />
+      <jump line="193" column="16" filename="$USER_HOME$/workspace/search/pom.xml" />
+      <jump line="106" column="35" filename="$USER_HOME$/workspace/search/pom.xml" />
+      <jump line="192" column="16" filename="$USER_HOME$/workspace/search/pom.xml" />
+      <jump line="199" column="29" filename="$USER_HOME$/workspace/search/pom.xml" />
+      <jump line="200" column="28" filename="$USER_HOME$/workspace/search/pom.xml" />
+      <jump line="201" column="27" filename="$USER_HOME$/workspace/search/pom.xml" />
+      <jump line="38" column="37" filename="$USER_HOME$/workspace/search/pom.xml" />
+      <jump line="99" column="23" filename="$USER_HOME$/workspace/search/pom.xml" />
+      <jump line="61" column="0" filename="$USER_HOME$/workspace/search/pom.xml" />
+      <jump line="62" column="39" filename="$USER_HOME$/workspace/search/pom.xml" />
+      <jump line="63" column="28" filename="$USER_HOME$/workspace/search/pom.xml" />
+      <jump line="64" column="27" filename="$USER_HOME$/workspace/search/pom.xml" />
+      <jump line="22" column="9" filename="$USER_HOME$/workspace/search/pom.xml" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>search</text>
+        <text>mvc</text>
       </register>
       <register name="/" type="4">
-        <text>search_web</text>
+        <text>task</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBTY2hlZHVsZWQoY3JvbiA9ICIwLzUgKiAqICogKiA/IikK</text>
+        <text encoding="base64">ICAgIDxtdmM6YW5ub3RhdGlvbi1kcml2ZW4vPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5teC50aGlyZHBhcnQuZ2Fzc3RhdGlvbi5HYXNUYXNrOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+JHtqYWNrc29uLnZlcnNpb259PC92ZXJzaW9uPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8bW9kdWxlPnRhc2ttbmdfd2ViPC9tb2R1bGU+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+JHtzcHJpbmcudmVyc2lvbn08L3ZlcnNpb24+Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5teC50aGlyZHBhcnQuZ2Fzc3RhdGlvbi5HYXNUYXNrOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5teC50aGlyZHBhcnQuZ2Fzc3RhdGlvbi5HYXNUYXNrOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8bW9kdWxlPnRhc2ttbmdfd2ViPC9tb2R1bGU+Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgICAgICA8Z3JvdXBJZD5jb20ubXgudGhpcmRwYXJ0PC9ncm91cElkPgogICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+dGFza21uZ193ZWI8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICA8dmVyc2lvbj4xLjAtU05BUFNIT1Q8L3ZlcnNpb24+CiAgICAgICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>search_web</last-search>
+      <last-search>task</last-search>
       <last-offset />
-      <last-pattern>search_web</last-pattern>
+      <last-pattern>task</last-pattern>
       <last-replace>=&quot;&quot;;</last-replace>
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvcmlnaW5hbF90ZXJtc1w+</entry>
-        <entry>code</entry>
-        <entry encoding="base64">XDxpZFdpdGhUZXJtTGlzdFw+</entry>
         <entry>debug</entry>
         <entry>useSub</entry>
         <entry encoding="base64">XDxkb2NJZHNcPg==</entry>
@@ -656,6 +654,9 @@
         <entry encoding="base64">XDxuYW1lTGVuXD4=</entry>
         <entry encoding="base64">XDxrZXl3b3Jkc1w+</entry>
         <entry>search_web</entry>
+        <entry>aspe</entry>
+        <entry>jackson</entry>
+        <entry>task</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzEvMi9n</entry>
