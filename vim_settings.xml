@@ -204,8 +204,8 @@
         <mark key="^" line="53" column="11" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" timestamp="1490236369236">
-        <mark key="'" line="121" column="23" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" timestamp="1490238418515">
+        <mark key="'" line="101" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SegmentRet.java" timestamp="1489028789598">
         <mark key="[" line="10" column="0" />
@@ -374,7 +374,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
       <jump line="80" column="0" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
       <jump line="94" column="0" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
       <jump line="104" column="94" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
@@ -474,6 +473,7 @@
       <jump line="12" column="21" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/doc/DocAttr.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
       <jump line="78" column="50" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
+      <jump line="101" column="28" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
