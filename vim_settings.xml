@@ -42,8 +42,8 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="7" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/thirdpart/taskmng_web/pom.xml" timestamp="1490259630016">
-        <mark key="'" line="39" column="20" />
+      <file name="$USER_HOME$/workspace/thirdpart/taskmng_web/pom.xml" timestamp="1490260430435">
+        <mark key="'" line="33" column="53" />
         <mark key="[" line="38" column="29" />
         <mark key="]" line="38" column="35" />
         <mark key="." line="38" column="35" />
@@ -105,6 +105,9 @@
         <mark key="[" line="120" column="0" />
         <mark key="]" line="120" column="0" />
         <mark key="." line="120" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/search/search_web/pom.xml" timestamp="1490260658078">
+        <mark key="'" line="6" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/red/app/controllers/UserController.scala" timestamp="1490253081922">
         <mark key="'" line="36" column="27" />
@@ -356,8 +359,8 @@
         <mark key="." line="131" column="69" />
         <mark key="^" line="131" column="69" />
       </file>
-      <file name="$USER_HOME$/workspace/search/pom.xml" timestamp="1490259189633">
-        <mark key="'" line="314" column="11" />
+      <file name="$USER_HOME$/workspace/search/pom.xml" timestamp="1490260741580">
+        <mark key="'" line="198" column="23" />
       </file>
       <file name="/Dummy.txt" timestamp="1490247958578">
         <mark key="[" line="0" column="0" />
@@ -479,14 +482,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="26" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/transfer/resp/SuggestResp.java" />
-      <jump line="202" column="20" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/SuggestSearcher.java" />
-      <jump line="91" column="66" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/SuggestSearcher.java" />
-      <jump line="162" column="39" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/SuggestSearcher.java" />
-      <jump line="49" column="24" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/SuggestSearcher.java" />
-      <jump line="67" column="12" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/SuggestSearcher.java" />
-      <jump line="56" column="37" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/SuggestSearcher.java" />
-      <jump line="69" column="0" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/transfer/resp/SuggestResp.java" />
       <jump line="15" column="0" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/transfer/resp/SuggestResp.java" />
       <jump line="67" column="30" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/transfer/resp/SuggestResp.java" />
       <jump line="210" column="31" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/NearbySearcher.java" />
@@ -579,13 +574,21 @@
       <jump line="15" column="0" filename="$USER_HOME$/workspace/thirdpart/pom.xml" />
       <jump line="39" column="20" filename="$USER_HOME$/workspace/thirdpart/taskmng_web/pom.xml" />
       <jump line="63" column="26" filename="$USER_HOME$/workspace/thirdpart/pom.xml" />
+      <jump line="33" column="53" filename="$USER_HOME$/workspace/thirdpart/taskmng_web/pom.xml" />
+      <jump line="244" column="35" filename="$USER_HOME$/workspace/search/pom.xml" />
+      <jump line="14" column="16" filename="$USER_HOME$/workspace/search/pom.xml" />
+      <jump line="74" column="30" filename="$USER_HOME$/workspace/search/search_web/pom.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/search/search_web/pom.xml" />
+      <jump line="6" column="16" filename="$USER_HOME$/workspace/search/search_web/pom.xml" />
+      <jump line="42" column="9" filename="$USER_HOME$/workspace/search/pom.xml" />
+      <jump line="198" column="23" filename="$USER_HOME$/workspace/search/pom.xml" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>search</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxrZXl3b3Jkc1w+</text>
+        <text>search_web</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBTY2hlZHVsZWQoY3JvbiA9ICIwLzUgKiAqICogKiA/IikK</text>
@@ -622,17 +625,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxrZXl3b3Jkc1w+</last-search>
+      <last-search>search_web</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxrZXl3b3Jkc1w+</last-pattern>
+      <last-pattern>search_web</last-pattern>
       <last-replace>=&quot;&quot;;</last-replace>
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>original_terms</entry>
         <entry encoding="base64">XDxvcmlnaW5hbF90ZXJtc1w+</entry>
         <entry>code</entry>
         <entry encoding="base64">XDxpZFdpdGhUZXJtTGlzdFw+</entry>
@@ -652,6 +654,7 @@
         <entry encoding="base64">XDxmaWVsZExlbmd0aFw+</entry>
         <entry encoding="base64">XDxuYW1lTGVuXD4=</entry>
         <entry encoding="base64">XDxrZXl3b3Jkc1w+</entry>
+        <entry>search_web</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzEvMi9n</entry>
