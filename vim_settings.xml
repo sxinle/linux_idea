@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/transfer/req/BaseParam.java" timestamp="1490250799269">
+        <mark key="'" line="42" column="15" />
+      </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/CitySearcher.java" timestamp="1490079963379">
         <mark key="'" line="72" column="28" />
         <mark key="[" line="19" column="62" />
@@ -220,7 +223,7 @@
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/BaseSearcher.java" timestamp="1490152489668">
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/BaseSearcher.java" timestamp="1490250770903">
         <mark key="[" line="34" column="23" />
         <mark key="]" line="34" column="26" />
         <mark key="." line="34" column="26" />
@@ -254,7 +257,8 @@
       <file name="$USER_HOME$/workspace/red/app/views/main.scala.html" timestamp="1490166638529">
         <mark key="'" line="13" column="10" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/KeywordSearcher.java" timestamp="1490152536407">
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/KeywordSearcher.java" timestamp="1490250749176">
+        <mark key="'" line="50" column="55" />
         <mark key="[" line="57" column="0" />
         <mark key="]" line="59" column="12" />
         <mark key="." line="45" column="0" />
@@ -380,10 +384,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="8" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" />
-      <jump line="48" column="8" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" />
-      <jump line="49" column="13" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" />
-      <jump line="16" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/ServerConfig.java" />
       <jump line="40" column="31" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" />
       <jump line="255" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" />
       <jump line="79" column="42" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/KeywordSearcher.java" />
@@ -480,13 +480,17 @@
       <jump line="38" column="0" filename="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/business/address/action/AddrController.java" />
       <jump line="11" column="10" filename="$USER_HOME$/workspace/red/app/services/UserService.scala" />
       <jump line="26" column="0" filename="$USER_HOME$/workspace/red/app/services/UserService.scala" />
+      <jump line="50" column="55" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/KeywordSearcher.java" />
+      <jump line="13" column="21" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/transfer/req/BaseParam.java" />
+      <jump line="26" column="51" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/transfer/req/BaseParam.java" />
+      <jump line="42" column="15" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/transfer/req/BaseParam.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>true</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxuYW1lTGVuXD4=</text>
+        <text encoding="base64">XDxrZXl3b3Jkc1w+</text>
       </register>
       <register name="0" type="4">
         <text>/cgi/admin/login</text>
@@ -523,17 +527,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxuYW1lTGVuXD4=</last-search>
+      <last-search encoding="base64">XDxrZXl3b3Jkc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxuYW1lTGVuXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxrZXl3b3Jkc1w+</last-pattern>
       <last-replace>=&quot;&quot;;</last-replace>
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>slick</entry>
         <entry>original_terms</entry>
         <entry encoding="base64">XDxvcmlnaW5hbF90ZXJtc1w+</entry>
         <entry>code</entry>
@@ -553,6 +556,7 @@
         <entry>;</entry>
         <entry encoding="base64">XDxmaWVsZExlbmd0aFw+</entry>
         <entry encoding="base64">XDxuYW1lTGVuXD4=</entry>
+        <entry encoding="base64">XDxrZXl3b3Jkc1w+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzEvMi9n</entry>

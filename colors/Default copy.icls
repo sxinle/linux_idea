@@ -1,6 +1,7 @@
 <scheme name="Default copy" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.25" />
   <metaInfo>
-    <property name="modified">2016-11-25T11:02:13</property>
+    <property name="modified">2017-03-23T14:45:51</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
   <option name="LINE_SPACING" value="0.9" />
@@ -30,21 +31,25 @@
     <option name="CONSOLE_ERROR_OUTPUT">
       <value>
         <option name="FOREGROUND" value="ff0000" />
+        <option name="BACKGROUND" value="0" />
       </value>
     </option>
     <option name="CONSOLE_NORMAL_OUTPUT">
       <value>
         <option name="FOREGROUND" value="ff00" />
+        <option name="BACKGROUND" value="0" />
       </value>
     </option>
     <option name="CONSOLE_SYSTEM_OUTPUT">
       <value>
         <option name="FOREGROUND" value="ffff" />
+        <option name="BACKGROUND" value="0" />
       </value>
     </option>
     <option name="CONSOLE_USER_INPUT">
       <value>
         <option name="FOREGROUND" value="cccc" />
+        <option name="BACKGROUND" value="0" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -191,6 +196,12 @@
     <option name="JAVA_LINE_COMMENT">
       <value>
         <option name="FOREGROUND" value="808080" />
+      </value>
+    </option>
+    <option name="LOG_ERROR_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="cd0000" />
+        <option name="BACKGROUND" value="0" />
       </value>
     </option>
     <option name="LOG_EXPIRED_ENTRY">
