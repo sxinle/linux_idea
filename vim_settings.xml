@@ -10,7 +10,7 @@
         <mark key="." line="19" column="62" />
         <mark key="^" line="19" column="74" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" timestamp="1490231729069">
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" timestamp="1490231812625">
         <mark key="'" line="208" column="31" />
         <mark key="[" line="209" column="0" />
         <mark key="]" line="209" column="0" />
@@ -121,12 +121,12 @@
       <file name="$USER_HOME$/.ivy2/cache/com.typesafe.play/play_2.11/srcs/play_2.11-2.5.0-sources.jar!/play/api/Logger.scala" timestamp="1490173282509">
         <mark key="'" line="161" column="36" />
       </file>
-      <file name="$USER_HOME$/workspace/red/conf/application.conf" timestamp="1490174699343">
-        <mark key="'" line="46" column="25" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="^" line="40" column="9" />
-        <mark key="." line="41" column="0" />
+      <file name="$USER_HOME$/workspace/red/conf/application.conf" timestamp="1490232057699">
+        <mark key="'" line="43" column="11" />
+        <mark key="[" line="54" column="12" />
+        <mark key="]" line="54" column="16" />
+        <mark key="^" line="54" column="16" />
+        <mark key="." line="54" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/doc/DocAttr.java" timestamp="1489201951335">
         <mark key="'" line="98" column="20" />
@@ -328,11 +328,11 @@
         <mark key="." line="126" column="39" />
         <mark key="^" line="126" column="39" />
       </file>
-      <file name="$USER_HOME$/workspace/red/build.sbt" timestamp="1490066508484">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="12" column="47" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/workspace/red/build.sbt" timestamp="1490232275689">
+        <mark key="[" line="13" column="48" />
+        <mark key="]" line="13" column="48" />
+        <mark key="^" line="12" column="37" />
+        <mark key="." line="13" column="48" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/DetailSearcher.java" timestamp="1490079969559">
         <mark key="'" line="19" column="13" />
@@ -364,7 +364,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="142" column="20" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" />
       <jump line="19" column="30" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" />
       <jump line="55" column="39" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" />
       <jump line="226" column="63" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" />
@@ -464,10 +463,11 @@
       <jump line="13" column="4" filename="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/common/base/resp/RespPoi.java" />
       <jump line="12" column="17" filename="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/common/base/resp/BaseDistInfo.java" />
       <jump line="208" column="31" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
+      <jump line="43" column="11" filename="$USER_HOME$/workspace/red/conf/application.conf" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>Int</text>
+        <text encoding="base64">ICUgIjIuMC4wIg==</text>
       </register>
       <register name="/" type="4">
         <text>;</text>
@@ -503,7 +503,7 @@
         <text encoding="base64">ICAgICAgImlkIiAtPiBJbnQsCg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zLzsvPSIiOy9n</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -549,8 +549,8 @@
         <entry encoding="base64">JzwsJz5zL3kuZG9jMi5wcmlvcg==</entry>
         <entry>nohl</entry>
         <entry encoding="base64">JzwsJz5zLyovL2c=</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5zLzsvPSIiOy9n</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
