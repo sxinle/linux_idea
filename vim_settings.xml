@@ -128,8 +128,8 @@
         <mark key="^" line="54" column="16" />
         <mark key="." line="54" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/doc/DocAttr.java" timestamp="1489201951335">
-        <mark key="'" line="98" column="20" />
+      <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/doc/DocAttr.java" timestamp="1490235803936">
+        <mark key="'" line="12" column="21" />
         <mark key="[" line="74" column="56" />
         <mark key="]" line="74" column="56" />
         <mark key="^" line="74" column="56" />
@@ -203,6 +203,9 @@
         <mark key="]" line="59" column="0" />
         <mark key="^" line="53" column="11" />
         <mark key="." line="59" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" timestamp="1490236369236">
+        <mark key="'" line="121" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SegmentRet.java" timestamp="1489028789598">
         <mark key="[" line="10" column="0" />
@@ -348,6 +351,13 @@
         <mark key="." line="43" column="58" />
         <mark key="^" line="43" column="70" />
       </file>
+      <file name="$USER_HOME$/workspace/search/common-conf/search.properties" timestamp="1490236292609">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="94" column="18" />
+        <mark key="]" line="94" column="21" />
+        <mark key="." line="94" column="21" />
+        <mark key="^" line="94" column="21" />
+      </file>
       <file name="$USER_HOME$/.share/Adobe Reader XI.lnk/src/main/java/com/mansion/peus/clientsupport/web/controller/login/ClientSupportIndexController.java" timestamp="1488878882092">
         <mark key="'" line="143" column="53" />
         <mark key="[" line="152" column="73" />
@@ -355,7 +365,7 @@
         <mark key="." line="152" column="88" />
         <mark key="^" line="152" column="88" />
       </file>
-      <file name="/fragment.java" timestamp="1490163152173">
+      <file name="/fragment.java" timestamp="1490235499657">
         <mark key="'" line="0" column="38" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -364,9 +374,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="30" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" />
-      <jump line="55" column="39" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" />
-      <jump line="226" column="63" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
       <jump line="80" column="0" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
       <jump line="94" column="0" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
@@ -464,13 +471,16 @@
       <jump line="12" column="17" filename="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/common/base/resp/BaseDistInfo.java" />
       <jump line="208" column="31" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
       <jump line="43" column="11" filename="$USER_HOME$/workspace/red/conf/application.conf" />
+      <jump line="121" column="23" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" />
+      <jump line="12" column="21" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/doc/DocAttr.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">ICUgIjIuMC4wIg==</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
-        <text>;</text>
+        <text encoding="base64">XDxuYW1lTGVuXD4=</text>
       </register>
       <register name="0" type="4">
         <text>/cgi/admin/login</text>
@@ -507,9 +517,9 @@
       </register>
     </registers>
     <search>
-      <last-search>;</last-search>
+      <last-search encoding="base64">XDxuYW1lTGVuXD4=</last-search>
       <last-offset />
-      <last-pattern>;</last-pattern>
+      <last-pattern encoding="base64">XDxuYW1lTGVuXD4=</last-pattern>
       <last-replace>=&quot;&quot;;</last-replace>
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -517,8 +527,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxBcnJheVw+</entry>
-        <entry>apply</entry>
         <entry>slick</entry>
         <entry>original_terms</entry>
         <entry encoding="base64">XDxvcmlnaW5hbF90ZXJtc1w+</entry>
@@ -537,6 +545,8 @@
         <entry>mapping</entry>
         <entry>init</entry>
         <entry>;</entry>
+        <entry encoding="base64">XDxmaWVsZExlbmd0aFw+</entry>
+        <entry encoding="base64">XDxuYW1lTGVuXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzEvMi9n</entry>
