@@ -1,7 +1,7 @@
 <scheme name="Default copy" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.25" />
   <metaInfo>
-    <property name="modified">2017-03-23T14:45:51</property>
+    <property name="modified">2017-03-23T14:47:16</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
   <option name="LINE_SPACING" value="0.9" />
@@ -207,6 +207,13 @@
     <option name="LOG_EXPIRED_ENTRY">
       <value>
         <option name="FOREGROUND" value="3ccb00" />
+        <option name="BACKGROUND" value="0" />
+      </value>
+    </option>
+    <option name="LOG_WARNING_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="a66f00" />
+        <option name="BACKGROUND" value="0" />
       </value>
     </option>
     <option name="STATIC_FIELD_ATTRIBUTES">
