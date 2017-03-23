@@ -183,12 +183,12 @@
         <mark key="." line="57" column="14" />
         <mark key="^" line="57" column="14" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticRet.java" timestamp="1490272941662">
-        <mark key="'" line="71" column="35" />
-        <mark key="[" line="28" column="9" />
-        <mark key="]" line="29" column="19" />
-        <mark key="^" line="29" column="19" />
-        <mark key="." line="29" column="19" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticRet.java" timestamp="1490273447345">
+        <mark key="'" line="94" column="35" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
+        <mark key="^" line="50" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/red/app/dao/UserDao.scala" timestamp="1490165875954">
         <mark key="'" line="45" column="0" />
@@ -276,12 +276,12 @@
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/BaseSearcher.java" timestamp="1490253409563">
-        <mark key="'" line="119" column="0" />
-        <mark key="[" line="34" column="23" />
-        <mark key="]" line="34" column="26" />
-        <mark key="." line="34" column="26" />
-        <mark key="^" line="34" column="26" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/BaseSearcher.java" timestamp="1490273757028">
+        <mark key="'" line="131" column="0" />
+        <mark key="[" line="34" column="24" />
+        <mark key="]" line="34" column="24" />
+        <mark key="." line="34" column="24" />
+        <mark key="^" line="34" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/UserInputPreHandler.java" timestamp="1488850097687">
         <mark key="[" line="7" column="32" />
@@ -312,10 +312,10 @@
       <file name="$USER_HOME$/workspace/red/app/views/main.scala.html" timestamp="1490166638529">
         <mark key="'" line="13" column="10" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/KeywordSearcher.java" timestamp="1490250749176">
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/KeywordSearcher.java" timestamp="1490273564325">
         <mark key="'" line="50" column="55" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="59" column="12" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="63" />
         <mark key="." line="45" column="0" />
         <mark key="^" line="125" column="7" />
       </file>
@@ -402,12 +402,12 @@
         <mark key="]" line="11" column="24" />
         <mark key="." line="11" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" timestamp="1490272822181">
-        <mark key="'" line="49" column="0" />
-        <mark key="[" line="43" column="43" />
-        <mark key="]" line="43" column="51" />
-        <mark key="." line="43" column="51" />
-        <mark key="^" line="43" column="51" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" timestamp="1490273052791">
+        <mark key="'" line="28" column="25" />
+        <mark key="[" line="43" column="28" />
+        <mark key="]" line="43" column="28" />
+        <mark key="." line="43" column="28" />
+        <mark key="^" line="43" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/red/build.sbt" timestamp="1490232275689">
         <mark key="[" line="13" column="48" />
@@ -475,7 +475,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="246" column="48" filename="$USER_HOME$/.ivy2/cache/com.typesafe.play/play_2.11/srcs/play_2.11-2.5.0-sources.jar!/play/api/data/Form.scala" />
       <jump line="315" column="12" filename="$USER_HOME$/.ivy2/cache/com.typesafe.play/play_2.11/srcs/play_2.11-2.5.0-sources.jar!/play/api/data/Form.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/.ivy2/cache/com.typesafe.play/play_2.11/srcs/play_2.11-2.5.0-sources.jar!/play/api/data/Form.scala" />
       <jump line="2" column="50" filename="$USER_HOME$/workspace/red/app/views/user.scala.html" />
@@ -575,40 +574,41 @@
       <jump line="386" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" />
       <jump line="32" column="37" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" />
       <jump line="46" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" />
+      <jump line="28" column="25" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>new SemanticAnalyzer().analyze(param).</text>
       </register>
       <register name="/" type="4">
-        <text>task</text>
+        <text encoding="base64">XDxpbnB1dFR5cGVcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTZW1hbnRpY1JldChTdHJpbmcgdXNlcklucHV0KSB7CiAgICAgICAgCiAgICB9Cg==</text>
+      <register name="0" type="4">
+        <text>new SemanticAnalyzer().analyze(param).</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybjsK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSB1c2VySW5wdXQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZihudWxsICE9ICkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgVCBjcFBhcmFtID0gVXRpbGl0eS5kZWVwQ2xvbmUocGFyYW0pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+JHtqYWNrc29uLnZlcnNpb259PC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">ICAgICAgICBpZihuZXcgU2VtYW4pCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+JHtzcHJpbmcudmVyc2lvbn08L3ZlcnNpb24+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VnUmV0Lgo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -618,17 +618,16 @@
       </register>
     </registers>
     <search>
-      <last-search>task</last-search>
+      <last-search encoding="base64">XDxpbnB1dFR5cGVcPg==</last-search>
       <last-offset />
-      <last-pattern>task</last-pattern>
+      <last-pattern encoding="base64">XDxpbnB1dFR5cGVcPg==</last-pattern>
       <last-replace>=&quot;&quot;;</last-replace>
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>debug</entry>
         <entry>useSub</entry>
         <entry encoding="base64">XDxkb2NJZHNcPg==</entry>
         <entry encoding="base64">XDxyZXF1aXJlQ250XD4=</entry>
@@ -648,6 +647,7 @@
         <entry>aspe</entry>
         <entry>jackson</entry>
         <entry>task</entry>
+        <entry encoding="base64">XDxpbnB1dFR5cGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzEvMi9n</entry>
