@@ -48,6 +48,11 @@
         <mark key="]" line="44" column="24" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/stest/src/Test.scala" timestamp="1490325729820">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="10" column="1" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/.share/PEUSystem_DR/src/main/resources/application.properties" timestamp="1487062588696">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="1" />
@@ -334,9 +339,10 @@
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="47" />
       </file>
-      <file name="$USER_HOME$/workspace/red/app/daos/Test.scala" timestamp="1490324963087">
+      <file name="$USER_HOME$/workspace/red/app/daos/Test.scala" timestamp="1490325728026">
+        <mark key="'" line="2" column="12" />
         <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="5" />
+        <mark key="]" line="12" column="0" />
         <mark key="^" line="2" column="5" />
         <mark key="." line="2" column="5" />
       </file>
@@ -449,8 +455,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="32" filename="$USER_HOME$/workspace/red/app/views/user.scala.html" />
-      <jump line="128" column="0" filename="$USER_HOME$/workspace/red/app/views/user.scala.html" />
       <jump line="161" column="36" filename="$USER_HOME$/.ivy2/cache/com.typesafe.play/play_2.11/srcs/play_2.11-2.5.0-sources.jar!/play/api/Logger.scala" />
       <jump line="41" column="0" filename="$USER_HOME$/workspace/red/conf/application.conf" />
       <jump line="55" column="0" filename="$USER_HOME$/workspace/red/conf/application.conf" />
@@ -549,6 +553,8 @@
       <jump line="215" column="54" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" />
       <jump line="217" column="55" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" />
       <jump line="178" column="55" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" />
+      <jump line="2" column="12" filename="$USER_HOME$/workspace/red/app/daos/Test.scala" />
+      <jump line="0" column="6" filename="$USER_HOME$/workspace/stest/src/Test.scala" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -558,10 +564,10 @@
         <text>half</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyBGT1Ig5L2N572u5o6S5bqPRGVidWcKY29yZS5zb3J0LmRlYnVnID0gZmFsc2UKY29yZS5zb3J0LmRlYnVnLmlkMSA9IDIzNzgxODIwOTExMjkxMjgxODYKY29yZS5zb3J0LmRlYnVnLmlkMiA9IDIzNzgxODIwODY4MzQxMDE4NzIK</text>
+        <text encoding="base64">b2JqZWN0IFRlc3QgewogIGRlZiBtYWluKGFyZ3M6IEFycmF5W1N0cmluZ10pOiBVbml0ID0gewogICAgcHJpbnQoZ2V0U2lnbk51bSgyKSkKICB9CgogIGRlZiBnZXRTaWduTnVtKG51bTogSW50KTogSW50ID0gewogICAgaWYgKG51bSA+IDApIC0xCiAgICBlbHNlIGlmIChudW0gPCAwKSAtMQogICAgZWxzZSAwCiAgfQp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xhc3MgVGVzdCB7Cgp9Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -573,19 +579,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdob2xlV29yZHMuYWRkKFV0aWxpdHkuaGFsZjJmdWxsKGxvd2VyQ2FzZURpc3QpKTsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHdob2xlV29yZHMuYWRkKFV0aWxpdHkuaGFsZjJmdWxsKGxvd2VyQ2FzZURpc3QpKTsK</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIOmcgOimgeWIhuivjeino+WGswogICAgICAgICAgICAgICAgaWYgKGRuYW1lQ24uc3RhcnRzV2l0aCgi5LqU5aSn6L+e5rGgIikpIHsKICAgICAgICAgICAgICAgICAgICBkaXN0cy5hZGQoIu+8leWkp+i/nuaxoOW4giIpOwogICAgICAgICAgICAgICAgICAgIGRpc3RzLmFkZCgi77yV5aSn6L+e5rGgIik7CiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdob2xlV29yZHMuYWRkKFV0aWxpdHkuaGFsZjJmdWxsKGxvd2VyQ2FzZURpc3QpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -598,7 +604,7 @@
       <last-replace>=&quot;&quot;;</last-replace>
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
