@@ -48,10 +48,11 @@
         <mark key="]" line="44" column="24" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/stest/src/Test.scala" timestamp="1490325729820">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="10" column="1" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/workspace/stest/src/Test.scala" timestamp="1490326267249">
+        <mark key="[" line="14" column="10" />
+        <mark key="]" line="14" column="9" />
+        <mark key="." line="14" column="9" />
+        <mark key="^" line="14" column="9" />
       </file>
       <file name="$USER_HOME$/.share/PEUSystem_DR/src/main/resources/application.properties" timestamp="1487062588696">
         <mark key="[" line="18" column="0" />
@@ -455,7 +456,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="161" column="36" filename="$USER_HOME$/.ivy2/cache/com.typesafe.play/play_2.11/srcs/play_2.11-2.5.0-sources.jar!/play/api/Logger.scala" />
       <jump line="41" column="0" filename="$USER_HOME$/workspace/red/conf/application.conf" />
       <jump line="55" column="0" filename="$USER_HOME$/workspace/red/conf/application.conf" />
       <jump line="61" column="0" filename="$USER_HOME$/workspace/red/conf/application.conf" />
@@ -555,10 +555,11 @@
       <jump line="178" column="55" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" />
       <jump line="2" column="12" filename="$USER_HOME$/workspace/red/app/daos/Test.scala" />
       <jump line="0" column="6" filename="$USER_HOME$/workspace/stest/src/Test.scala" />
+      <jump line="6" column="7" filename="$USER_HOME$/workspace/stest/src/Test.scala" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>class</text>
+        <text>1, 10</text>
       </register>
       <register name="/" type="4">
         <text>half</text>
@@ -567,31 +568,31 @@
         <text encoding="base64">b2JqZWN0IFRlc3QgewogIGRlZiBtYWluKGFyZ3M6IEFycmF5W1N0cmluZ10pOiBVbml0ID0gewogICAgcHJpbnQoZ2V0U2lnbk51bSgyKSkKICB9CgogIGRlZiBnZXRTaWduTnVtKG51bTogSW50KTogSW50ID0gewogICAgaWYgKG51bSA+IDApIC0xCiAgICBlbHNlIGlmIChudW0gPCAwKSAtMQogICAgZWxzZSAwCiAgfQp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y2xhc3MgVGVzdCB7Cgp9Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcHJpbnRsbihpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIGdldFNpZ25OdW0obnVtOiBJbnQpOiBJbnQgPSB7CiAgaWYgKG51bSA+IDApIDEKICBlbHNlIGlmIChudW0gPCAwKSAtMQogIGVsc2UgMAp9Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZWYgZ2V0U2lnbk51bShudW06IEludCk6IEludCA9IHsKICAgIGlmIChudW0gPiAwKSAxCiAgICBlbHNlIGlmIChudW0gPCAwKSAtMQogICAgZWxzZSAwCiAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Y2xhc3MgVGVzdCB7Cgp9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdob2xlV29yZHMuYWRkKFV0aWxpdHkuaGFsZjJmdWxsKGxvd2VyQ2FzZURpc3QpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdob2xlV29yZHMuYWRkKFV0aWxpdHkuaGFsZjJmdWxsKGxvd2VyQ2FzZURpc3QpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
