@@ -42,12 +42,6 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="46" column="35" />
       </file>
-      <file name="$USER_HOME$/workspace/thirdpart/pom.xml" timestamp="1490268141235">
-        <mark key="'" line="93" column="39" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="44" column="24" />
-        <mark key="." line="24" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/stest/src/Test.scala" timestamp="1490326267249">
         <mark key="[" line="14" column="10" />
         <mark key="]" line="14" column="9" />
@@ -378,6 +372,12 @@
         <mark key="." line="10" column="27" />
         <mark key="^" line="10" column="27" />
       </file>
+      <file name="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" timestamp="1490327138013">
+        <mark key="[" line="6" column="17" />
+        <mark key="]" line="6" column="19" />
+        <mark key="." line="6" column="19" />
+        <mark key="^" line="6" column="19" />
+      </file>
       <file name="$USER_HOME$/workspace/thirdpart/task_weather/src/main/java/com/mx/thirdpart/weather/WeatherTask.java" timestamp="1490257486585">
         <mark key="[" line="11" column="24" />
         <mark key="]" line="11" column="24" />
@@ -559,7 +559,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>1, 10</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>half</text>
@@ -568,31 +568,31 @@
         <text encoding="base64">b2JqZWN0IFRlc3QgewogIGRlZiBtYWluKGFyZ3M6IEFycmF5W1N0cmluZ10pOiBVbml0ID0gewogICAgcHJpbnQoZ2V0U2lnbk51bSgyKSkKICB9CgogIGRlZiBnZXRTaWduTnVtKG51bTogSW50KTogSW50ID0gewogICAgaWYgKG51bSA+IDApIC0xCiAgICBlbHNlIGlmIChudW0gPCAwKSAtMQogICAgZWxzZSAwCiAgfQp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHN1bSAqIGMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRsbihpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVmIGdldFNpZ25OdW0obnVtOiBJbnQpOiBJbnQgPSB7CiAgaWYgKG51bSA+IDApIDEKICBlbHNlIGlmIChudW0gPCAwKSAtMQogIGVsc2UgMAp9Cg==</text>
+        <text encoding="base64">ICAgIHN1bSAqPSBjCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkZWYgZ2V0U2lnbk51bShudW06IEludCk6IEludCA9IHsKICAgIGlmIChudW0gPiAwKSAxCiAgICBlbHNlIGlmIChudW0gPCAwKSAtMQogICAgZWxzZSAwCiAgfQo=</text>
+        <text encoding="base64">ICAgIHByaW50TnVtKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y2xhc3MgVGVzdCB7Cgp9Cg==</text>
+        <text encoding="base64">CiAgZGVmIHByaW50TnVtKCk6IFVuaXQgPSB7CiAgICB2YWwgc3RyID0gIkhlbGxvIgogICAgdmFyIHN1bSA9IDEKICAgIHN0ci50b0NoYXJBcnJheS5tYXAoc3VtICo9IF8pCiAgICBwcmludChzdW0pCiAgfQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBtYWluCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
