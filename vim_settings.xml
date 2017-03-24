@@ -92,12 +92,12 @@
         <mark key="." line="55" column="0" />
         <mark key="^" line="54" column="40" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" timestamp="1490160732055">
-        <mark key="'" line="257" column="6" />
-        <mark key="[" line="262" column="77" />
-        <mark key="]" line="262" column="90" />
-        <mark key="." line="262" column="90" />
-        <mark key="^" line="262" column="90" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" timestamp="1490321137230">
+        <mark key="'" line="178" column="55" />
+        <mark key="[" line="217" column="46" />
+        <mark key="]" line="217" column="46" />
+        <mark key="." line="217" column="46" />
+        <mark key="^" line="106" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/PosSorter.java" timestamp="1488160347994">
         <mark key="[" line="120" column="0" />
@@ -176,12 +176,12 @@
         <mark key="^" line="74" column="56" />
         <mark key="." line="74" column="56" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" timestamp="1490318415708">
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" timestamp="1490321391502">
         <mark key="'" line="82" column="4" />
-        <mark key="[" line="49" column="27" />
-        <mark key="]" line="49" column="47" />
-        <mark key="." line="49" column="47" />
-        <mark key="^" line="49" column="47" />
+        <mark key="[" line="114" column="78" />
+        <mark key="]" line="114" column="81" />
+        <mark key="." line="114" column="81" />
+        <mark key="^" line="114" column="81" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticRet.java" timestamp="1490273447345">
         <mark key="'" line="94" column="35" />
@@ -367,14 +367,17 @@
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="47" />
       </file>
-      <file name="/Dummy.txt" timestamp="1490318367872">
+      <file name="/Dummy.txt" timestamp="1490321466271">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="25" />
         <mark key="." line="3" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/UserInputPreProcess.java" timestamp="1490270864222">
-        <mark key="'" line="290" column="30" />
-        <mark key="^" line="27" column="3" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/UserInputPreProcess.java" timestamp="1490321158286">
+        <mark key="'" line="287" column="30" />
+        <mark key="[" line="142" column="70" />
+        <mark key="]" line="142" column="70" />
+        <mark key="^" line="24" column="3" />
+        <mark key="." line="142" column="70" />
       </file>
       <file name="$USER_HOME$/workspace/red/app/controllers/Application.scala" timestamp="1490169964230">
         <mark key="'" line="6" column="136" />
@@ -406,11 +409,11 @@
         <mark key="]" line="11" column="24" />
         <mark key="." line="11" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" timestamp="1490273052791">
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" timestamp="1490321282694">
         <mark key="'" line="28" column="25" />
-        <mark key="[" line="43" column="28" />
-        <mark key="]" line="43" column="28" />
-        <mark key="." line="43" column="28" />
+        <mark key="[" line="244" column="80" />
+        <mark key="]" line="244" column="80" />
+        <mark key="." line="244" column="80" />
         <mark key="^" line="43" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/red/build.sbt" timestamp="1490232275689">
@@ -465,7 +468,7 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1490318424990">
+      <file name="/fragment.java" timestamp="1490321283582">
         <mark key="'" line="0" column="38" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -479,14 +482,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="0" filename="$USER_HOME$/workspace/red/app/pojos/UserFormData.scala" />
-      <jump line="41" column="27" filename="$USER_HOME$/workspace/red/app/controllers/UserController.scala" />
-      <jump line="6" column="0" filename="$USER_HOME$/workspace/red/conf/routes" />
-      <jump line="71" column="143" filename="$USER_HOME$/workspace/red/target/scala-2.11/routes/main/router/Routes.scala" />
-      <jump line="6" column="9" filename="$USER_HOME$/.ivy2/cache/com.typesafe.slick/slick_2.11/bundles/slick_2.11-3.1.0.jar!/slick/profile/RelationalProfile.class" />
-      <jump line="76" column="25" filename="$USER_HOME$/.ivy2/cache/com.typesafe.slick/slick_2.11/srcs/slick_2.11-3.1.0-sources.jar!/slick/profile/RelationalProfile.scala" />
-      <jump line="22" column="15" filename="$USER_HOME$/.ivy2/cache/com.typesafe.slick/slick_2.11/srcs/slick_2.11-3.1.0-sources.jar!/slick/lifted/Shape.scala" />
-      <jump line="16" column="52" filename="$USER_HOME$/workspace/red/app/views/user.scala.html" />
       <jump line="15" column="32" filename="$USER_HOME$/workspace/red/app/views/user.scala.html" />
       <jump line="128" column="0" filename="$USER_HOME$/workspace/red/app/views/user.scala.html" />
       <jump line="161" column="36" filename="$USER_HOME$/.ivy2/cache/com.typesafe.play/play_2.11/srcs/play_2.11-2.5.0-sources.jar!/play/api/Logger.scala" />
@@ -579,52 +574,60 @@
       <jump line="21" column="25" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
       <jump line="89" column="15" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
       <jump line="82" column="4" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
+      <jump line="147" column="20" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" />
+      <jump line="26" column="45" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" />
+      <jump line="101" column="42" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" />
+      <jump line="134" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" />
+      <jump line="104" column="31" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" />
+      <jump line="215" column="54" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" />
+      <jump line="217" column="55" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" />
+      <jump line="178" column="55" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>ret.term.trim();</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2dnZXJcPg==</text>
+        <text>half</text>
       </register>
-      <register name="0" type="4">
-        <text>new SemanticAnalyzer().analyze(param).</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB3aG9sZVdvcmRzLmFkZChVdGlsaXR5LmhhbGYyZnVsbChsb3dlckNhc2VEaXN0KSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXQudGVybSArPSB0ZXJtICsgIiAiOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldC50ZXJtID0gIiI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNiLmFwcAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdob2xlV29yZHMuYWRkKFV0aWxpdHkuaGFsZjJmdWxsKGxvd2VyQ2FzZURpc3QpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9yZXQudGVybSA9IGNvbnZlcnROdW0ocmV0LnRlcm0pOwogICAgICAgICAgICAvLyDvvLDvvYHvvYPvvYnvvYbvvYnvvYPjgIDvvKPvvY/vvYbvvYbvvYXvvYXjgIDvvKPvvY/vvY3vvZDvvYHvvY7vvZkg5YiG6K+N5YiG5Li6M+S4qnRlcm3vvIxjb3JyZXN0VGVybXPkuYvlkI7vvIzku4XmnInkuIDkuKpUZXJt77yM6L+Z5pe25YCZ5LiN5Zyo55So56m65qC8c3BsaXQKICAgICAgICAgICAgaWYgKHJldC50ZXJtcy5sZW5ndGggPiAxKSB7CiAgICAgICAgICAgICAgICByZXQudGVybXMgPSByZXQudGVybS5zcGxpdCgiXFxzfFxcdTMwMDAiKTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIOino+WGsyLvvJUg5aSn6L+eIOaxoCLpl67popgK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdob2xlV29yZHMuYWRkKFV0aWxpdHkuaGFsZjJmdWxsKGxvd2VyQ2FzZURpc3QpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIOmcgOimgeWIhuivjeino+WGswogICAgICAgICAgICAgICAgaWYgKGRuYW1lQ24uc3RhcnRzV2l0aCgi5LqU5aSn6L+e5rGgIikpIHsKICAgICAgICAgICAgICAgICAgICBkaXN0cy5hZGQoIu+8leWkp+i/nuaxoOW4giIpOwogICAgICAgICAgICAgICAgICAgIGRpc3RzLmFkZCgi77yV5aSn6L+e5rGgIik7CiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIHB1YmxpYyBTdHJpbmcgY29udmVydFRvTnVtKFN0cmluZyBpbnB1dCkgewogICAgLy8gICAgIHJldHVybiBjb252ZXJ0TnVtKGlucHV0KTsKICAgIC8vIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGRuYW1lQ24uY29udGFpbnMoIuS6lOWkp+i/nuaxoCIpKSB7CiAgICAgICAgICAgICAgICBhZGQoZG5hbWVDbi5yZXBsYWNlKCfkupQnLCAn77yVJykpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gZGlzdHMgPSBuZXcgQXJyYXlMaXN0PD4oQXJyYXlzLmFzTGlzdChuZXcgU3RyaW5nW117ZG5hbWVDbiwgZG5hbWVTaG9ydENufSkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsb2dnZXJcPg==</last-search>
+      <last-search>half</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2dnZXJcPg==</last-pattern>
+      <last-pattern>half</last-pattern>
       <last-replace>=&quot;&quot;;</last-replace>
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -632,8 +635,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkb2NJZHNcPg==</entry>
-        <entry encoding="base64">XDxyZXF1aXJlQ250XD4=</entry>
         <entry encoding="base64">XDxjcFBhcmFtXD4=</entry>
         <entry>labels</entry>
         <entry encoding="base64">XDxzZW1hbnRpY1JldFw+</entry>
@@ -652,6 +653,8 @@
         <entry>task</entry>
         <entry encoding="base64">XDxpbnB1dFR5cGVcPg==</entry>
         <entry encoding="base64">XDxsb2dnZXJcPg==</entry>
+        <entry encoding="base64">XDxkaXN0TmFtZXNcPg==</entry>
+        <entry>half</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzEvMi9n</entry>
