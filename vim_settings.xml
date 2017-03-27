@@ -100,9 +100,6 @@
         <mark key="." line="217" column="46" />
         <mark key="^" line="106" column="31" />
       </file>
-      <file name="/Dummy.scala" timestamp="1490334181401">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/PosSorter.java" timestamp="1488160347994">
         <mark key="[" line="120" column="0" />
         <mark key="]" line="120" column="0" />
@@ -145,6 +142,11 @@
         <mark key="]" line="50" column="33" />
         <mark key="." line="50" column="33" />
         <mark key="^" line="50" column="33" />
+      </file>
+      <file name="$USER_HOME$/workspace/zest/src/main/java/moud/a.html" timestamp="1490603538671">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="337097" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsRSearcher.java" timestamp="1484635493873">
         <mark key="[" line="55" column="16" />
@@ -485,8 +487,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="0" filename="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/business/address/action/AddrController.java" />
-      <jump line="11" column="10" filename="$USER_HOME$/workspace/red/app/services/UserService.scala" />
       <jump line="26" column="0" filename="$USER_HOME$/workspace/red/app/services/UserService.scala" />
       <jump line="50" column="55" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/KeywordSearcher.java" />
       <jump line="13" column="21" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/transfer/req/BaseParam.java" />
@@ -585,6 +585,8 @@
       <jump line="57" column="18" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
       <jump line="108" column="0" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
       <jump line="8" column="0" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
+      <jump line="4" column="16" filename="$USER_HOME$/workspace/zest/src/main/java/moud/a.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/zest/src/main/java/moud/a.html" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -597,31 +599,31 @@
         <text encoding="base64">aHR0cHM6Ly9zZWFyY2guamQuY29tL1NlYXJjaD9rZXl3b3JkPSVFOCU4NSVCMCVFNSVCOCVBNiZlbmM9dXRmLTgmd3E9JUU4JTg1JUIwJUU1JUI4JUE2JnB2aWQ9MzEyMDI1MWVjZmNkNDc3NWI3ZWI4ODNhNGYzYThhMzM=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+VGl0bGU8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5PgoKPC9ib2R5Pgo8L2h0bWw+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKG0uZ3JvdXAoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKG0uZ3JvdXAoKSk7Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBNYXRjaAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhbGxCcmFuZCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBNYXRjaAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZ2V0SHRtbCh1cmwpKTsK</text>
+        <text encoding="base64">ICAgICAgICBhbGxCcmFuZCgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIOWTgeeJjAo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZ2V0SHRtbCh1cmwpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihsaW5lKTsK</text>
+        <text encoding="base64">ICAgIOWTgeeJjAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
