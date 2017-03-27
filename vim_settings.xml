@@ -249,10 +249,10 @@
         <mark key="^" line="9" column="23" />
         <mark key="." line="21" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/SpecialHandler.java" timestamp="1490163799910">
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/SpecialHandler.java" timestamp="1490604467977">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="30" column="12" />
         <mark key="^" line="53" column="11" />
         <mark key="." line="59" column="0" />
       </file>
@@ -595,8 +595,8 @@
       <register name="/" type="4">
         <text>debug</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">aHR0cHM6Ly9zZWFyY2guamQuY29tL1NlYXJjaD9rZXl3b3JkPSVFOCU4NSVCMCVFNSVCOCVBNiZlbmM9dXRmLTgmd3E9JUU4JTg1JUIwJUU1JUI4JUE2JnB2aWQ9MzEyMDI1MWVjZmNkNDc3NWI3ZWI4ODNhNGYzYThhMzM=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGVudGl0eS5nZXRMYWJlbCgpID09IFNFbnVtcy5MYWJlbC5UKSB7CiAgICAgICAgICAgICAgICBmb3IgKFNlbWFudGljUmV0LlRlcm0gdGVybSA6IGVudGl0eS5nZXRUZXJtcygpKSB7CiAgICAgICAgICAgICAgICAgICAgaWYgKHRlcm0uZ2V0V29yZCgpLmVxdWFscygi5aSn5a2mIikpIHsKICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+VGl0bGU8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5PgoKPC9ib2R5Pgo8L2h0bWw+Cg==</text>
