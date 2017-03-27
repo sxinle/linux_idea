@@ -13,12 +13,12 @@
         <mark key="." line="19" column="62" />
         <mark key="^" line="19" column="74" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" timestamp="1490231812625">
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" timestamp="1490579774067">
         <mark key="'" line="208" column="31" />
-        <mark key="[" line="209" column="0" />
-        <mark key="]" line="209" column="0" />
-        <mark key="^" line="208" column="31" />
-        <mark key="." line="209" column="0" />
+        <mark key="[" line="420" column="31" />
+        <mark key="]" line="420" column="44" />
+        <mark key="^" line="420" column="44" />
+        <mark key="." line="420" column="44" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_data/pom.xml" timestamp="1490170885976">
         <mark key="[" line="12" column="15" />
@@ -350,6 +350,12 @@
         <mark key="." line="131" column="69" />
         <mark key="^" line="131" column="69" />
       </file>
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/NearbySearcher.java" timestamp="1490579537601">
+        <mark key="[" line="201" column="61" />
+        <mark key="]" line="201" column="74" />
+        <mark key="^" line="201" column="74" />
+        <mark key="." line="201" column="74" />
+      </file>
       <file name="$USER_HOME$/workspace/red/app/daos/Test.scala" timestamp="1490325728026">
         <mark key="'" line="2" column="12" />
         <mark key="[" line="2" column="0" />
@@ -357,7 +363,7 @@
         <mark key="^" line="2" column="5" />
         <mark key="." line="2" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1490347807840">
+      <file name="/Dummy.txt" timestamp="1490580056214">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="25" />
         <mark key="." line="3" column="25" />
@@ -458,12 +464,12 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1490343576831">
+      <file name="/fragment.java" timestamp="1490579690306">
         <mark key="'" line="0" column="38" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="36" />
-        <mark key="." line="0" column="0" />
+        <mark key="[" line="0" column="74" />
+        <mark key="]" line="0" column="72" />
+        <mark key="^" line="0" column="68" />
+        <mark key="." line="0" column="69" />
       </file>
       <file name="$USER_HOME$/workspace/thirdpart/taskmng_web/src/main/webapp/WEB-INF/web.xml" timestamp="1490256436220">
         <mark key="[" line="17" column="0" />
@@ -575,7 +581,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>|</text>
+        <text>Utility.</text>
       </register>
       <register name="/" type="4">
         <text>fullma</text>
