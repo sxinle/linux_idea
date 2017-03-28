@@ -362,8 +362,8 @@
         <mark key="]" line="3" column="25" />
         <mark key="." line="3" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/UserInputPreProcess.java" timestamp="1490668904409">
-        <mark key="'" line="231" column="28" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/UserInputPreProcess.java" timestamp="1490669000188">
+        <mark key="'" line="95" column="39" />
         <mark key="[" line="142" column="70" />
         <mark key="]" line="142" column="70" />
         <mark key="^" line="24" column="3" />
@@ -464,7 +464,7 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1490668877844">
+      <file name="/fragment.java" timestamp="1490668953227">
         <mark key="'" line="0" column="38" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -478,18 +478,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="119" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/BaseSearcher.java" />
-      <jump line="171" column="44" filename="$USER_HOME$/workspace/demo/pom.xml" />
-      <jump line="52" column="19" filename="$USER_HOME$/workspace/demo/search_web/pom.xml" />
-      <jump line="20" column="19" filename="$USER_HOME$/workspace/demo/search_web/pom.xml" />
-      <jump line="14" column="19" filename="$USER_HOME$/workspace/thirdpart/task_weather/pom.xml" />
-      <jump line="7" column="7" filename="$USER_HOME$/workspace/thirdpart/taskmng_web/src/main/java/com/mx/thirdpart/taskmng/web/AppInitializer.java" />
-      <jump line="3" column="55" filename="$USER_HOME$/workspace/thirdpart/taskmng_web/src/main/resources/logback.xml" />
-      <jump line="15" column="60" filename="$USER_HOME$/workspace/thirdpart/taskmng_web/src/main/resources/logback.xml" />
-      <jump line="56" column="0" filename="$USER_HOME$/workspace/thirdpart/taskmng_web/src/main/resources/logback.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/thirdpart/taskmng_web/src/main/resources/logback.xml" />
-      <jump line="48" column="10" filename="$USER_HOME$/workspace/thirdpart/taskmng_web/src/main/resources/logback.xml" />
-      <jump line="113" column="24" filename="$USER_HOME$/workspace/thirdpart/pom.xml" />
       <jump line="8" column="34" filename="$USER_HOME$/workspace/thirdpart/pom.xml" />
       <jump line="89" column="33" filename="$USER_HOME$/workspace/thirdpart/pom.xml" />
       <jump line="314" column="11" filename="$USER_HOME$/workspace/search/pom.xml" />
@@ -578,13 +566,25 @@
       <jump line="68" column="75" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" />
       <jump line="71" column="75" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" />
       <jump line="231" column="28" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/UserInputPreProcess.java" />
+      <jump line="16" column="19" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/UserInputPreProcess.java" />
+      <jump line="19" column="20" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/UserInputPreProcess.java" />
+      <jump line="22" column="38" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/UserInputPreProcess.java" />
+      <jump line="23" column="25" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/UserInputPreProcess.java" />
+      <jump line="30" column="20" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/UserInputPreProcess.java" />
+      <jump line="44" column="16" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/UserInputPreProcess.java" />
+      <jump line="46" column="28" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/UserInputPreProcess.java" />
+      <jump line="54" column="49" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/UserInputPreProcess.java" />
+      <jump line="69" column="28" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/UserInputPreProcess.java" />
+      <jump line="73" column="16" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/UserInputPreProcess.java" />
+      <jump line="83" column="62" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/UserInputPreProcess.java" />
+      <jump line="95" column="39" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/UserInputPreProcess.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>userInput.replaceAll(</text>
       </register>
       <register name="/" type="4">
-        <text>sym</text>
+        <text encoding="base64">XDx1c2VySW5wdXRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc3Vic3RpdHV0ZU1hcCA9IG5ldyBVc2VySW5wdXRQcmVQcm9jZXNzKHBhcmFtLmdldEtleXdvcmRzKCkpLmV4dGVuZElucHV0KHBhcmFtLmdldENvdW50cnkoKSwgcGFyYW0uZ2V0TGFuZ3VhZ2UoKSk7Cg==</text>
@@ -621,9 +621,9 @@
       </register>
     </registers>
     <search>
-      <last-search>sym</last-search>
+      <last-search encoding="base64">XDx1c2VySW5wdXRcPg==</last-search>
       <last-offset />
-      <last-pattern>sym</last-pattern>
+      <last-pattern encoding="base64">XDx1c2VySW5wdXRcPg==</last-pattern>
       <last-replace>=&quot;&quot;;</last-replace>
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -631,7 +631,6 @@
     </search>
     <history>
       <history-search>
-        <entry>init</entry>
         <entry>;</entry>
         <entry encoding="base64">XDxmaWVsZExlbmd0aFw+</entry>
         <entry encoding="base64">XDxuYW1lTGVuXD4=</entry>
@@ -651,6 +650,7 @@
         <entry>\\\\s</entry>
         <entry>symble</entry>
         <entry>sym</entry>
+        <entry encoding="base64">XDx1c2VySW5wdXRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzEvMi9n</entry>
