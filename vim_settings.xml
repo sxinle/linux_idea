@@ -73,6 +73,9 @@
       <file name="$USER_HOME$/.share/super/mx_sync_task/pom.xml" timestamp="1490750645008">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/red/app/controllers/UserController.scala" timestamp="1490788074276">
+        <mark key="'" line="25" column="92" />
+      </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/dispatch/MxDispatcher.java" timestamp="1490777102528">
         <mark key="'" line="73" column="0" />
         <mark key="[" line="70" column="19" />
@@ -275,11 +278,11 @@
       <file name="$USER_HOME$/workspace/stest/src/main/scala/Test.java" timestamp="1490772303956">
         <mark key="[" line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/red/build.sbt" timestamp="1490232275689">
-        <mark key="[" line="13" column="48" />
-        <mark key="]" line="13" column="48" />
-        <mark key="^" line="12" column="37" />
-        <mark key="." line="13" column="48" />
+      <file name="$USER_HOME$/workspace/red/build.sbt" timestamp="1490788720554">
+        <mark key="[" line="12" column="54" />
+        <mark key="]" line="12" column="54" />
+        <mark key="^" line="12" column="54" />
+        <mark key="." line="12" column="54" />
       </file>
       <file name="$USER_HOME$/workspace/thirdpart/task_gasstation/src/main/java/com/mx/thirdpart/gasstation/GasTask.java" timestamp="1490270207600">
         <mark key="[" line="12" column="0" />
@@ -319,7 +322,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="178" column="55" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" />
       <jump line="2" column="12" filename="$USER_HOME$/workspace/red/app/daos/Test.scala" />
       <jump line="0" column="6" filename="$USER_HOME$/workspace/stest/src/Test.scala" />
       <jump line="6" column="7" filename="$USER_HOME$/workspace/stest/src/Test.scala" />
@@ -419,6 +421,7 @@
       <jump line="14" column="21" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
       <jump line="17" column="50" filename="$USER_HOME$/workspace/red/app/views/user.scala.html" />
       <jump line="128" column="0" filename="$USER_HOME$/workspace/red/app/views/user.scala.html" />
+      <jump line="25" column="92" filename="$USER_HOME$/workspace/red/app/controllers/UserController.scala" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -428,22 +431,22 @@
         <text encoding="base64">XDxvcmRlcmluZ1w+</text>
       </register>
       <register name="0" type="4">
-        <text>milesToKilometers</text>
+        <text>play-slick-evolutions&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">b2JqZWN0IENhcmRzIGV4dGVuZHMgRW51bWVyYXRpb24gd2l0aCBBcHAgewoKICB2YWwgTSA9IFZhbHVlKCLimaMiKQogIHZhbCBUID0gVmFsdWUoIuKZoCIpCiAgdmFsIEggPSBWYWx1ZSgi4pmlIikKICB2YWwgRiA9IFZhbHVlKCLimaYiKQoKICBwcmludGxuKE0udG9TdHJpbmcgKyBUICsgSCArIEYpCgogIGRlZiBjb2xvcklzUmVkKGM6IENhcmRzLlZhbHVlKTogQm9vbGVhbiA9IHsKICAgIGlmIChjID09IE0gfHwgYyA9PSBIKSByZXR1cm4gdHJ1ZQogICAgZmFsc2UKICB9CgogIHByaW50bG4oY29sb3JJc1JlZChIKSkKfQo=</text>
+        <text encoding="base64">ICAiY29tLnR5cGVzYWZlLnBsYXkiICUlICJwbGF5LXNsaWNrLWV2b2x1dGlvbnMiICUgIjIuMC4wIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBra2sK</text>
+        <text encoding="base64">ICAiY29tLnR5cGVzYWZlLnBsYXkiICUlICJwbGF5LXNsaWNrIiAlICIyLjAuMCIsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">b2JqZWN0IENhcmRzIGV4dGVuZHMgRW51bWVyYXRpb24gd2l0aCBBcHAgewoKICB2YWwgTSA9IFZhbHVlKCLimaMiKQogIHZhbCBUID0gVmFsdWUoIuKZoCIpCiAgdmFsIEggPSBWYWx1ZSgi4pmlIikKICB2YWwgRiA9IFZhbHVlKCLimaYiKQoKICBwcmludGxuKE0udG9TdHJpbmcgKyBUICsgSCArIEYpCgogIGRlZiBjb2xvcklzUmVkKGM6IENhcmRzLlZhbHVlKTogQm9vbGVhbiA9IHsKICAgIGlmIChjID09IE0gfHwgYyA9PSBIKSByZXR1cm4gdHJ1ZQogICAgZmFsc2UKICB9CgogIHByaW50bG4oY29sb3JJc1JlZChIKSkKfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICDCoCDCoAo=</text>
+        <text encoding="base64">ICBra2sK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICDCoCDCoAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICDCoCDCoAo=</text>
@@ -452,10 +455,10 @@
         <text encoding="base64">ICDCoCDCoAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB2YWwgTSA9IFZhbHVlKDEsICJvIikK</text>
+        <text encoding="base64">ICDCoCDCoAo=</text>
       </register>
-      <register name="9" type="8">
-        <text encoding="base64">IDIuwqAKMy7CoMKgCjQuwqDCoAo1LsKgwqA=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICDCoCDCoAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
