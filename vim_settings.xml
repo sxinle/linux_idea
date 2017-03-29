@@ -23,6 +23,12 @@
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsRTXSearcher.java" timestamp="1490346926366">
         <mark key="'" line="15" column="13" />
       </file>
+      <file name="$USER_HOME$/workspace/stest/src/main/scala/B.java" timestamp="1490772322036">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="1" column="19" />
+        <mark key="." line="1" column="19" />
+        <mark key="^" line="1" column="19" />
+      </file>
       <file name="$USER_HOME$/workspace/stest/src/Test.scala" timestamp="1490326267249">
         <mark key="[" line="14" column="10" />
         <mark key="]" line="14" column="9" />
@@ -248,12 +254,11 @@
         <mark key="." line="10" column="27" />
         <mark key="^" line="10" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" timestamp="1490765939607">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="11" column="24" />
-        <mark key="]" line="11" column="32" />
-        <mark key="." line="11" column="32" />
-        <mark key="^" line="11" column="32" />
+      <file name="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" timestamp="1490772794002">
+        <mark key="[" line="8" column="13" />
+        <mark key="]" line="8" column="21" />
+        <mark key="." line="8" column="21" />
+        <mark key="^" line="8" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/thirdpart/task_weather/src/main/java/com/mx/thirdpart/weather/WeatherTask.java" timestamp="1490257486585">
         <mark key="[" line="11" column="24" />
@@ -266,6 +271,9 @@
         <mark key="]" line="247" column="90" />
         <mark key="." line="246" column="0" />
         <mark key="^" line="245" column="7" />
+      </file>
+      <file name="$USER_HOME$/workspace/stest/src/main/scala/Test.java" timestamp="1490772303956">
+        <mark key="[" line="0" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/red/build.sbt" timestamp="1490232275689">
         <mark key="[" line="13" column="48" />
@@ -337,7 +345,6 @@
       <jump line="22" column="0" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
       <jump line="24" column="32" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/CacheManager.java" />
       <jump line="17" column="0" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
-      <jump line="16" column="0" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
       <jump line="9" column="38" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
       <jump line="6" column="38" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
       <jump line="26" column="50" filename="$USER_HOME$/workspace/red/app/views/user.scala.html" />
@@ -411,10 +418,11 @@
       <jump line="257" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" />
       <jump line="60" column="37" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" />
       <jump line="389" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" />
+      <jump line="16" column="17" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvcmRlcmluZ1w+</text>
@@ -423,31 +431,31 @@
         <text encoding="base64">ICAgIHB1YmxpYyBVc2VySW5wdXRQcmVQcm9jZXNzIHByb2Nlc3NSZXZPcmRlcigpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGRvYzEuckF0TmFtZUhlYWQgJiYgIWRvYzIuckF0TmFtZUhlYWQpIHJldHVybiAtMTsKICAgICAgICAgICAgaWYgKCFkb2MxLnJBdE5hbWVIZWFkICYmIGRvYzIuckF0TmFtZUhlYWQpIHJldHVybiAxOwo=</text>
+        <text encoding="base64">ICAgIHByaW50bG4ocC5jdXJyZW50QWdlKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChkb2MxLnJBdE5hbWVIZWFkICYmICFkb2MyLnJBdE5hbWVIZWFkKSByZXR1cm4gLTE7CiAgICAgICAgICAgICAgICBpZiAoIWRvYzEuckF0TmFtZUhlYWQgJiYgZG9jMi5yQXROYW1lSGVhZCkgcmV0dXJuIDE7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZihkcFBhcmFtLmlzVmFsaWQoKSl7CiAgICAgICAgICAgIHJldHVybiBkZWVwaW5mb1NlYXJjaGVyLnByZVByb2Nlc3NTZWFyY2goZHBQYXJhbSk7CiAgICAgICAgfWVsc2V7CiAgICAgICAgICAgIHJldHVybiBQQVJBTV9JTlZBTElEOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICBkZWYgY3VycmVudEFnZSgpID0gcEFnZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvKgogICAgICAgIGlmKHJQYXJhbS5nZXRLZXl3b3JkcygpLmxlbmd0aCgpID09IDApewogICAgICAgICAgICByZXR1cm4gUk9VVEVfRU1QVFlfUkVTVUxUOwogICAgICAgIH0KICAgICAgICAqLwo=</text>
+        <text encoding="base64">Y2xhc3MgQyB7CiAgICAKfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHAucEFnZSA9IDIzCiAgICBwcmludGxuKHAucEFnZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgRGVlcGluZm9TZWFyY2hlciBkZWVwaW5mb1NlYXJjaGVyOwo=</text>
+        <text encoding="base64">Ly8gIGRlZiBhZ2UoKSA9IHBBZ2UKLy8KLy8gIGRlZiBhZ2VfPShuZXdBZ2U6IEludCk6IFVuaXQgPSB7Ci8vICAgIHBBZ2UgPSBuZXdBZ2UKLy8gIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHAucEFnZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHAuYWdlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
