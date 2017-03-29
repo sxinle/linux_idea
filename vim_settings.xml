@@ -65,12 +65,14 @@
         <mark key="]" line="120" column="0" />
         <mark key="." line="120" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis-spring/1.2.2/mybatis-spring-1.2.2-sources.jar!/org/mybatis/spring/SqlSessionFactoryBean.java" timestamp="1490694551015" />
       <file name="$USER_HOME$/workspace/demo/search_db/pom.xml" timestamp="1490255623781">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
         <mark key="^" line="11" column="26" />
+      </file>
+      <file name="$USER_HOME$/.share/super/mx_sync_task/pom.xml" timestamp="1490750645008">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/dispatch/MxDispatcher.java" timestamp="1490079224037">
         <mark key="[" line="50" column="44" />
@@ -120,19 +122,17 @@
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsRXYSearcher.java" timestamp="1490667869939" />
       <file name="$USER_HOME$/workspace/red/app/models/DbFactory.scala" timestamp="1490010277743">
         <mark key="[" line="7" column="16" />
         <mark key="]" line="7" column="16" />
         <mark key="." line="7" column="16" />
       </file>
-      <file name="$USER_HOME$/.share/super/mx_sync_web/src/main/resources/mybatis/gas_station/mybatis_config.xml" timestamp="1490696749654">
+      <file name="$USER_HOME$/.share/super/mx_sync_web/src/main/resources/mybatis/gas_station/mybatis_config.xml" timestamp="1490750622464">
         <mark key="[" line="18" column="26" />
         <mark key="]" line="13" column="45" />
         <mark key="^" line="13" column="45" />
         <mark key="." line="18" column="45" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.1.1/mybatis-3.1.1-sources.jar!/org/apache/ibatis/builder/xml/XMLConfigBuilder.java" timestamp="1490696412478" />
       <file name="$USER_HOME$/workspace/thirdpart/taskmng_web/src/main/java/com/mx/thirdpart/taskmng/ScheduleMng.java" timestamp="1490272500745">
         <mark key="[" line="21" column="23" />
         <mark key="]" line="21" column="24" />
@@ -305,7 +305,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="104" column="0" filename="$USER_HOME$/workspace/search/pom.xml" />
       <jump line="193" column="16" filename="$USER_HOME$/workspace/search/pom.xml" />
       <jump line="106" column="35" filename="$USER_HOME$/workspace/search/pom.xml" />
       <jump line="192" column="16" filename="$USER_HOME$/workspace/search/pom.xml" />
@@ -405,6 +404,7 @@
       <jump line="70" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" />
       <jump line="0" column="0" filename="$USER_HOME$/.share/mx_third_party/pom.xml" />
       <jump line="103" column="35" filename="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.1.1/mybatis-3.1.1-sources.jar!/org/apache/ibatis/io/Resources.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/.share/super/mx_sync_task/pom.xml" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -454,7 +454,7 @@
       <last-replace>=&quot;&quot;;</last-replace>
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
