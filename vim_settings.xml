@@ -255,11 +255,10 @@
         <mark key="." line="10" column="27" />
         <mark key="^" line="10" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" timestamp="1490778231287">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="5" column="23" />
+      <file name="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" timestamp="1490779802037">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/thirdpart/task_weather/src/main/java/com/mx/thirdpart/weather/WeatherTask.java" timestamp="1490257486585">
         <mark key="[" line="11" column="24" />
@@ -336,7 +335,6 @@
       <jump line="22" column="0" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
       <jump line="24" column="32" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/CacheManager.java" />
       <jump line="17" column="0" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
-      <jump line="9" column="38" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
       <jump line="6" column="38" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
       <jump line="26" column="50" filename="$USER_HOME$/workspace/red/app/views/user.scala.html" />
       <jump line="21" column="0" filename="$USER_HOME$/workspace/red/app/controllers/UserController.scala" />
@@ -416,40 +414,41 @@
       <jump line="8" column="2" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
       <jump line="2" column="0" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
       <jump line="12" column="50" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
+      <jump line="9" column="23" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">Zmlyc3ROYW1lIA==</text>
+        <text encoding="base64">IHByaXZhdGU=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvcmRlcmluZ1w+</text>
       </register>
-      <register name="0" type="4">
-        <text>@BeanProperty</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBkZWYgdGhpcyhiOiBTdHJpbmcsIHQ6IFN0cmluZywgeTogU3RyaW5nKSB7CiAgICB0aGlzKGIsIHQpCiAgICBtYWtlWWVhciA9IHkKICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xhc3MgQ2FyKHByaXZhdGUgdmFyIGJyYW5kOlN0cmluZywgcHJpdmF0ZSB2YXIgdHlwZU5vOlN0cmluZywgcHJpdmF0ZSB2YXIpIHsKICBwcml2YXRlIHZhciBicmFuZDogU3RyaW5nID0gXwogIHByaXZhdGUgdmFyIHR5cGVObzogU3RyaW5nID0gXwogIHByaXZhdGUgdmFyIG1ha2VZZWFyOiBTdHJpbmcgPSBfCiAgdmFyIGNhck5vOiBTdHJpbmcgPSBfCgogIGRlZiB0aGlzKGI6IFN0cmluZywgdDogU3RyaW5nKSB7CiAgICB0aGlzKCkKICAgIGJyYW5kID0gYgogICAgdHlwZU5vID0gdAogIH0KCiAgZGVmIHRoaXMoYjogU3RyaW5nLCB0OiBTdHJpbmcsIHk6IFN0cmluZykgewogICAgdGhpcyhiLCB0KQogICAgbWFrZVllYXIgPSB5CiAgfQoKCn0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJyYW5kID0gYgogICAgdHlwZU5vID0gdAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBAQmVhblByb3BlcnR5IHZhciBuYW1lOiBTdHJpbmcgPSBfCiAgQEJlYW5Qcm9wZXJ0eSB2YXIgaWQ6IExvbmcgPSBfCg==</text>
+        <text encoding="base64">ICAgIHRoaXMuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBwMSA9IG5ldyBQZXJzb24oImhlbGxvIHdvcmxkIikKICAgIHByaW50bG4ocDEudG9TdHJpbmcpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBqawo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Y2xhc3MgUGVyc29uKHZhbCBuYW1lOlN0cmluZykgewogIG92ZXJyaWRlIGRlZiB0b1N0cmluZzogU3RyaW5nID0gImZpck5hbWU6ICIgKyBmaXJzdE5hbWUgKyAiX19fbGFzdE5hbWU6ICIgKyBsYXN0TmFtZQogIHZhbCBhcnIgPSBuYW1lLnNwbGl0KCIgIikKICBkZWYgZmlyc3ROYW1lID0gYXJyKDApCiAgZGVmIGxhc3ROYW1lID0gYXJyKDEpCn0KCgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
