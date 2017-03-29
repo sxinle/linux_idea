@@ -9,7 +9,6 @@
       <file name="$USER_HOME$/.share/mx_third_party/pom.xml" timestamp="1490693367452">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" timestamp="1490750878565" />
       <file name="$USER_HOME$/workspace/search/search_data/pom.xml" timestamp="1490170885976">
         <mark key="[" line="12" column="15" />
         <mark key="]" line="12" column="16" />
@@ -61,6 +60,9 @@
         <mark key="]" line="104" column="0" />
         <mark key="." line="104" column="0" />
       </file>
+      <file name="/Dummy.scala" timestamp="1490755062073">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/PosSorter.java" timestamp="1488160347994">
         <mark key="[" line="120" column="0" />
         <mark key="]" line="120" column="0" />
@@ -102,6 +104,7 @@
         <mark key="." line="6" column="26" />
         <mark key="^" line="6" column="26" />
       </file>
+      <file name="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.1-sources.jar!/scala/collection/JavaConversions.scala" timestamp="1490758578962" />
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/TermsSetter.java" timestamp="1490691441511">
         <mark key="'" line="48" column="49" />
       </file>
@@ -240,11 +243,12 @@
         <mark key="." line="10" column="27" />
         <mark key="^" line="10" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" timestamp="1490753707894">
-        <mark key="[" line="9" column="13" />
-        <mark key="]" line="10" column="14" />
-        <mark key="." line="10" column="14" />
-        <mark key="^" line="10" column="14" />
+      <file name="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" timestamp="1490758859801">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="13" column="46" />
+        <mark key="]" line="13" column="48" />
+        <mark key="." line="13" column="48" />
+        <mark key="^" line="13" column="48" />
       </file>
       <file name="$USER_HOME$/workspace/thirdpart/task_weather/src/main/java/com/mx/thirdpart/weather/WeatherTask.java" timestamp="1490257486585">
         <mark key="[" line="11" column="24" />
@@ -306,8 +310,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="192" column="16" filename="$USER_HOME$/workspace/search/pom.xml" />
-      <jump line="199" column="29" filename="$USER_HOME$/workspace/search/pom.xml" />
       <jump line="200" column="28" filename="$USER_HOME$/workspace/search/pom.xml" />
       <jump line="201" column="27" filename="$USER_HOME$/workspace/search/pom.xml" />
       <jump line="38" column="37" filename="$USER_HOME$/workspace/search/pom.xml" />
@@ -346,7 +348,6 @@
       <jump line="16" column="0" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
       <jump line="9" column="38" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
       <jump line="6" column="38" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
-      <jump line="4" column="0" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
       <jump line="26" column="50" filename="$USER_HOME$/workspace/red/app/views/user.scala.html" />
       <jump line="21" column="0" filename="$USER_HOME$/workspace/red/app/controllers/UserController.scala" />
       <jump line="21" column="33" filename="$USER_HOME$/workspace/red/app/views/user.scala.html" />
@@ -385,7 +386,6 @@
       <jump line="83" column="62" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/UserInputPreProcess.java" />
       <jump line="95" column="39" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/UserInputPreProcess.java" />
       <jump line="189" column="41" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" />
-      <jump line="5" column="19" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
       <jump line="16" column="12" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/RevAndMatchSetter.java" />
       <jump line="19" column="12" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/RevAndMatchSetter.java" />
       <jump line="116" column="25" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" />
@@ -405,44 +405,48 @@
       <jump line="103" column="35" filename="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.1.1/mybatis-3.1.1-sources.jar!/org/apache/ibatis/io/Resources.java" />
       <jump line="0" column="0" filename="$USER_HOME$/.share/super/mx_sync_task/pom.xml" />
       <jump line="3" column="24" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
-      <jump line="8" column="20" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
+      <jump line="5" column="4" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
+      <jump line="4" column="29" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
+      <jump line="10" column="42" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
+      <jump line="11" column="21" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
+      <jump line="8" column="0" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>prefixR</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkaXN0cy5hZGQoIu+8leWkp+i/nuaxoOW4giIpOwogICAgICAgICAgICAgICAgICAgIGRpc3RzLmFkZCgi77yV5aSn6L+e5rGgIik7Cg==</text>
+        <text encoding="base64">ICBkZWYgbWFpbihhcmdzOiBBcnJheVtTdHJpbmddKTogVW5pdCA9IHsKCiAgICB2YXIgbWFwID0gTWFwW1N0cmluZywgSW50XSgpCgogICAgdmFsIGluID0gbmV3IGphdmEudXRpbC5TY2FubmVyKG5ldyBGaWxlKCIvaG9tZS9oc29uZy9hIikpCiAgICB3aGlsZSAoaW4uaGFzTmV4dCgpKSB7CiAgICAgIHZhbCB3b3JkID0gaW4ubmV4dCgpCiAgICAgIG1hcCA9IG1hcCArICh3b3JkIC0+IChtYXAuZ2V0T3JFbHNlKHdvcmQsIDApICsgMSkpCiAgICB9CgogICAgZm9yICgoaywgdikgPC0gbWFwKSB7CiAgICAgIHByaW50bG4oayArICItPiIgKyB2KQogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEphdmFDb252ZXJ0ZXJzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhciBtYXBiID0gbmV3IG11dGFibGUuSGFzaE1hcFtJbnQsIFN0cmluZ10oKQo=</text>
+        <text encoding="base64">aW1wb3J0IHNjYWxhLnV0aWwuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRsbihrKQo=</text>
+        <text encoding="base64">aW1wb3J0IHNjYWxhLmpqa2oK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZvcigoaywgdikgPC0gbWFwYikgewogICAgICBwcmludGxuKGspCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIC8vICAgICAgbWFwID0gbWFwICsgKHdvcmQgLT4gKG1hcC5nZXRPckVsc2Uod29yZCwgMCkgKyAxKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZvciAoKGssIHYpIDwtIG1hcCkgewogICAgICBwcmludGxuKCJrOiIgKyBrICsgInY6IiArIHYpCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgbWFwCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZvcih2IDwtIG1hcC52YWx1ZXMpIHsKICAgICAgcHJpbnRsbih2KQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgbWFwLnB1dCh3b3JkLCBtYXAuZ2V0T3JFbHNlKHdvcmQsIDApICsgMSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG1hcCA9IG1hcCAtICJhIgo=</text>
+        <text encoding="base64">dmFsIG1hcCA9IG5ldyBtdXRhYmxlLkhhc2hNYXBbU3RyaW5nLCBJbnRdKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZvciAoKGssIHYpIDwtIG1hcCkgewogICAgICBwcmludGxuKCJrOiIgKyBrICsgIlx0IiArICJ2OiIgKyB2KQogICAgfQo=</text>
+        <text encoding="base64">ICAgIHZhbCBtYXAgPSBuZXcgbXV0YWJsZS5IYXNoTWFwW1N0cmluZywgSW50XSgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
