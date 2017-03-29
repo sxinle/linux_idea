@@ -73,7 +73,7 @@
       <file name="$USER_HOME$/.share/super/mx_sync_task/pom.xml" timestamp="1490750645008">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/dispatch/MxDispatcher.java" timestamp="1490774310537">
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/dispatch/MxDispatcher.java" timestamp="1490775075524">
         <mark key="'" line="73" column="0" />
         <mark key="[" line="68" column="9" />
         <mark key="]" line="68" column="9" />
@@ -254,11 +254,11 @@
         <mark key="." line="10" column="27" />
         <mark key="^" line="10" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" timestamp="1490772794002">
-        <mark key="[" line="8" column="13" />
-        <mark key="]" line="8" column="21" />
-        <mark key="." line="8" column="21" />
-        <mark key="^" line="8" column="21" />
+      <file name="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" timestamp="1490776869456">
+        <mark key="[" line="5" column="34" />
+        <mark key="]" line="5" column="34" />
+        <mark key="." line="5" column="34" />
+        <mark key="^" line="5" column="39" />
       </file>
       <file name="$USER_HOME$/workspace/thirdpart/task_weather/src/main/java/com/mx/thirdpart/weather/WeatherTask.java" timestamp="1490257486585">
         <mark key="[" line="11" column="24" />
@@ -301,7 +301,7 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1490768829224">
+      <file name="/fragment.java" timestamp="1490775936228">
         <mark key="'" line="0" column="38" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
@@ -315,8 +315,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" />
-      <jump line="28" column="25" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" />
       <jump line="20" column="38" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
       <jump line="63" column="15" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
       <jump line="4" column="17" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
@@ -401,7 +399,6 @@
       <jump line="4" column="29" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
       <jump line="10" column="42" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
       <jump line="11" column="21" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
-      <jump line="8" column="0" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
       <jump line="149" column="0" filename="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/util/TreeMap.java" />
       <jump line="46" column="70" filename="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.1-sources.jar!/scala/collection/immutable/TreeMap.scala" />
       <jump line="145" column="7" filename="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.1-sources.jar!/scala/Predef.scala" />
@@ -414,46 +411,47 @@
       <jump line="16" column="17" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
       <jump line="45" column="40" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/dispatch/MxDispatcher.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/dispatch/MxDispatcher.java" />
+      <jump line="48" column="49" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/dispatch/MxDispatcher.java" />
       <jump line="73" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/dispatch/MxDispatcher.java" />
+      <jump line="8" column="2" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
+      <jump line="2" column="0" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>()</text>
+        <text>Option</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvcmRlcmluZ1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBVc2VySW5wdXRQcmVQcm9jZXNzIHByb2Nlc3NSZXZPcmRlcigpIHsK</text>
+        <text encoding="base64">ICAgIHByaW50KCJpbnZva2UgZGVwb3NpdCgxMDApLi4uIEJhbGFuY2U6IikKICAgIHByaW50bG4oYmFuay5iYWxhbmNlKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IGVsc2UgaWYocGFyYW0gaW5zdGFuY2VvZiBEZWVwaW5mb1BhcmFtKXsKICAgICAgICAgICAgcmV0dXJuIGRlZXBpbmZvU2VhcmNoZXI7CiAgICAgICAgfQ==</text>
-      </register>
-      <register name="2" type="2">
+      <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHJldHUK</text>
       </register>
-      <register name="4" type="4">
-        <text>{
-
-        }</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICBwcml2YXRlIHZhciBob3VycyA9IDAKICBwcml2YXRlIHZhciBtaW51dGVzID0gMAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHZhbCBiYW5rID0gbmV3IEJhbmtBY2NvdW50KDMwMDApCiAgICBwcmludCgiaW52b2tlIGRlcG9zaXQoMTAwKS4uLiBCYWxhbmNlOiIpCiAgICBiYW5rLmRlcG9zaXQoMTAwKQogICAgcHJpbnRsbihiYW5rLmJhbGFuY2UpCiAgICBwcmludCgiaW52b2tlIHdpdGhkcmF3KDMwMCkuLi4gQmFsYW5jZToiKQogICAgYmFuay53aXRoZHJhdygzMDApCiAgICBwcmludGxuKGJhbmsuYmFsYW5jZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4ocC5jdXJyZW50QWdlKQo=</text>
+        <text encoding="base64">Y2xhc3MgQmFua0FjY291bnQocHJpdmF0ZSB2YXIgdGhpc0JhbGFuY2U6IERvdWJsZSkgewoKICBkZWYgYmFsYW5jZSA9IHRoaXNCYWxhbmNlCgogIGRlZiBkZXBvc2l0KG51bTogRG91YmxlKSA9IHsKICAgIHRoaXNCYWxhbmNlIC09IG51bQogIH0KCiAgZGVmIHdpdGhkcmF3KG51bTogRG91YmxlKSA9IHsKICAgIHRoaXNCYWxhbmNlICs9IG51bQogIH0KfQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkZWYgY3VycmVudEFnZSgpID0gcEFnZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2xhc3MgQyB7CiAgICAKfQo=</text>
+        <text encoding="base64">ICAgIGJhbmsuZGVwb3NpdCgxMDApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHAucEFnZSA9IDIzCiAgICBwcmludGxuKHAucEFnZSkK</text>
+        <text encoding="base64">ICAgIGIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
