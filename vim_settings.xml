@@ -255,11 +255,11 @@
         <mark key="." line="10" column="27" />
         <mark key="^" line="10" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" timestamp="1490783218910">
-        <mark key="[" line="18" column="37" />
-        <mark key="]" line="19" column="7" />
-        <mark key="." line="19" column="7" />
-        <mark key="^" line="19" column="7" />
+      <file name="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" timestamp="1490787599477">
+        <mark key="[" line="2" column="40" />
+        <mark key="]" line="3" column="33" />
+        <mark key="." line="3" column="33" />
+        <mark key="^" line="3" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/thirdpart/task_weather/src/main/java/com/mx/thirdpart/weather/WeatherTask.java" timestamp="1490257486585">
         <mark key="[" line="11" column="24" />
@@ -302,7 +302,7 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1490775936228">
+      <file name="/fragment.java" timestamp="1490787267513">
         <mark key="'" line="0" column="38" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
@@ -316,16 +316,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="15" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
-      <jump line="4" column="17" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
-      <jump line="21" column="25" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
-      <jump line="89" column="15" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
-      <jump line="82" column="4" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
-      <jump line="147" column="20" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" />
-      <jump line="26" column="45" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" />
-      <jump line="101" column="42" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" />
-      <jump line="134" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" />
-      <jump line="104" column="31" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" />
       <jump line="215" column="54" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" />
       <jump line="217" column="55" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" />
       <jump line="178" column="55" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" />
@@ -335,7 +325,6 @@
       <jump line="197" column="6" filename="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.1-sources.jar!/scala/Array.scala" />
       <jump line="22" column="0" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
       <jump line="24" column="32" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/CacheManager.java" />
-      <jump line="17" column="0" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
       <jump line="6" column="38" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
       <jump line="26" column="50" filename="$USER_HOME$/workspace/red/app/views/user.scala.html" />
       <jump line="21" column="0" filename="$USER_HOME$/workspace/red/app/controllers/UserController.scala" />
@@ -395,9 +384,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/.share/super/mx_sync_task/pom.xml" />
       <jump line="3" column="24" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
       <jump line="5" column="4" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
-      <jump line="4" column="29" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
       <jump line="10" column="42" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
-      <jump line="11" column="21" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
       <jump line="149" column="0" filename="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/util/TreeMap.java" />
       <jump line="46" column="70" filename="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.1-sources.jar!/scala/collection/immutable/TreeMap.scala" />
       <jump line="145" column="7" filename="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.1-sources.jar!/scala/Predef.scala" />
@@ -416,43 +403,56 @@
       <jump line="2" column="0" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
       <jump line="12" column="50" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
       <jump line="9" column="23" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
+      <jump line="17" column="0" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
+      <jump line="11" column="6" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
+      <jump line="27" column="28" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
+      <jump line="25" column="6" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
+      <jump line="29" column="6" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
+      <jump line="39" column="0" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
+      <jump line="34" column="0" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
+      <jump line="45" column="0" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
+      <jump line="33" column="6" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
+      <jump line="36" column="0" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
+      <jump line="7" column="0" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
+      <jump line="4" column="18" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
+      <jump line="14" column="21" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">dmFyIA==</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvcmRlcmluZ1w+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBkZWYgdGhpcyhiOiBTdHJpbmcsIHQ6IFN0cmluZywgeTogU3RyaW5nKSB7CiAgICB0aGlzKGIsIHQpCiAgICBtYWtlWWVhciA9IHkKICB9Cg==</text>
+      <register name="0" type="4">
+        <text>milesToKilometers</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">b2JqZWN0IENhcmRzIGV4dGVuZHMgRW51bWVyYXRpb24gd2l0aCBBcHAgewoKICB2YWwgTSA9IFZhbHVlKCLimaMiKQogIHZhbCBUID0gVmFsdWUoIuKZoCIpCiAgdmFsIEggPSBWYWx1ZSgi4pmlIikKICB2YWwgRiA9IFZhbHVlKCLimaYiKQoKICBwcmludGxuKE0udG9TdHJpbmcgKyBUICsgSCArIEYpCgogIGRlZiBjb2xvcklzUmVkKGM6IENhcmRzLlZhbHVlKTogQm9vbGVhbiA9IHsKICAgIGlmIChjID09IE0gfHwgYyA9PSBIKSByZXR1cm4gdHJ1ZQogICAgZmFsc2UKICB9CgogIHByaW50bG4oY29sb3JJc1JlZChIKSkKfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2xhc3MgQ2FyKHByaXZhdGUgdmFyIGJyYW5kOlN0cmluZywgcHJpdmF0ZSB2YXIgdHlwZU5vOlN0cmluZywgcHJpdmF0ZSB2YXIpIHsKICBwcml2YXRlIHZhciBicmFuZDogU3RyaW5nID0gXwogIHByaXZhdGUgdmFyIHR5cGVObzogU3RyaW5nID0gXwogIHByaXZhdGUgdmFyIG1ha2VZZWFyOiBTdHJpbmcgPSBfCiAgdmFyIGNhck5vOiBTdHJpbmcgPSBfCgogIGRlZiB0aGlzKGI6IFN0cmluZywgdDogU3RyaW5nKSB7CiAgICB0aGlzKCkKICAgIGJyYW5kID0gYgogICAgdHlwZU5vID0gdAogIH0KCiAgZGVmIHRoaXMoYjogU3RyaW5nLCB0OiBTdHJpbmcsIHk6IFN0cmluZykgewogICAgdGhpcyhiLCB0KQogICAgbWFrZVllYXIgPSB5CiAgfQoKCn0K</text>
+        <text encoding="base64">ICBra2sK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGJyYW5kID0gYgogICAgdHlwZU5vID0gdAo=</text>
+        <text encoding="base64">ICDCoCDCoAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMuCg==</text>
+        <text encoding="base64">ICDCoCDCoAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCBwMSA9IG5ldyBQZXJzb24oImhlbGxvIHdvcmxkIikKICAgIHByaW50bG4ocDEudG9TdHJpbmcpCg==</text>
+        <text encoding="base64">ICDCoCDCoAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBqawo=</text>
+        <text encoding="base64">ICDCoCDCoAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2xhc3MgUGVyc29uKHZhbCBuYW1lOlN0cmluZykgewogIG92ZXJyaWRlIGRlZiB0b1N0cmluZzogU3RyaW5nID0gImZpck5hbWU6ICIgKyBmaXJzdE5hbWUgKyAiX19fbGFzdE5hbWU6ICIgKyBsYXN0TmFtZQogIHZhbCBhcnIgPSBuYW1lLnNwbGl0KCIgIikKICBkZWYgZmlyc3ROYW1lID0gYXJyKDApCiAgZGVmIGxhc3ROYW1lID0gYXJyKDEpCn0KCgo=</text>
+        <text encoding="base64">ICB2YWwgTSA9IFZhbHVlKDEsICJvIikK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="8">
+        <text encoding="base64">IDIuwqAKMy7CoMKgCjQuwqDCoAo1LsKgwqA=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
