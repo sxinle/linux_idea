@@ -262,6 +262,11 @@
         <mark key="." line="10" column="27" />
         <mark key="^" line="10" column="27" />
       </file>
+      <file name="$USER_HOME$/workspace/red/project/plugins.sbt" timestamp="1490790128062">
+        <mark key="[" line="4" column="55" />
+        <mark key="]" line="4" column="56" />
+        <mark key="." line="4" column="56" />
+      </file>
       <file name="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" timestamp="1490787599477">
         <mark key="[" line="2" column="40" />
         <mark key="]" line="3" column="33" />
@@ -279,10 +284,9 @@
       <file name="$USER_HOME$/workspace/stest/src/main/scala/Test.java" timestamp="1490772303956">
         <mark key="[" line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/red/build.sbt" timestamp="1490789787794">
-        <mark key="[" line="16" column="36" />
-        <mark key="]" line="16" column="45" />
-        <mark key="^" line="15" column="0" />
+      <file name="$USER_HOME$/workspace/red/build.sbt" timestamp="1490789995337">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/thirdpart/task_gasstation/src/main/java/com/mx/thirdpart/gasstation/GasTask.java" timestamp="1490270207600">
@@ -435,25 +439,25 @@
         <text>sbt-plugin</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAiY29tLnR5cGVzYWZlLnBsYXkiICUlICJwbGF5LXNsaWNrLWV2b2x1dGlvbnMiICUgIjIuMC4wIgo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAiY29tLnR5cGVzYWZlLnBsYXkiICUlICJwbGF5LXNsaWNrIiAlICIyLjAuMCIsCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">b2JqZWN0IENhcmRzIGV4dGVuZHMgRW51bWVyYXRpb24gd2l0aCBBcHAgewoKICB2YWwgTSA9IFZhbHVlKCLimaMiKQogIHZhbCBUID0gVmFsdWUoIuKZoCIpCiAgdmFsIEggPSBWYWx1ZSgi4pmlIikKICB2YWwgRiA9IFZhbHVlKCLimaYiKQoKICBwcmludGxuKE0udG9TdHJpbmcgKyBUICsgSCArIEYpCgogIGRlZiBjb2xvcklzUmVkKGM6IENhcmRzLlZhbHVlKTogQm9vbGVhbiA9IHsKICAgIGlmIChjID09IE0gfHwgYyA9PSBIKSByZXR1cm4gdHJ1ZQogICAgZmFsc2UKICB9CgogIHByaW50bG4oY29sb3JJc1JlZChIKSkKfQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBra2sK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">YWRkU2J0UGx1Z2luKCJjb20udHlwZXNhZmUucGxheSIgJSAic2J0LXBsdWdpbiIgJSAiMi41LngiKQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAiY29tLnR5cGVzYWZlLnBsYXkiICUlICJwbGF5LXNsaWNrLWV2b2x1dGlvbnMiICUgIjIuMC4wIgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAiY29tLnR5cGVzYWZlLnBsYXkiICUlICJwbGF5LXNsaWNrIiAlICIyLjAuMCIsCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">b2JqZWN0IENhcmRzIGV4dGVuZHMgRW51bWVyYXRpb24gd2l0aCBBcHAgewoKICB2YWwgTSA9IFZhbHVlKCLimaMiKQogIHZhbCBUID0gVmFsdWUoIuKZoCIpCiAgdmFsIEggPSBWYWx1ZSgi4pmlIikKICB2YWwgRiA9IFZhbHVlKCLimaYiKQoKICBwcmludGxuKE0udG9TdHJpbmcgKyBUICsgSCArIEYpCgogIGRlZiBjb2xvcklzUmVkKGM6IENhcmRzLlZhbHVlKTogQm9vbGVhbiA9IHsKICAgIGlmIChjID09IE0gfHwgYyA9PSBIKSByZXR1cm4gdHJ1ZQogICAgZmFsc2UKICB9CgogIHByaW50bG4oY29sb3JJc1JlZChIKSkKfQo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICDCoCDCoAo=</text>
+        <text encoding="base64">ICBra2sK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICDCoCDCoAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICDCoCDCoAo=</text>
