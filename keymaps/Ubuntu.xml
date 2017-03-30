@@ -1,7 +1,4 @@
 <keymap version="1" name="Ubuntu" parent="Default for GNOME">
-  <action id="$Paste">
-    <keyboard-shortcut first-keystroke="shift insert" />
-  </action>
   <action id="$SelectAll">
     <keyboard-shortcut first-keystroke="ctrl a" />
     <keyboard-shortcut first-keystroke="alt a" />
@@ -43,6 +40,9 @@
   </action>
   <action id="Console.TableResult.EditValueMaximized" />
   <action id="ContextHelp" />
+  <action id="Editor Paste">
+    <keyboard-shortcut first-keystroke="ctrl v" />
+  </action>
   <action id="Editor SelectAll">
     <keyboard-shortcut first-keystroke="alt a" />
   </action>
