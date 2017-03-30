@@ -29,11 +29,14 @@
         <mark key="." line="1" column="19" />
         <mark key="^" line="1" column="19" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/autonavi/AmapSearcher.java" timestamp="1490851050462">
-        <mark key="'" line="30" column="0" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/autonavi/AmapSearcher.java" timestamp="1490852894332">
+        <mark key="'" line="27" column="4" />
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
+      </file>
+      <file name="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/javax/rmi/CORBA/Stub.java" timestamp="1490852466034">
+        <mark key="'" line="64" column="11" />
       </file>
       <file name="$USER_HOME$/workspace/stest/src/Test.scala" timestamp="1490326267249">
         <mark key="[" line="14" column="10" />
@@ -290,11 +293,11 @@
         <mark key="]" line="4" column="56" />
         <mark key="." line="4" column="56" />
       </file>
-      <file name="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" timestamp="1490841075630">
-        <mark key="'" line="0" column="18" />
-        <mark key="[" line="2" column="25" />
-        <mark key="]" line="3" column="3" />
-        <mark key="." line="3" column="3" />
+      <file name="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" timestamp="1490852489967">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
         <mark key="^" line="3" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/thirdpart/task_weather/src/main/java/com/mx/thirdpart/weather/WeatherTask.java" timestamp="1490257486585">
@@ -351,9 +354,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="74" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" />
-      <jump line="68" column="75" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" />
-      <jump line="71" column="75" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" />
       <jump line="231" column="28" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/UserInputPreProcess.java" />
       <jump line="16" column="19" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/UserInputPreProcess.java" />
       <jump line="19" column="20" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/UserInputPreProcess.java" />
@@ -386,8 +386,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/.share/mx_third_party/pom.xml" />
       <jump line="103" column="35" filename="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.1.1/mybatis-3.1.1-sources.jar!/org/apache/ibatis/io/Resources.java" />
       <jump line="0" column="0" filename="$USER_HOME$/.share/super/mx_sync_task/pom.xml" />
-      <jump line="3" column="24" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
-      <jump line="5" column="4" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
       <jump line="10" column="42" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
       <jump line="149" column="0" filename="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/util/TreeMap.java" />
       <jump line="46" column="70" filename="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.1-sources.jar!/scala/collection/immutable/TreeMap.scala" />
@@ -404,7 +402,6 @@
       <jump line="48" column="49" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/dispatch/MxDispatcher.java" />
       <jump line="73" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/dispatch/MxDispatcher.java" />
       <jump line="8" column="2" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
-      <jump line="2" column="0" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
       <jump line="27" column="28" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
       <jump line="25" column="6" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
       <jump line="39" column="0" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
@@ -451,6 +448,12 @@
       <jump line="27" column="12" filename="$USER_HOME$/workspace/red/app/controllers/UserController.scala" />
       <jump line="22" column="1" filename="$USER_HOME$/workspace/red/app/controllers/UserController.scala" />
       <jump line="35" column="4" filename="$USER_HOME$/workspace/red/app/controllers/UserController.scala" />
+      <jump line="5" column="14" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
+      <jump line="6" column="4" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
+      <jump line="2" column="10" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
+      <jump line="3" column="0" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
+      <jump line="64" column="11" filename="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/javax/rmi/CORBA/Stub.java" />
+      <jump line="27" column="4" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/autonavi/AmapSearcher.java" />
     </jumps>
     <registers>
       <register name="*" type="4">
@@ -460,55 +463,53 @@
         <text>Mobile</text>
       </register>
       <register name="/" type="4">
-        <text>form</text>
+        <text>obj</text>
       </register>
       <register name="0" type="4">
         <text>ice: UserService) extends Controller {</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgbmV3VXNlciA9IG1vZGVscy5Vc2VyKDAsIGRhdGEudXNlck5hbWUsIGRhdGEucGFzc1dvcmQpCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgbmV3VXNlciA9IG1vZGVscy5Vc2VyKDAsIGRhdGEudXNlck5hbWUsIGRhdGEucGFzc1dvcmQpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHRyPgogICAgICAgICAgICAgICAgPHRkIGFsaWduPSJsZWZ0Ij4KICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJ1c2VyLWZvcm0iIGlkPSJmaXJzdE5hbWVfZmllbGRfbGFiZWwiPgogICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb250cm9scyBjb2wteHMtb2Zmc2V0LTMgY29sLXhzLTkiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iaW5wdXQtZ3JvdXAiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJpbnB1dC1ncm91cC1hZGRvbiI+PHNwYW4gY2xhc3M9ImdseXBoaWNvbiBnbHlwaGljb24tdXNlciI+PC9zcGFuPjwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c3Ryb25nPmZpcnN0bmFtZTwvc3Ryb25nPiA6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8L3RkPgogICAgICAgICAgICAgICAgPHRkIGFsaWduPSJjZW50ZXIiPgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InVzZXItZm9ybSIgaWQ9ImZpcnN0TmFtZV9maWVsZF92YWx1ZSI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbnRyb2xzIGNvbC14cy1vZmZzZXQtMyBjb2wteHMtOSI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJpbnB1dC1ncm91cCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9ImlucHV0LWdyb3VwLWFkZG9uIj48c3BhbiBjbGFzcz0iZ2x5cGhpY29uIGdseXBoaWNvbi11c2VyIj48L3NwYW4+PC9zcGFuPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJ0ZXh0IiBpZD0iZmlyc3ROYW1lIiBuYW1lPSJmaXJzdE5hbWUiIHZhbHVlPSIiIHBsYWNlaG9sZGVyPSJGaXJzdCBOYW1lIiBjbGFzcz0iZm9ybS1jb250cm9sIGlucHV0LWxnIiByZXF1aXJlZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDwvdGQ+CiAgICAgICAgICAgIDwvdHI+CiAgICAgICAgICAgIDx0cj4KICAgICAgICAgICAgICAgIDx0ZCBhbGlnbj0ibGVmdCI+CiAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0idXNlci1mb3JtIiBpZD0ibGFzdE5hbWVfZmllbGRfbGFiZWwiPgogICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb250cm9scyBjb2wteHMtb2Zmc2V0LTMgY29sLXhzLTkiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iaW5wdXQtZ3JvdXAiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJpbnB1dC1ncm91cC1hZGRvbiI+PHNwYW4gY2xhc3M9ImdseXBoaWNvbiBnbHlwaGljb24tdXNlciI+PC9zcGFuPjwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c3Ryb25nPmxhc3RuYW1lPC9zdHJvbmc+IDoKICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDwvdGQ+CiAgICAgICAgICAgICAgICA8dGQgYWxpZ249ImNlbnRlciI+CiAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0idXNlci1mb3JtIiBpZD0ibGFzdE5hbWVfZmllbGRfdmFsdWUiPgogICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb250cm9scyBjb2wteHMtb2Zmc2V0LTMgY29sLXhzLTkiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iaW5wdXQtZ3JvdXAiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJpbnB1dC1ncm91cC1hZGRvbiI+PHNwYW4gY2xhc3M9ImdseXBoaWNvbiBnbHlwaGljb24tdXNlciI+PC9zcGFuPjwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0idGV4dCIgaWQ9Imxhc3ROYW1lIiBuYW1lPSJsYXN0TmFtZSIgdmFsdWU9IiIgcGxhY2Vob2xkZXI9Ikxhc3QgTmFtZSIgY2xhc3M9ImZvcm0tY29udHJvbCBpbnB1dC1sZyIgcmVxdWlyZWQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8L3RkPgogICAgICAgICAgICA8L3RyPgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHRyPgogICAgICAgICAgICAgICAgPHRkIGFsaWduPSJsZWZ0Ij4KICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJ1c2VyLWZvcm0iIGlkPSJmaXJzdE5hbWVfZmllbGRfbGFiZWwiPgogICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb250cm9scyBjb2wteHMtb2Zmc2V0LTMgY29sLXhzLTkiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iaW5wdXQtZ3JvdXAiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJpbnB1dC1ncm91cC1hZGRvbiI+PHNwYW4gY2xhc3M9ImdseXBoaWNvbiBnbHlwaGljb24tdXNlciI+PC9zcGFuPjwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c3Ryb25nPmZpcnN0bmFtZTwvc3Ryb25nPiA6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8L3RkPgogICAgICAgICAgICAgICAgPHRkIGFsaWduPSJjZW50ZXIiPgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InVzZXItZm9ybSIgaWQ9ImZpcnN0TmFtZV9maWVsZF92YWx1ZSI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbnRyb2xzIGNvbC14cy1vZmZzZXQtMyBjb2wteHMtOSI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJpbnB1dC1ncm91cCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9ImlucHV0LWdyb3VwLWFkZG9uIj48c3BhbiBjbGFzcz0iZ2x5cGhpY29uIGdseXBoaWNvbi11c2VyIj48L3NwYW4+PC9zcGFuPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJ0ZXh0IiBpZD0iZmlyc3ROYW1lIiBuYW1lPSJmaXJzdE5hbWUiIHZhbHVlPSIiIHBsYWNlaG9sZGVyPSJGaXJzdCBOYW1lIiBjbGFzcz0iZm9ybS1jb250cm9sIGlucHV0LWxnIiByZXF1aXJlZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDwvdGQ+CiAgICAgICAgICAgIDwvdHI+CiAgICAgICAgICAgIDx0cj4KICAgICAgICAgICAgICAgIDx0ZCBhbGlnbj0ibGVmdCI+CiAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0idXNlci1mb3JtIiBpZD0ibGFzdE5hbWVfZmllbGRfbGFiZWwiPgogICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb250cm9scyBjb2wteHMtb2Zmc2V0LTMgY29sLXhzLTkiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iaW5wdXQtZ3JvdXAiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJpbnB1dC1ncm91cC1hZGRvbiI+PHNwYW4gY2xhc3M9ImdseXBoaWNvbiBnbHlwaGljb24tdXNlciI+PC9zcGFuPjwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c3Ryb25nPmxhc3RuYW1lPC9zdHJvbmc+IDoKICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDwvdGQ+CiAgICAgICAgICAgICAgICA8dGQgYWxpZ249ImNlbnRlciI+CiAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0idXNlci1mb3JtIiBpZD0ibGFzdE5hbWVfZmllbGRfdmFsdWUiPgogICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb250cm9scyBjb2wteHMtb2Zmc2V0LTMgY29sLXhzLTkiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iaW5wdXQtZ3JvdXAiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJpbnB1dC1ncm91cC1hZGRvbiI+PHNwYW4gY2xhc3M9ImdseXBoaWNvbiBnbHlwaGljb24tdXNlciI+PC9zcGFuPjwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0idGV4dCIgaWQ9Imxhc3ROYW1lIiBuYW1lPSJsYXN0TmFtZSIgdmFsdWU9IiIgcGxhY2Vob2xkZXI9Ikxhc3QgTmFtZSIgY2xhc3M9ImZvcm0tY29udHJvbCBpbnB1dC1sZyIgcmVxdWlyZWQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8L3RkPgogICAgICAgICAgICA8L3RyPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkZWYgbmV4dEludCgpOiBJbnQgewoKfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20gewoKICBjbGFzcyBUMSgpIHt9CiAgcGFja2FnZSBoIHsKCiAgfQoKfQoKaW1wb3J0IGNvbS5fCgpjbGFzcyBUVCh0MTogVDEpIHt9Cg==</text>
+        <text encoding="base64">ICBkZWYgbmV4dEludCgpOiBJbnQgewoKfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y2xhc3MgU3F1YXJlIGV4dGVuZHMgamF2YS5hd3QuUmVjdGFuZ2xlIHsKICB0aGlzKCkKCn0K</text>
+        <text encoding="base64">cGFja2FnZSBjb20gewoKICBjbGFzcyBUMSgpIHt9CiAgcGFja2FnZSBoIHsKCiAgfQoKfQoKaW1wb3J0IGNvbS5fCgpjbGFzcyBUVCh0MTogVDEpIHt9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YWJzdHJhY3QgY2xhc3MgU2hhcGUgewogIGRlZiBjZW50ZXJQb2ludCgpCn0K</text>
+        <text encoding="base64">Y2xhc3MgU3F1YXJlIGV4dGVuZHMgamF2YS5hd3QuUmVjdGFuZ2xlIHsKICB0aGlzKCkKCn0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2xhc3MgUG9pbnQodmFsKQo=</text>
+        <text encoding="base64">YWJzdHJhY3QgY2xhc3MgU2hhcGUgewogIGRlZiBjZW50ZXJQb2ludCgpCn0K</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">dnNwIA==</text>
+        <text>actionlist</text>
       </register>
     </registers>
     <search>
-      <last-search>form</last-search>
+      <last-search>obj</last-search>
       <last-offset />
-      <last-pattern>form</last-pattern>
+      <last-pattern>obj</last-pattern>
       <last-replace>=&quot;&quot;;</last-replace>
       <last-substitute>;</last-substitute>
-      <last-dir>-1</last-dir>
-      <show-last>false</show-last>
+      <last-dir>1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>rAt</entry>
-        <entry>fullma</entry>
         <entry>debug</entry>
         <entry>endwith</entry>
         <entry>\\\\s</entry>
@@ -527,28 +528,30 @@
         <entry>email</entry>
         <entry>add</entry>
         <entry>form</entry>
+        <entry>null</entry>
+        <entry>obj</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLzEvMi9n</entry>
-        <entry encoding="base64">JzwsJz5zLyMvPS9n</entry>
-        <entry>reg</entry>
-        <entry encoding="base64">JzwsJz5zL25hbWVGdWxsTWF0Y2gvYWxpYXNGdWxsTWF0Y2gvZw==</entry>
-        <entry>se list</entry>
-        <entry encoding="base64">JzwsJz5zL2ZpbmQvdXNlcnM=</entry>
-        <entry encoding="base64">JzwsJz5zL3gvZG9jMS5wcmlvcg==</entry>
-        <entry encoding="base64">JzwsJz5zL3kuZG9jMi5wcmlvcg==</entry>
-        <entry>nohl</entry>
-        <entry encoding="base64">JzwsJz5zLyovL2c=</entry>
-        <entry encoding="base64">JzwsJz5zLzsvPSIiOy9n</entry>
-        <entry>w</entry>
         <entry>?</entry>
         <entry>help</entry>
         <entry>on</entry>
-        <entry>only</entry>
         <entry>bw</entry>
-        <entry>q</entry>
         <entry>set</entry>
+        <entry>vsp n</entry>
         <entry encoding="base64">dnNwIA==</entry>
+        <entry>vsp</entry>
+        <entry>sp</entry>
+        <entry>only</entry>
+        <entry>w</entry>
+        <entry>q</entry>
+        <entry>nohl</entry>
+        <entry>actionList</entry>
+        <entry>actions</entry>
+        <entry>action $LUR</entry>
+        <entry>action About</entry>
+        <entry>action VcsShowNextChangeMarker</entry>
+        <entry>action VcsShowPrevChangeMarker</entry>
+        <entry>actionlist</entry>
       </history-cmd>
       <history-expr />
       <history-input />
