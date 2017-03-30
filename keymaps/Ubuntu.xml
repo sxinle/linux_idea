@@ -1,4 +1,7 @@
 <keymap version="1" name="Ubuntu" parent="Default for GNOME">
+  <action id="$Paste">
+    <keyboard-shortcut first-keystroke="shift insert" />
+  </action>
   <action id="$SelectAll">
     <keyboard-shortcut first-keystroke="ctrl a" />
     <keyboard-shortcut first-keystroke="alt a" />
