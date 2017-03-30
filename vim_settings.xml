@@ -105,6 +105,10 @@
         <mark key="." line="6" column="26" />
         <mark key="^" line="6" column="26" />
       </file>
+      <file name="$USER_HOME$/workspace/red/conf/application.conf" timestamp="1490843190659">
+        <mark key="[" line="50" column="34" />
+        <mark key="]" line="50" column="55" />
+      </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/TermsSetter.java" timestamp="1490767713209">
         <mark key="'" line="48" column="49" />
       </file>
@@ -239,7 +243,7 @@
         <mark key="^" line="201" column="74" />
         <mark key="." line="201" column="74" />
       </file>
-      <file name="/Dummy.txt" timestamp="1490834180138">
+      <file name="/Dummy.txt" timestamp="1490843551196">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="25" />
         <mark key="." line="3" column="25" />
@@ -289,10 +293,10 @@
       <file name="$USER_HOME$/workspace/stest/src/main/scala/Test.java" timestamp="1490772303956">
         <mark key="[" line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/red/build.sbt" timestamp="1490789995337">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/workspace/red/build.sbt" timestamp="1490843488683">
+        <mark key="[" line="8" column="28" />
+        <mark key="]" line="8" column="28" />
+        <mark key="." line="8" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/thirdpart/task_gasstation/src/main/java/com/mx/thirdpart/gasstation/GasTask.java" timestamp="1490270207600">
         <mark key="[" line="12" column="0" />
@@ -435,13 +439,13 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>userName</text>
+        <text encoding="base64">amRiYywg</text>
       </register>
       <register name="/" type="4">
         <text>del</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBiMS5hZGRJdGVtKGkxKQo=</text>
+      <register name="0" type="4">
+        <text>http://logback.qos.ch/</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
