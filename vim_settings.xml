@@ -57,7 +57,7 @@
         <mark key="." line="74" column="11" />
         <mark key="^" line="74" column="11" />
       </file>
-      <file name="/Dummy.scala" timestamp="1490755062073">
+      <file name="/Dummy.scala" timestamp="1490839879176">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/PosSorter.java" timestamp="1488160347994">
@@ -267,12 +267,12 @@
         <mark key="]" line="4" column="56" />
         <mark key="." line="4" column="56" />
       </file>
-      <file name="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" timestamp="1490837477383">
-        <mark key="'" line="1" column="37" />
-        <mark key="[" line="14" column="6" />
-        <mark key="]" line="15" column="1" />
-        <mark key="." line="15" column="1" />
-        <mark key="^" line="15" column="1" />
+      <file name="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" timestamp="1490841075630">
+        <mark key="'" line="0" column="18" />
+        <mark key="[" line="2" column="25" />
+        <mark key="]" line="3" column="3" />
+        <mark key="." line="3" column="3" />
+        <mark key="^" line="3" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/thirdpart/task_weather/src/main/java/com/mx/thirdpart/weather/WeatherTask.java" timestamp="1490257486585">
         <mark key="[" line="11" column="24" />
@@ -328,8 +328,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="6" filename="$USER_HOME$/workspace/stest/src/Test.scala" />
-      <jump line="6" column="7" filename="$USER_HOME$/workspace/stest/src/Test.scala" />
       <jump line="197" column="6" filename="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.1-sources.jar!/scala/Array.scala" />
       <jump line="22" column="0" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
       <jump line="24" column="32" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/CacheManager.java" />
@@ -409,12 +407,8 @@
       <jump line="73" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/dispatch/MxDispatcher.java" />
       <jump line="8" column="2" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
       <jump line="2" column="0" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
-      <jump line="9" column="23" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
-      <jump line="17" column="0" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
-      <jump line="11" column="6" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
       <jump line="27" column="28" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
       <jump line="25" column="6" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
-      <jump line="29" column="6" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
       <jump line="39" column="0" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
       <jump line="34" column="0" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
       <jump line="45" column="0" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
@@ -422,49 +416,55 @@
       <jump line="36" column="0" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
       <jump line="7" column="0" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
       <jump line="4" column="18" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
-      <jump line="14" column="21" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
       <jump line="17" column="50" filename="$USER_HOME$/workspace/red/app/views/user.scala.html" />
       <jump line="128" column="0" filename="$USER_HOME$/workspace/red/app/views/user.scala.html" />
       <jump line="25" column="92" filename="$USER_HOME$/workspace/red/app/controllers/UserController.scala" />
       <jump line="12" column="0" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
       <jump line="1" column="37" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
+      <jump line="14" column="0" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
+      <jump line="17" column="0" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
+      <jump line="28" column="4" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
+      <jump line="15" column="4" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
+      <jump line="29" column="10" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
+      <jump line="9" column="0" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
+      <jump line="11" column="18" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvcmRlcmluZ1w+</text>
       </register>
-      <register name="0" type="4">
-        <text>sbt-plugin</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBiMS5hZGRJdGVtKGkxKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">b2JqZWN0IENvcm5lciBleHRlbmRzIEVudW1lcmF0aW9uIHdpdGggQXBwIHsKICB2YWwgUkVEID0gVmFsdWUoMHhGRjAwMDAsICJSRUQiKQogIHZhbCBZRUxMT1cgPSBWYWx1ZSgweEZGRkYwMCwgIllFTExPVyIpCiAgdmFsIEJMVUUgPSBWYWx1ZSgweEZGRkZGRiwgIkJMVUUiKQp9Cg==</text>
+        <text encoding="base64">ICBkZWYgbmV4dEludCgpOiBJbnQgewoKfQo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ZWxzZSBpZiAocGFyYW0gaW5zdGFuY2VvZiBEZWVwaW5mb1BhcmFtKXsKICAgICAgICAgICAgcmV0dXJuIGRlZXBpbmZvU2VhcmNoZXI7CiAgICAgICAgfSA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">cGFja2FnZSBjb20gewoKICBjbGFzcyBUMSgpIHt9CiAgcGFja2FnZSBoIHsKCiAgfQoKfQoKaW1wb3J0IGNvbS5fCgpjbGFzcyBUVCh0MTogVDEpIHt9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xhc3MgU3F1YXJlIGV4dGVuZHMgamF2YS5hd3QuUmVjdGFuZ2xlIHsKICB0aGlzKCkKCn0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YWRkU2J0UGx1Z2luKCJjb20udHlwZXNhZmUucGxheSIgJSAic2J0LXBsdWdpbiIgJSAiMi41LngiKQo=</text>
+        <text encoding="base64">YWJzdHJhY3QgY2xhc3MgU2hhcGUgewogIGRlZiBjZW50ZXJQb2ludCgpCn0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAiY29tLnR5cGVzYWZlLnBsYXkiICUlICJwbGF5LXNsaWNrLWV2b2x1dGlvbnMiICUgIjIuMC4wIgo=</text>
+        <text encoding="base64">Y2xhc3MgUG9pbnQodmFsKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAiY29tLnR5cGVzYWZlLnBsYXkiICUlICJwbGF5LXNsaWNrIiAlICIyLjAuMCIsCg==</text>
+        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbGxlY3Rpb24ubXV0YWJsZS5BcnJheUJ1ZmZlcgoKYWJzdHJhY3QgY2xhc3MgSXRlbSh2YXIgcDogRG91YmxlID0gMCkgewogIHByb3RlY3RlZCB2YXIgbXlQcmljZTogRG91YmxlID0gcAoKICBkZWYgcHJpY2UoKTogRG91YmxlCgogIGRlZiBkZXNjcmlwdGlvbigpCn0KCmNsYXNzIFNpbXBsZUl0ZW0ocDogRG91YmxlKSBleHRlbmRzIEl0ZW0ocCkgewogIG92ZXJyaWRlIGRlZiBwcmljZSgpOiBEb3VibGUgPSBteVByaWNlCgogIG92ZXJyaWRlIGRlZiBkZXNjcmlwdGlvbigpID0gewogICAgcHJpbnQodGhpcy5oYXNoQ29kZSgpKQogIH0KfQoKY2xhc3MgQnVuZGxlKHA6IERvdWJsZSA9IDApIGV4dGVuZHMgSXRlbShwKSB7CiAgcHJpdmF0ZSB2YXIgaXRlbXMgPSBuZXcgQXJyYXlCdWZmZXJbSXRlbV0oKQoKICBkZWYgYWRkSXRlbShpdGVtOiBJdGVtKSA9IHsKICAgIGl0ZW1zICs9IGl0ZW0KICB9CgogIG92ZXJyaWRlIGRlZiBwcmljZSgpOiBEb3VibGUgPSB7CiAgICB2YXIgcDogRG91YmxlID0gMAogICAgaXRlbXMuZm9yZWFjaChpdGVtID0+IHsKICAgICAgcCArPSBpdGVtLnByaWNlKCkKICAgIH0pCiAgICBwCiAgfQoKICBvdmVycmlkZSBkZWYgZGVzY3JpcHRpb24oKTogVW5pdCA9IHsKICAgIHByaW50bG4oaXRlbXMubGVuZ3RoKQogICAgcHJpbnRsbigidG90YWw6ICIgKyBwcmljZSgpKQogICAgaXRlbXMuZm9yZWFjaChpID0+IHsKICAgICAgcHJpbnRsbihpLmRlc2NyaXB0aW9uKCkgKyAiX18iICsgaS5wcmljZSgpKQogICAgfSkKICB9Cn0KCm9iamVjdCBtYWluIGV4dGVuZHMgQXBwIHsKICB2YWwgaTEgPSBuZXcgU2ltcGxlSXRlbSgxMDApCiAgdmFsIGkyID0gbmV3IFNpbXBsZUl0ZW0oMjAwKQoKICB2YWwgYjEgPSBuZXcgQnVuZGxlKCkKICBiMS5hZGRJdGVtKGkxKQogIGIxLmFkZEl0ZW0oaTIpCgogIHByaW50KGkxLmhhc2hDb2RlKCkpCi8vICBiMS5kZXNjcmlwdGlvbigpCn0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">b2JqZWN0IENhcmRzIGV4dGVuZHMgRW51bWVyYXRpb24gd2l0aCBBcHAgewoKICB2YWwgTSA9IFZhbHVlKCLimaMiKQogIHZhbCBUID0gVmFsdWUoIuKZoCIpCiAgdmFsIEggPSBWYWx1ZSgi4pmlIikKICB2YWwgRiA9IFZhbHVlKCLimaYiKQoKICBwcmludGxuKE0udG9TdHJpbmcgKyBUICsgSCArIEYpCgogIGRlZiBjb2xvcklzUmVkKGM6IENhcmRzLlZhbHVlKTogQm9vbGVhbiA9IHsKICAgIGlmIChjID09IE0gfHwgYyA9PSBIKSByZXR1cm4gdHJ1ZQogICAgZmFsc2UKICB9CgogIHByaW50bG4oY29sb3JJc1JlZChIKSkKfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBra2sK</text>
+        <text encoding="base64">ICBiMS5hZGRpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
