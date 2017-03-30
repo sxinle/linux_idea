@@ -83,11 +83,11 @@
         <mark key="[" line="13" column="0" />
         <mark key="]" line="18" column="70" />
       </file>
-      <file name="$USER_HOME$/workspace/stest/src/main/scala/test" timestamp="1490871958937">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/workspace/stest/src/main/scala/test" timestamp="1490872666869">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="0" column="8" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zest/pom.xml" timestamp="1490863956417">
         <mark key="[" line="62" column="0" />
@@ -195,16 +195,21 @@
         <mark key="]" line="4" column="56" />
         <mark key="." line="4" column="56" />
       </file>
-      <file name="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" timestamp="1490872156914">
-        <mark key="[" line="4" column="52" />
-        <mark key="]" line="4" column="54" />
-        <mark key="." line="4" column="54" />
-        <mark key="^" line="4" column="54" />
+      <file name="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" timestamp="1490872661680">
+        <mark key="[" line="9" column="41" />
+        <mark key="]" line="9" column="46" />
+        <mark key="^" line="9" column="46" />
+        <mark key="." line="9" column="46" />
       </file>
       <file name="$USER_HOME$/workspace/thirdpart/task_weather/src/main/java/com/mx/thirdpart/weather/WeatherTask.java" timestamp="1490257486585">
         <mark key="[" line="11" column="24" />
         <mark key="]" line="11" column="24" />
         <mark key="." line="11" column="24" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpmime/4.5.3/httpmime-4.5.3-sources.jar!/org/apache/http/entity/mime/MultipartEntityBuilder.java" timestamp="1490873681274">
+        <mark key="'" line="242" column="0" />
+        <mark key="[" line="177" column="0" />
+        <mark key="]" line="177" column="106" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" timestamp="1490769376488">
         <mark key="'" line="389" column="0" />
@@ -214,12 +219,12 @@
         <mark key="]" line="8" column="28" />
         <mark key="." line="8" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/zest/src/main/java/com/HttpUtil.java" timestamp="1490865472422">
+      <file name="$USER_HOME$/workspace/zest/src/main/java/com/HttpUtil.java" timestamp="1490873256760">
         <mark key="'" line="132" column="45" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="25" column="20" />
-        <mark key="^" line="167" column="45" />
-        <mark key="." line="160" column="0" />
+        <mark key="[" line="161" column="0" />
+        <mark key="]" line="161" column="87" />
+        <mark key="." line="161" column="85" />
+        <mark key="^" line="161" column="85" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos_terms/PosSorter.java" timestamp="1490856627578">
         <mark key="'" line="25" column="0" />
@@ -243,8 +248,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="28" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
-      <jump line="25" column="6" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
       <jump line="39" column="0" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
       <jump line="34" column="0" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
       <jump line="45" column="0" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
@@ -343,46 +346,48 @@
       <jump line="6" column="45" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
       <jump line="3" column="21" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
       <jump line="2" column="0" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
+      <jump line="172" column="0" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpmime/4.5.3/httpmime-4.5.3-sources.jar!/org/apache/http/entity/mime/MultipartEntityBuilder.java" />
+      <jump line="242" column="0" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpmime/4.5.3/httpmime-4.5.3-sources.jar!/org/apache/http/entity/mime/MultipartEntityBuilder.java" />
     </jumps>
     <registers>
       <register name="*" type="4">
         <text>userServic</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>a.jpg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvcmlnaW5hbF90ZXJtc1w+</text>
       </register>
-      <register name="0" type="4">
-        <text>numPattern</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gYWRkQmluYXJ5Qm9keShuYW1lLCBmaWxlLCBDb250ZW50VHlwZS5ERUZBVUxUX0JJTkFSWSwgZmlsZSAhPSBudWxsID8gZmlsZS5nZXROYW1lKCkgOiBudWxsKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB2YWwgc3RyID0gImhlbGxvLDEyMyBubywzNDUiCgogIHZhbCBudW1QYXR0ZXJuID0gIihbYS16XSspLChbMC05XSspIi5yCgogIGZvciAobnVtUGF0dGVybihjLCBuKSA8LSBudW1QYXR0ZXJuLmZpbmRBbGxJbihzdHIpKSB7CiAgICBwcmludGxuKCJjaGFyIGlzOiAiICsgYyArICJfX19udW0gaXM6IiArIG4pCiAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuYWRkYmkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gIHZhbCBudW1QYXR0ZXJuKGMsIG4pID0gIihbYS16XSspLChbMC05XSspIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuYWRkYmkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgcmVnLmZpbmRBbGxJbihzdHIpLnRvQXJyYXkuZm9yZWFjaCgoc3RyLCBudW0pID0+IHsKICAgIHByaW50bG4oImNoYXIgaXM6ICIgKyBzdHIgKyAiX19fbnVtIGlzOiIgKyBudW0pCiAgfSkK</text>
+        <text encoding="base64">YSAgICBhICAgIGFiICAgIGIgICAgYmMgICAgYyAgICBjZCAgICBkICAgIGRlICAgIGUgICAgZQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICByZWcuZmluZEFsbEluKHN0cikudG9BcnJheS5mb3JlYWNoKChzdHIsIG51bSkgPT4gewogICAgcHJpbnRsbigiY2hhciBpczogIiArIHN0ciArICJfX19udW0gaXM6IiArIG51bSkKICB9KQo=</text>
+        <text encoding="base64">ICAKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB2YWwgcmVnID0gCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="4">
+        <text encoding="base64">LmZvcmVhY2gobGluZSA9PiB7CiAgICBsaW5lLnJlcGxhY2VBbGwoIlx0IiwgIiAgICAiKQogIH0pIHlpZWxk</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB2YWwgYSA9IHJlZy5maW5kQWxsSW4oc3RyKS50b0FycmF5LmZvcmVhY2goXyA9PiBwcmludGxuKF8pKQo=</text>
+        <text encoding="base64">ICBwcmludGxuKHNyYy5nZXRMaW5lcygpLnRvQXJyYXkucmV2ZXJzZS5tYXAoc3RyID0+IHN0ciArICLllYoiKS5ta1N0cmluZygiXG4iKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB2YWwgc3RyID0gImFiY2gsMTIzLCBlbGwsMTIz5Y2h5q2755qE6aOO5pmvIgo=</text>
+        <text encoding="base64">ICB2YWwgc3RyID0gImhlbGxvLDEyMyBubywzNDUiCgogIHZhbCBudW1QYXR0ZXJuID0gIihbYS16XSspLChbMC05XSspIi5yCgogIGZvciAobnVtUGF0dGVybihjLCBuKSA8LSBudW1QYXR0ZXJuLmZpbmRBbGxJbihzdHIpKSB7CiAgICBwcmludGxuKCJjaGFyIGlzOiAiICsgYyArICJfX19udW0gaXM6IiArIG4pCiAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
