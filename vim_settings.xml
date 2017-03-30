@@ -238,7 +238,8 @@
         <mark key="^" line="106" column="79" />
         <mark key="." line="107" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/KeywordSearcher.java" timestamp="1490855507430">
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/KeywordSearcher.java" timestamp="1490855753493">
+        <mark key="'" line="707" column="0" />
         <mark key="." line="70" column="48" />
       </file>
       <file name="$USER_HOME$/workspace/scalaTest/src/HelloWorld.scala" timestamp="1489560630431">
@@ -355,8 +356,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="38" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/UserInputPreProcess.java" />
-      <jump line="23" column="25" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/UserInputPreProcess.java" />
       <jump line="30" column="20" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/UserInputPreProcess.java" />
       <jump line="44" column="16" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/UserInputPreProcess.java" />
       <jump line="46" column="28" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/UserInputPreProcess.java" />
@@ -455,6 +454,8 @@
       <jump line="38" column="15" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/dispatch/MxDispatcher.java" />
       <jump line="65" column="15" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/dispatch/MxDispatcher.java" />
       <jump line="25" column="9" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/dispatch/MxDispatcher.java" />
+      <jump line="66" column="53" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/KeywordSearcher.java" />
+      <jump line="707" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/KeywordSearcher.java" />
     </jumps>
     <registers>
       <register name="*" type="4">
@@ -497,7 +498,7 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action CollapseBlock</text>
       </register>
     </registers>
     <search>
@@ -551,8 +552,8 @@
         <entry>source ~/.ideavimrc</entry>
         <entry>action EmmetNextEditPoint</entry>
         <entry>action AceAction</entry>
-        <entry>action CollapseBlock</entry>
         <entry>w</entry>
+        <entry>action CollapseBlock</entry>
       </history-cmd>
       <history-expr />
       <history-input />
