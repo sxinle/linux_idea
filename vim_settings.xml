@@ -238,9 +238,12 @@
         <mark key="^" line="106" column="79" />
         <mark key="." line="107" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/KeywordSearcher.java" timestamp="1490855753493">
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/KeywordSearcher.java" timestamp="1490856107844">
         <mark key="'" line="707" column="0" />
-        <mark key="." line="70" column="48" />
+        <mark key="[" line="52" column="2" />
+        <mark key="]" line="52" column="7" />
+        <mark key="." line="52" column="7" />
+        <mark key="^" line="52" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/scalaTest/src/HelloWorld.scala" timestamp="1489560630431">
         <mark key="[" line="2" column="14" />
@@ -498,7 +501,7 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action CollapseBlock</text>
+        <text>source ~/.vimrc</text>
       </register>
     </registers>
     <search>
@@ -508,7 +511,7 @@
       <last-replace>=&quot;&quot;;</last-replace>
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -534,7 +537,6 @@
         <entry>obj</entry>
       </history-search>
       <history-cmd>
-        <entry>action $SearchWeb abc</entry>
         <entry>action $SearchWeb</entry>
         <entry>action ActivateThemePreviewToolWindow</entry>
         <entry>action Add.Email.Transport</entry>
@@ -554,6 +556,9 @@
         <entry>action AceAction</entry>
         <entry>w</entry>
         <entry>action CollapseBlock</entry>
+        <entry>source ~/.vimrc</entry>
+        <entry>NERDTreeFocus</entry>
+        <entry>lp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -639,6 +644,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>alt pressed EQUALS</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>alt pressed 1</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>alt pressed COMMA</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
