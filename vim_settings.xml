@@ -9,8 +9,8 @@
       <file name="$USER_HOME$/.share/mx_third_party/pom.xml" timestamp="1490859984748">
         <mark key="'" line="145" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" timestamp="1490925226843">
-        <mark key="'" line="45" column="0" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" timestamp="1490945004555">
+        <mark key="'" line="241" column="63" />
         <mark key="[" line="28" column="6" />
         <mark key="]" line="28" column="6" />
         <mark key="." line="28" column="6" />
@@ -262,8 +262,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="115" column="15" filename="$USER_HOME$/workspace/red/app/views/user.scala.html" />
-      <jump line="12" column="12" filename="$USER_HOME$/workspace/red/app/views/user.scala.html" />
       <jump line="85" column="0" filename="$USER_HOME$/workspace/red/app/views/user.scala.html" />
       <jump line="15" column="15" filename="$USER_HOME$/workspace/red/app/views/user.scala.html" />
       <jump line="26" column="34" filename="$USER_HOME$/workspace/red/app/views/user.scala.html" />
@@ -362,6 +360,8 @@
       <jump line="92" column="6" filename="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/concurrent/Future.scala" />
       <jump line="26" column="2" filename="$USER_HOME$/workspace/red/app/controllers/UserController.scala" />
       <jump line="31" column="2" filename="$USER_HOME$/workspace/red/app/controllers/UserController.scala" />
+      <jump line="50" column="35" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" />
+      <jump line="241" column="63" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" />
     </jumps>
     <registers>
       <register name="*" type="4">
