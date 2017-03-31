@@ -26,7 +26,7 @@
       <file name="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/javax/rmi/CORBA/Stub.java" timestamp="1490852466034">
         <mark key="'" line="64" column="11" />
       </file>
-      <file name="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/concurrent/Future.scala" timestamp="1490929315151">
+      <file name="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/concurrent/Future.scala" timestamp="1490940543678">
         <mark key="'" line="92" column="6" />
       </file>
       <file name="$USER_HOME$/.share/PEUSystem_DR/src/main/resources/application.properties" timestamp="1487062588696">
@@ -57,12 +57,12 @@
       <file name="$USER_HOME$/.share/super/mx_sync_task/pom.xml" timestamp="1490750645008">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/red/app/controllers/UserController.scala" timestamp="1490932044934">
-        <mark key="'" line="26" column="2" />
-        <mark key="[" line="18" column="49" />
-        <mark key="]" line="18" column="49" />
-        <mark key="." line="18" column="49" />
-        <mark key="^" line="19" column="9" />
+      <file name="$USER_HOME$/workspace/red/app/controllers/UserController.scala" timestamp="1490940462539">
+        <mark key="'" line="35" column="2" />
+        <mark key="[" line="21" column="16" />
+        <mark key="]" line="21" column="16" />
+        <mark key="." line="21" column="16" />
+        <mark key="^" line="21" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/zest/src/main/java/moud/a.html" timestamp="1490603538671">
         <mark key="[" line="0" column="0" />
@@ -262,7 +262,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="118" column="16" filename="$USER_HOME$/workspace/red/app/views/user.scala.html" />
       <jump line="115" column="15" filename="$USER_HOME$/workspace/red/app/views/user.scala.html" />
       <jump line="12" column="12" filename="$USER_HOME$/workspace/red/app/views/user.scala.html" />
       <jump line="85" column="0" filename="$USER_HOME$/workspace/red/app/views/user.scala.html" />
@@ -362,46 +361,47 @@
       <jump line="27" column="45" filename="$USER_HOME$/workspace/red/app/controllers/UserController.scala" />
       <jump line="92" column="6" filename="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/concurrent/Future.scala" />
       <jump line="26" column="2" filename="$USER_HOME$/workspace/red/app/controllers/UserController.scala" />
+      <jump line="31" column="2" filename="$USER_HOME$/workspace/red/app/controllers/UserController.scala" />
     </jumps>
     <registers>
       <register name="*" type="4">
         <text>userServic</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>toJson</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvcmlnaW5hbF90ZXJtc1w+</text>
       </register>
-      <register name="0" type="4">
-        <text>2378182095424117018</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIE9rKEpzb24udG9Kc29uKHVzZXJTZXJ2aWNlLmxpc3RBbGxVc2Vycy5tYXAoKSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgXy5hcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ICAgIHVzZXJTZXJ2aWNlLmxpc3RBbGxVc2Vycy5tYXAodXNlcnMgPT4gewogICAgICBPayhKc29uLnRvSnNvbih1c2VycykpCiAgICB9KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIE9rKEpzb24udG9Kc29uKHVzZXJTZXJ2aWNlLmxpc3RBbGxVc2Vycy5tYXAoKSkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEpzb24ub2JqKCJ1c2VycyIsIHVzZXJTZXJ2aWNlLmxpc3RBbGxVc2Vycy52YWx1ZSkK</text>
+        <text encoding="base64">ICAgICAgXy5hcwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG51bGwK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEpzbwo=</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFJlc3VsdC4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
