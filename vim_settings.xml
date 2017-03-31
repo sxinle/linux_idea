@@ -70,12 +70,11 @@
       <file name="$USER_HOME$/.share/super/mx_sync_task/pom.xml" timestamp="1490750645008">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/red/app/controllers/UserController.scala" timestamp="1490948071218">
-        <mark key="'" line="35" column="2" />
-        <mark key="[" line="22" column="36" />
-        <mark key="]" line="23" column="5" />
-        <mark key="." line="23" column="5" />
-        <mark key="^" line="23" column="5" />
+      <file name="$USER_HOME$/workspace/red/app/controllers/UserController.scala" timestamp="1490952379420">
+        <mark key="'" line="15" column="6" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zest/src/main/java/moud/a.html" timestamp="1490603538671">
         <mark key="[" line="0" column="0" />
@@ -277,7 +276,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="37" filename="$USER_HOME$/workspace/red/app/views/user.scala.html" />
       <jump line="49" column="37" filename="$USER_HOME$/workspace/red/app/views/user.scala.html" />
       <jump line="53" column="109" filename="$USER_HOME$/workspace/red/app/views/user.scala.html" />
       <jump line="61" column="20" filename="$USER_HOME$/workspace/red/app/views/user.scala.html" />
@@ -377,6 +375,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/search/search_web/src/main/resources/logback.xml" />
       <jump line="50" column="59" filename="$USER_HOME$/workspace/search/search_web/src/main/resources/logback.xml" />
       <jump line="62" column="0" filename="$USER_HOME$/workspace/search/search_web/src/main/resources/logback.xml" />
+      <jump line="15" column="6" filename="$USER_HOME$/workspace/red/app/controllers/UserController.scala" />
     </jumps>
     <registers>
       <register name="*" type="4">
@@ -398,25 +397,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHVzZXJTZXJ2aWNlLmxpc3RBbGxVc2Vycy5tYXAodXNlcnMgPT4gewogICAgICBPayhKc29uLnRvSnNvbih1c2VycykpCiAgICB9KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIE9rKEpzb24udG9Kc29uKHVzZXJTZXJ2aWNlLmxpc3RBbGxVc2Vycy5tYXAoKSkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHVzZXJTZXJ2aWNlLmxpc3RBbGxVc2Vycy5tYXAodXNlcnMgPT4gewogICAgICBPayhKc29uLnRvSnNvbih1c2VycykpCiAgICB9KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgXy5hcwo=</text>
+        <text encoding="base64">ICAgIE9rKEpzb24udG9Kc29uKHVzZXJTZXJ2aWNlLmxpc3RBbGxVc2Vycy5tYXAoKSkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ICAgICAgXy5hcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
