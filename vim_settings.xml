@@ -302,7 +302,7 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/BaseController.java" timestamp="1491033619985">
+      <file name="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/BaseController.java" timestamp="1491036193960">
         <mark key="'" line="39" column="0" />
       </file>
     </filemarks>
@@ -452,7 +452,7 @@
         <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIG1vY2tEYXRhRm9yRGVidWcoKSB7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action EditorTranslateAction</text>
       </register>
     </registers>
     <search>
@@ -488,10 +488,6 @@
         <entry encoding="base64">XDzluILkurrmsJHmlL/lupxcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>action AnalyzeMenu</entry>
-        <entry>action BuildMenu</entry>
-        <entry>action CallHierarchy</entry>
-        <entry>action CloseEditorsGroup</entry>
         <entry>action CommanderPopupMenu</entry>
         <entry>action EditorContextInfo</entry>
         <entry>action EditorGutterPopupMenu</entry>
@@ -502,12 +498,16 @@
         <entry>source ~/.vimrc</entry>
         <entry>NERDTreeFocus</entry>
         <entry>lp</entry>
-        <entry>source ~/.ideavimrc</entry>
         <entry>action CollapseBlock</entry>
-        <entry>action AceAction</entry>
         <entry>se list</entry>
         <entry>action $Redo</entry>
         <entry>w</entry>
+        <entry>action AceAction</entry>
+        <entry>action</entry>
+        <entry>actionlist</entry>
+        <entry>action TranslateTextComponent</entry>
+        <entry>source ~/.ideavimrc</entry>
+        <entry>action EditorTranslateAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
