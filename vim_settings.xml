@@ -41,6 +41,7 @@
       <file name="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/javax/rmi/CORBA/Stub.java" timestamp="1490852466034">
         <mark key="'" line="64" column="11" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/mx/server/gis/mx_place_api_new/1.0.17-RELEASE/mx_place_api_new-1.0.17-RELEASE.jar!/com/mx/placeapi/service/PoiService.class" timestamp="1491029837355" />
       <file name="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/concurrent/Future.scala" timestamp="1490940543678">
         <mark key="'" line="92" column="6" />
       </file>
@@ -176,10 +177,6 @@
         <mark key="." line="186" column="14" />
         <mark key="^" line="186" column="14" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.2.5.RELEASE/spring-webmvc-4.2.5.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/RequestResponseBodyMethodProcessor.java" timestamp="1490950711118">
-        <mark key="[" line="57" column="13" />
-        <mark key="]" line="57" column="46" />
-      </file>
       <file name="$USER_HOME$/.share/super/mx_sync_web/src/main/resources/child-spring-gas.xml" timestamp="1490861554616">
         <mark key="'" line="60" column="47" />
         <mark key="[" line="69" column="0" />
@@ -198,6 +195,9 @@
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/NiceCntSetter.java" timestamp="1490874509938">
         <mark key="'" line="47" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/resources/conf/Config.properties" timestamp="1491029452893">
+        <mark key="'" line="16" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/red/app/controllers/JsonWritters.scala" timestamp="1490062121490">
         <mark key="[" line="2" column="0" />
@@ -220,17 +220,17 @@
         <mark key="." line="24" column="58" />
         <mark key="^" line="24" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491027588058">
+      <file name="/Dummy.txt" timestamp="1491029755007">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="25" />
         <mark key="." line="3" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/UserInputPreProcess.java" timestamp="1491028760994">
-        <mark key="'" line="355" column="35" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/UserInputPreProcess.java" timestamp="1491029477245">
+        <mark key="'" line="362" column="35" />
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="67" />
-        <mark key="." line="73" column="45" />
-        <mark key="^" line="73" column="46" />
+        <mark key="." line="80" column="45" />
+        <mark key="^" line="80" column="46" />
       </file>
       <file name="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.1-sources.jar!/scala/collection/immutable/TreeMap.scala" timestamp="1490761992123">
         <mark key="'" line="46" column="70" />
@@ -301,7 +301,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="145" column="0" filename="$USER_HOME$/.share/mx_third_party/pom.xml" />
       <jump line="146" column="39" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" />
       <jump line="24" column="4" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" />
       <jump line="27" column="13" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" />
@@ -401,6 +400,7 @@
       <jump line="14" column="13" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsTSearcher.java" />
       <jump line="68" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/UserInputPreProcess.java" />
       <jump line="355" column="35" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/UserInputPreProcess.java" />
+      <jump line="16" column="15" filename="$USER_HOME$/workspace/search/search_core/src/main/resources/conf/Config.properties" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
