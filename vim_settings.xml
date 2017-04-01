@@ -22,7 +22,8 @@
         <mark key="^" line="50" column="119" />
         <mark key="." line="50" column="119" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" timestamp="1491011679922">
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" timestamp="1491014272602">
+        <mark key="'" line="61" column="28" />
         <mark key="[" line="40" column="58" />
         <mark key="]" line="41" column="15" />
         <mark key="." line="41" column="15" />
@@ -213,7 +214,7 @@
       <file name="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.1-sources.jar!/scala/collection/immutable/TreeMap.scala" timestamp="1490761992123">
         <mark key="'" line="46" column="70" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/TermsSetter.java" timestamp="1491010496194">
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/TermsSetter.java" timestamp="1491014641475">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
@@ -282,8 +283,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="22" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/RevAndMatchSetter.java" />
-      <jump line="250" column="12" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" />
       <jump line="21" column="15" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/RevAndMatchSetter.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/RevAndMatchSetter.java" />
@@ -382,6 +381,8 @@
       <jump line="131" column="36" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" />
       <jump line="220" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" />
       <jump line="21" column="25" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" />
+      <jump line="62" column="28" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" />
+      <jump line="61" column="28" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" />
     </jumps>
     <registers>
       <register name="*" type="4">
@@ -391,7 +392,7 @@
         <text>imu</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvcmlnaW5hbF90ZXJtc1w+</text>
+        <text encoding="base64">XDxvcmdfdGVybXNcPg==</text>
       </register>
       <register name="0" type="4">
         <text>immutableSemanticRet.getSegWords()[0]</text>
@@ -428,9 +429,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvcmlnaW5hbF90ZXJtc1w+</last-search>
+      <last-search encoding="base64">XDxvcmdfdGVybXNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvcmlnaW5hbF90ZXJtc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxvcmdfdGVybXNcPg==</last-pattern>
       <last-replace>=&quot;&quot;;</last-replace>
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -438,7 +439,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1c2VySW5wdXRcPg==</entry>
         <entry encoding="base64">XDx0ZXJtc0NoYXJMZW5cPg==</entry>
         <entry>prefixR</entry>
         <entry>put</entry>
@@ -451,13 +451,14 @@
         <entry>form</entry>
         <entry>null</entry>
         <entry>obj</entry>
-        <entry encoding="base64">XDxvcmdfdGVybXNcPg==</entry>
         <entry encoding="base64">XDxyV2FzRHJvcFw+</entry>
         <entry encoding="base64">XDxyV2FzUmVtb3ZlZFw+</entry>
         <entry>drop</entry>
         <entry>preHan</entry>
         <entry encoding="base64">XDxmaXJzdF9yX3Rlcm1cPg==</entry>
         <entry encoding="base64">XDxvcmlnaW5hbF90ZXJtc1w+</entry>
+        <entry encoding="base64">XDxwcm9jZXNzZWRfdGVybXNcPg==</entry>
+        <entry encoding="base64">XDxvcmdfdGVybXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>action AnalyzeMenu</entry>
