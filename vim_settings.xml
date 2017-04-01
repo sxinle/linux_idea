@@ -22,8 +22,8 @@
         <mark key="^" line="50" column="119" />
         <mark key="." line="50" column="119" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" timestamp="1491028568969">
-        <mark key="'" line="169" column="42" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" timestamp="1491031748926">
+        <mark key="'" line="164" column="55" />
         <mark key="[" line="191" column="0" />
         <mark key="]" line="191" column="0" />
         <mark key="." line="191" column="0" />
@@ -226,13 +226,13 @@
         <mark key="^" line="40" column="81" />
         <mark key="." line="40" column="81" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491030551165">
+      <file name="/Dummy.txt" timestamp="1491031623163">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="25" />
         <mark key="." line="3" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/UserInputPreProcess.java" timestamp="1491031363325">
-        <mark key="'" line="362" column="35" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/UserInputPreProcess.java" timestamp="1491031985171">
+        <mark key="'" line="74" column="49" />
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="67" />
         <mark key="." line="80" column="45" />
@@ -281,12 +281,12 @@
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos_terms/PosSorter.java" timestamp="1490856627578">
         <mark key="'" line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/common-conf/search.properties" timestamp="1491031372986">
+      <file name="$USER_HOME$/workspace/search/common-conf/search.properties" timestamp="1491031851492">
         <mark key="'" line="97" column="40" />
-        <mark key="[" line="94" column="18" />
-        <mark key="]" line="94" column="22" />
-        <mark key="^" line="94" column="22" />
-        <mark key="." line="94" column="22" />
+        <mark key="[" line="92" column="23" />
+        <mark key="]" line="92" column="23" />
+        <mark key="^" line="92" column="23" />
+        <mark key="." line="92" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/thirdpart/task_weather/pom.xml" timestamp="1490257185932">
         <mark key="[" line="16" column="0" />
@@ -307,8 +307,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="146" column="39" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" />
-      <jump line="24" column="4" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" />
       <jump line="27" column="13" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" />
       <jump line="145" column="51" filename="$USER_HOME$/workspace/zest/src/main/java/com/HttpUtil.java" />
       <jump line="157" column="7" filename="$USER_HOME$/workspace/zest/src/main/java/com/HttpUtil.java" />
@@ -407,6 +405,8 @@
       <jump line="68" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/UserInputPreProcess.java" />
       <jump line="355" column="35" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/UserInputPreProcess.java" />
       <jump line="16" column="15" filename="$USER_HOME$/workspace/search/search_core/src/main/resources/conf/Config.properties" />
+      <jump line="74" column="49" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/UserInputPreProcess.java" />
+      <jump line="164" column="55" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -416,13 +416,13 @@
         <text>term</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDzluILkurrmsJHmlL/lupxcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGRpc3RDb2RlID0gUG9pU2VydmljZS5nZXREaXN0cmljdENvZGVCeVBvaW50KHB0KTsK</text>
+        <text encoding="base64">Y29kZS5zZWFyY2gubGltaXQgPSAyMDAwCg==</text>
       </register>
       <register name="1" type="4">
         <text>term</text>
