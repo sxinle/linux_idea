@@ -112,6 +112,9 @@
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsBaseSearcher.java" timestamp="1490946192399">
         <mark key="'" line="678" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/search_core/UtilityTest.java" timestamp="1491380846700">
+        <mark key="'" line="47" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/uauth/src/main/java/com/mx/server/buss/admin/service/impl/TMCRoadService.java" timestamp="1489718591079">
         <mark key="[" line="50" column="0" />
         <mark key="]" line="50" column="0" />
@@ -119,6 +122,13 @@
       </file>
       <file name="$USER_HOME$/workspace/red/test/ApplicationSpec.scala" timestamp="1490928877644">
         <mark key="'" line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/search_core/PosSorterTest.java" timestamp="1491381475527">
+        <mark key="'" line="28" column="0" />
+        <mark key="[" line="20" column="21" />
+        <mark key="]" line="20" column="22" />
+        <mark key="^" line="19" column="68" />
+        <mark key="." line="20" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/red/app/models/DbFactory.scala" timestamp="1490010277743">
         <mark key="[" line="7" column="16" />
@@ -318,9 +328,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/SpecialHandler.java" />
-      <jump line="12" column="3" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
-      <jump line="17" column="15" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
       <jump line="5" column="14" filename="$USER_HOME$/workspace/stest/src/main/scala/test" />
       <jump line="2" column="22" filename="$USER_HOME$/workspace/stest/src/main/scala/test" />
       <jump line="5" column="0" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
@@ -418,6 +425,9 @@
       <jump line="32" column="48" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/RevAndMatchSetter.java" />
       <jump line="27" column="44" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/RevAndMatchSetter.java" />
       <jump line="145" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/RevAndMatchSetter.java" />
+      <jump line="29" column="60" filename="$USER_HOME$/workspace/search/search_core/src/test/java/search_core/UtilityTest.java" />
+      <jump line="47" column="0" filename="$USER_HOME$/workspace/search/search_core/src/test/java/search_core/UtilityTest.java" />
+      <jump line="15" column="0" filename="$USER_HOME$/workspace/search/search_core/src/test/java/search_core/PosSorterTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -427,40 +437,40 @@
         <text>term</text>
       </register>
       <register name="-" type="4">
-        <text>IndexInfoArr.TERM_KEY_NAME</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDzluILkurrmsJHmlL/lupxcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIG5hbWUgICAgICAgICA9ICIiOyAvLyDlkI3np7AxCiAgICBwcml2YXRlIFN0cmluZyBmaXJzdExldHRlciAgPSAiIjsgLy8g5ZCN56ewMemmluaLvAogICAgcHJpdmF0ZSBTdHJpbmcgYWxsTGV0dGVyICAgID0gIiI7IC8vIOWQjeensDHlhajmi7wKICAgIHByaXZhdGUgU3RyaW5nIG5hbWUyICAgICAgICA9ICIiOyAvLyDlkI3np7AyCiAgICBwcml2YXRlIFN0cmluZyBmaXJzdExldHRlcjIgPSAiIjsgLy8g5ZCN56ewMummluaLvAogICAgcHJpdmF0ZSBTdHJpbmcgYWxsTGV0dGVyMiAgID0gIiI7IC8vIOWQjeensDLlhajmi7wKICAgIHByaXZhdGUgU3RyaW5nIGFkZHJlc3MgICAgICA9ICIiOyAvLyDlnLDlnYAKICAgIHByaXZhdGUgU3RyaW5nIGludHJvZHVjdGlvbiA9ICIiOyAvLyDnroDku4sKICAgIHByaXZhdGUgU3RyaW5nIHRhZyAgICAgICAgICA9ICIiOyAvLyDmoIfnrb4K</text>
+        <text encoding="base64">ICAgICAgICBUZXN0Q2FzZSBjYXNlMSA9IG5ldyBUZXN0Q2FzZSgiMTEzNzg1NTM2MCIsICIzODQwOTYzMjAiLCAi5bed5biI5aSnIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5nZXRUZXJtQ2hhckxlbigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKHJhdGVPYmplY3QudXNlZFNlbWFudGljUmV0LmdldEZpcnN0UkVudGl0eSgpLmdldFRlcm1DaGFyTGVuKCk7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBUZXN0Q2FzZShTdHJpbmcgbG9uLCBTdHJpbmcgbGF0LCBTdHJpbmcga2V5d29yZCkgewogICAgICAgIHRoaXMuCgogICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBUZXN0Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>term</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5nZXRUZXJtQ2hhckxlbigpOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGRvYzEuckF0TmFtZUhlYWQgJiYgIWRvYzIuckF0TmFtZUhlYWQpIHJldHVybiAtMTsKICAgICAgICAgICAgaWYgKCFkb2MxLnJBdE5hbWVIZWFkICYmIGRvYzIuckF0TmFtZUhlYWQpIHJldHVybiAxOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKHJhdGVPYmplY3QudXNlZFNlbWFudGljUmV0LmdldEZpcnN0UkVudGl0eSgpLmdldFRlcm1DaGFyTGVuKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIG1vY2tEYXRhRm9yRGVidWcoKSB7CiAgICB9Cg==</text>
+      <register name="9" type="4">
+        <text>term</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
