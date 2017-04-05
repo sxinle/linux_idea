@@ -123,11 +123,12 @@
       <file name="$USER_HOME$/workspace/red/test/ApplicationSpec.scala" timestamp="1490928877644">
         <mark key="'" line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/search_core/PosSorterTest.java" timestamp="1491384035962">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="24" column="80" />
-        <mark key="^" line="24" column="80" />
-        <mark key="." line="24" column="80" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/search_core/PosSorterTest.java" timestamp="1491386594933">
+        <mark key="'" line="28" column="15" />
+        <mark key="[" line="11" column="74" />
+        <mark key="]" line="11" column="74" />
+        <mark key="." line="11" column="74" />
+        <mark key="^" line="11" column="74" />
       </file>
       <file name="$USER_HOME$/workspace/red/app/models/DbFactory.scala" timestamp="1490010277743">
         <mark key="[" line="7" column="16" />
@@ -327,8 +328,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="14" filename="$USER_HOME$/workspace/stest/src/main/scala/test" />
-      <jump line="2" column="22" filename="$USER_HOME$/workspace/stest/src/main/scala/test" />
       <jump line="5" column="0" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
       <jump line="3" column="0" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
       <jump line="4" column="8" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
@@ -427,6 +426,8 @@
       <jump line="29" column="60" filename="$USER_HOME$/workspace/search/search_core/src/test/java/search_core/UtilityTest.java" />
       <jump line="47" column="0" filename="$USER_HOME$/workspace/search/search_core/src/test/java/search_core/UtilityTest.java" />
       <jump line="15" column="0" filename="$USER_HOME$/workspace/search/search_core/src/test/java/search_core/PosSorterTest.java" />
+      <jump line="31" column="14" filename="$USER_HOME$/workspace/search/search_core/src/test/java/search_core/PosSorterTest.java" />
+      <jump line="21" column="15" filename="$USER_HOME$/workspace/search/search_core/src/test/java/search_core/PosSorterTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -436,57 +437,56 @@
         <text>term</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>ase</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDzluILkurrmsJHmlL/lupxcPg==</text>
+        <text>&quot;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBUZXN0Q2FzZSBjYXNlMSA9IG5ldyBUZXN0Q2FzZSgiMTEzNzg1NTM2MCIsICIzODQwOTYzMjAiLCAi5bed5biI5aSnIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBUZXN0Q2FzZSBjYXNlMSA9IG5ldyBUZXN0Q2FzZSgiMTEzNzg1NTM2MCIsICIzODQwOTYzMjAiLCAi5bed5biI5aSnIiwgbmV3IGludFtdezB9LCBuZXcgU3RyaW5nW117IiJ9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBUZXN0Q2FzZShTdHJpbmcgbG9uLCBTdHJpbmcgbGF0LCBTdHJpbmcga2V5d29yZCkgewogICAgICAgIHRoaXMubG9uID0gbG9uOwogICAgICAgIHRoaXMubGF0ID0gbGF0OwogICAgICAgIHRoaXMua2V5d29yZCA9IGtleXdvcmQ7CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBIdHRwU2VuZGVyLmluc3RhbmNlKCkucG9zdChVUkxfS0VZV09SRCwgKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBuZXcgSHR0cAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBUZXN0Q2FzZShTdHJpbmcgbG9uLCBTdHJpbmcgbGF0LCBTdHJpbmcga2V5d29yZCkgewogICAgICAgIHRoaXMuCgogICAgfQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBUZXN0Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5nZXRUZXJtQ2hhckxlbigpOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBuZXcgU3RyaW5nCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nQnVmZmVyIHNiID0gCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKHJhdGVPYmplY3QudXNlZFNlbWFudGljUmV0LmdldEZpcnN0UkVudGl0eSgpLmdldFRlcm1DaGFyTGVuKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBUZXN0Q2FzZSBjYXNlMiA9IG5ldyBUZXN0Q2FzZSgiMTEzNzg1NTM2MCIsICIzODQwOTYzMjAiLCAi5bed5biI5aSnIiwgIiIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBUZXN0Q2FzZShTdHJpbmcgbG9uLCBTdHJpbmcgbGF0LCBTdHJpbmcga2V5d29yZCwgU3RyaW5nIGV4cGVjdFdvcmRzKSB7CiAgICAgICAgdGhpcy5sb24gPSBsb247CiAgICAgICAgdGhpcy5sYXQgPSBsYXQ7CiAgICAgICAgdGhpcy5rZXl3b3JkID0ga2V5d29yZDsKICAgICAgICB0aGlzLmV4cGVjdFdvcmRzID0gZXhwZWN0V29yZHM7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDzluILkurrmsJHmlL/lupxcPg==</last-search>
+      <last-search>&quot;</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDzluILkurrmsJHmlL/lupxcPg==</last-pattern>
-      <last-replace>=&quot;&quot;;</last-replace>
-      <last-substitute>;</last-substitute>
+      <last-pattern>&quot;</last-pattern>
+      <last-replace>\\&quot;</last-replace>
+      <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>del</entry>
         <entry>mobile</entry>
         <entry>email</entry>
         <entry>add</entry>
@@ -506,10 +506,9 @@
         <entry encoding="base64">XDxjb25maWdMaW1pdFw+</entry>
         <entry encoding="base64">XDxyQXROYW1lSGVhZFw+</entry>
         <entry encoding="base64">XDzluILkurrmsJHmlL/lupxcPg==</entry>
+        <entry>&quot;</entry>
       </history-search>
       <history-cmd>
-        <entry>action CommanderPopupMenu</entry>
-        <entry>action EditorContextInfo</entry>
         <entry>action EditorGutterPopupMenu</entry>
         <entry>action EditorIncreaseFontSize</entry>
         <entry>action EditorPopupMenu1</entry>
@@ -527,6 +526,8 @@
         <entry>action TranslateTextComponent</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>action EditorTranslateAction</entry>
+        <entry encoding="base64">JzwsJz5zLyIvXCIvZw==</entry>
+        <entry encoding="base64">JzwsJz5zLyIvXFwiL2c=</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
