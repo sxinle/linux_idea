@@ -123,12 +123,12 @@
       <file name="$USER_HOME$/workspace/red/test/ApplicationSpec.scala" timestamp="1490928877644">
         <mark key="'" line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/search_core/PosSorterTest.java" timestamp="1491386594933">
-        <mark key="'" line="28" column="15" />
-        <mark key="[" line="11" column="74" />
-        <mark key="]" line="11" column="74" />
-        <mark key="." line="11" column="74" />
-        <mark key="^" line="11" column="74" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/search_core/PosSorterTest.java" timestamp="1491388640842">
+        <mark key="'" line="38" column="15" />
+        <mark key="[" line="13" column="8" />
+        <mark key="]" line="13" column="116" />
+        <mark key="." line="13" column="8" />
+        <mark key="^" line="13" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/red/app/models/DbFactory.scala" timestamp="1490010277743">
         <mark key="[" line="7" column="16" />
@@ -161,6 +161,9 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.1.1/mybatis-3.1.1-sources.jar!/org/apache/ibatis/io/Resources.java" timestamp="1490696563819">
         <mark key="'" line="103" column="35" />
+      </file>
+      <file name="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/util/logging/LogManager.java" timestamp="1491388592544">
+        <mark key="'" line="144" column="13" />
       </file>
       <file name="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.1-sources.jar!/scala/Predef.scala" timestamp="1490764775208">
         <mark key="'" line="145" column="7" />
@@ -328,7 +331,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
       <jump line="3" column="0" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
       <jump line="4" column="8" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
       <jump line="11" column="12" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
@@ -428,6 +430,7 @@
       <jump line="15" column="0" filename="$USER_HOME$/workspace/search/search_core/src/test/java/search_core/PosSorterTest.java" />
       <jump line="31" column="14" filename="$USER_HOME$/workspace/search/search_core/src/test/java/search_core/PosSorterTest.java" />
       <jump line="21" column="15" filename="$USER_HOME$/workspace/search/search_core/src/test/java/search_core/PosSorterTest.java" />
+      <jump line="144" column="13" filename="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/util/logging/LogManager.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -437,7 +440,7 @@
         <text>term</text>
       </register>
       <register name="-" type="4">
-        <text>ase</text>
+        <text>.setLevel(Level.ERROR);</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
@@ -446,31 +449,31 @@
         <text encoding="base64">ICAgICAgICBUZXN0Q2FzZSBjYXNlMSA9IG5ldyBUZXN0Q2FzZSgiMTEzNzg1NTM2MCIsICIzODQwOTYzMjAiLCAi5bed5biI5aSnIiwgbmV3IGludFtdezB9LCBuZXcgU3RyaW5nW117IiJ9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBMb2dNYW5hZ2VyLmdldFJvb3RMb2dnZXIoKS4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBIdHRwU2VuZGVyLmluc3RhbmNlKCkucG9zdChVUkxfS0VZV09SRCwgKQo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5sb2dnaW5nLkxvZ01hbmFnZXI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgSHR0cAo=</text>
+        <text encoding="base64">ICAgICAgICBMb2dNYW5hZ2VyLmdldExvZ01hbmFnZXIoKS5hZGRMb2dnZXIoKQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgU3RyaW5nCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZ01hbmFnZXIuZ2V0TG9nTWFuYWdlcigpLmFkZExvZ2dlcigpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBUZXN0Q2FzZSBjYXNlMiA9IG5ldyBUZXN0Q2FzZSgiMTEzNzg1NTM2MCIsICIzODQwOTYzMjAiLCAi5bed5biI5aSnIiwgbmV3IGludFtdezB9LCBuZXcgU3RyaW5nW117IiJ9KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nQnVmZmVyIHNiID0gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBUZXN0Q2FzZSBjYXNlMiA9IG5ldyBUZXN0Q2FzZSgiMTEzNzg1NTM2MCIsICIzODQwOTYzMjAiLCAi5bed5biI5aSnIiwgIiIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBUZXN0Q2FzZShTdHJpbmcgbG9uLCBTdHJpbmcgbGF0LCBTdHJpbmcga2V5d29yZCwgU3RyaW5nIGV4cGVjdFdvcmRzKSB7CiAgICAgICAgdGhpcy5sb24gPSBsb247CiAgICAgICAgdGhpcy5sYXQgPSBsYXQ7CiAgICAgICAgdGhpcy5rZXl3b3JkID0ga2V5d29yZDsKICAgICAgICB0aGlzLmV4cGVjdFdvcmRzID0gZXhwZWN0V29yZHM7CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
