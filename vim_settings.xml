@@ -123,12 +123,11 @@
       <file name="$USER_HOME$/workspace/red/test/ApplicationSpec.scala" timestamp="1490928877644">
         <mark key="'" line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/search_core/PosSorterTest.java" timestamp="1491381475527">
-        <mark key="'" line="28" column="0" />
-        <mark key="[" line="20" column="21" />
-        <mark key="]" line="20" column="22" />
-        <mark key="^" line="19" column="68" />
-        <mark key="." line="20" column="22" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/search_core/PosSorterTest.java" timestamp="1491384035962">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="24" column="80" />
+        <mark key="^" line="24" column="80" />
+        <mark key="." line="24" column="80" />
       </file>
       <file name="$USER_HOME$/workspace/red/app/models/DbFactory.scala" timestamp="1490010277743">
         <mark key="[" line="7" column="16" />
@@ -446,31 +445,31 @@
         <text encoding="base64">ICAgICAgICBUZXN0Q2FzZSBjYXNlMSA9IG5ldyBUZXN0Q2FzZSgiMTEzNzg1NTM2MCIsICIzODQwOTYzMjAiLCAi5bed5biI5aSnIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBUZXN0Q2FzZShTdHJpbmcgbG9uLCBTdHJpbmcgbGF0LCBTdHJpbmcga2V5d29yZCkgewogICAgICAgIHRoaXMubG9uID0gbG9uOwogICAgICAgIHRoaXMubGF0ID0gbGF0OwogICAgICAgIHRoaXMua2V5d29yZCA9IGtleXdvcmQ7CiAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBUZXN0Q2FzZShTdHJpbmcgbG9uLCBTdHJpbmcgbGF0LCBTdHJpbmcga2V5d29yZCkgewogICAgICAgIHRoaXMuCgogICAgfQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBUZXN0Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5nZXRUZXJtQ2hhckxlbigpOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBUZXN0Q2FzZShTdHJpbmcgbG9uLCBTdHJpbmcgbGF0LCBTdHJpbmcga2V5d29yZCkgewogICAgICAgIHRoaXMuCgogICAgfQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBUZXN0Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5nZXRUZXJtQ2hhckxlbigpOwo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKHJhdGVPYmplY3QudXNlZFNlbWFudGljUmV0LmdldEZpcnN0UkVudGl0eSgpLmdldFRlcm1DaGFyTGVuKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKHJhdGVPYmplY3QudXNlZFNlbWFudGljUmV0LmdldEZpcnN0UkVudGl0eSgpLmdldFRlcm1DaGFyTGVuKCk7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>term</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
