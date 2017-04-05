@@ -22,8 +22,8 @@
         <mark key="^" line="50" column="119" />
         <mark key="." line="50" column="119" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" timestamp="1491038670113">
-        <mark key="'" line="164" column="55" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" timestamp="1491372569745">
+        <mark key="'" line="139" column="30" />
         <mark key="[" line="191" column="0" />
         <mark key="]" line="191" column="0" />
         <mark key="." line="191" column="0" />
@@ -293,12 +293,12 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1491027510294">
+      <file name="/fragment.java" timestamp="1491372185004">
         <mark key="'" line="0" column="90" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="26" />
-        <mark key="^" line="0" column="4" />
-        <mark key="." line="0" column="26" />
+        <mark key="]" line="0" column="20" />
+        <mark key="^" line="0" column="20" />
+        <mark key="." line="0" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/thirdpart/taskmng_web/src/main/webapp/WEB-INF/web.xml" timestamp="1490256436220">
         <mark key="[" line="17" column="0" />
@@ -310,8 +310,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="14" filename="$USER_HOME$/workspace/zest/src/main/java/com/HttpUtil.java" />
-      <jump line="185" column="0" filename="$USER_HOME$/workspace/zest/src/main/java/com/HttpUtil.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/zest/src/main/java/com/HttpUtil.java" />
       <jump line="132" column="45" filename="$USER_HOME$/workspace/zest/src/main/java/com/HttpUtil.java" />
       <jump line="2" column="0" filename="$USER_HOME$/workspace/stest/src/main/scala/Test.scala" />
@@ -410,6 +408,8 @@
       <jump line="187" column="0" filename="/SemanticsXSearcher.java" />
       <jump line="82" column="8" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/RevAndMatchSetter.java" />
       <jump line="145" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/RevAndMatchSetter.java" />
+      <jump line="150" column="20" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" />
+      <jump line="139" column="30" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
