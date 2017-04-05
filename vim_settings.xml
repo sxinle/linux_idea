@@ -126,12 +126,12 @@
         <mark key="." line="3" column="8" />
         <mark key="^" line="3" column="8" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/RevAndMatchSetter.java" timestamp="1491362381894">
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/RevAndMatchSetter.java" timestamp="1491373475952">
         <mark key="'" line="145" column="0" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
-        <mark key="^" line="57" column="51" />
+        <mark key="[" line="20" column="33" />
+        <mark key="]" line="20" column="72" />
+        <mark key="." line="20" column="72" />
+        <mark key="^" line="20" column="72" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" timestamp="1491010567414">
         <mark key="'" line="23" column="28" />
@@ -241,10 +241,11 @@
       <file name="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.1-sources.jar!/scala/collection/immutable/TreeMap.scala" timestamp="1490761992123">
         <mark key="'" line="46" column="70" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/TermsSetter.java" timestamp="1491014641475">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/TermsSetter.java" timestamp="1491373581445">
+        <mark key="[" line="85" column="92" />
+        <mark key="]" line="85" column="115" />
+        <mark key="." line="85" column="115" />
+        <mark key="^" line="85" column="115" />
       </file>
       <file name="$USER_HOME$/workspace/red/project/plugins.sbt" timestamp="1490790128062">
         <mark key="[" line="4" column="55" />
@@ -419,13 +420,13 @@
         <text>term</text>
       </register>
       <register name="-" type="4">
-        <text>if(rateObject.usedSemanticRet.getFirstREntity()</text>
+        <text>IndexInfoArr.TERM_KEY_NAME</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDzluILkurrmsJHmlL/lupxcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>rateObject.usedSemanticRet.getFirstREntity()</text>
+        <text>rateObject.searchType</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5nZXRUZXJtQ2hhckxlbigpOwo=</text>
