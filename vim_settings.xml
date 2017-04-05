@@ -118,8 +118,8 @@
       <file name="$USER_HOME$/workspace/red/test/ApplicationSpec.scala" timestamp="1490928877644">
         <mark key="'" line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/search_core/PosSorterTest.java" timestamp="1491394286870">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/search_core/PosSorterTest.java" timestamp="1491394382117">
+        <mark key="'" line="117" column="0" />
         <mark key="[" line="25" column="90" />
         <mark key="]" line="25" column="96" />
         <mark key="." line="25" column="96" />
@@ -321,7 +321,7 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1491393923858">
+      <file name="/fragment.java" timestamp="1491394670577">
         <mark key="'" line="0" column="90" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
@@ -340,8 +340,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" />
-      <jump line="45" column="50" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" />
       <jump line="101" column="32" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" />
       <jump line="78" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" />
       <jump line="250" column="27" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" />
@@ -440,6 +438,8 @@
       <jump line="35" column="0" filename="$USER_HOME$/workspace/search/search_core/src/test/java/search_core/PosSorterTest.java" />
       <jump line="115" column="0" filename="$USER_HOME$/workspace/search/search_core/src/test/java/search_core/PosSorterTest.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/search/search_core/src/test/java/search_core/PosSorterTest.java" />
+      <jump line="82" column="110" filename="$USER_HOME$/workspace/search/search_core/src/test/java/search_core/PosSorterTest.java" />
+      <jump line="117" column="0" filename="$USER_HOME$/workspace/search/search_core/src/test/java/search_core/PosSorterTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
