@@ -107,6 +107,9 @@
       <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/doc/InfoDetail.java" timestamp="1491375779752">
         <mark key="'" line="10" column="13" />
       </file>
+      <file name="$USER_HOME$/workspace/mx_tsp_stub_service/src/main/java/com/mx/server/tsp/stub/controller/StubController.java" timestamp="1491455625969">
+        <mark key="'" line="68" column="36" />
+      </file>
       <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/doc/InfoExtra.java" timestamp="1491375845209">
         <mark key="'" line="153" column="25" />
         <mark key="[" line="7" column="0" />
@@ -330,6 +333,10 @@
         <mark key="^" line="92" column="23" />
         <mark key="." line="92" column="23" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/mockito/mockito-all/1.10.19/mockito-all-1.10.19.jar!/org/mockito/Mockito.class" timestamp="1491455422659">
+        <mark key="'" line="86" column="24" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/mockito/mockito-all/1.10.19/mockito-all-1.10.19.jar!/org/mockito/stubbing/OngoingStubbing.class" timestamp="1491455404612" />
       <file name="$USER_HOME$/workspace/thirdpart/task_weather/pom.xml" timestamp="1490257185932">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -354,9 +361,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="131" column="36" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" />
-      <jump line="220" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" />
-      <jump line="21" column="25" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" />
       <jump line="62" column="28" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" />
       <jump line="61" column="28" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" />
       <jump line="94" column="58" filename="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/GenericController.java" />
@@ -454,6 +458,9 @@
       <jump line="130" column="0" filename="$USER_HOME$/workspace/search/search_core/src/test/java/search_core/PosSorterTest.java" />
       <jump line="177" column="50" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" />
       <jump line="221" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" />
+      <jump line="78" column="41" filename="$MAVEN_REPOSITORY$/org/mockito/mockito-all/1.10.19/mockito-all-1.10.19.jar!/org/mockito/Mockito.class" />
+      <jump line="86" column="24" filename="$MAVEN_REPOSITORY$/org/mockito/mockito-all/1.10.19/mockito-all-1.10.19.jar!/org/mockito/Mockito.class" />
+      <jump line="68" column="36" filename="$USER_HOME$/workspace/mx_tsp_stub_service/src/main/java/com/mx/server/tsp/stub/controller/StubController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
