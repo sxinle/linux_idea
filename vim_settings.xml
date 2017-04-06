@@ -44,6 +44,7 @@
         <mark key="[" line="25" column="8" />
         <mark key="]" line="25" column="24" />
       </file>
+      <file name="$USER_HOME$/workspace/search/search_web/src/test/resources/new_search_keyword.xml" timestamp="1491457278370" />
       <file name="$USER_HOME$/.share/PEUSystem_DR/src/main/resources/application.properties" timestamp="1487062588696">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="1" />
@@ -86,6 +87,11 @@
         <mark key="]" line="55" column="16" />
         <mark key="." line="55" column="18" />
       </file>
+      <file name="$USER_HOME$/workspace/mx_tsp_stub_service/src/test/java/com/mx/server/tsp/stub/controller/StubControllerTest.java" timestamp="1491457558597">
+        <mark key="[" line="59" column="8" />
+        <mark key="]" line="59" column="8" />
+        <mark key="." line="59" column="8" />
+      </file>
       <file name="$USER_HOME$/workspace/red/app/models/User.scala" timestamp="1489644428556">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -107,8 +113,11 @@
       <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/doc/InfoDetail.java" timestamp="1491375779752">
         <mark key="'" line="10" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/mx_tsp_stub_service/src/main/java/com/mx/server/tsp/stub/controller/StubController.java" timestamp="1491455625969">
-        <mark key="'" line="68" column="36" />
+      <file name="$USER_HOME$/workspace/mx_tsp_stub_service/src/main/java/com/mx/server/tsp/stub/controller/StubController.java" timestamp="1491457458098">
+        <mark key="'" line="48" column="39" />
+      </file>
+      <file name="$USER_HOME$/workspace/mx_tsp_stub_service/src/test/java/com/mx/server/tsp/stub/dao/StubPermissionTypeDao.java" timestamp="1491457760371">
+        <mark key="'" line="20" column="14" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/doc/InfoExtra.java" timestamp="1491375845209">
         <mark key="'" line="153" column="25" />
@@ -158,6 +167,11 @@
       <file name="$USER_HOME$/workspace/search/search_web/src/test/java/com/mx/server/search/Common.java" timestamp="1491393734852">
         <mark key="'" line="102" column="23" />
       </file>
+      <file name="$USER_HOME$/workspace/search/search_web/src/test/java/com/mx/server/search/CGITest.java" timestamp="1491457227687">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/PosSorter.java" timestamp="1491010567414">
         <mark key="'" line="23" column="28" />
         <mark key="[" line="207" column="13" />
@@ -179,6 +193,9 @@
       </file>
       <file name="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.1-sources.jar!/scala/Predef.scala" timestamp="1490764775208">
         <mark key="'" line="145" column="7" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/Assert.java" timestamp="1491457570610">
+        <mark key="'" line="629" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SegmentRet.java" timestamp="1489028789598">
         <mark key="[" line="10" column="0" />
@@ -305,6 +322,9 @@
         <mark key="]" line="8" column="28" />
         <mark key="." line="8" column="28" />
       </file>
+      <file name="$USER_HOME$/workspace/mx_tsp_stub_service/pom.xml" timestamp="1491457600425">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/zest/src/main/java/com/HttpUtil.java" timestamp="1490873256760">
         <mark key="'" line="132" column="45" />
         <mark key="[" line="161" column="0" />
@@ -361,11 +381,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="28" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" />
-      <jump line="61" column="28" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" />
-      <jump line="94" column="58" filename="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/GenericController.java" />
-      <jump line="102" column="58" filename="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/GenericController.java" />
-      <jump line="49" column="56" filename="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/GenericController.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/GenericController.java" />
       <jump line="38" column="16" filename="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/GenericController.java" />
       <jump line="97" column="40" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
@@ -461,6 +476,11 @@
       <jump line="78" column="41" filename="$MAVEN_REPOSITORY$/org/mockito/mockito-all/1.10.19/mockito-all-1.10.19.jar!/org/mockito/Mockito.class" />
       <jump line="86" column="24" filename="$MAVEN_REPOSITORY$/org/mockito/mockito-all/1.10.19/mockito-all-1.10.19.jar!/org/mockito/Mockito.class" />
       <jump line="68" column="36" filename="$USER_HOME$/workspace/mx_tsp_stub_service/src/main/java/com/mx/server/tsp/stub/controller/StubController.java" />
+      <jump line="48" column="39" filename="$USER_HOME$/workspace/mx_tsp_stub_service/src/main/java/com/mx/server/tsp/stub/controller/StubController.java" />
+      <jump line="629" column="23" filename="$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/Assert.java" />
+      <jump line="93" column="20" filename="$USER_HOME$/workspace/mx_tsp_stub_service/pom.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/mx_tsp_stub_service/pom.xml" />
+      <jump line="20" column="14" filename="$USER_HOME$/workspace/mx_tsp_stub_service/src/test/java/com/mx/server/tsp/stub/dao/StubPermissionTypeDao.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -470,7 +490,7 @@
         <text>term</text>
       </register>
       <register name="-" type="4">
-        <text>迎宾三路</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvcmlnaW5hbEtleXNcPg==</text>
@@ -479,7 +499,7 @@
         <text>盛京医院</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -494,16 +514,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIGNhc2VzLmFkZChjYXNlMSk7CiAgICAgICAgICAgIGNhc2VzLmFkZChjYXNlMik7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">CiAgICAgICAgICAgIGNhc2VzLmFkZChjYXNlMSk7CiAgICAgICAgICAgIGNhc2VzLmFkZChjYXNlMik7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGVzdENhc2UgY2FzZTEgPSBuZXcgVGVzdENhc2UoIjExMzc4NTUzNjAiLCAiMzg0MDk2MzIwIiwgIuW3neW4iOWkpyIsIG5ldyBpbnRbXXswfSwgbmV3IFN0cmluZ1tdeyLlm5vlt53luIjojIPlpKflraYifSk7CiAgICAgICAgICAgIFRlc3RDYXNlIGNhc2UyID0gbmV3IFRlc3RDYXNlKCIxMDcyODY1OTIwIiwgIjM2Nzk3OTIwMCIsICLlpKfov54g5pif5rW35bm/5Zy6IiwgbmV3IGludFtdezB9LCBuZXcgU3RyaW5nW117IuaYn+a1t+W5v+WcuiJ9KTsKICAgICAgICAgICAgVGVzdENhc2UgY2FzZTMgPSBuZXcgVGVzdENhc2UoIjEwNzI4NjU5MjAiLCAiMzY3OTc5MjAwIiwgIuaAgOaflOWMlyIsIG5ldyBpbnRbXXswfSwgbmV3IFN0cmluZ1tdeyLmgIDmn5TljJfnq5kifSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFkZCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgVGVzdENhc2UgY2FzZTEgPSBuZXcgVGVzdENhc2UoIjExMzc4NTUzNjAiLCAiMzg0MDk2MzIwIiwgIuW3neW4iOWkpyIsIG5ldyBpbnRbXXswfSwgbmV3IFN0cmluZ1tdeyLlm5vlt53luIjojIPlpKflraYifSk7CiAgICAgICAgICAgIFRlc3RDYXNlIGNhc2UyID0gbmV3IFRlc3RDYXNlKCIxMDcyODY1OTIwIiwgIjM2Nzk3OTIwMCIsICLlpKfov54g5pif5rW35bm/5Zy6IiwgbmV3IGludFtdezB9LCBuZXcgU3RyaW5nW117IuaYn+a1t+W5v+WcuiJ9KTsKICAgICAgICAgICAgVGVzdENhc2UgY2FzZTMgPSBuZXcgVGVzdENhc2UoIjEwNzI4NjU5MjAiLCAiMzY3OTc5MjAwIiwgIuaAgOaflOWMlyIsIG5ldyBpbnRbXXswfSwgbmV3IFN0cmluZ1tdeyLmgIDmn5TljJfnq5kifSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
