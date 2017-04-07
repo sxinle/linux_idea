@@ -257,7 +257,7 @@
       <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/transfer/req/BaseParam.java" timestamp="1491470092254">
         <mark key="'" line="73" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" timestamp="1491546530071">
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" timestamp="1491547277279">
         <mark key="'" line="146" column="30" />
         <mark key="[" line="164" column="63" />
         <mark key="]" line="164" column="63" />
@@ -328,8 +328,8 @@
       <file name="$USER_HOME$/workspace/red/test/ApplicationSpec.scala" timestamp="1490928877644">
         <mark key="'" line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/search_core/PosSorterTest.java" timestamp="1491545746772">
-        <mark key="'" line="33" column="35" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/search_core/PosSorterTest.java" timestamp="1491547370497">
+        <mark key="'" line="25" column="16" />
         <mark key="[" line="97" column="99" />
         <mark key="]" line="97" column="103" />
         <mark key="." line="97" column="99" />
@@ -382,7 +382,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491471971686">
+      <file name="/Dummy.txt" timestamp="1491547376016">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="25" />
         <mark key="." line="3" column="25" />
@@ -421,7 +421,7 @@
       <file name="$USER_HOME$/workspace/search/search_web/src/main/java/com/mx/server/search/web/UnitTestProxy.java" timestamp="1491463319987">
         <mark key="'" line="58" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1491546068107">
+      <file name="/fragment.java" timestamp="1491547649376">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/thirdpart/taskmng_web/src/main/webapp/WEB-INF/web.xml" timestamp="1490256436220">
@@ -431,7 +431,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="258" column="27" filename="$USER_HOME$/workspace/search/pom.xml" />
       <jump line="34" column="20" filename="$USER_HOME$/workspace/search/search_api/pom.xml" />
       <jump line="13" column="45" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/ServerConfig.java" />
       <jump line="245" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/ServerConfig.java" />
@@ -531,6 +530,7 @@
       <jump line="87" column="92" filename="$USER_HOME$/workspace/search/search_core/src/test/java/search_core/PosSorterTest.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/search/search_core/src/test/java/search_core/PosSorterTest.java" />
       <jump line="33" column="35" filename="$USER_HOME$/workspace/search/search_core/src/test/java/search_core/PosSorterTest.java" />
+      <jump line="25" column="16" filename="$USER_HOME$/workspace/search/search_core/src/test/java/search_core/PosSorterTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -540,7 +540,7 @@
         <text>term</text>
       </register>
       <register name="-" type="4">
-        <text>盛京医院</text>
+        <text>钲烁公寓</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaG91cGluU2VhcmNoXD4=</text>
