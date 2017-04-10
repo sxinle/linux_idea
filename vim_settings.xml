@@ -70,8 +70,8 @@
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/TermsSetter.java" timestamp="1490856845790">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/doc/DocAttr.java" timestamp="1491554167730">
-        <mark key="'" line="185" column="35" />
+      <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/doc/DocAttr.java" timestamp="1491803114181">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_web/src/test/java/com/mx/server/search/OldCGITest.java" timestamp="1491463151924">
         <mark key="'" line="80" column="0" />
@@ -79,8 +79,8 @@
       <file name="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/util/TreeMap.java" timestamp="1490759040501">
         <mark key="'" line="149" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/index/IndexInfoArr.java" timestamp="1491792714646">
-        <mark key="'" line="20" column="32" />
+      <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/index/IndexInfoArr.java" timestamp="1491802798852">
+        <mark key="'" line="86" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/doc/InfoDetail.java" timestamp="1491375779752">
         <mark key="'" line="10" column="13" />
@@ -211,8 +211,8 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsAAASearcher.java" timestamp="1491544673762">
-        <mark key="'" line="431" column="12" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsAAASearcher.java" timestamp="1491803490158">
+        <mark key="'" line="256" column="102" />
         <mark key="[" line="411" column="34" />
         <mark key="]" line="411" column="80" />
         <mark key="^" line="409" column="60" />
@@ -371,16 +371,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="245" column="0" filename="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/common/util/StringFilter.java" />
-      <jump line="7" column="13" filename="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/common/util/Trans2PinYin.java" />
-      <jump line="224" column="0" filename="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/common/util/Trans2PinYin.java" />
-      <jump line="15" column="13" filename="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/common/util/TypeCode.java" />
-      <jump line="79" column="0" filename="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/common/util/TypeCode.java" />
-      <jump line="15" column="13" filename="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/common/util/Util.java" />
-      <jump line="117" column="0" filename="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/common/util/Util.java" />
-      <jump line="22" column="9" filename="$USER_HOME$/workspace/search/search_old/src/main/resources/baidu.properties" />
-      <jump line="24" column="40" filename="$USER_HOME$/workspace/search/pom.xml" />
-      <jump line="23" column="31" filename="$USER_HOME$/workspace/search/pom.xml" />
       <jump line="27" column="34" filename="$USER_HOME$/workspace/search/pom.xml" />
       <jump line="27" column="20" filename="$USER_HOME$/workspace/search/search_web/pom.xml" />
       <jump line="68" column="30" filename="$USER_HOME$/workspace/search/search_web/pom.xml" />
@@ -447,7 +437,6 @@
       <jump line="2" column="7" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/CacheManager.java" />
       <jump line="48" column="0" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/CacheManager.java" />
       <jump line="15" column="17" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/index/IndexInfoArr.java" />
-      <jump line="86" column="0" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/index/IndexInfoArr.java" />
       <jump line="22" column="36" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/models/IdWithTerms.java" />
       <jump line="8" column="0" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/models/IdWithTerms.java" />
       <jump line="36" column="0" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/models/Poi.java" />
@@ -471,6 +460,17 @@
       <jump line="1" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/BaseSearcher.java" />
       <jump line="213" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/BaseSearcher.java" />
       <jump line="20" column="32" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/index/IndexInfoArr.java" />
+      <jump line="86" column="0" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/index/IndexInfoArr.java" />
+      <jump line="17" column="13" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/doc/DocAttr.java" />
+      <jump line="110" column="23" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/doc/DocAttr.java" />
+      <jump line="113" column="25" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/doc/DocAttr.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/doc/DocAttr.java" />
+      <jump line="257" column="38" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsAAASearcher.java" />
+      <jump line="282" column="46" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsAAASearcher.java" />
+      <jump line="186" column="14" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsAAASearcher.java" />
+      <jump line="191" column="90" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsAAASearcher.java" />
+      <jump line="197" column="37" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsAAASearcher.java" />
+      <jump line="256" column="102" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsAAASearcher.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -483,7 +483,7 @@
         <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>indexInfo</text>
+        <text encoding="base64">XDxpbmRleEluZm9NYXBcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBUZXN0KGV4cGVjdGVkID0gTnVsbFBvaW50ZXJFeGNlcHRpb24uY2xhc3MpCiAgICBwdWJsaWMgdm9pZCBnZXRDYWNoZVNpemUoKSB0aHJvd3MgRXhjZXB0aW9uIHsKICAgICAgICBjb250cm9sbGVyLmdldENhY2hlU2l6ZSgpOwogICAgfQo=</text>
@@ -520,9 +520,9 @@
       </register>
     </registers>
     <search>
-      <last-search>indexInfo</last-search>
+      <last-search encoding="base64">XDxpbmRleEluZm9NYXBcPg==</last-search>
       <last-offset />
-      <last-pattern>indexInfo</last-pattern>
+      <last-pattern encoding="base64">XDxpbmRleEluZm9NYXBcPg==</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -530,9 +530,6 @@
     </search>
     <history>
       <history-search>
-        <entry>jsonpath</entry>
-        <entry encoding="base64">XDxvcmlnaW5hbEtleXNcPg==</entry>
-        <entry>su</entry>
         <entry>modul</entry>
         <entry>module</entry>
         <entry>search_db</entry>
@@ -550,6 +547,9 @@
         <entry encoding="base64">XDxzdHViQ29udHJvbGxlclw+</entry>
         <entry encoding="base64">XDxzaG91cGluU2VhcmNoXD4=</entry>
         <entry>indexInfo</entry>
+        <entry>text</entry>
+        <entry encoding="base64">XDxpbmRleEluZm9NYXBGVFNcPg==</entry>
+        <entry encoding="base64">XDxpbmRleEluZm9NYXBcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>action EditorGutterPopupMenu</entry>
