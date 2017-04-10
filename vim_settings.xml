@@ -56,8 +56,8 @@
         <mark key="." line="72" column="36" />
         <mark key="^" line="72" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/CacheManager.java" timestamp="1491554222422">
-        <mark key="'" line="48" column="0" />
+      <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/CacheManager.java" timestamp="1491790882351">
+        <mark key="'" line="13" column="54" />
       </file>
       <file name="$USER_HOME$/workspace/zest/src/main/java/moud/a.html" timestamp="1490603538671">
         <mark key="[" line="0" column="0" />
@@ -285,7 +285,7 @@
       <file name="$USER_HOME$/workspace/red/test/ApplicationSpec.scala" timestamp="1490928877644">
         <mark key="'" line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/search_core/PosSorterTest.java" timestamp="1491789333757">
+      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/search_core/PosSorterTest.java" timestamp="1491790588818">
         <mark key="'" line="129" column="0" />
         <mark key="[" line="16" column="61" />
         <mark key="]" line="16" column="62" />
@@ -377,10 +377,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="29" filename="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/common/base/resp/BaseResp.java" />
-      <jump line="172" column="0" filename="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/common/base/resp/BaseResp.java" />
-      <jump line="19" column="4" filename="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/common/base/resp/RespPoi.java" />
-      <jump line="90" column="0" filename="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/common/base/resp/RespPoi.java" />
       <jump line="128" column="8" filename="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/common/util/SortUtil.java" />
       <jump line="16" column="9" filename="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/common/util/Configuration.java" />
       <jump line="128" column="0" filename="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/common/util/Configuration.java" />
@@ -477,6 +473,10 @@
       <jump line="50" column="60" filename="$USER_HOME$/workspace/search/search_api/src/test/java/com/mx/server/search/api/ControllerTest.java" />
       <jump line="15" column="13" filename="$USER_HOME$/workspace/search/search_core/src/test/java/search_core/PosSorterTest.java" />
       <jump line="129" column="0" filename="$USER_HOME$/workspace/search/search_core/src/test/java/search_core/PosSorterTest.java" />
+      <jump line="19" column="33" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/CacheManager.java" />
+      <jump line="3" column="39" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/CacheManager.java" />
+      <jump line="12" column="54" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/CacheManager.java" />
+      <jump line="13" column="54" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/CacheManager.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -489,7 +489,7 @@
         <text>1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzaG91cGluU2VhcmNoXD4=</text>
+        <text>indexInfo</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBUZXN0KGV4cGVjdGVkID0gTnVsbFBvaW50ZXJFeGNlcHRpb24uY2xhc3MpCiAgICBwdWJsaWMgdm9pZCBnZXRDYWNoZVNpemUoKSB0aHJvd3MgRXhjZXB0aW9uIHsKICAgICAgICBjb250cm9sbGVyLmdldENhY2hlU2l6ZSgpOwogICAgfQo=</text>
@@ -526,17 +526,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzaG91cGluU2VhcmNoXD4=</last-search>
+      <last-search>indexInfo</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzaG91cGluU2VhcmNoXD4=</last-pattern>
+      <last-pattern>indexInfo</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>jackson</entry>
         <entry>jsonpath</entry>
         <entry encoding="base64">XDxvcmlnaW5hbEtleXNcPg==</entry>
         <entry>su</entry>
@@ -556,6 +555,7 @@
         <entry>skip</entry>
         <entry encoding="base64">XDxzdHViQ29udHJvbGxlclw+</entry>
         <entry encoding="base64">XDxzaG91cGluU2VhcmNoXD4=</entry>
+        <entry>indexInfo</entry>
       </history-search>
       <history-cmd>
         <entry>action EditorGutterPopupMenu</entry>
