@@ -328,10 +328,10 @@
       <file name="$USER_HOME$/workspace/red/test/ApplicationSpec.scala" timestamp="1490928877644">
         <mark key="'" line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/search_core/PosSorterTest.java" timestamp="1491790588818">
+      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/search_core/PosSorterTest.java" timestamp="1491893148808">
         <mark key="'" line="129" column="0" />
-        <mark key="[" line="16" column="61" />
-        <mark key="]" line="16" column="62" />
+        <mark key="[" line="86" column="67" />
+        <mark key="]" line="86" column="78" />
         <mark key="." line="16" column="62" />
         <mark key="^" line="16" column="58" />
       </file>
@@ -554,8 +554,8 @@
       <register name="/" type="4">
         <text>core</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIFVzZXJGb3JtLmZvcm0uYmluZEZyb21SZXF1ZXN0LmZvbGQoCiAgICAgIGVycm9yRm9ybSA9PiBGdXR1cmUuc3VjY2Vzc2Z1bChPayh2aWV3cy5odG1sLnVzZXIoZXJyb3JGb3JtLCBTZXEuZW1wdHlbbW9kZWxzLlVzZXJdKSkpLAogICAgICBkYXRhID0+IHsKICAgICAgICB2YWwgbmV3VXNlciA9IG1vZGVscy5Vc2VyKDAsIGRhdGEudXNlck5hbWUsIGRhdGEucGFzc1dvcmQpCiAgICAgICAgdXNlclNlcnZpY2UuYWRkVXNlcihuZXdVc2VyKS5tYXAoXyA9PgogICAgICAgICAgUmVkaXJlY3Qocm91dGVzLlVzZXJDb250cm9sbGVyLnVzZXJzKCkpCiAgICAgICAgKQogICAgICB9KQo=</text>
+      <register name="0" type="4">
+        <text>new int[]{1}</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHVzZXJEYW8uZgo=</text>
@@ -595,7 +595,7 @@
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
