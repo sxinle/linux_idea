@@ -32,6 +32,12 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.4.1/httpclient-4.4.1-sources.jar!/org/apache/http/client/protocol/RequestAddCookies.java" timestamp="1491392766588">
         <mark key="'" line="95" column="69" />
       </file>
+      <file name="$USER_HOME$/workspace/red/conf/routes" timestamp="1491881333843">
+        <mark key="[" line="10" column="70" />
+        <mark key="]" line="10" column="70" />
+        <mark key="." line="10" column="70" />
+        <mark key="^" line="10" column="79" />
+      </file>
       <file name="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/common/util/StringFilter.java" timestamp="1491464470992">
         <mark key="'" line="245" column="0" />
       </file>
@@ -63,6 +69,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="337097" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/red/app/services/UserService.scala" timestamp="1491881274266">
+        <mark key="[" line="13" column="23" />
+        <mark key="]" line="13" column="23" />
+        <mark key="^" line="13" column="17" />
+        <mark key="." line="13" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/common/util/TypeCode.java" timestamp="1491464478216">
         <mark key="'" line="79" column="0" />
@@ -243,16 +255,22 @@
         <mark key="]" line="18" column="1" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/red/app/controllers/UserController.scala" timestamp="1491880130306">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/workspace/red/app/controllers/UserController.scala" timestamp="1491881237585">
+        <mark key="'" line="18" column="22" />
+        <mark key="[" line="20" column="55" />
+        <mark key="]" line="21" column="18" />
+        <mark key="^" line="21" column="18" />
+        <mark key="." line="21" column="18" />
       </file>
       <file name="/SemanticsXSearcher.java" timestamp="1491358441959">
         <mark key="'" line="187" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/red/app/daos/UserDao.scala" timestamp="1491880011225">
-        <mark key="'" line="46" column="0" />
+      <file name="$USER_HOME$/workspace/red/app/daos/UserDao.scala" timestamp="1491880860885">
+        <mark key="'" line="23" column="6" />
+        <mark key="[" line="20" column="23" />
+        <mark key="]" line="20" column="3" />
+        <mark key="^" line="20" column="3" />
+        <mark key="." line="20" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/transfer/resp/SuggestResp.java" timestamp="1491553357524">
         <mark key="[" line="15" column="0" />
@@ -416,8 +434,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="48" filename="$USER_HOME$/workspace/search/search_api/src/test/java/com/mx/server/search/api/ControllerTest.java" />
-      <jump line="72" column="37" filename="$USER_HOME$/workspace/search/search_api/src/test/java/com/mx/server/search/api/ControllerTest.java" />
       <jump line="76" column="22" filename="$USER_HOME$/workspace/search/search_api/src/test/java/com/mx/server/search/api/ControllerTest.java" />
       <jump line="20" column="13" filename="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/GenericController.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/GenericController.java" />
@@ -516,6 +532,8 @@
       <jump line="42" column="30" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/ScoreAlgorithm.java" />
       <jump line="24" column="0" filename="$USER_HOME$/workspace/red/app/daos/UserDao.scala" />
       <jump line="46" column="0" filename="$USER_HOME$/workspace/red/app/daos/UserDao.scala" />
+      <jump line="23" column="6" filename="$USER_HOME$/workspace/red/app/daos/UserDao.scala" />
+      <jump line="17" column="22" filename="$USER_HOME$/workspace/red/app/controllers/UserController.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -525,40 +543,40 @@
         <text>term</text>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>()</text>
       </register>
       <register name="/" type="4">
         <text>core</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">I+eJueauiueahOWfjuW4gijnm7TovpbluIIpCmNvcmUuc2VhcmNoLnNwZWNpYWxDaXR5ID0g5YyX5Lqs5biCLOWkqea0peW4gizkuIrmtbfluIIs6YeN5bqG5biCCg==</text>
+        <text encoding="base64">R0VUICAgICAgICAgL3VzZXIvZGVsZXRlLzppZCAgICAgICAgQGNvbnRyb2xsZXJzLlVzZXJDb250cm9sbGVyLmRlbGV0ZVVzZXIoaWQ6TG9uZykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLy8gaWYgYW55IGVycm9yIGluIHN1Ym1pdHRlZCBkYXRhCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Y29yZS5zZWFyY2guZGlzdHN1ZmZpeC5wYXRoICAgICA9IC9ob21lL2xua2R3amwvd29ya3NwYWNlL3NlYXJjaC9jb21tb24tY29uZi9kaXN0U3VmZml4Lmpzb24K</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="4">
+        <text encoding="base64">bGlzdEFsbFVzZXJzLm1hcCh1c2VycyA9PiB7CiAgICAgIE9rKEpzb24ub2JqKCJ1c2VycyIgLT4gdXNlcnMpKQogICAgfSk=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29yZS5qbmlsaWIubGludXggID0gL2hvbWUvbG5rZHdqbC93b3Jrc3BhY2Uvc2VhcmNoL2NvbW1vbi1jb25mL2xpYlNlZy5zbwpjb3JlLmpuaWRpY3QubGludXggPSAvaG9tZS9sbmtkd2psL3dvcmtzcGFjZS9zZWFyY2gvY29tbW9uLWNvbmYvMDA3LmRhdAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29yZS5qbmlsaWIubGludXggID0gL2hvbWUvbG5rZHdqbC93b3Jrc3BhY2Uvc2VhcmNoL2NvbW1vbi1jb25mL2xpYlNlZy5zbwpjb3JlLmpuaWRpY3QubGludXggPSAvaG9tZS9sbmtkd2psL3dvcmtzcGFjZS9zZWFyY2gvY29tbW9uLWNvbmYvMDA3LmRhdAo=</text>
+        <text encoding="base64">ICAgICAgLy8gaWYgYW55IGVycm9yIGluIHN1Ym1pdHRlZCBkYXRhCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29yZS5qbmlsaWIubGludXggID0gL2hvbWUvbG5rZHdqbC93b3Jrc3BhY2Uvc2VhcmNoL2NvbW1vbi1jb25mL2xpYlNlZy5zbwpjb3JlLmpuaWRpY3QubGludXggPSAvaG9tZS9sbmtkd2psL3dvcmtzcGFjZS9zZWFyY2gvY29tbW9uLWNvbmYvMDA3LmRhdAo=</text>
+        <text encoding="base64">Y29yZS5zZWFyY2guZGlzdHN1ZmZpeC5wYXRoICAgICA9IC9ob21lL2xua2R3amwvd29ya3NwYWNlL3NlYXJjaC9jb21tb24tY29uZi9kaXN0U3VmZml4Lmpzb24K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29yZS5qbmlsaWIubGludXggID0gL2hvbWUvbG5rZHdqbC93b3Jrc3BhY2Uvc2VhcmNoL2NvbW1vbi1jb25mL2xpYlNlZy5zbwpjb3JlLmpuaWRpY3QubGludXggPSAvaG9tZS9sbmtkd2psL3dvcmtzcGFjZS9zZWFyY2gvY29tbW9uLWNvbmYvMDA3LmRhdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cgp0cmFpdCBMb2dnZXIgewogIGRlZiBsb2cobXNnOiBTdHJpbmcsIGtleTogSW50ID0gMyk6IFN0cmluZwp9CgpjbGFzcyBDcnlwdG9Mb2dnZXIgewogIGRlZiBsb2cobXNnOiBTdHJpbmcpID0gewoKICB9Cn0K</text>
+        <text encoding="base64">Y29yZS5qbmlsaWIubGludXggID0gL2hvbWUvbG5rZHdqbC93b3Jrc3BhY2Uvc2VhcmNoL2NvbW1vbi1jb25mL2xpYlNlZy5zbwpjb3JlLmpuaWRpY3QubGludXggPSAvaG9tZS9sbmtkd2psL3dvcmtzcGFjZS9zZWFyY2gvY29tbW9uLWNvbmYvMDA3LmRhdAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2xhc3MgT3JkZXJkUG9pbnQgZXh0ZW5kcyBQb2ludCB3aXRoIHNjYWxhLm1hdGguT3JkZXJlZFtQb2ludF0gewogIG92ZXJyaWRlIGRlZiBjb21wYXJlKHRoYXQ6IFBvaW50KTogSW50ID0gewogICAgaWYgKHRoaXMueCA8PSB0aGF0LnggJiYgdGhpcy55IDwgdGhhdC55KSAtMQogICAgZWxzZSBpZiAodGhpcy54ID09IHRoYXQueCAmJiB0aGlzLnkgPT0gdGhhdC55KSAwCiAgICBlbHNlIDEKICB9Cn0K</text>
+        <text encoding="base64">Y29yZS5qbmlsaWIubGludXggID0gL2hvbWUvbG5rZHdqbC93b3Jrc3BhY2Uvc2VhcmNoL2NvbW1vbi1jb25mL2xpYlNlZy5zbwpjb3JlLmpuaWRpY3QubGludXggPSAvaG9tZS9sbmtkd2psL3dvcmtzcGFjZS9zZWFyY2gvY29tbW9uLWNvbmYvMDA3LmRhdAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
