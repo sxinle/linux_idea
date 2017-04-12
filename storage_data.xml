@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Represents a selection criteria for rows in a JDBC" />
       <item value="mention" />
       <item value="issue" />
       <item value="Some POP 3 servers will mark messages for deletion when they ' re read . To prevent such messages from being deleted before the client deletes them , you can set the mail . pop 3. rsetbeforequit property to true . This causes us to issue a POP 3 RSET command to clear all the &quot; marked for deletion &quot; flags . We can then explicitly delete messages as desired ." />
@@ -50,7 +51,6 @@
       <item value="have r" />
       <item value="rate" />
       <item value="Rateing" />
-      <item value="打分" />
     </histories>
   </component>
 </application>

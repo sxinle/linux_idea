@@ -221,6 +221,10 @@
         <mark key="]" line="4" column="56" />
         <mark key="." line="4" column="56" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.0.2.Final/hibernate-core-5.0.2.Final-sources.jar!/org/hibernate/engine/spi/RowSelection.java" timestamp="1491974845282">
+        <mark key="[" line="9" column="3" />
+        <mark key="]" line="9" column="52" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-api/2.2/log4j-api-2.2.jar!/org/apache/logging/log4j/Logger.class" timestamp="1491390068564">
         <mark key="'" line="75" column="9" />
       </file>
@@ -229,6 +233,9 @@
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Constants.java" timestamp="1491823638136">
         <mark key="'" line="121" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.0.2.Final/hibernate-core-5.0.2.Final-sources.jar!/org/hibernate/dialect/pagination/LimitHelper.java" timestamp="1491974664453">
+        <mark key="'" line="57" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos_terms/PosSorter.java" timestamp="1490856627578">
         <mark key="'" line="25" column="0" />
@@ -266,6 +273,9 @@
         <mark key="]" line="40" column="87" />
         <mark key="^" line="40" column="49" />
         <mark key="." line="40" column="50" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.0.2.Final/hibernate-core-5.0.2.Final-sources.jar!/org/hibernate/dialect/MySQLDialect.java" timestamp="1491974630981">
+        <mark key="'" line="41" column="37" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsRTXSearcher.java" timestamp="1491815563079">
         <mark key="'" line="15" column="13" />
@@ -465,10 +475,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="186" column="14" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsAAASearcher.java" />
-      <jump line="191" column="90" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsAAASearcher.java" />
-      <jump line="197" column="37" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsAAASearcher.java" />
-      <jump line="256" column="102" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsAAASearcher.java" />
       <jump line="17" column="16" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/index/IndexInfoArr.java" />
       <jump line="29" column="0" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/index/IndexInfoArr.java" />
       <jump line="156" column="53" filename="$USER_HOME$/workspace/search_tool/src/main/java/com/mx/server/search/tool/service/impl/IndexInfoServiceImpl.java" />
@@ -565,6 +571,10 @@
       <jump line="58" column="26" filename="$USER_HOME$/workspace/zest/src/main/java/moud/Sec.java" />
       <jump line="2" column="0" filename="$USER_HOME$/workspace/zest/src/main/java/moud/Sec.java" />
       <jump line="64" column="0" filename="$USER_HOME$/workspace/zest/src/main/java/moud/Sec.java" />
+      <jump line="513" column="33" filename="$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.0.2.Final/hibernate-core-5.0.2.Final-sources.jar!/org/hibernate/dialect/MySQLDialect.java" />
+      <jump line="426" column="12" filename="$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.0.2.Final/hibernate-core-5.0.2.Final-sources.jar!/org/hibernate/dialect/MySQLDialect.java" />
+      <jump line="41" column="37" filename="$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.0.2.Final/hibernate-core-5.0.2.Final-sources.jar!/org/hibernate/dialect/MySQLDialect.java" />
+      <jump line="57" column="22" filename="$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.0.2.Final/hibernate-core-5.0.2.Final-sources.jar!/org/hibernate/dialect/pagination/LimitHelper.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -577,10 +587,10 @@
         <text>session</text>
       </register>
       <register name="/" type="4">
-        <text>;</text>
+        <text>getLimi</text>
       </register>
       <register name="0" type="4">
-        <text>convertToFirstRowValue</text>
+        <text>Represents a selection criteria for rows in a JDBC</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBGaWxlIGQgPSBuZXcgRmlsZShnZXRzKEFFU19QKSArIHh1KTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAoIWQuZXhpc3RzKCkpIGQubWtkaXIoKTsK</text>
@@ -614,9 +624,9 @@
       </register>
     </registers>
     <search>
-      <last-search>;</last-search>
+      <last-search>getLimi</last-search>
       <last-offset />
-      <last-pattern>;</last-pattern>
+      <last-pattern>getLimi</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -624,9 +634,6 @@
     </search>
     <history>
       <history-search>
-        <entry>post</entry>
-        <entry>luc</entry>
-        <entry>mybatis</entry>
         <entry>power</entry>
         <entry>junit</entry>
         <entry>skip</entry>
@@ -644,6 +651,9 @@
         <entry>core</entry>
         <entry encoding="base64">XDx4aFw+</entry>
         <entry>;</entry>
+        <entry>convert</entry>
+        <entry>convertTo</entry>
+        <entry>getLimi</entry>
       </history-search>
       <history-cmd>
         <entry>action EditorIncreaseFontSize</entry>
