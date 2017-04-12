@@ -445,6 +445,9 @@
       <file name="$USER_HOME$/workspace/search/search_old/src/main/resources/baidu.properties" timestamp="1491464489113">
         <mark key="'" line="22" column="9" />
       </file>
+      <file name="$USER_HOME$/.share/PEUSClient_trunk/WebRoot/WEB-INF/web.xml" timestamp="1491977847228">
+        <mark key="'" line="108" column="5" />
+      </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/HotPoiSearcher.java" timestamp="1491808793989">
         <mark key="[" line="70" column="0" />
         <mark key="]" line="70" column="0" />
@@ -472,11 +475,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="99" column="26" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/index/IndexInfoArr.java" />
-      <jump line="75" column="30" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/index/IndexInfoArr.java" />
-      <jump line="20" column="34" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/doc/DocAttr.java" />
-      <jump line="90" column="49" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/doc/DocAttr.java" />
-      <jump line="95" column="49" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/doc/DocAttr.java" />
       <jump line="100" column="49" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/doc/DocAttr.java" />
       <jump line="106" column="49" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/doc/DocAttr.java" />
       <jump line="111" column="49" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/doc/DocAttr.java" />
@@ -572,6 +570,11 @@
       <jump line="46" column="26" filename="$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.0.2.Final/hibernate-core-5.0.2.Final-sources.jar!/org/hibernate/dialect/pagination/LimitHelper.java" />
       <jump line="35" column="33" filename="$USER_HOME$/workspace/uauth/src/main/java/com/mx/server/core/base/dao/impl/GenericDAO.java" />
       <jump line="191" column="0" filename="$USER_HOME$/workspace/uauth/src/main/java/com/mx/server/core/base/dao/impl/GenericDAO.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/.share/PEUSClient_trunk/WebRoot/WEB-INF/web.xml" />
+      <jump line="90" column="35" filename="$USER_HOME$/.share/PEUSClient_trunk/WebRoot/WEB-INF/web.xml" />
+      <jump line="8" column="9" filename="$USER_HOME$/.share/PEUSClient_trunk/WebRoot/WEB-INF/web.xml" />
+      <jump line="107" column="3" filename="$USER_HOME$/.share/PEUSClient_trunk/WebRoot/WEB-INF/web.xml" />
+      <jump line="108" column="5" filename="$USER_HOME$/.share/PEUSClient_trunk/WebRoot/WEB-INF/web.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -584,7 +587,7 @@
         <text>session</text>
       </register>
       <register name="/" type="4">
-        <text>getLimi</text>
+        <text>welcome</text>
       </register>
       <register name="0" type="4">
         <text>Represents a selection criteria for rows in a JDBC</text>
@@ -621,9 +624,9 @@
       </register>
     </registers>
     <search>
-      <last-search>getLimi</last-search>
+      <last-search>welcome</last-search>
       <last-offset />
-      <last-pattern>getLimi</last-pattern>
+      <last-pattern>welcome</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -631,8 +634,6 @@
     </search>
     <history>
       <history-search>
-        <entry>power</entry>
-        <entry>junit</entry>
         <entry>skip</entry>
         <entry encoding="base64">XDxzdHViQ29udHJvbGxlclw+</entry>
         <entry encoding="base64">XDxzaG91cGluU2VhcmNoXD4=</entry>
@@ -651,6 +652,8 @@
         <entry>convert</entry>
         <entry>convertTo</entry>
         <entry>getLimi</entry>
+        <entry>index</entry>
+        <entry>welcome</entry>
       </history-search>
       <history-cmd>
         <entry>action EditorIncreaseFontSize</entry>
