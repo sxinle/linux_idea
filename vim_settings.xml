@@ -15,8 +15,8 @@
       <file name="$USER_HOME$/workspace/search/search_web/src/main/resources/spring-mybatis.xml" timestamp="1491463247732">
         <mark key="'" line="65" column="45" />
       </file>
-      <file name="$USER_HOME$/.share/PEUSClient_trunk/src/main/resources/application.properties" timestamp="1491979603601">
-        <mark key="'" line="16" column="37" />
+      <file name="$USER_HOME$/.share/PEUSClient_trunk/src/main/resources/application.properties" timestamp="1491981577051">
+        <mark key="'" line="31" column="30" />
       </file>
       <file name="$USER_HOME$/.share/PEUSClient_trunk/src/main/resources/applicationContext.xml" timestamp="1491979606969">
         <mark key="'" line="23" column="60" />
@@ -247,8 +247,8 @@
       <file name="$USER_HOME$/workspace/search/search_old/src/main/resources/baidu.properties" timestamp="1491464489113">
         <mark key="'" line="22" column="9" />
       </file>
-      <file name="$USER_HOME$/.share/PEUSClient_trunk/WebRoot/WEB-INF/web.xml" timestamp="1491980199174">
-        <mark key="'" line="113" column="0" />
+      <file name="$USER_HOME$/.share/PEUSClient_trunk/WebRoot/WEB-INF/web.xml" timestamp="1491981527875">
+        <mark key="'" line="93" column="39" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/mockito/mockito-all/1.10.19/mockito-all-1.10.19.jar!/org/mockito/Mockito.class" timestamp="1491455422659">
         <mark key="'" line="86" column="24" />
@@ -266,10 +266,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="26" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/index/IndexInfoArr.java" />
-      <jump line="65" column="0" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/index/IndexInfoArr.java" />
-      <jump line="86" column="0" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/index/IndexInfoArr.java" />
-      <jump line="67" column="34" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/index/IndexInfoArr.java" />
       <jump line="15" column="13" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsRTXSearcher.java" />
       <jump line="35" column="32" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/index/IndexInfoArr.java" />
       <jump line="186" column="29" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/doc/DocAttr.java" />
@@ -366,6 +362,10 @@
       <jump line="173" column="0" filename="$USER_HOME$/.share/PEUSClient_trunk/classes/artifacts/PEUSClient_war_exploded/WEB-INF/classes/applicationContext.xml" />
       <jump line="15" column="39" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
       <jump line="32" column="16" filename="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/GenericController.java" />
+      <jump line="93" column="39" filename="$USER_HOME$/.share/PEUSClient_trunk/WebRoot/WEB-INF/web.xml" />
+      <jump line="17" column="19" filename="$USER_HOME$/.share/PEUSClient_trunk/src/main/resources/application.properties" />
+      <jump line="85" column="0" filename="$USER_HOME$/.share/PEUSClient_trunk/src/main/resources/application.properties" />
+      <jump line="31" column="30" filename="$USER_HOME$/.share/PEUSClient_trunk/src/main/resources/application.properties" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
