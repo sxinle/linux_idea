@@ -169,12 +169,12 @@
         <mark key="]" line="77" column="0" />
         <mark key="." line="77" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zest/src/main/java/moud/Sec.java" timestamp="1491970358903">
-        <mark key="'" line="18" column="30" />
-        <mark key="[" line="42" column="56" />
-        <mark key="]" line="42" column="56" />
-        <mark key="." line="42" column="56" />
-        <mark key="^" line="42" column="81" />
+      <file name="$USER_HOME$/workspace/zest/src/main/java/moud/Sec.java" timestamp="1491971868791">
+        <mark key="'" line="64" column="0" />
+        <mark key="[" line="63" column="27" />
+        <mark key="]" line="63" column="26" />
+        <mark key="." line="63" column="26" />
+        <mark key="^" line="63" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/scalaTest/src/HelloWorld.scala" timestamp="1489560630431">
         <mark key="[" line="2" column="14" />
@@ -455,8 +455,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="257" column="38" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsAAASearcher.java" />
-      <jump line="282" column="46" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsAAASearcher.java" />
       <jump line="186" column="14" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsAAASearcher.java" />
       <jump line="191" column="90" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsAAASearcher.java" />
       <jump line="197" column="37" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsAAASearcher.java" />
@@ -534,14 +532,12 @@
       <jump line="69" column="16" filename="$USER_HOME$/workspace/zest/src/main/java/moud/Sec.java" />
       <jump line="65" column="25" filename="$USER_HOME$/workspace/zest/src/main/java/moud/Sec.java" />
       <jump line="39" column="74" filename="$USER_HOME$/workspace/zest/src/main/java/moud/Sec.java" />
-      <jump line="63" column="0" filename="$USER_HOME$/workspace/zest/src/main/java/moud/Sec.java" />
       <jump line="22" column="68" filename="$USER_HOME$/workspace/zest/src/main/java/moud/Sec.java" />
       <jump line="66" column="0" filename="$USER_HOME$/workspace/zest/src/main/java/moud/Sec.java" />
       <jump line="19" column="0" filename="$USER_HOME$/workspace/zest/src/main/java/moud/Sec.java" />
       <jump line="71" column="0" filename="$USER_HOME$/workspace/zest/src/main/java/moud/Sec.java" />
       <jump line="16" column="15" filename="$USER_HOME$/workspace/zest/src/main/java/moud/Sec.java" />
       <jump line="15" column="0" filename="$USER_HOME$/workspace/zest/src/main/java/moud/Sec.java" />
-      <jump line="64" column="4" filename="$USER_HOME$/workspace/zest/src/main/java/moud/Sec.java" />
       <jump line="41" column="37" filename="$USER_HOME$/workspace/zest/src/main/java/moud/Sec.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/zest/src/main/java/moud/Sec.java" />
       <jump line="57" column="16" filename="$USER_HOME$/workspace/zest/src/main/java/moud/Sec.java" />
@@ -555,6 +551,10 @@
       <jump line="17" column="39" filename="$USER_HOME$/workspace/zest/src/main/java/moud/Sec.java" />
       <jump line="72" column="0" filename="$USER_HOME$/workspace/zest/src/main/java/moud/Sec.java" />
       <jump line="18" column="30" filename="$USER_HOME$/workspace/zest/src/main/java/moud/Sec.java" />
+      <jump line="63" column="147" filename="$USER_HOME$/workspace/zest/src/main/java/moud/Sec.java" />
+      <jump line="58" column="26" filename="$USER_HOME$/workspace/zest/src/main/java/moud/Sec.java" />
+      <jump line="2" column="0" filename="$USER_HOME$/workspace/zest/src/main/java/moud/Sec.java" />
+      <jump line="64" column="0" filename="$USER_HOME$/workspace/zest/src/main/java/moud/Sec.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -564,10 +564,10 @@
         <text>term</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">c3RhdGljIGZpbmFsIFN0cmluZyA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx4aFw+</text>
+        <text>;</text>
       </register>
       <register name="0" type="4">
         <text>new SimpleDateFormat(&quot;yyyy-MM-dd&quot;)</text>
@@ -604,17 +604,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx4aFw+</last-search>
+      <last-search>;</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx4aFw+</last-pattern>
-      <last-replace>\\&quot;</last-replace>
-      <last-substitute>&quot;</last-substitute>
+      <last-pattern>;</last-pattern>
+      <last-replace>,</last-replace>
+      <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>posg</entry>
         <entry>post</entry>
         <entry>luc</entry>
         <entry>mybatis</entry>
@@ -634,9 +633,9 @@
         <entry>code</entry>
         <entry>core</entry>
         <entry encoding="base64">XDx4aFw+</entry>
+        <entry>;</entry>
       </history-search>
       <history-cmd>
-        <entry>action EditorGutterPopupMenu</entry>
         <entry>action EditorIncreaseFontSize</entry>
         <entry>action EditorPopupMenu1</entry>
         <entry>action Emmet</entry>
@@ -655,6 +654,7 @@
         <entry encoding="base64">JzwsJz5zLyIvXCIvZw==</entry>
         <entry encoding="base64">JzwsJz5zLyIvXFwiL2c=</entry>
         <entry>action $Redo</entry>
+        <entry encoding="base64">JzwsJz5zLzsvLC9n</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
