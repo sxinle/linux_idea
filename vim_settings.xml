@@ -206,6 +206,10 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.0.2.Final/hibernate-core-5.0.2.Final-sources.jar!/org/hibernate/dialect/Dialect.java" timestamp="1491974242592">
+        <mark key="[" line="1190" column="15" />
+        <mark key="]" line="1190" column="36" />
+      </file>
       <file name="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.1-sources.jar!/scala/collection/immutable/TreeMap.scala" timestamp="1490761992123">
         <mark key="'" line="46" column="70" />
       </file>
@@ -243,6 +247,12 @@
         <mark key="]" line="411" column="80" />
         <mark key="^" line="409" column="60" />
         <mark key="." line="409" column="60" />
+      </file>
+      <file name="$USER_HOME$/workspace/uauth/src/main/java/com/mx/server/core/base/dao/impl/GenericDAO.java" timestamp="1491974055109">
+        <mark key="[" line="37" column="62" />
+        <mark key="]" line="38" column="28" />
+        <mark key="^" line="38" column="28" />
+        <mark key="." line="38" column="28" />
       </file>
       <file name="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.1-sources.jar!/scala/Array.scala" timestamp="1490335255827">
         <mark key="'" line="197" column="6" />
@@ -564,13 +574,13 @@
         <text>term</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3RhdGljIGZpbmFsIFN0cmluZyA=</text>
+        <text>session</text>
       </register>
       <register name="/" type="4">
         <text>;</text>
       </register>
       <register name="0" type="4">
-        <text>new SimpleDateFormat(&quot;yyyy-MM-dd&quot;)</text>
+        <text>convertToFirstRowValue</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBGaWxlIGQgPSBuZXcgRmlsZShnZXRzKEFFU19QKSArIHh1KTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAoIWQuZXhpc3RzKCkpIGQubWtkaXIoKTsK</text>
