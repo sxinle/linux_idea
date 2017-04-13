@@ -361,7 +361,13 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/models/IdWithTermsFlag.java" timestamp="1492060534149" />
+      <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/models/IdWithTermsFlag.java" timestamp="1492063733200">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="41" column="27" />
+        <mark key="^" line="41" column="27" />
+        <mark key="." line="41" column="27" />
+      </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/resources/conf/Config.properties" timestamp="1491029452893">
         <mark key="'" line="16" column="15" />
       </file>
@@ -437,7 +443,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="37" filename="$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.0.2.Final/hibernate-core-5.0.2.Final-sources.jar!/org/hibernate/dialect/MySQLDialect.java" />
       <jump line="57" column="22" filename="$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.0.2.Final/hibernate-core-5.0.2.Final-sources.jar!/org/hibernate/dialect/pagination/LimitHelper.java" />
       <jump line="46" column="26" filename="$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.0.2.Final/hibernate-core-5.0.2.Final-sources.jar!/org/hibernate/dialect/pagination/LimitHelper.java" />
       <jump line="35" column="33" filename="$USER_HOME$/workspace/uauth/src/main/java/com/mx/server/core/base/dao/impl/GenericDAO.java" />
@@ -537,6 +542,7 @@
       <jump line="25" column="77" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/CacheManager.java" />
       <jump line="48" column="0" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/CacheManager.java" />
       <jump line="153" column="28" filename="$USER_HOME$/workspace/search_tool/src/main/java/com/mx/server/search/tool/service/impl/IndexInfoServiceImpl.java" />
+      <jump line="19" column="0" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/models/IdWithTermsFlag.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
