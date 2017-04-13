@@ -97,7 +97,8 @@
       <file name="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/util/TreeMap.java" timestamp="1490759040501">
         <mark key="'" line="149" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/index/IndexInfoArr.java" timestamp="1492081645112">
+      <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/index/IndexInfoArr.java" timestamp="1492088137663">
+        <mark key="'" line="61" column="28" />
         <mark key="[" line="63" column="0" />
         <mark key="]" line="64" column="31" />
         <mark key="^" line="64" column="31" />
@@ -188,7 +189,7 @@
         <mark key="." line="12" column="27" />
         <mark key="^" line="12" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/GenericController.java" timestamp="1491980843043">
+      <file name="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/GenericController.java" timestamp="1492087889122">
         <mark key="'" line="32" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/KeywordSearcher.java" timestamp="1492073787200">
@@ -358,12 +359,19 @@
       <file name="$USER_HOME$/workspace/red/test/ApplicationSpec.scala" timestamp="1490928877644">
         <mark key="'" line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search_tool/src/main/java/com/mx/server/search/tool/service/impl/IndexInfoServiceImpl.java" timestamp="1492087069898">
-        <mark key="'" line="92" column="0" />
-        <mark key="[" line="506" column="0" />
-        <mark key="]" line="506" column="0" />
-        <mark key="." line="506" column="0" />
-        <mark key="^" line="516" column="111" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/search_core/PosSorterTest.java" timestamp="1491985152679">
+        <mark key="'" line="132" column="0" />
+        <mark key="[" line="86" column="67" />
+        <mark key="]" line="86" column="78" />
+        <mark key="." line="16" column="62" />
+        <mark key="^" line="16" column="58" />
+      </file>
+      <file name="$USER_HOME$/workspace/search_tool/src/main/java/com/mx/server/search/tool/service/impl/IndexInfoServiceImpl.java" timestamp="1492088515040">
+        <mark key="'" line="520" column="56" />
+        <mark key="[" line="498" column="21" />
+        <mark key="]" line="498" column="29" />
+        <mark key="." line="498" column="29" />
+        <mark key="^" line="498" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/doc/AmenuDetail.java" timestamp="1491554153282">
         <mark key="'" line="13" column="42" />
@@ -455,14 +463,21 @@
       <file name="$MAVEN_REPOSITORY$/org/mockito/mockito-all/1.10.19/mockito-all-1.10.19.jar!/org/mockito/Mockito.class" timestamp="1491455422659">
         <mark key="'" line="86" column="24" />
       </file>
+      <file name="$USER_HOME$/workspace/search/common-conf/search.properties" timestamp="1491987632628">
+        <mark key="'" line="104" column="21" />
+        <mark key="[" line="3" column="27" />
+        <mark key="]" line="3" column="27" />
+        <mark key="." line="3" column="31" />
+        <mark key="^" line="4" column="31" />
+      </file>
       <file name="$USER_HOME$/workspace/search/search_web/src/main/java/com/mx/server/search/web/UnitTestProxy.java" timestamp="1491463319987">
         <mark key="'" line="58" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1492083758818">
+      <file name="/fragment.java" timestamp="1492088737996">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="7" />
+        <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="7" />
-        <mark key="." line="0" column="7" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/thirdpart/taskmng_web/src/main/webapp/WEB-INF/web.xml" timestamp="1490256436220">
         <mark key="[" line="17" column="0" />
@@ -471,12 +486,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="43" filename="$USER_HOME$/workspace/zest/src/main/java/moud/Sec.java" />
-      <jump line="28" column="59" filename="$USER_HOME$/workspace/zest/src/main/java/moud/Sec.java" />
-      <jump line="33" column="37" filename="$USER_HOME$/workspace/zest/src/main/java/moud/Sec.java" />
-      <jump line="51" column="32" filename="$USER_HOME$/workspace/zest/src/main/java/moud/Sec.java" />
-      <jump line="46" column="48" filename="$USER_HOME$/workspace/zest/src/main/java/moud/Sec.java" />
-      <jump line="24" column="51" filename="$USER_HOME$/workspace/zest/src/main/java/moud/Sec.java" />
       <jump line="32" column="47" filename="$USER_HOME$/workspace/zest/src/main/java/moud/Sec.java" />
       <jump line="17" column="44" filename="$USER_HOME$/workspace/zest/src/main/java/moud/Sec.java" />
       <jump line="73" column="44" filename="$USER_HOME$/workspace/search/search_core/src/test/java/search_core/PosSorterTest.java" />
@@ -571,6 +580,12 @@
       <jump line="911" column="23" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
       <jump line="941" column="25" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
       <jump line="995" column="18" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
+      <jump line="61" column="28" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/index/IndexInfoArr.java" />
+      <jump line="497" column="12" filename="$USER_HOME$/workspace/search_tool/src/main/java/com/mx/server/search/tool/service/impl/IndexInfoServiceImpl.java" />
+      <jump line="503" column="16" filename="$USER_HOME$/workspace/search_tool/src/main/java/com/mx/server/search/tool/service/impl/IndexInfoServiceImpl.java" />
+      <jump line="516" column="20" filename="$USER_HOME$/workspace/search_tool/src/main/java/com/mx/server/search/tool/service/impl/IndexInfoServiceImpl.java" />
+      <jump line="607" column="62" filename="$USER_HOME$/workspace/search_tool/src/main/java/com/mx/server/search/tool/service/impl/IndexInfoServiceImpl.java" />
+      <jump line="520" column="56" filename="$USER_HOME$/workspace/search_tool/src/main/java/com/mx/server/search/tool/service/impl/IndexInfoServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -580,10 +595,10 @@
         <text>term</text>
       </register>
       <register name="-" type="4">
-        <text>PY</text>
+        <text>list.size()</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbmRleFw+</text>
+        <text encoding="base64">XDxvZmZzZXRcPg==</text>
       </register>
       <register name="0" type="4">
         <text>IndexInfoArr.TERM_KEY_PINYIN</text>
@@ -620,9 +635,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpbmRleFw+</last-search>
+      <last-search encoding="base64">XDxvZmZzZXRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbmRleFw+</last-pattern>
+      <last-pattern encoding="base64">XDxvZmZzZXRcPg==</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -630,8 +645,6 @@
     </search>
     <history>
       <history-search>
-        <entry>convert</entry>
-        <entry>convertTo</entry>
         <entry>getLimi</entry>
         <entry>index</entry>
         <entry>welcome</entry>
@@ -650,6 +663,8 @@
         <entry encoding="base64">XDxzcmNcPg==</entry>
         <entry encoding="base64">XDxwb3NJbmZvc1w+</entry>
         <entry encoding="base64">XDxpbmRleFw+</entry>
+        <entry encoding="base64">XDxtbmdMZW5cPg==</entry>
+        <entry encoding="base64">XDxvZmZzZXRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>action EditorIncreaseFontSize</entry>
