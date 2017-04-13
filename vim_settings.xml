@@ -83,10 +83,11 @@
       <file name="$USER_HOME$/workspace/search/search_web/src/test/java/com/mx/server/search/OldCGITest.java" timestamp="1491463151924">
         <mark key="'" line="80" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search_tool/src/main/java/com/mx/server/search/tool/util/PosDataUtil.java" timestamp="1492075518387">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/workspace/search_tool/src/main/java/com/mx/server/search/tool/util/PosDataUtil.java" timestamp="1492080948994">
+        <mark key="[" line="36" column="22" />
+        <mark key="]" line="36" column="21" />
+        <mark key="." line="36" column="21" />
+        <mark key="^" line="36" column="21" />
       </file>
       <file name="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/util/TreeMap.java" timestamp="1490759040501">
         <mark key="'" line="149" column="0" />
@@ -457,7 +458,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="12" filename="$USER_HOME$/.share/PEUSClient_trunk/WebRoot/WEB-INF/web.xml" />
       <jump line="16" column="37" filename="$USER_HOME$/.share/PEUSClient_trunk/src/main/resources/application.properties" />
       <jump line="23" column="60" filename="$USER_HOME$/.share/PEUSClient_trunk/src/main/resources/applicationContext.xml" />
       <jump line="13" column="37" filename="$USER_HOME$/.share/PEUSClient_trunk/WebRoot/WEB-INF/web.xml" />
@@ -557,6 +557,7 @@
       <jump line="97" column="64" filename="$USER_HOME$/workspace/search_tool/src/main/java/com/mx/server/search/tool/service/impl/IndexInfoServiceImpl.java" />
       <jump line="14" column="13" filename="$USER_HOME$/workspace/search_tool/src/main/java/com/mx/server/search/tool/util/SerializeUtil.java" />
       <jump line="149" column="0" filename="$USER_HOME$/workspace/search_tool/src/main/java/com/mx/server/search/tool/util/SerializeUtil.java" />
+      <jump line="22" column="72" filename="$USER_HOME$/workspace/search_tool/src/main/java/com/mx/server/search/tool/util/PosDataUtil.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -566,37 +567,37 @@
         <text>term</text>
       </register>
       <register name="-" type="4">
-        <text>root</text>
+        <text>offset</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzcmNcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>serializeObj</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBCeXRlQXJyYXlPdXRwdXRTdHJlYW0gbW5nX2Jhb3MgPSBuZXcgQnl0ZUFycmF5T3V0cHV0U3RyZWFtKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBCdWZmZXJkamprCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBCeXRlQnVmZmVyIGJmID0gbmV3IEJ5dGVCdWZmZXIoKSB7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTWFwPEludGVnZXIsIGJ5dGVbXT4gcG9zTWFwID0gZmluZm8uZ2V0SW5Eb2NQb3NNYXAoKTsKCiAgICAgICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgNzsgaSsrKSB7CiAgICAgICAgICAgICAgICBieXRlW10gcG9zQnl0ZSA9IHBvc01hcC5nZXQoaSk7CiAgICAgICAgICAgICAgICBpZiAobnVsbCA9PSBwb3NCeXRlKSBjb250aW51ZTsKCiAgICAgICAgICAgICAgICBieXRlIGZpckIgPSAoYnl0ZSkgKHBvc0J5dGVbMF0gPDwgNCB8IChieXRlKSAocG9zQnl0ZS5sZW5ndGggLSAxKSk7CiAgICAgICAgICAgICAgICBwb3NCeXRlWzBdID0gZmlyQjsKCiAgICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgICAgIGRhdC53cml0ZShwb3NCeXRlKTsKICAgICAgICAgICAgICAgIH0gY2F0Y2ggKElPRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgb2Zmc2V0ICs9IHBvc0J5dGUubGVuZ3RoOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgCg==</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQlpbmRleEluZm8uc2V0UG9zSW5mb3MoKGJ5dGVbXVtdW10pbWFwLmdldCgicG9zIikpOwo=</text>
+        <text encoding="base64">ICAgICAgICBsaXN0LmZvckVhY2goZmluZm8gLT4gewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgdm9pZCBzZXRQb3NJbmZvcyhieXRlW11bXVtdIHBvc0luZm9zKSB7CiAgICAgICAgICAgIHRoaXMucG9zSW5mb3MgPSBwb3NJbmZvczsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gY2F0Y2ggKElPRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyeSB7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
