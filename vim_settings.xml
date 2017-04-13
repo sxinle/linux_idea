@@ -263,7 +263,7 @@
       <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.0.2.Final/hibernate-core-5.0.2.Final-sources.jar!/org/hibernate/dialect/MySQLDialect.java" timestamp="1491974630981">
         <mark key="'" line="41" column="37" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" timestamp="1492072387648">
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" timestamp="1492074315390">
         <mark key="'" line="1206" column="0" />
         <mark key="[" line="1195" column="31" />
         <mark key="]" line="1195" column="55" />
@@ -412,7 +412,8 @@
       <file name="$USER_HOME$/.share/PEUSClient_trunk/WebRoot/WEB-INF/web.xml" timestamp="1491981527875">
         <mark key="'" line="93" column="39" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/HotPoiSearcher.java" timestamp="1491808793989">
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/HotPoiSearcher.java" timestamp="1492074334346">
+        <mark key="'" line="91" column="30" />
         <mark key="[" line="70" column="0" />
         <mark key="]" line="70" column="0" />
         <mark key="." line="70" column="0" />
@@ -433,7 +434,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="40" filename="$USER_HOME$/.share/PEUSClient_trunk/.classpath" />
       <jump line="96" column="0" filename="$USER_HOME$/.share/PEUSClient_trunk/.classpath" />
       <jump line="17" column="44" filename="$USER_HOME$/.share/PEUSClient_trunk/.classpath" />
       <jump line="96" column="18" filename="$USER_HOME$/.share/PEUSClient_trunk/WebRoot/WEB-INF/web.xml" />
@@ -533,6 +533,7 @@
       <jump line="68" column="23" filename="$USER_HOME$/workspace/search_tool/src/main/java/com/mx/server/search/tool/service/impl/SerializeServiceImpl.java" />
       <jump line="111" column="41" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/KeywordSearcher.java" />
       <jump line="704" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/KeywordSearcher.java" />
+      <jump line="91" column="30" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/HotPoiSearcher.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
