@@ -92,8 +92,12 @@
       <file name="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/util/TreeMap.java" timestamp="1490759040501">
         <mark key="'" line="149" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/index/IndexInfoArr.java" timestamp="1492051620034">
+      <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/index/IndexInfoArr.java" timestamp="1492066401770">
         <mark key="'" line="49" column="0" />
+        <mark key="[" line="13" column="11" />
+        <mark key="]" line="13" column="17" />
+        <mark key="^" line="13" column="17" />
+        <mark key="." line="13" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/doc/InfoDetail.java" timestamp="1491375779752">
         <mark key="'" line="10" column="13" />
@@ -363,9 +367,6 @@
       </file>
       <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/models/IdWithTermsFlag.java" timestamp="1492064610447">
         <mark key="'" line="19" column="0" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/resources/conf/Config.properties" timestamp="1491029452893">
         <mark key="'" line="16" column="15" />
@@ -432,7 +433,7 @@
       <file name="$USER_HOME$/workspace/search/search_web/src/main/java/com/mx/server/search/web/UnitTestProxy.java" timestamp="1491463319987">
         <mark key="'" line="58" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1491987752298">
+      <file name="/fragment.java" timestamp="1492066793618">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/thirdpart/taskmng_web/src/main/webapp/WEB-INF/web.xml" timestamp="1490256436220">
@@ -551,7 +552,7 @@
         <text>term</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzcmNcPg==</text>
