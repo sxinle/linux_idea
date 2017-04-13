@@ -92,6 +92,9 @@
       <file name="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/util/TreeMap.java" timestamp="1490759040501">
         <mark key="'" line="149" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/index/IndexInfoArr.java" timestamp="1492048701067">
+        <mark key="'" line="26" column="20" />
+      </file>
       <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/doc/InfoDetail.java" timestamp="1491375779752">
         <mark key="'" line="10" column="13" />
       </file>
@@ -285,6 +288,9 @@
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/ScoreAlgorithm.java" timestamp="1491879931443">
         <mark key="'" line="42" column="30" />
       </file>
+      <file name="$USER_HOME$/workspace/search_tool/src/main/java/com/mx/server/search/tool/common/ServerConfig.java" timestamp="1492048658617">
+        <mark key="'" line="16" column="63" />
+      </file>
       <file name="$USER_HOME$/workspace/search/search_web/src/test/java/com/mx/server/search/TestCase.java" timestamp="1491463163947">
         <mark key="'" line="221" column="0" />
       </file>
@@ -425,8 +431,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="0" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
-      <jump line="71" column="0" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
       <jump line="73" column="17" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
       <jump line="79" column="58" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
       <jump line="42" column="30" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/ScoreAlgorithm.java" />
@@ -525,6 +529,8 @@
       <jump line="107" column="33" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/doc/DocAttr.java" />
       <jump line="41" column="45" filename="$USER_HOME$/workspace/zest/src/main/java/moud/Sec.java" />
       <jump line="70" column="0" filename="$USER_HOME$/workspace/zest/src/main/java/moud/Sec.java" />
+      <jump line="16" column="63" filename="$USER_HOME$/workspace/search_tool/src/main/java/com/mx/server/search/tool/common/ServerConfig.java" />
+      <jump line="26" column="20" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/index/IndexInfoArr.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
