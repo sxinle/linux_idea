@@ -35,6 +35,7 @@
       <file name="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/concurrent/Future.scala" timestamp="1490940543678">
         <mark key="'" line="92" column="6" />
       </file>
+      <file name="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/nio/HeapByteBuffer.java" timestamp="1492134786273" />
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsRXTSearcher.java" timestamp="1490345488859">
         <mark key="'" line="14" column="13" />
       </file>
@@ -159,6 +160,7 @@
       <file name="$USER_HOME$/workspace/search_tool/src/test/java/com/mx/server/search/tool/PoiIndexBuilder.java" timestamp="1492081899234">
         <mark key="'" line="85" column="18" />
       </file>
+      <file name="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/nio/ByteBuffer.java" timestamp="1492134141003" />
       <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/models/IdWithTerms.java" timestamp="1491554309507">
         <mark key="'" line="56" column="0" />
       </file>
@@ -280,12 +282,12 @@
       <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.0.2.Final/hibernate-core-5.0.2.Final-sources.jar!/org/hibernate/dialect/MySQLDialect.java" timestamp="1491974630981">
         <mark key="'" line="41" column="37" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" timestamp="1492132697814">
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" timestamp="1492134901758">
         <mark key="'" line="995" column="18" />
-        <mark key="[" line="1180" column="23" />
-        <mark key="]" line="1180" column="35" />
-        <mark key="." line="1180" column="35" />
-        <mark key="^" line="1180" column="35" />
+        <mark key="[" line="1190" column="0" />
+        <mark key="]" line="1190" column="0" />
+        <mark key="." line="1190" column="0" />
+        <mark key="^" line="1189" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsRTXSearcher.java" timestamp="1491815563079">
         <mark key="'" line="15" column="13" />
@@ -298,6 +300,7 @@
         <mark key="]" line="18" column="1" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/nio/Buffer.java" timestamp="1492134179677" />
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" timestamp="1491988004682">
         <mark key="[" line="67" column="95" />
         <mark key="]" line="67" column="96" />
@@ -392,8 +395,12 @@
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/BaseSearcher.java" timestamp="1491792472342">
-        <mark key="'" line="213" column="0" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/BaseSearcher.java" timestamp="1492133734517">
+        <mark key="'" line="214" column="0" />
+        <mark key="[" line="67" column="48" />
+        <mark key="]" line="67" column="65" />
+        <mark key="." line="67" column="65" />
+        <mark key="^" line="67" column="65" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/UserInputPreHandler.java" timestamp="1488850097687">
         <mark key="[" line="7" column="32" />
@@ -474,7 +481,7 @@
       <file name="$USER_HOME$/workspace/search/search_web/src/main/java/com/mx/server/search/web/UnitTestProxy.java" timestamp="1491463319987">
         <mark key="'" line="58" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1492088737996">
+      <file name="/fragment.java" timestamp="1492134695103">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="7" />
@@ -596,57 +603,56 @@
         <text>term</text>
       </register>
       <register name="-" type="4">
-        <text>list.size()</text>
+        <text>reset();</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvZmZzZXRcPg==</text>
+        <text>hotList</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1uZy53cml0ZShCeXRlQnVmZmVyLmFsbG9jYXRlKDQpLnB1dEludChvZmZzZXQpLmFycmF5KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMaXN0PElkV2l0aFRlcm1zPiBob3RMaXN0ID0gaG90UG9pU2VhcmNoZXIuZ2V0Q29tcGxldGVJZHMoYmFzZUhvdExpc3QpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBidWYuZ2V0KHBvc3MsIG9mZnNldCwgc2l6ZSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
+        <text encoding="base64">ICAgICAgICBidWYuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBidWYuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1uZy53cml0ZShCeXRlQnVmZmVyLmFsbG9jYXRlKDQpLnB1dEludChvZmZzZXQpLmFycmF5KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBidWYucmV3aW5kKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZih2YWxpZFNpemUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICBpZiAocG9zTWFwLnNpemUoKSA+IDApIHsKICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsKICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKCEoaW5kZXhbSW5kZXhJbmZvQXJyLlRFUk1fS0VZX0FMSUFTX1BJTllJTl0gIT0gbnVsbCAmJiAoaW5kZXhbSW5kZXhJbmZvQXJyLlRFUk1fS0VZX0FMSUFTX1BJTllJTl1bMF0gJiAwWEZGKSA+PSBmcmVxdWVuY3kpKSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKCEoaW5kZXhbSW5kZXhJbmZvQXJyLlRFUk1fS0VZX0FMSUFTX1BJTllJTl0gIT0gbnVsbCAmJiAoaW5kZXhbSW5kZXhJbmZvQXJyLlRFUk1fS0VZX0FMSUFTX1BJTllJTl1bMF0gJiAwWEZGKSA+PSBmcmVxdWVuY3kpKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1uZy53cml0ZShCeXRlQnVmZmVyLmFsbG9jYXRlKDQpLnB1dEludChvZmZzZXQpLmFycmF5KCkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKCEoaW5kZXhbSW5kZXhJbmZvQXJyLlRFUk1fS0VZX1BZXSAhPSBudWxsICYmIChpbmRleFtJbmRleEluZm9BcnIuVEVSTV9LRVlfUFldWzBdICYgMFhGRikgPj0gZnJlcXVlbmN5KSkgewo=</text>
+        <text encoding="base64">ICAgICAgICBpZih2YWxpZFNpemUpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvZmZzZXRcPg==</last-search>
+      <last-search>hotList</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvZmZzZXRcPg==</last-pattern>
+      <last-pattern>hotList</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>getLimi</entry>
         <entry>index</entry>
         <entry>welcome</entry>
         <entry>not found</entry>
@@ -666,6 +672,7 @@
         <entry encoding="base64">XDxpbmRleFw+</entry>
         <entry encoding="base64">XDxtbmdMZW5cPg==</entry>
         <entry encoding="base64">XDxvZmZzZXRcPg==</entry>
+        <entry>hotList</entry>
       </history-search>
       <history-cmd>
         <entry>action EditorIncreaseFontSize</entry>
