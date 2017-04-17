@@ -156,6 +156,9 @@
       <file name="$USER_HOME$/workspace/search_tool/src/test/java/com/mx/server/search/tool/PoiIndexBuilder.java" timestamp="1492081899234">
         <mark key="'" line="85" column="18" />
       </file>
+      <file name="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/util/HashMap.java" timestamp="1492410104782">
+        <mark key="'" line="337" column="40" />
+      </file>
       <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/models/IdWithTerms.java" timestamp="1491554309507">
         <mark key="'" line="56" column="0" />
       </file>
@@ -279,12 +282,12 @@
       <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.0.2.Final/hibernate-core-5.0.2.Final-sources.jar!/org/hibernate/dialect/MySQLDialect.java" timestamp="1491974630981">
         <mark key="'" line="41" column="37" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" timestamp="1492408829199">
-        <mark key="'" line="895" column="25" />
-        <mark key="[" line="964" column="32" />
-        <mark key="]" line="964" column="31" />
-        <mark key="^" line="964" column="31" />
-        <mark key="." line="964" column="31" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" timestamp="1492411288090">
+        <mark key="'" line="968" column="27" />
+        <mark key="[" line="975" column="31" />
+        <mark key="]" line="975" column="74" />
+        <mark key="^" line="1218" column="35" />
+        <mark key="." line="1218" column="35" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsRTXSearcher.java" timestamp="1491815563079">
         <mark key="'" line="15" column="13" />
@@ -296,6 +299,9 @@
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="1" />
         <mark key="." line="18" column="0" />
+      </file>
+      <file name="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/nio/Buffer.java" timestamp="1492411677393">
+        <mark key="'" line="201" column="10" />
       </file>
       <file name="/SemanticsXSearcher.java" timestamp="1491358441959">
         <mark key="'" line="187" column="0" />
@@ -338,6 +344,7 @@
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsBaseSearcher.java" timestamp="1492058015038">
         <mark key="'" line="221" column="20" />
       </file>
+      <file name="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/lang/Long.java" timestamp="1492410067058" />
       <file name="$USER_HOME$/workspace/uauth/src/main/java/com/mx/server/buss/admin/service/impl/TMCRoadService.java" timestamp="1489718591079">
         <mark key="[" line="50" column="0" />
         <mark key="]" line="50" column="0" />
@@ -411,7 +418,7 @@
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/NiceCntSetter.java" timestamp="1491554617567">
         <mark key="'" line="47" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1492396592317">
+      <file name="/Dummy.txt" timestamp="1492410586934">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="25" />
         <mark key="." line="3" column="25" />
@@ -473,9 +480,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="124" column="36" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
-      <jump line="125" column="12" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
-      <jump line="28" column="17" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/index/IndexInfoArr.java" />
       <jump line="49" column="0" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/index/IndexInfoArr.java" />
       <jump line="62" column="25" filename="$USER_HOME$/workspace/zest/src/main/java/moud/Sec.java" />
       <jump line="37" column="50" filename="$USER_HOME$/workspace/zest/src/main/java/moud/Sec.java" />
@@ -573,6 +577,9 @@
       <jump line="1172" column="25" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
       <jump line="894" column="25" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
       <jump line="31" column="0" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/index/IndexInfoArr.java" />
+      <jump line="337" column="40" filename="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/util/HashMap.java" />
+      <jump line="968" column="27" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
+      <jump line="201" column="10" filename="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/nio/Buffer.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -582,13 +589,13 @@
         <text>term</text>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>poss</text>
       </register>
       <register name="/" type="4">
         <text>getterm</text>
       </register>
       <register name="0" type="4">
-        <text>getFieldDocIdArr</text>
+        <text>bitSet.get(IndexInfoArr.TERM_KEY_SHORT_NAME)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmbGFnCg==</text>
