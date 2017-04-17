@@ -98,8 +98,8 @@
       <file name="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/util/TreeMap.java" timestamp="1490759040501">
         <mark key="'" line="149" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/index/IndexInfoArr.java" timestamp="1492088137663">
-        <mark key="'" line="61" column="28" />
+      <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/index/IndexInfoArr.java" timestamp="1492398967291">
+        <mark key="'" line="31" column="0" />
         <mark key="[" line="63" column="0" />
         <mark key="]" line="64" column="31" />
         <mark key="^" line="64" column="31" />
@@ -283,12 +283,12 @@
       <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.0.2.Final/hibernate-core-5.0.2.Final-sources.jar!/org/hibernate/dialect/MySQLDialect.java" timestamp="1491974630981">
         <mark key="'" line="41" column="37" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" timestamp="1492152616990">
-        <mark key="'" line="1225" column="0" />
-        <mark key="[" line="1179" column="0" />
-        <mark key="]" line="1179" column="0" />
-        <mark key="^" line="1182" column="11" />
-        <mark key="." line="1179" column="0" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" timestamp="1492399487920">
+        <mark key="'" line="895" column="25" />
+        <mark key="[" line="910" column="27" />
+        <mark key="]" line="910" column="42" />
+        <mark key="^" line="1183" column="11" />
+        <mark key="." line="989" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsRTXSearcher.java" timestamp="1491815563079">
         <mark key="'" line="15" column="13" />
@@ -480,11 +480,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="40" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/RevAndMatchSetter.java" />
-      <jump line="89" column="40" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/RevAndMatchSetter.java" />
-      <jump line="131" column="32" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/RevAndMatchSetter.java" />
-      <jump line="1189" column="25" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
-      <jump line="122" column="27" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
       <jump line="124" column="36" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
       <jump line="125" column="12" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
       <jump line="28" column="17" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/index/IndexInfoArr.java" />
@@ -580,6 +575,11 @@
       <jump line="158" column="38" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/BaseSearcher.java" />
       <jump line="212" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/BaseSearcher.java" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/search/pom.xml" />
+      <jump line="861" column="10" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
+      <jump line="909" column="35" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
+      <jump line="1172" column="25" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
+      <jump line="894" column="25" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
+      <jump line="31" column="0" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/index/IndexInfoArr.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -592,25 +592,25 @@
         <text>&quot;INBOX&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>skip</text>
+        <text>getterm</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRm9sZGVyIGluYm94ID0gc3RvcmUuZ2V0Rm9sZGVyKCJJbmJveCIpOwo=</text>
+      <register name="0" type="4">
+        <text>getFieldDocIdArr</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL0xpc3Q8SWRXaXRoVGVybXM+IGhvdExpc3QxID0gbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMaXN0PElkV2l0aFRlcm1zPiBob3RMaXN0ID0gbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL0xpc3Q8SWRXaXRoVGVybXM+IGhvdExpc3QxID0gbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1zZy5nZXRGcm9tKClbMF0uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMaXN0PElkV2l0aFRlcm1zPiBob3RMaXN0ID0gbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RvcmUuY29ubmVjdChnZXRzKEJfSCksIHh1KyJAbWVpeGluZy5jb20iLCB4cCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1zZy5nZXRGcm9tKClbMF0uCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RvcmUuY29ubmVjdChnZXRzKEJfSCksIHh1KyJAbWVpeGluZy5jb20iLCB4cCk7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -619,19 +619,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgb2Zmc2V0ID0gMDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBpbnQgb2Zmc2V0ID0gMDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>skip</last-search>
+      <last-search>getterm</last-search>
       <last-offset />
-      <last-pattern>skip</last-pattern>
+      <last-pattern>getterm</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -639,8 +639,6 @@
     </search>
     <history>
       <history-search>
-        <entry>not found</entry>
-        <entry>searchLimit</entry>
         <entry>searchLi</entry>
         <entry>configLimit</entry>
         <entry>code</entry>
@@ -659,6 +657,8 @@
         <entry encoding="base64">XDxpbmRleFw+</entry>
         <entry encoding="base64">XDxJTkJPWFw+</entry>
         <entry>skip</entry>
+        <entry>signFalse</entry>
+        <entry>getterm</entry>
       </history-search>
       <history-cmd>
         <entry>action EditorIncreaseFontSize</entry>
