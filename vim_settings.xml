@@ -166,6 +166,10 @@
       <file name="$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/Assert.java" timestamp="1491457570610">
         <mark key="'" line="629" column="23" />
       </file>
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/MeasureUtil.java" timestamp="1492566193479">
+        <mark key="[" line="23" column="30" />
+        <mark key="]" line="23" column="48" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.2/commons-logging-1.2-sources.jar!/org/apache/commons/logging/LogFactory.java" timestamp="1491391962190">
         <mark key="'" line="653" column="22" />
       </file>
@@ -296,11 +300,11 @@
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsRTXSearcher.java" timestamp="1491815563079">
         <mark key="'" line="15" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/MeasureUtilTest.java" timestamp="1492520384716">
-        <mark key="[" line="18" column="74" />
-        <mark key="]" line="18" column="79" />
-        <mark key="^" line="18" column="79" />
-        <mark key="." line="18" column="79" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/MeasureUtilTest.java" timestamp="1492566158543">
+        <mark key="[" line="12" column="5" />
+        <mark key="]" line="12" column="8" />
+        <mark key="." line="12" column="8" />
+        <mark key="^" line="12" column="8" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-api/2.2/log4j-api-2.2.jar!/org/apache/logging/log4j/LogManager.class" timestamp="1491389653814">
         <mark key="'" line="24" column="13" />
@@ -455,7 +459,7 @@
       <file name="$USER_HOME$/workspace/search/search_web/src/main/java/com/mx/server/search/web/UnitTestProxy.java" timestamp="1491463319987">
         <mark key="'" line="58" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1492519610626">
+      <file name="/fragment.java" timestamp="1492566148256">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="7" />
@@ -577,40 +581,40 @@
         <text>term</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;test&quot;</text>
+        <text>InjectMocks</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQQVJTSU5HX05VTUJFUlw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8cGx1Z2luTWFuYWdlbWVudD4KICAgICAgICAgICAgPHBsdWdpbnM+CiAgICAgICAgICAgICAgICA8cGx1Z2luPgogICAgICAgICAgICAgICAgICAgIDxncm91cElkPm9yZy5hcGFjaGUubWF2ZW4ucGx1Z2luczwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5tYXZlbi1jb21waWxlci1wbHVnaW48L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICAgICAgPHZlcnNpb24+My42LjA8L3ZlcnNpb24+CiAgICAgICAgICAgICAgICAgICAgPGNvbmZpZ3VyYXRpb24+CiAgICAgICAgICAgICAgICAgICAgICAgIDxzb3VyY2U+MS44PC9zb3VyY2U+CiAgICAgICAgICAgICAgICAgICAgICAgIDx0YXJnZXQ+MS44PC90YXJnZXQ+CiAgICAgICAgICAgICAgICAgICAgICAgIDxlbmNvZGluZz51dGY4PC9lbmNvZGluZz4KICAgICAgICAgICAgICAgICAgICA8L2NvbmZpZ3VyYXRpb24+CiAgICAgICAgICAgICAgICA8L3BsdWdpbj4KICAgICAgICAgICAgICAgIDxwbHVnaW4+CiAgICAgICAgICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmFwYWNoZS5tYXZlbi5wbHVnaW5zPC9ncm91cElkPgogICAgICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPm1hdmVuLXN1cmVmaXJlLXBsdWdpbjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgICAgICA8dmVyc2lvbj4yLjEyLjQ8L3ZlcnNpb24+CiAgICAgICAgICAgICAgICAgICAgPGNvbmZpZ3VyYXRpb24+CiAgICAgICAgICAgICAgICAgICAgICAgIDxza2lwVGVzdHM+dHJ1ZTwvc2tpcFRlc3RzPgogICAgICAgICAgICAgICAgICAgIDwvY29uZmlndXJhdGlvbj4KICAgICAgICAgICAgICAgIDwvcGx1Z2luPgogICAgICAgICAgICAgICAgPHBsdWdpbj4KICAgICAgICAgICAgICAgICAgICA8Z3JvdXBJZD5vcmcuY29kZWhhdXMubW9qbzwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5jb2JlcnR1cmEtbWF2ZW4tcGx1Z2luPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjIuNzwvdmVyc2lvbj4KICAgICAgICAgICAgICAgIDwvcGx1Z2luPgogICAgICAgICAgICA8L3BsdWdpbnM+CiAgICAgICAgPC9wbHVnaW5NYW5hZ2VtZW50Pgo=</text>
+      <register name="0" type="4">
+        <text>ProceedingJoinPoint</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRvY0lkcyA9IFNvcnRlci5zb3J0KGRvY0lkcywgKQo=</text>
+        <text encoding="base64">ICAgICAgICBQb3dlck1vY2tpdG8ud2hlbihwcm9jZWVkaW5nSm9pblBvaW50LmdldFNpZ25hdHVyZSgpLmdldE5hbWUoKSkudGhlblJldHVybigidGVzdFNpZ25hdHVyZSIpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBQb3dlck1vY2tpdG8ud2hlbihwcm9jZWVkaW5nSm9pblBvaW50LmdldFRhcmdldCgpKS50aGVuUmV0dXJuKCJ0ZXN0Iik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBQb3dlck1vY2sK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBXaGVuCg==</text>
+        <text encoding="base64">ICAgICAgICBQb3dtbwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QFJ1bldpdGgoKQo=</text>
+        <text encoding="base64">ICAgICAgICBQb3dlck1vY2tpdG8ud2hlbihwcm9jZWVkaW5nSm9pblBvaW50LmdldFRhcmdldCgpKS50aGVuUmV0dXJuKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBNb2NrCiAgICBwcml2YXRlIEdlbmVyaWNDb250Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRvY0lkcyA9IFNvcnRlci5zb3J0KGRvY0lkcywgKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICLkuInljYPljYMiLAo=</text>
+        <text encoding="base64">ICAgICAgICBQb3dlck1vY2tpdG8ud2hlbihwcm9jZWVkaW5nSm9pblBvaW50LmdldFRhcmdldCgpKS50aGVuUmV0dXJuKCJ0ZXN0Iik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICLljYHkuozkur8iLAo=</text>
+        <text encoding="base64">ICAgICAgICBXaGVuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICLkuInljYHljYMiLAo=</text>
+        <text encoding="base64">QFJ1bldpdGgoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICLkuInnmb7ljYMiLAo=</text>
+        <text encoding="base64">ICAgIEBNb2NrCiAgICBwcml2YXRlIEdlbmVyaWNDb250Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
