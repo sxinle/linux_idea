@@ -75,8 +75,8 @@
       <file name="$USER_HOME$/workspace/search/search_api/src/test/java/com/mx/server/search/api/ControllerTest.java" timestamp="1492570763824">
         <mark key="'" line="149" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/CacheManager.java" timestamp="1492060423431">
-        <mark key="'" line="48" column="0" />
+      <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/CacheManager.java" timestamp="1492665714187">
+        <mark key="^" line="46" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsTSearcher.java" timestamp="1492506205107">
         <mark key="'" line="14" column="13" />
@@ -96,12 +96,6 @@
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/TermsSetter.java" timestamp="1490856845790">
         <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/doc/DocAttr.java" timestamp="1492584467681">
-        <mark key="'" line="119" column="11" />
-        <mark key="]" line="116" column="3" />
-        <mark key="^" line="116" column="3" />
-        <mark key="." line="116" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_web/src/test/java/com/mx/server/search/OldCGITest.java" timestamp="1491463151924">
         <mark key="'" line="80" column="0" />
@@ -140,12 +134,12 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" timestamp="1492659868266">
-        <mark key="'" line="168" column="20" />
-        <mark key="[" line="167" column="36" />
-        <mark key="]" line="167" column="37" />
-        <mark key="." line="167" column="37" />
-        <mark key="^" line="167" column="36" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" timestamp="1492665938334">
+        <mark key="'" line="174" column="53" />
+        <mark key="[" line="173" column="90" />
+        <mark key="]" line="174" column="40" />
+        <mark key="." line="174" column="40" />
+        <mark key="^" line="174" column="40" />
       </file>
       <file name="$USER_HOME$/workspace/red/app/models/DbFactory.scala" timestamp="1490010277743">
         <mark key="[" line="7" column="16" />
@@ -286,6 +280,9 @@
       <file name="$USER_HOME$/workspace/search_tool/src/main/java/com/mx/server/search/tool/service/impl/SerializeServiceImpl.java" timestamp="1492073169695">
         <mark key="'" line="68" column="23" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/amqp/spring-amqp/1.4.5.RELEASE/spring-amqp-1.4.5.RELEASE.jar!/org/springframework/amqp/utils/test/TestUtils.class" timestamp="1492665554270">
+        <mark key="'" line="43" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/thirdpart/task_weather/pom.xml" timestamp="1490257185932">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -306,12 +303,12 @@
       <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.0.2.Final/hibernate-core-5.0.2.Final-sources.jar!/org/hibernate/dialect/MySQLDialect.java" timestamp="1491974630981">
         <mark key="'" line="41" column="37" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" timestamp="1492659785081">
-        <mark key="'" line="307" column="24" />
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="0" column="37" />
-        <mark key="." line="236" column="27" />
-        <mark key="^" line="236" column="27" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" timestamp="1492665780845">
+        <mark key="'" line="329" column="24" />
+        <mark key="[" line="125" column="0" />
+        <mark key="]" line="125" column="0" />
+        <mark key="." line="125" column="0" />
+        <mark key="^" line="125" column="47" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsRTXSearcher.java" timestamp="1491815563079">
         <mark key="'" line="15" column="13" />
@@ -411,6 +408,11 @@
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/NiceCntSetter.java" timestamp="1492594070200">
         <mark key="'" line="47" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/TestUtil.java" timestamp="1492665700193">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1492657270458">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="25" />
@@ -473,10 +475,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
-      <jump line="1219" column="25" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
-      <jump line="28" column="16" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
-      <jump line="903" column="29" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
       <jump line="926" column="12" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
       <jump line="1002" column="51" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
       <jump line="80" column="25" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
@@ -573,6 +571,10 @@
       <jump line="166" column="18" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
       <jump line="307" column="24" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
       <jump line="168" column="20" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
+      <jump line="24" column="13" filename="$MAVEN_REPOSITORY$/org/springframework/amqp/spring-amqp/1.4.5.RELEASE/spring-amqp-1.4.5.RELEASE.jar!/org/springframework/amqp/utils/test/TestUtils.class" />
+      <jump line="43" column="0" filename="$MAVEN_REPOSITORY$/org/springframework/amqp/spring-amqp/1.4.5.RELEASE/spring-amqp-1.4.5.RELEASE.jar!/org/springframework/amqp/utils/test/TestUtils.class" />
+      <jump line="52" column="28" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/CacheManager.java" />
+      <jump line="174" column="53" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -582,40 +584,40 @@
         <text>term</text>
       </register>
       <register name="-" type="4">
-        <text>Utility.getstar</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>1</text>
       </register>
       <register name="0" type="4">
-        <text>com.mx.server.search.core.util</text>
+        <text>TestUtil</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBPdXRsaW5lVGV4dFJlbmRlcmVyCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20ubXguc2VydmVyLnNlYXJjaC5jb3JlLnV0aWwuVXRpbGl0eS4qOwo=</text>
+        <text encoding="base64">ICAgICAgICBUZXN0VXRpbAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PEludGVnZXI+IHJldCA9IFV0aWxpdHkuZ2V0U3ViTGlzdChsaXN0LCAwLCA1KTsK</text>
+        <text encoding="base64">ICAgIC8qKiBmb3IgSnVuaXQgVGVzdCAqLwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBnZXRzdWIK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpbml0U2luZ2xlTWFwKFN0cmluZyBtYXBOYW1lKSB7CiAgICAgICAgU3RyaW5nIHBhdGggPSBTZXJ2ZXJDb25maWcuY2ZnLmRhdGFTZXJpYWxpemVQYXRoKCk7CiAgICAgICAgU3RyaW5nIHN1ZmZpeCA9ICIub2JqIjsKICAgICAgICBmaW5hbCBLcnlvIGtyeW8gPSBuZXcgS3J5bygpOwogICAgICAgIEFycmF5cy5zdHJlYW0oQ2FjaGVNYW5hZ2VyLmNsYXNzLmdldERlY2xhcmVkQ2xhc3NlcygpKS5mb3JFYWNoKGlubmVyQ2xhenogLT4gQXJyYXlzLnN0cmVhbShpbm5lckNsYXp6LmdldERlY2xhcmVkRmllbGRzKCkpLmZvckVhY2gobWFwRmllbGQgLT4gewogICAgICAgICAgICBpZiAobWFwRmllbGQuZ2V0TmFtZSgpLmVxdWFscyhtYXBOYW1lKSkgewogICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLliJ3lp4vljJYiICsgbWFwTmFtZSArICIuLi4uLi4iKTsKICAgICAgICAgICAgICAgIElucHV0IGlucHV0ID0gbnVsbDsKICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgRmlsZSBmaWxlID0gbmV3IEZpbGUocGF0aCArIG1hcEZpZWxkLmdldE5hbWUoKSArIHN1ZmZpeCk7CiAgICAgICAgICAgICAgICAgICAgaW5wdXQgPSBuZXcgSW5wdXQobmV3IEZpbGVJbnB1dFN0cmVhbShmaWxlKSk7CiAgICAgICAgICAgICAgICAgICAgbWFwRmllbGQuc2V0KG51bGwsIGtyeW8ucmVhZE9iamVjdChpbnB1dCwgKENsYXNzKSBtYXBGaWVsZC5nZXRUeXBlKCkpKTsKICAgICAgICAgICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICAgICAgICAgIH0gZmluYWxseSB7CiAgICAgICAgICAgICAgICAgICAgaWYgKG51bGwgIT0gaW5wdXQpCiAgICAgICAgICAgICAgICAgICAgICAgIGlucHV0LmNsb3NlKCk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9KSk7CiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBDYWNoZU1hbmFnZXIuVXRpbENhY2hlLmFNZW51TGlzdAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRlc3RVdGlsLmluaQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">bmV3IEFycmF5TGlzdDxTdWJzdGl0dXRlSW5mbz4oKSB7ewogICAgICAgICAgICAgICAgYWRkKHMxKTsKICAgICAgICAgICAgICAgIGFkZChzMik7CiAgICAgICAgICAgIH19</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IEFycmF5TGlzdDxTdWJzdGl0dXRlSW5mbz4oKSB7ewogICAgICAgICAgICAgICAgYWRkKHMxKTsKICAgICAgICAgICAgICAgIGFkZChzMik7CiAgICAgICAgICAgIH19Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgSW5wdXQgaW5wdXQgPSBudWxsOwogICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgRmlsZSBmaWxlID0gbmV3IEZpbGUocGF0aCArIG1hcEZpZWxkLmdldE5hbWUoKSArIHN1ZmZpeCk7CiAgICAgICAgICAgICAgICBpbnB1dCA9IG5ldyBJbnB1dChuZXcgRmlsZUlucHV0U3RyZWFtKGZpbGUpKTsKICAgICAgICAgICAgICAgIG1hcEZpZWxkLnNldChudWxsLCBrcnlvLnJlYWRPYmplY3QoaW5wdXQsIChDbGFzcykgbWFwRmllbGQuZ2V0VHlwZSgpKSk7CiAgICAgICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgICAgICB9IGZpbmFsbHkgewogICAgICAgICAgICAgICAgaWYgKG51bGwgIT0gaW5wdXQpCiAgICAgICAgICAgICAgICAgICAgaW5wdXQuY2xvc2UoKTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
