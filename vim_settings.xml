@@ -134,12 +134,12 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" timestamp="1492665938334">
-        <mark key="'" line="174" column="53" />
-        <mark key="[" line="173" column="90" />
-        <mark key="]" line="174" column="40" />
-        <mark key="." line="174" column="40" />
-        <mark key="^" line="174" column="40" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" timestamp="1492667232727">
+        <mark key="'" line="210" column="52" />
+        <mark key="[" line="210" column="42" />
+        <mark key="]" line="210" column="42" />
+        <mark key="." line="210" column="51" />
+        <mark key="^" line="210" column="72" />
       </file>
       <file name="$USER_HOME$/workspace/red/app/models/DbFactory.scala" timestamp="1490010277743">
         <mark key="[" line="7" column="16" />
@@ -203,8 +203,8 @@
         <mark key="." line="64" column="30" />
         <mark key="^" line="64" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/KeywordSearcher.java" timestamp="1492655987465">
-        <mark key="'" line="156" column="24" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/KeywordSearcher.java" timestamp="1492667315443">
+        <mark key="'" line="193" column="15" />
         <mark key="[" line="0" column="8" />
         <mark key="]" line="0" column="38" />
         <mark key="^" line="172" column="125" />
@@ -264,7 +264,6 @@
       <file name="$USER_HOME$/.share/PEUSClient_trunk/classes/artifacts/PEUSClient_war_exploded/WEB-INF/classes/applicationContext.xml" timestamp="1491980376813">
         <mark key="'" line="173" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.7.3/jackson-databind-2.7.3-sources.jar!/com/fasterxml/jackson/databind/deser/DeserializerCache.java" timestamp="1492655144799" />
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Constants.java" timestamp="1492514499175">
         <mark key="'" line="121" column="0" />
       </file>
@@ -303,7 +302,7 @@
       <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.0.2.Final/hibernate-core-5.0.2.Final-sources.jar!/org/hibernate/dialect/MySQLDialect.java" timestamp="1491974630981">
         <mark key="'" line="41" column="37" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" timestamp="1492665780845">
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" timestamp="1492666495720">
         <mark key="'" line="329" column="24" />
         <mark key="[" line="125" column="0" />
         <mark key="]" line="125" column="0" />
@@ -323,6 +322,11 @@
       </file>
       <file name="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/nio/Buffer.java" timestamp="1492411677393">
         <mark key="'" line="201" column="10" />
+      </file>
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" timestamp="1492667302474">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="/SemanticsXSearcher.java" timestamp="1491358441959">
         <mark key="'" line="187" column="0" />
@@ -432,14 +436,11 @@
         <mark key="]" line="11" column="24" />
         <mark key="." line="11" column="24" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/powermock/powermock-core/1.6.2/powermock-core-1.6.2-sources.jar!/org/powermock/tests/utils/impl/StaticConstructorSuppressExtractorImpl.java" timestamp="1492656819069" />
       <file name="$USER_HOME$/workspace/red/build.sbt" timestamp="1490843488683">
         <mark key="[" line="8" column="28" />
         <mark key="]" line="8" column="28" />
         <mark key="." line="8" column="28" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.4.2/jackson-core-2.4.2-sources.jar!/com/fasterxml/jackson/core/type/ResolvedType.java" timestamp="1492654535302" />
-      <file name="$MAVEN_REPOSITORY$/org/powermock/powermock-core/1.6.2/powermock-core-1.6.2-sources.jar!/org/powermock/core/classloader/MockClassLoader.java" timestamp="1492654869301" />
       <file name="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-api/2.2/log4j-api-2.2-sources.jar!/org/apache/logging/log4j/LogManager.java" timestamp="1491390394289">
         <mark key="'" line="45" column="13" />
       </file>
@@ -462,7 +463,7 @@
       <file name="$USER_HOME$/workspace/search/search_web/src/main/java/com/mx/server/search/web/UnitTestProxy.java" timestamp="1491463319987">
         <mark key="'" line="58" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1492657021062">
+      <file name="/fragment.java" timestamp="1492666314218">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="7" />
@@ -475,9 +476,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="926" column="12" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
-      <jump line="1002" column="51" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
-      <jump line="80" column="25" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
       <jump line="924" column="153" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
       <jump line="927" column="30" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
       <jump line="1211" column="32" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
@@ -575,6 +573,9 @@
       <jump line="43" column="0" filename="$MAVEN_REPOSITORY$/org/springframework/amqp/spring-amqp/1.4.5.RELEASE/spring-amqp-1.4.5.RELEASE.jar!/org/springframework/amqp/utils/test/TestUtils.class" />
       <jump line="52" column="28" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/CacheManager.java" />
       <jump line="174" column="53" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
+      <jump line="199" column="50" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
+      <jump line="210" column="52" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
+      <jump line="193" column="15" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/KeywordSearcher.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -584,49 +585,49 @@
         <text>term</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>1</text>
+        <text>maper</text>
       </register>
-      <register name="0" type="4">
-        <text>TestUtil</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYWRkKCLphZLlupciKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBPdXRsaW5lVGV4dFJlbmRlcmVyCg==</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20ubXguc2VydmVyLnNlYXJjaC5jb3JlLmF1dG9uYXZpLkFtYXBTZWFyY2hlci5tYXBwZXI7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBUZXN0VXRpbAo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oaWRzLnNpemUoKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8qKiBmb3IgSnVuaXQgVGVzdCAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpbml0U2luZ2xlTWFwKFN0cmluZyBtYXBOYW1lKSB7CiAgICAgICAgU3RyaW5nIHBhdGggPSBTZXJ2ZXJDb25maWcuY2ZnLmRhdGFTZXJpYWxpemVQYXRoKCk7CiAgICAgICAgU3RyaW5nIHN1ZmZpeCA9ICIub2JqIjsKICAgICAgICBmaW5hbCBLcnlvIGtyeW8gPSBuZXcgS3J5bygpOwogICAgICAgIEFycmF5cy5zdHJlYW0oQ2FjaGVNYW5hZ2VyLmNsYXNzLmdldERlY2xhcmVkQ2xhc3NlcygpKS5mb3JFYWNoKGlubmVyQ2xhenogLT4gQXJyYXlzLnN0cmVhbShpbm5lckNsYXp6LmdldERlY2xhcmVkRmllbGRzKCkpLmZvckVhY2gobWFwRmllbGQgLT4gewogICAgICAgICAgICBpZiAobWFwRmllbGQuZ2V0TmFtZSgpLmVxdWFscyhtYXBOYW1lKSkgewogICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLliJ3lp4vljJYiICsgbWFwTmFtZSArICIuLi4uLi4iKTsKICAgICAgICAgICAgICAgIElucHV0IGlucHV0ID0gbnVsbDsKICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgRmlsZSBmaWxlID0gbmV3IEZpbGUocGF0aCArIG1hcEZpZWxkLmdldE5hbWUoKSArIHN1ZmZpeCk7CiAgICAgICAgICAgICAgICAgICAgaW5wdXQgPSBuZXcgSW5wdXQobmV3IEZpbGVJbnB1dFN0cmVhbShmaWxlKSk7CiAgICAgICAgICAgICAgICAgICAgbWFwRmllbGQuc2V0KG51bGwsIGtyeW8ucmVhZE9iamVjdChpbnB1dCwgKENsYXNzKSBtYXBGaWVsZC5nZXRUeXBlKCkpKTsKICAgICAgICAgICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICAgICAgICAgIH0gZmluYWxseSB7CiAgICAgICAgICAgICAgICAgICAgaWYgKG51bGwgIT0gaW5wdXQpCiAgICAgICAgICAgICAgICAgICAgICAgIGlucHV0LmNsb3NlKCk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9KSk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcga2V5ID0gIuS4gCI7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBDYWNoZU1hbmFnZXIuVXRpbENhY2hlLmFNZW51TGlzdAo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oaW5mby5nZXREaXN0KCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRlc3RVdGlsLmluaQo=</text>
+        <text encoding="base64">ICAgICAgICBPdXRsaW5lVGV4dFJlbmRlcmVyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBUZXN0VXRpbAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qKiBmb3IgSnVuaXQgVGVzdCAqLwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSW5wdXQgaW5wdXQgPSBudWxsOwogICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgRmlsZSBmaWxlID0gbmV3IEZpbGUocGF0aCArIG1hcEZpZWxkLmdldE5hbWUoKSArIHN1ZmZpeCk7CiAgICAgICAgICAgICAgICBpbnB1dCA9IG5ldyBJbnB1dChuZXcgRmlsZUlucHV0U3RyZWFtKGZpbGUpKTsKICAgICAgICAgICAgICAgIG1hcEZpZWxkLnNldChudWxsLCBrcnlvLnJlYWRPYmplY3QoaW5wdXQsIChDbGFzcykgbWFwRmllbGQuZ2V0VHlwZSgpKSk7CiAgICAgICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgICAgICB9IGZpbmFsbHkgewogICAgICAgICAgICAgICAgaWYgKG51bGwgIT0gaW5wdXQpCiAgICAgICAgICAgICAgICAgICAgaW5wdXQuY2xvc2UoKTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBpbml0U2luZ2xlTWFwKFN0cmluZyBtYXBOYW1lKSB7CiAgICAgICAgU3RyaW5nIHBhdGggPSBTZXJ2ZXJDb25maWcuY2ZnLmRhdGFTZXJpYWxpemVQYXRoKCk7CiAgICAgICAgU3RyaW5nIHN1ZmZpeCA9ICIub2JqIjsKICAgICAgICBmaW5hbCBLcnlvIGtyeW8gPSBuZXcgS3J5bygpOwogICAgICAgIEFycmF5cy5zdHJlYW0oQ2FjaGVNYW5hZ2VyLmNsYXNzLmdldERlY2xhcmVkQ2xhc3NlcygpKS5mb3JFYWNoKGlubmVyQ2xhenogLT4gQXJyYXlzLnN0cmVhbShpbm5lckNsYXp6LmdldERlY2xhcmVkRmllbGRzKCkpLmZvckVhY2gobWFwRmllbGQgLT4gewogICAgICAgICAgICBpZiAobWFwRmllbGQuZ2V0TmFtZSgpLmVxdWFscyhtYXBOYW1lKSkgewogICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCLliJ3lp4vljJYiICsgbWFwTmFtZSArICIuLi4uLi4iKTsKICAgICAgICAgICAgICAgIElucHV0IGlucHV0ID0gbnVsbDsKICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgRmlsZSBmaWxlID0gbmV3IEZpbGUocGF0aCArIG1hcEZpZWxkLmdldE5hbWUoKSArIHN1ZmZpeCk7CiAgICAgICAgICAgICAgICAgICAgaW5wdXQgPSBuZXcgSW5wdXQobmV3IEZpbGVJbnB1dFN0cmVhbShmaWxlKSk7CiAgICAgICAgICAgICAgICAgICAgbWFwRmllbGQuc2V0KG51bGwsIGtyeW8ucmVhZE9iamVjdChpbnB1dCwgKENsYXNzKSBtYXBGaWVsZC5nZXRUeXBlKCkpKTsKICAgICAgICAgICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICAgICAgICAgIH0gZmluYWxseSB7CiAgICAgICAgICAgICAgICAgICAgaWYgKG51bGwgIT0gaW5wdXQpCiAgICAgICAgICAgICAgICAgICAgICAgIGlucHV0LmNsb3NlKCk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9KSk7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>1</last-search>
+      <last-search>maper</last-search>
       <last-offset />
-      <last-pattern>1</last-pattern>
+      <last-pattern>maper</last-pattern>
       <last-replace>2</last-replace>
       <last-substitute>1</last-substitute>
       <last-dir>1</last-dir>
@@ -634,7 +635,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvZmZzZXRcPg==</entry>
         <entry>hotList</entry>
         <entry encoding="base64">XDxpbmRleFw+</entry>
         <entry encoding="base64">XDxJTkJPWFw+</entry>
@@ -654,6 +654,7 @@
         <entry>jackson</entry>
         <entry encoding="base64">XDx2YWx1ZVR5cGVcPg==</entry>
         <entry>1</entry>
+        <entry>maper</entry>
       </history-search>
       <history-cmd>
         <entry>action EmmetNextEditPoint</entry>
