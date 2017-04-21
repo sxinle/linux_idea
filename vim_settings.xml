@@ -139,7 +139,7 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" timestamp="1492760159277">
+      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" timestamp="1492761294175">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="307" column="0" />
         <mark key="]" line="307" column="0" />
@@ -315,8 +315,8 @@
       <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.0.2.Final/hibernate-core-5.0.2.Final-sources.jar!/org/hibernate/dialect/MySQLDialect.java" timestamp="1491974630981">
         <mark key="'" line="41" column="37" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" timestamp="1492759338138">
-        <mark key="'" line="329" column="24" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" timestamp="1492761322031">
+        <mark key="'" line="159" column="131" />
         <mark key="[" line="631" column="7" />
         <mark key="]" line="631" column="11" />
         <mark key="^" line="631" column="11" />
@@ -482,6 +482,9 @@
         <mark key="]" line="3" column="25" />
         <mark key="." line="3" column="25" />
       </file>
+      <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/models/QuickIdArray.java" timestamp="1492761507210">
+        <mark key="'" line="25" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/search/search_web/src/main/resources/spring-mvc.xml" timestamp="1491463281107">
         <mark key="'" line="38" column="0" />
       </file>
@@ -542,11 +545,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="30" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
-      <jump line="391" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
-      <jump line="469" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
-      <jump line="1251" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
-      <jump line="108" column="0" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
       <jump line="55" column="58" filename="$USER_HOME$/workspace/zest/src/main/java/moud/Sec.java" />
       <jump line="19" column="77" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
       <jump line="20" column="8" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
@@ -642,6 +640,11 @@
       <jump line="294" column="36" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
       <jump line="326" column="0" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
+      <jump line="636" column="46" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
+      <jump line="129" column="131" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
+      <jump line="159" column="131" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
+      <jump line="18" column="4" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/models/QuickIdArray.java" />
+      <jump line="25" column="0" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/models/QuickIdArray.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -654,7 +657,7 @@
         <text encoding="base64">ID09IG51bGw=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZXNzaW9uXD4=</text>
+        <text>forEa</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5teC5zZXJ2ZXIuYnVzcy5zZWN1cml0eS5lbnRpdHkuU3lzVXNlcjsKCmltcG9ydCBqYXZhLmlvLio7CmltcG9ydCBqYXZheC5zZXJ2bGV0Lio7CmltcG9ydCBqYXZheC5zZXJ2bGV0Lmh0dHAuKjsKCi8qKgogKiBDcmVhdGVkIGJ5IGhzb25nIG9uIDE1LTExLTI1LgogKi8KCnB1YmxpYyBjbGFzcyBMb2dpbkZpbHRlciBpbXBsZW1lbnRzIEZpbHRlciB7CgogICAgcHVibGljIExvZ2luRmlsdGVyKCkgewogICAgfQoKICAgIHB1YmxpYyB2b2lkIGluaXQoRmlsdGVyQ29uZmlnIGNvbmZpZykgdGhyb3dzIFNlcnZsZXRFeGNlcHRpb24gewogICAgfQoKICAgIHB1YmxpYyB2b2lkIGRvRmlsdGVyKFNlcnZsZXRSZXF1ZXN0IHJlcSwgU2VydmxldFJlc3BvbnNlIHJlc3AsIEZpbHRlckNoYWluIGNoYWluKSB0aHJvd3MgSU9FeGNlcHRpb24sIFNlcnZsZXRFeGNlcHRpb24gewogICAgICAgIEh0dHBTZXJ2bGV0UmVxdWVzdCByZXF1ZXN0ID0gKEh0dHBTZXJ2bGV0UmVxdWVzdCkgcmVxOwogICAgICAgIEh0dHBTZXJ2bGV0UmVzcG9uc2UgcmVzcG9uc2UgPSAoSHR0cFNlcnZsZXRSZXNwb25zZSkgcmVzcDsKCiAgICAgICAgU3RyaW5nIGNnaVBhdGggPSAoKEh0dHBTZXJ2bGV0UmVxdWVzdCkgcmVxKS5nZXRTZXJ2bGV0UGF0aCgpOwogICAgICAgIGJvb2xlYW4gZXhjZXB0ID0gY2dpUGF0aC5jb250YWlucygibG9naW4iKSB8fCBjZ2lQYXRoLmNvbnRhaW5zKCJ2ZXJpZnkiKSB8fCBjZ2lQYXRoLmNvbnRhaW5zKCJhdXRoQ29kZSIpOwoKICAgICAgICBpZihleGNlcHQpIHsKICAgICAgICAgICAgY2hhaW4uZG9GaWx0ZXIocmVxLCByZXNwKTsKICAgICAgICAgICAgcmV0dXJuOwogICAgICAgIH0KCiAgICAgICAgU3lzVXNlciB1c2VyID0gKFN5c1VzZXIpIHJlcXVlc3QuZ2V0U2Vzc2lvbigpLmdldEF0dHJpYnV0ZSgidXNlciIpOwogICAgICAgIGlmIChudWxsID09IHVzZXIpIHsKICAgICAgICAgICAgcmVzcG9uc2Uuc2VuZFJlZGlyZWN0KHJlcXVlc3QuZ2V0Q29udGV4dFBhdGgoKSArICIvY2dpL2FkbWluL2xvZ2luIik7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgY2hhaW4uZG9GaWx0ZXIocmVxLCByZXNwKTsKICAgICAgICB9CiAgICB9CgogICAgcHVibGljIHZvaWQgZGVzdHJveSgpIHsKICAgIH0KfQo=</text>
@@ -691,9 +694,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZXNzaW9uXD4=</last-search>
+      <last-search>forEa</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZXNzaW9uXD4=</last-pattern>
+      <last-pattern>forEa</last-pattern>
       <last-replace>2</last-replace>
       <last-substitute>1</last-substitute>
       <last-dir>1</last-dir>
@@ -701,7 +704,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxCeXRlQnVmZmVyXD4=</entry>
         <entry encoding="base64">XDxzZXRcPg==</entry>
         <entry encoding="base64">XDxzcmNcPg==</entry>
         <entry encoding="base64">XDxoek51bWJlclw+</entry>
@@ -721,6 +723,7 @@
         <entry>ByD</entry>
         <entry>scan</entry>
         <entry encoding="base64">XDxzZXNzaW9uXD4=</entry>
+        <entry>forEa</entry>
       </history-search>
       <history-cmd>
         <entry>action EmmetNextEditPoint</entry>
