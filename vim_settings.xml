@@ -139,11 +139,11 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" timestamp="1492752396673">
-        <mark key="[" line="292" column="66" />
-        <mark key="]" line="292" column="75" />
-        <mark key="." line="292" column="75" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" timestamp="1492753586505">
+        <mark key="[" line="295" column="35" />
+        <mark key="]" line="295" column="36" />
         <mark key="^" line="292" column="75" />
+        <mark key="." line="295" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/red/app/models/DbFactory.scala" timestamp="1490010277743">
         <mark key="[" line="7" column="16" />
@@ -275,6 +275,7 @@
       <file name="$USER_HOME$/.share/PEUSClient_trunk/classes/artifacts/PEUSClient_war_exploded/WEB-INF/classes/applicationContext.xml" timestamp="1491980376813">
         <mark key="'" line="173" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/uauth/src/main/java/com/mx/server/core/util/VIEW.java" timestamp="1492753932713" />
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Constants.java" timestamp="1492514499175">
         <mark key="'" line="121" column="0" />
       </file>
@@ -323,6 +324,11 @@
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsRTXSearcher.java" timestamp="1491815563079">
         <mark key="'" line="15" column="13" />
       </file>
+      <file name="$USER_HOME$/workspace/uauth/src/main/java/com/mx/server/core/misc/LoginFilter.java" timestamp="1492753996383">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="42" column="0" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-api/2.2/log4j-api-2.2.jar!/org/apache/logging/log4j/LogManager.class" timestamp="1491389653814">
         <mark key="'" line="24" column="13" />
       </file>
@@ -333,6 +339,13 @@
       </file>
       <file name="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/nio/Buffer.java" timestamp="1492411677393">
         <mark key="'" line="201" column="10" />
+      </file>
+      <file name="$USER_HOME$/workspace/uauth/src/main/java/com/mx/server/buss/admin/controller/AdminController.java" timestamp="1492753987416">
+        <mark key="'" line="125" column="95" />
+        <mark key="[" line="106" column="31" />
+        <mark key="]" line="106" column="46" />
+        <mark key="." line="106" column="46" />
+        <mark key="^" line="106" column="46" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" timestamp="1492689777444">
         <mark key="'" line="43" column="0" />
@@ -402,6 +415,9 @@
       </file>
       <file name="$USER_HOME$/workspace/red/test/ApplicationSpec.scala" timestamp="1490928877644">
         <mark key="'" line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/uauth/src/main/web/WEB-INF/web.xml" timestamp="1492753773175">
+        <mark key="'" line="121" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/ScoreRet.java" timestamp="1492692194950">
         <mark key="'" line="45" column="0" />
@@ -524,13 +540,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="343" column="93" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/HzNumberConverter.java" />
-      <jump line="351" column="93" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/HzNumberConverter.java" />
-      <jump line="365" column="73" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/HzNumberConverter.java" />
-      <jump line="269" column="19" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/HzNumberConverter.java" />
-      <jump line="442" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/HzNumberConverter.java" />
-      <jump line="38" column="46" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/HzNumberConverterTest.java" />
-      <jump line="73" column="28" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/HzNumberConverter.java" />
       <jump line="242" column="49" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/HzNumberConverter.java" />
       <jump line="22" column="19" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/CacheCheckerTest.java" />
       <jump line="12" column="0" filename="$USER_HOME$/workspace/search/pom.xml" />
@@ -624,6 +633,13 @@
       <jump line="15" column="50" filename="$USER_HOME$/.share/public-mx_weather-all-1.1.5/src/main/resources/conf/spring/spring.xml" />
       <jump line="13" column="27" filename="$USER_HOME$/.share/public-mx_weather-all-1.1.5/src/main/resources/conf/spring/spring.xml" />
       <jump line="295" column="29" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
+      <jump line="91" column="3" filename="$USER_HOME$/workspace/uauth/src/main/web/WEB-INF/web.xml" />
+      <jump line="121" column="0" filename="$USER_HOME$/workspace/uauth/src/main/web/WEB-INF/web.xml" />
+      <jump line="111" column="82" filename="$USER_HOME$/workspace/uauth/src/main/java/com/mx/server/buss/admin/controller/AdminController.java" />
+      <jump line="114" column="31" filename="$USER_HOME$/workspace/uauth/src/main/java/com/mx/server/buss/admin/controller/AdminController.java" />
+      <jump line="133" column="95" filename="$USER_HOME$/workspace/uauth/src/main/java/com/mx/server/buss/admin/controller/AdminController.java" />
+      <jump line="24" column="37" filename="$USER_HOME$/workspace/uauth/src/main/java/com/mx/server/core/misc/LoginFilter.java" />
+      <jump line="2" column="0" filename="$USER_HOME$/workspace/uauth/src/main/java/com/mx/server/core/misc/LoginFilter.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -633,22 +649,22 @@
         <text>term</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>session</text>
       </register>
       <register name="/" type="4">
-        <text>scan</text>
+        <text encoding="base64">XDxzZXNzaW9uXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsb25nW10gbG9uZ0lkcyA9IG5ldyBsb25nW117MSwgMiwgMywgNiwgOH07CiAgICAgICAgaW5kZXggPSBVdGlsaXR5LmJpbmFucnlTZWFyY2gobG9uZ0lkcywgMCwgNSwgdGFyZ2V0KTsKICAgICAgICBBc3NlcnQuYXNzZXJ0VHJ1ZShpbmRleCA9PSAyKTsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5teC5zZXJ2ZXIuYnVzcy5zZWN1cml0eS5lbnRpdHkuU3lzVXNlcjsKCmltcG9ydCBqYXZhLmlvLio7CmltcG9ydCBqYXZheC5zZXJ2bGV0Lio7CmltcG9ydCBqYXZheC5zZXJ2bGV0Lmh0dHAuKjsKCi8qKgogKiBDcmVhdGVkIGJ5IGhzb25nIG9uIDE1LTExLTI1LgogKi8KCnB1YmxpYyBjbGFzcyBMb2dpbkZpbHRlciBpbXBsZW1lbnRzIEZpbHRlciB7CgogICAgcHVibGljIExvZ2luRmlsdGVyKCkgewogICAgfQoKICAgIHB1YmxpYyB2b2lkIGluaXQoRmlsdGVyQ29uZmlnIGNvbmZpZykgdGhyb3dzIFNlcnZsZXRFeGNlcHRpb24gewogICAgfQoKICAgIHB1YmxpYyB2b2lkIGRvRmlsdGVyKFNlcnZsZXRSZXF1ZXN0IHJlcSwgU2VydmxldFJlc3BvbnNlIHJlc3AsIEZpbHRlckNoYWluIGNoYWluKSB0aHJvd3MgSU9FeGNlcHRpb24sIFNlcnZsZXRFeGNlcHRpb24gewogICAgICAgIEh0dHBTZXJ2bGV0UmVxdWVzdCByZXF1ZXN0ID0gKEh0dHBTZXJ2bGV0UmVxdWVzdCkgcmVxOwogICAgICAgIEh0dHBTZXJ2bGV0UmVzcG9uc2UgcmVzcG9uc2UgPSAoSHR0cFNlcnZsZXRSZXNwb25zZSkgcmVzcDsKCiAgICAgICAgU3RyaW5nIGNnaVBhdGggPSAoKEh0dHBTZXJ2bGV0UmVxdWVzdCkgcmVxKS5nZXRTZXJ2bGV0UGF0aCgpOwogICAgICAgIGJvb2xlYW4gZXhjZXB0ID0gY2dpUGF0aC5jb250YWlucygibG9naW4iKSB8fCBjZ2lQYXRoLmNvbnRhaW5zKCJ2ZXJpZnkiKSB8fCBjZ2lQYXRoLmNvbnRhaW5zKCJhdXRoQ29kZSIpOwoKICAgICAgICBpZihleGNlcHQpIHsKICAgICAgICAgICAgY2hhaW4uZG9GaWx0ZXIocmVxLCByZXNwKTsKICAgICAgICAgICAgcmV0dXJuOwogICAgICAgIH0KCiAgICAgICAgU3lzVXNlciB1c2VyID0gKFN5c1VzZXIpIHJlcXVlc3QuZ2V0U2Vzc2lvbigpLmdldEF0dHJpYnV0ZSgidXNlciIpOwogICAgICAgIGlmIChudWxsID09IHVzZXIpIHsKICAgICAgICAgICAgcmVzcG9uc2Uuc2VuZFJlZGlyZWN0KHJlcXVlc3QuZ2V0Q29udGV4dFBhdGgoKSArICIvY2dpL2FkbWluL2xvZ2luIik7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgY2hhaW4uZG9GaWx0ZXIocmVxLCByZXNwKTsKICAgICAgICB9CiAgICB9CgogICAgcHVibGljIHZvaWQgZGVzdHJveSgpIHsKICAgIH0KfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpbnQgaW5kZXggPSBVdGlsaXR5LmJpbmFucnlTZWFyY2goQXJyYXlzLmFzTGlzdChsb25nSWRzKSwgbmV3IExvbmcoNyksIChvMSwgbzIpIC0+ICgoTG9uZykgbzEpLmNvbXBhcmVUbygoTG9uZykgbzIpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -663,19 +679,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29wSW50ID0gMDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGNtcCA+IDApIHsKICAgICAgICAgICAgICAgIGNvcEludCA9IDE7CiAgICAgICAgICAgIH0gZWxzZSBpZiAoY21wIDwgMCkgewogICAgICAgICAgICAgICAgY29wSW50ID0gLTE7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29wSW50ID0gMDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>scan</last-search>
+      <last-search encoding="base64">XDxzZXNzaW9uXD4=</last-search>
       <last-offset />
-      <last-pattern>scan</last-pattern>
+      <last-pattern encoding="base64">XDxzZXNzaW9uXD4=</last-pattern>
       <last-replace>2</last-replace>
       <last-substitute>1</last-substitute>
       <last-dir>1</last-dir>
@@ -683,7 +699,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getterm</entry>
         <entry encoding="base64">XDxCeXRlQnVmZmVyXD4=</entry>
         <entry encoding="base64">XDxzZXRcPg==</entry>
         <entry encoding="base64">XDxzcmNcPg==</entry>
@@ -703,6 +718,7 @@
         <entry encoding="base64">XDxjbWVudU5hbWUyQ29kZU1hcFw+</entry>
         <entry>ByD</entry>
         <entry>scan</entry>
+        <entry encoding="base64">XDxzZXNzaW9uXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>action EmmetNextEditPoint</entry>
