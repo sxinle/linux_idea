@@ -178,6 +178,9 @@
       <file name="$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.2/commons-logging-1.2-sources.jar!/org/apache/commons/logging/LogFactory.java" timestamp="1491391962190">
         <mark key="'" line="653" column="22" />
       </file>
+      <file name="$USER_HOME$/.share/public-mx_weather-all-1.1.5/src/main/resources/conf/spring/spring.xml" timestamp="1492740654423">
+        <mark key="'" line="13" column="27" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.7.3/jackson-databind-2.7.3-sources.jar!/com/fasterxml/jackson/databind/ObjectMapper.java" timestamp="1492654606034">
         <mark key="'" line="3768" column="62" />
       </file>
@@ -521,8 +524,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="439" column="22" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/HzNumberConverter.java" />
-      <jump line="472" column="43" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/HzNumberConverter.java" />
       <jump line="310" column="20" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/HzNumberConverter.java" />
       <jump line="343" column="93" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/HzNumberConverter.java" />
       <jump line="351" column="93" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/HzNumberConverter.java" />
@@ -621,6 +622,8 @@
       <jump line="281" column="0" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
       <jump line="227" column="4" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
       <jump line="222" column="59" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
+      <jump line="15" column="50" filename="$USER_HOME$/.share/public-mx_weather-all-1.1.5/src/main/resources/conf/spring/spring.xml" />
+      <jump line="13" column="27" filename="$USER_HOME$/.share/public-mx_weather-all-1.1.5/src/main/resources/conf/spring/spring.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -633,7 +636,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>ByD</text>
+        <text>scan</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYWRkKG5ldyBJZFdpdGhUZXJtcygxKSk7Cg==</text>
@@ -670,17 +673,16 @@
       </register>
     </registers>
     <search>
-      <last-search>ByD</last-search>
+      <last-search>scan</last-search>
       <last-offset />
-      <last-pattern>ByD</last-pattern>
+      <last-pattern>scan</last-pattern>
       <last-replace>2</last-replace>
       <last-substitute>1</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>signFalse</entry>
         <entry>getterm</entry>
         <entry encoding="base64">XDxCeXRlQnVmZmVyXD4=</entry>
         <entry encoding="base64">XDxzZXRcPg==</entry>
@@ -700,6 +702,7 @@
         <entry encoding="base64">XDxjXD4=</entry>
         <entry encoding="base64">XDxjbWVudU5hbWUyQ29kZU1hcFw+</entry>
         <entry>ByD</entry>
+        <entry>scan</entry>
       </history-search>
       <history-cmd>
         <entry>action EmmetNextEditPoint</entry>
