@@ -139,11 +139,11 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" timestamp="1492744988553">
-        <mark key="[" line="276" column="21" />
-        <mark key="]" line="276" column="22" />
-        <mark key="^" line="273" column="23" />
-        <mark key="." line="276" column="22" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" timestamp="1492746307572">
+        <mark key="[" line="281" column="38" />
+        <mark key="]" line="281" column="38" />
+        <mark key="^" line="281" column="38" />
+        <mark key="." line="281" column="38" />
       </file>
       <file name="$USER_HOME$/workspace/red/app/models/DbFactory.scala" timestamp="1490010277743">
         <mark key="[" line="7" column="16" />
@@ -632,13 +632,13 @@
         <text>term</text>
       </register>
       <register name="-" type="4">
-        <text>flags</text>
+        <text>longList</text>
       </register>
       <register name="/" type="4">
         <text>scan</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsb25nTGlzdC5hZGQoMSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbmRleCA9IFV0aWxpdHkuYmluYW5yeVNlYXJjaChsb25nTGlzdCwgMCwgNCwgdGFyZ2V0KTsKICAgICAgICBBc3NlcnQuYXNzZXJ0VHJ1ZShpbmRleCA9PSA0KTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBsb25nIHRhcmdldCA9IDM7Cg==</text>
