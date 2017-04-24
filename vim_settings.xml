@@ -142,12 +142,12 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" timestamp="1493022041354">
-        <mark key="'" line="476" column="186" />
-        <mark key="[" line="478" column="0" />
-        <mark key="]" line="478" column="0" />
-        <mark key="." line="478" column="0" />
-        <mark key="^" line="478" column="211" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" timestamp="1493034644272">
+        <mark key="'" line="500" column="47" />
+        <mark key="[" line="134" column="70" />
+        <mark key="]" line="134" column="73" />
+        <mark key="." line="134" column="73" />
+        <mark key="^" line="134" column="73" />
       </file>
       <file name="$USER_HOME$/workspace/red/app/models/DbFactory.scala" timestamp="1490010277743">
         <mark key="[" line="7" column="16" />
@@ -321,12 +321,11 @@
       <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.0.2.Final/hibernate-core-5.0.2.Final-sources.jar!/org/hibernate/dialect/MySQLDialect.java" timestamp="1491974630981">
         <mark key="'" line="41" column="37" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" timestamp="1493022109646">
-        <mark key="'" line="924" column="18" />
-        <mark key="[" line="902" column="0" />
-        <mark key="]" line="902" column="0" />
-        <mark key="^" line="942" column="3" />
-        <mark key="." line="902" column="0" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" timestamp="1493034254727">
+        <mark key="'" line="926" column="18" />
+        <mark key="[" line="136" column="0" />
+        <mark key="]" line="136" column="0" />
+        <mark key="." line="136" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsRTXSearcher.java" timestamp="1491815563079">
         <mark key="'" line="15" column="13" />
@@ -406,8 +405,11 @@
       <file name="$MAVEN_REPOSITORY$/com/mx/server/common/mx_conf_loader/1.1.1-SNAPSHOT/mx_conf_loader-1.1.1-20151130.033844-2.jar!/com/mx/server/common/config/ConfigLoader.class" timestamp="1491814765104">
         <mark key="'" line="151" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsBaseSearcher.java" timestamp="1492058015038">
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsBaseSearcher.java" timestamp="1493033658433">
         <mark key="'" line="221" column="20" />
+        <mark key="[" line="196" column="0" />
+        <mark key="]" line="196" column="172" />
+        <mark key="." line="149" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/uauth/src/main/java/com/mx/server/buss/admin/service/impl/TMCRoadService.java" timestamp="1489718591079">
         <mark key="[" line="50" column="0" />
@@ -517,6 +519,9 @@
       <file name="$USER_HOME$/.share/public-mx_weather-all-1.1.5/src/main/java/com/mx/producer/schedule/runner/CNRunner.java" timestamp="1492672822052">
         <mark key="'" line="186" column="45" />
       </file>
+      <file name="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/lang/reflect/Field.java" timestamp="1493034040993">
+        <mark key="'" line="343" column="29" />
+      </file>
       <file name="$USER_HOME$/workspace/red/build.sbt" timestamp="1490843488683">
         <mark key="[" line="8" column="28" />
         <mark key="]" line="8" column="28" />
@@ -544,11 +549,11 @@
       <file name="$USER_HOME$/workspace/search/search_web/src/main/java/com/mx/server/search/web/UnitTestProxy.java" timestamp="1491463319987">
         <mark key="'" line="58" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1493022119554">
+      <file name="/fragment.java" timestamp="1493034245846">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="17" />
+        <mark key="]" line="0" column="9" />
         <mark key="^" line="0" column="7" />
-        <mark key="." line="0" column="17" />
+        <mark key="." line="0" column="9" />
       </file>
       <file name="$USER_HOME$/workspace/thirdpart/taskmng_web/src/main/webapp/WEB-INF/web.xml" timestamp="1490256436220">
         <mark key="[" line="17" column="0" />
@@ -557,15 +562,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="331" column="8" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
-      <jump line="336" column="54" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
-      <jump line="58" column="39" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/ServerConfig.java" />
-      <jump line="15" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/ServerConfig.java" />
-      <jump line="74" column="52" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
-      <jump line="329" column="40" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
-      <jump line="38" column="8" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
-      <jump line="351" column="0" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
-      <jump line="381" column="58" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
       <jump line="46" column="30" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
       <jump line="1110" column="38" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
       <jump line="894" column="33" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
@@ -657,6 +653,15 @@
       <jump line="370" column="21" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
       <jump line="368" column="13" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
       <jump line="476" column="186" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
+      <jump line="62" column="6" filename="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/lang/reflect/Field.java" />
+      <jump line="74" column="38" filename="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/lang/reflect/Field.java" />
+      <jump line="102" column="27" filename="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/lang/reflect/Field.java" />
+      <jump line="146" column="25" filename="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/lang/reflect/Field.java" />
+      <jump line="245" column="37" filename="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/lang/reflect/Field.java" />
+      <jump line="259" column="19" filename="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/lang/reflect/Field.java" />
+      <jump line="343" column="29" filename="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/lang/reflect/Field.java" />
+      <jump line="497" column="4" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
+      <jump line="500" column="47" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -666,49 +671,49 @@
         <text>term</text>
       </register>
       <register name="-" type="4">
-        <text>CITY</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb2RlUHJvdlw+</text>
+        <text>null</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PExvbmc+IHJldCA9IFV0aWxpdHkuSW5kZXhJbmZvVXRpbC5nZXRGaWVsZERvY0lkQXJyKG5ldyBsb25nW117aWQxLCBpZDIsIGlkM30sIG5ldyBpbnRbXXtDb25zdGFudHMuUE9JX09GRklDQUxfTkFNRSwgQ29uc3RhbnRzLlBPSV9PRkZJQ0FMX05BTUUsIENvbnN0YW50cy5QT0lfT0ZGSUNBTF9OQU1FfSwgY29kZVByb3YsIEluZGV4SW5mb0Fyci5EaXN0TGV2ZWwuQ0lUWSwgQ29uc3RhbnRzLlBPSV9PRkZJQ0FMX05BTUUpOwo=</text>
+        <text encoding="base64">ICAgICAgICBLZXl3b3JkUmVzcC5Eb2MgZG9jID0gVXRpbGl0eS5nZXREb2MoIkNITiIsICJ6aCIsIDEyMjQ5NzkxMDI5NTU4Njk3MTlMLCAibXgiLCBmYWxzZSwgMCwgMCk7CiAgICAgICAgQXNzZXJ0LmFzc2VydEVxdWFscygidGVzdEFkZHJlc3MiLCBkb2MuZ2V0QWRkcmVzcygpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXQgPSBVdGlsaXR5LkluZGV4SW5mb1V0aWwuZ2V0RmllbGREb2NJZEFycihuZXcgbG9uZ1tde2lkMSwgaWQyLCBpZDN9LCBuZXcgaW50W117Q29uc3RhbnRzLlBPSV9PRkZJQ0FMX05BTUUsIENvbnN0YW50cy5QT0lfT0ZGSUNBTF9OQU1FLCBDb25zdGFudHMuUE9JX09GRklDQUxfTkFNRX0sIGNvZGVEaXN0LCBJbmRleEluZm9BcnIuRGlzdExldmVsLlBST1YsIENvbnN0YW50cy5QT0lfT0ZGSUNBTF9OQU1FKTsKICAgICAgICBBc3NlcnQuYXNzZXJ0VHJ1ZShyZXQuc2l6ZSgpID09IDApOwo=</text>
+        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBnZXRTdGFydEluZGV4QXJyKCkgdGhyb3dzIEV4Y2VwdGlvbiB7CiAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocmV0LnNpemUoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocmV0LnNpemUoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtYXBGaWVsZC5zZXQobnVsbCwga3J5by5yZWFkT2JqZWN0KGlucHV0LCAoQ2xhc3MpIG1hcEZpZWxkLmdldFR5cGUoKSkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBzdGF0aWMgYm9vbGVhbiBzaWduRmFsc2UoU3RyaW5nIHRlcm0sIGxvbmcgZG9jSWQsIGludCB0ZXJtS2V5VHlwZSwgaW50IGZyZXEpIHsKICAgICAgICAvLyAgICAgYnl0ZVtdIHBvcyA9IGdldFRlcm1Qb3MoZG9jSWQsIHRlcm0sIHRlcm1LZXlUeXBlKTsKICAgICAgICAvLyAgICAgcmV0dXJuICEocG9zICE9IG51bGwgJiYgcG9zWzBdID49IGZyZXEpOwogICAgICAgIC8vIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZihudWxsID09IG1hcEZpZWxkKSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtYXBGaWVsZC5nZXQobWFwRmllbGQpID09IG51bGwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIHB1YmxpYyBzdGF0aWMgdm9pZCBRdWlja0RlbGV0ZUR1cERvY0lkKFF1aWNrSWRBcnJheSBxdWlja0lkQXJyYXkpIHsKICAgIC8vICAgICBpbnQgb3Blbl9pZHggPSAwOwogICAgLy8gICAgIHF1aWNrSWRBcnJheS5yZXN1c2x0X2NvdW50ID0gMDsKICAgIC8vICAgICBpZiAocXVpY2tJZEFycmF5LmZsYWdBcnJheSA9PSBudWxsKSB7CiAgICAvLyAgICAgICAgIHF1aWNrSWRBcnJheS5mbGFnQXJyYXkgPSBuZXcgYnl0ZVtxdWlja0lkQXJyYXkuZW5kX3Bvc107CiAgICAvLyAgICAgfQogICAgLy8gICAgIGZvciAoaW50IGkgPSAwOyBpIDwgcXVpY2tJZEFycmF5LmVuZF9wb3M7IGkrKykgewogICAgLy8gICAgICAgICBpZiAoaSA+IG9wZW5faWR4ICYmIHF1aWNrSWRBcnJheS5pZEFycmF5W29wZW5faWR4XSA9PSBxdWlja0lkQXJyYXkuaWRBcnJheVtpXSkgewogICAgLy8gICAgICAgICAgICAgcXVpY2tJZEFycmF5LmZsYWdBcnJheVtpXSA9IDE7CiAgICAvLyAgICAgICAgIH0gZWxzZSB7CiAgICAvLyAgICAgICAgICAgICBxdWlja0lkQXJyYXkucmVzdXNsdF9jb3VudCsrOwogICAgLy8gICAgICAgICAgICAgb3Blbl9pZHggPSBpOwogICAgLy8gICAgICAgICB9CiAgICAvLyAgICAgfQogICAgLy8gfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgSGFzaE1hcDxTdHJpbmcsIEhhc2hNYXA8U3RyaW5nLCBJbmRleEluZm9BcnI+PiBpbmRleEluZm9NYXBGVFMgPSBDYWNoZU1hbmFnZXIuSW52ZXJzZUlkeENhY2hlLmluZGV4SW5mb01hcDsKICAgICAgICBIYXNoTWFwPFN0cmluZywgSW5kZXhJbmZvQXJyPiBpbmRleEluZm9NYXAgPSBpbmRleEluZm9NYXBGVFMuZ2V0KGNvdW50cnkgKyAiXyIgKyBsYW5ndWFnZSk7CiAgICAgICAgSW5kZXhJbmZvQXJyIGluZGV4SW5mbyA9IGluZGV4SW5mb01hcC5nZXQoVXRpbGl0eS5oYWxmMmZ1bGwodGVybS50b0xvd2VyQ2FzZSgpKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb2RlUHJvdlw+</last-search>
+      <last-search>null</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb2RlUHJvdlw+</last-pattern>
+      <last-pattern>null</last-pattern>
       <last-replace />
       <last-substitute>L</last-substitute>
       <last-dir>1</last-dir>
@@ -716,8 +721,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx2YWx1ZVR5cGVcPg==</entry>
-        <entry>maper</entry>
         <entry>TheDay</entry>
         <entry encoding="base64">XDxjXD4=</entry>
         <entry encoding="base64">XDxjbWVudU5hbWUyQ29kZU1hcFw+</entry>
@@ -736,6 +739,8 @@
         <entry>codeProv</entry>
         <entry encoding="base64">XDxmaWx0ZXJcPg==</entry>
         <entry encoding="base64">XDxjb2RlUHJvdlw+</entry>
+        <entry>check null</entry>
+        <entry>null</entry>
       </history-search>
       <history-cmd>
         <entry>lp</entry>
@@ -750,13 +755,13 @@
         <entry encoding="base64">JzwsJz5zLyIvXCIvZw==</entry>
         <entry encoding="base64">JzwsJz5zLyIvXFwiL2c=</entry>
         <entry encoding="base64">JzwsJz5zLzsvLC9n</entry>
-        <entry>action $Redo</entry>
         <entry encoding="base64">JzwsJz5zLyIvL2c=</entry>
         <entry>nohl</entry>
         <entry encoding="base64">JzwsJz5zL25ldyBMaW5rZWRIYXNoU2V0PD4oKS90ZXJtc1NldC9n</entry>
         <entry encoding="base64">JzwsJz5zLzEvMi9n</entry>
         <entry encoding="base64">JzwsJz5zL2Rpc3QvY29kZS9n</entry>
         <entry encoding="base64">JzwsJz5zL0wvL2c=</entry>
+        <entry>action $Redo</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
