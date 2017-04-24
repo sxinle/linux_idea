@@ -142,12 +142,12 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" timestamp="1493019204789">
+      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" timestamp="1493019331402">
         <mark key="'" line="45" column="31" />
-        <mark key="[" line="463" column="4" />
-        <mark key="]" line="488" column="5" />
-        <mark key="." line="463" column="0" />
-        <mark key="^" line="462" column="3" />
+        <mark key="[" line="491" column="47" />
+        <mark key="]" line="491" column="7" />
+        <mark key="." line="491" column="7" />
+        <mark key="^" line="491" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/red/app/models/DbFactory.scala" timestamp="1490010277743">
         <mark key="[" line="7" column="16" />
@@ -321,10 +321,10 @@
       <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.0.2.Final/hibernate-core-5.0.2.Final-sources.jar!/org/hibernate/dialect/MySQLDialect.java" timestamp="1491974630981">
         <mark key="'" line="41" column="37" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" timestamp="1493019201545">
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" timestamp="1493019327810">
         <mark key="'" line="956" column="0" />
-        <mark key="[" line="883" column="0" />
-        <mark key="]" line="908" column="4" />
+        <mark key="[" line="884" column="45" />
+        <mark key="]" line="884" column="85" />
         <mark key="^" line="942" column="3" />
         <mark key="." line="137" column="18" />
       </file>
@@ -664,8 +664,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRGaWVsZERvY0lkQXJyXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGJ5dGVbXSBnZXRQb3NCeXRlcyhsb25nIGRvY0lkLCBTdHJpbmcgdGVybSwgaW50IHBvc2l0aW9uKSB7CiAgICAgICAgTWFwPFN0cmluZywgSW5kZXhJbmZvQXJyPiB0ZXJtc01hcCA9IENhY2hlTWFuYWdlci5JbnZlcnNlSWR4Q2FjaGUuaW5kZXhJbmZvTWFwLmdldChVdGlsaXR5LkNPVU5UUllfTEFORyk7CiAgICAgICAgSW5kZXhJbmZvQXJyIGluZm9BcnIgPSB0ZXJtc01hcC5nZXQodGVybSk7CiAgICAgICAgaWYgKG51bGwgPT0gaW5mb0FycikgcmV0dXJuIG51bGw7CiAgICAgICAgaW50IGluZGV4OwogICAgICAgIGlmIChwb3NpdGlvbiA9PSAtMSkgewogICAgICAgICAgICBpbmRleCA9IEFycmF5cy5iaW5hcnlTZWFyY2goaW5mb0Fyci5nZXRJZHMoKSwgZG9jSWQpOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIGluZGV4ID0gcG9zaXRpb247CiAgICAgICAgfQogICAgICAgIGlmIChpbmRleCA8IDApIHJldHVybiBudWxsOwogICAgICAgIGJ5dGVbXSBieXRlcyA9IGluZm9BcnIuZ2V0UG9zSW5mbygpOwogICAgICAgIGlmIChieXRlcyA9PSBudWxsKSByZXR1cm4gbnVsbDsKICAgICAgICBpbnQgc3RhcnRJZHggPSBpbmRleCAqIDU7CiAgICAgICAgaW50IG9mZnNldCA9IChieXRlc1tzdGFydElkeF0gJiAweEZGKSA8PCAyNAogICAgICAgICAgICAgICAgfCAoYnl0ZXNbc3RhcnRJZHggKyAxXSAmIDB4RkYpIDw8IDE2CiAgICAgICAgICAgICAgICB8IChieXRlc1tzdGFydElkeCArIDJdICYgMHhGRikgPDwgOAogICAgICAgICAgICAgICAgfCBieXRlc1tzdGFydElkeCArIDNdICYgMHhGRjsKICAgICAgICBpZiAob2Zmc2V0ID09IC0xKSByZXR1cm4gbnVsbDsKICAgICAgICBpbnQgc2l6ZSA9IGJ5dGVzW3N0YXJ0SWR4ICsgNF07CiAgICAgICAgYnl0ZVtdIHBvc3MgPSBuZXcgYnl0ZVtzaXplXTsKICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IHNpemU7IGkrKykgewogICAgICAgICAgICBwb3NzW2ldID0gYnl0ZXNbb2Zmc2V0ICsgaV07CiAgICAgICAgfQogICAgICAgIHJldHVybiBwb3NzOwogICAgfQo=</text>
+      <register name="0" type="4">
+        <text>CacheManager.InverseIdxCache.indexInfoMap</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">Y2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICAgICAgICAgIH0g</text>
