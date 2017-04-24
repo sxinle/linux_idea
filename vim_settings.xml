@@ -142,12 +142,12 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" timestamp="1493020641414">
-        <mark key="'" line="466" column="67" />
-        <mark key="[" line="466" column="64" />
-        <mark key="]" line="466" column="64" />
-        <mark key="." line="466" column="66" />
-        <mark key="^" line="466" column="64" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" timestamp="1493022041354">
+        <mark key="'" line="476" column="186" />
+        <mark key="[" line="478" column="0" />
+        <mark key="]" line="478" column="0" />
+        <mark key="." line="478" column="0" />
+        <mark key="^" line="478" column="211" />
       </file>
       <file name="$USER_HOME$/workspace/red/app/models/DbFactory.scala" timestamp="1490010277743">
         <mark key="[" line="7" column="16" />
@@ -321,12 +321,12 @@
       <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.0.2.Final/hibernate-core-5.0.2.Final-sources.jar!/org/hibernate/dialect/MySQLDialect.java" timestamp="1491974630981">
         <mark key="'" line="41" column="37" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" timestamp="1493020802300">
-        <mark key="'" line="956" column="0" />
-        <mark key="[" line="884" column="45" />
-        <mark key="]" line="884" column="85" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" timestamp="1493022109646">
+        <mark key="'" line="924" column="18" />
+        <mark key="[" line="902" column="0" />
+        <mark key="]" line="902" column="0" />
         <mark key="^" line="942" column="3" />
-        <mark key="." line="137" column="18" />
+        <mark key="." line="902" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsRTXSearcher.java" timestamp="1491815563079">
         <mark key="'" line="15" column="13" />
@@ -448,6 +448,11 @@
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/IndexInfoUtilTest.java" timestamp="1493021259364">
+        <mark key="'" line="5" column="8" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="19" column="5" />
+      </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/UserInputPreHandler.java" timestamp="1488850097687">
         <mark key="[" line="7" column="32" />
         <mark key="]" line="8" column="0" />
@@ -482,7 +487,7 @@
       <file name="$USER_HOME$/.share/public-mx_weather-all-1.1.5/src/main/java/com/mx/weather/service/MxWeatherDBManagerV2.java" timestamp="1492677404701">
         <mark key="'" line="96" column="78" />
       </file>
-      <file name="/Dummy.txt" timestamp="1493019679165">
+      <file name="/Dummy.txt" timestamp="1493022119531">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="25" />
         <mark key="." line="3" column="25" />
@@ -539,7 +544,7 @@
       <file name="$USER_HOME$/workspace/search/search_web/src/main/java/com/mx/server/search/web/UnitTestProxy.java" timestamp="1491463319987">
         <mark key="'" line="58" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1493018613507">
+      <file name="/fragment.java" timestamp="1493022119554">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="7" />
@@ -552,85 +557,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="61" filename="$USER_HOME$/workspace/zest/src/main/java/moud/Sec.java" />
-      <jump line="23" column="59" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/NiceCntSetter.java" />
-      <jump line="47" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/NiceCntSetter.java" />
-      <jump line="84" column="65" filename="$USER_HOME$/workspace/uauth/src/main/java/com/mx/server/core/util/AuthCodeUtil.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/search/pom.xml" />
-      <jump line="56" column="27" filename="$USER_HOME$/workspace/search/pom.xml" />
-      <jump line="21" column="32" filename="$USER_HOME$/workspace/search/pom.xml" />
-      <jump line="54" column="39" filename="$USER_HOME$/workspace/search/pom.xml" />
-      <jump line="55" column="28" filename="$USER_HOME$/workspace/search/pom.xml" />
-      <jump line="3768" column="62" filename="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.7.3/jackson-databind-2.7.3-sources.jar!/com/fasterxml/jackson/databind/ObjectMapper.java" />
-      <jump line="120" column="33" filename="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.7.3/jackson-core-2.7.3-sources.jar!/com/fasterxml/jackson/core/type/ResolvedType.java" />
-      <jump line="130" column="0" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
-      <jump line="126" column="63" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
-      <jump line="156" column="24" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/KeywordSearcher.java" />
-      <jump line="141" column="8" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
-      <jump line="166" column="18" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
-      <jump line="307" column="24" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
-      <jump line="168" column="20" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
-      <jump line="24" column="13" filename="$MAVEN_REPOSITORY$/org/springframework/amqp/spring-amqp/1.4.5.RELEASE/spring-amqp-1.4.5.RELEASE.jar!/org/springframework/amqp/utils/test/TestUtils.class" />
-      <jump line="43" column="0" filename="$MAVEN_REPOSITORY$/org/springframework/amqp/spring-amqp/1.4.5.RELEASE/spring-amqp-1.4.5.RELEASE.jar!/org/springframework/amqp/utils/test/TestUtils.class" />
-      <jump line="52" column="28" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/CacheManager.java" />
-      <jump line="174" column="53" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
-      <jump line="199" column="50" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
-      <jump line="210" column="52" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
-      <jump line="193" column="15" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/KeywordSearcher.java" />
-      <jump line="157" column="50" filename="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/util/concurrent/LinkedBlockingDeque.java" />
-      <jump line="160" column="23" filename="$USER_HOME$/.share/public-mx_weather-all-1.1.5/src/main/java/com/mx/weather/service/MxWeatherDBManagerV2.java" />
-      <jump line="186" column="45" filename="$USER_HOME$/.share/public-mx_weather-all-1.1.5/src/main/java/com/mx/producer/schedule/runner/CNRunner.java" />
-      <jump line="96" column="78" filename="$USER_HOME$/.share/public-mx_weather-all-1.1.5/src/main/java/com/mx/weather/service/MxWeatherDBManagerV2.java" />
-      <jump line="46" column="72" filename="$USER_HOME$/.share/public-mx_weather-all-1.1.5/src/main/java/com/mx/producer/convert/respdat/convertStrategy/ForecastNormalConvertStrategy.java" />
-      <jump line="35" column="25" filename="$USER_HOME$/.share/public-mx_weather-all-1.1.5/src/main/java/com/mx/producer/convert/respdat/convertStrategy/ForecastNormalConvertStrategy.java" />
-      <jump line="112" column="23" filename="$USER_HOME$/.share/public-mx_weather-all-1.1.5/src/main/java/com/mx/producer/convert/respdat/convertStrategy/ForecastNormalConvertStrategy.java" />
-      <jump line="94" column="20" filename="$USER_HOME$/.share/public-mx_weather-all-1.1.5/src/main/java/com/mx/producer/convert/respdat/convertStrategy/ForecastNormalConvertStrategy.java" />
-      <jump line="91" column="55" filename="$USER_HOME$/.share/public-mx_weather-all-1.1.5/src/main/java/com/mx/producer/convert/respdat/convertStrategy/ForecastNormalConvertStrategy.java" />
-      <jump line="37" column="3" filename="$USER_HOME$/.share/public-mx_weather-all-1.1.5/src/main/java/com/mx/producer/schedule/CNUpdater.java" />
-      <jump line="126" column="0" filename="$USER_HOME$/.share/public-mx_weather-all-1.1.5/src/main/java/com/mx/producer/schedule/CNUpdater.java" />
-      <jump line="27" column="45" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" />
-      <jump line="43" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" />
-      <jump line="218" column="7" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
-      <jump line="41" column="44" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/ScoreRetComparator.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/ScoreRetComparator.java" />
-      <jump line="51" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/ScoreRetComparator.java" />
-      <jump line="169" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/ScoreAlgorithm.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/ScoreAlgorithm.java" />
-      <jump line="226" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/ScoreAlgorithm.java" />
-      <jump line="121" column="24" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/Sorter.java" />
-      <jump line="16" column="29" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/ScoreRet.java" />
-      <jump line="220" column="31" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/SuggestSearcher.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/ScoreRet.java" />
-      <jump line="45" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/ScoreRet.java" />
-      <jump line="224" column="0" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
-      <jump line="281" column="0" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
-      <jump line="227" column="4" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
-      <jump line="222" column="59" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
-      <jump line="15" column="50" filename="$USER_HOME$/.share/public-mx_weather-all-1.1.5/src/main/resources/conf/spring/spring.xml" />
-      <jump line="13" column="27" filename="$USER_HOME$/.share/public-mx_weather-all-1.1.5/src/main/resources/conf/spring/spring.xml" />
-      <jump line="295" column="29" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
-      <jump line="91" column="3" filename="$USER_HOME$/workspace/uauth/src/main/web/WEB-INF/web.xml" />
-      <jump line="121" column="0" filename="$USER_HOME$/workspace/uauth/src/main/web/WEB-INF/web.xml" />
-      <jump line="111" column="82" filename="$USER_HOME$/workspace/uauth/src/main/java/com/mx/server/buss/admin/controller/AdminController.java" />
-      <jump line="114" column="31" filename="$USER_HOME$/workspace/uauth/src/main/java/com/mx/server/buss/admin/controller/AdminController.java" />
-      <jump line="133" column="95" filename="$USER_HOME$/workspace/uauth/src/main/java/com/mx/server/buss/admin/controller/AdminController.java" />
-      <jump line="24" column="37" filename="$USER_HOME$/workspace/uauth/src/main/java/com/mx/server/core/misc/LoginFilter.java" />
-      <jump line="2" column="0" filename="$USER_HOME$/workspace/uauth/src/main/java/com/mx/server/core/misc/LoginFilter.java" />
-      <jump line="253" column="37" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
-      <jump line="294" column="36" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
-      <jump line="326" column="0" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
-      <jump line="636" column="46" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
-      <jump line="129" column="131" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
-      <jump line="159" column="131" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
-      <jump line="18" column="4" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/models/QuickIdArray.java" />
-      <jump line="25" column="0" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/models/QuickIdArray.java" />
-      <jump line="310" column="8" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
-      <jump line="341" column="57" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
-      <jump line="311" column="16" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
-      <jump line="645" column="26" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
-      <jump line="321" column="8" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
-      <jump line="328" column="39" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
       <jump line="331" column="8" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
       <jump line="336" column="54" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
       <jump line="58" column="39" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/ServerConfig.java" />
@@ -640,8 +566,6 @@
       <jump line="38" column="8" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
       <jump line="351" column="0" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
       <jump line="381" column="58" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
-      <jump line="368" column="30" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
-      <jump line="370" column="36" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
       <jump line="46" column="30" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
       <jump line="1110" column="38" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
       <jump line="894" column="33" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
@@ -652,6 +576,87 @@
       <jump line="420" column="30" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
       <jump line="45" column="31" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
       <jump line="466" column="67" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
+      <jump line="446" column="28" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
+      <jump line="32" column="13" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
+      <jump line="1104" column="43" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
+      <jump line="75" column="8" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
+      <jump line="80" column="51" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
+      <jump line="85" column="44" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
+      <jump line="88" column="44" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
+      <jump line="90" column="46" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
+      <jump line="100" column="8" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
+      <jump line="109" column="51" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
+      <jump line="114" column="44" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
+      <jump line="117" column="44" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
+      <jump line="119" column="46" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
+      <jump line="194" column="8" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
+      <jump line="195" column="8" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
+      <jump line="196" column="8" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
+      <jump line="197" column="8" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
+      <jump line="217" column="58" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
+      <jump line="258" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
+      <jump line="340" column="8" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
+      <jump line="440" column="20" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
+      <jump line="443" column="20" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
+      <jump line="452" column="20" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
+      <jump line="453" column="20" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
+      <jump line="470" column="4" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
+      <jump line="471" column="4" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
+      <jump line="472" column="4" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
+      <jump line="469" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
+      <jump line="486" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
+      <jump line="524" column="12" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
+      <jump line="527" column="12" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
+      <jump line="548" column="28" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
+      <jump line="552" column="19" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
+      <jump line="560" column="12" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
+      <jump line="562" column="12" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
+      <jump line="569" column="28" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
+      <jump line="572" column="19" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
+      <jump line="588" column="4" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
+      <jump line="589" column="4" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
+      <jump line="590" column="4" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
+      <jump line="587" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
+      <jump line="632" column="8" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
+      <jump line="701" column="33" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
+      <jump line="764" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
+      <jump line="768" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
+      <jump line="856" column="8" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
+      <jump line="857" column="8" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
+      <jump line="858" column="8" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
+      <jump line="859" column="8" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
+      <jump line="860" column="8" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
+      <jump line="861" column="8" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
+      <jump line="862" column="8" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
+      <jump line="863" column="8" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
+      <jump line="864" column="15" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
+      <jump line="865" column="8" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
+      <jump line="866" column="8" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
+      <jump line="867" column="8" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
+      <jump line="903" column="8" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
+      <jump line="904" column="8" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
+      <jump line="905" column="8" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
+      <jump line="906" column="8" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
+      <jump line="1057" column="24" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
+      <jump line="999" column="32" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
+      <jump line="901" column="8" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
+      <jump line="5" column="8" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/IndexInfoUtilTest.java" />
+      <jump line="32" column="27" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
+      <jump line="468" column="0" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
+      <jump line="25" column="53" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
+      <jump line="881" column="124" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
+      <jump line="896" column="32" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
+      <jump line="924" column="18" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
+      <jump line="471" column="13" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
+      <jump line="472" column="21" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
+      <jump line="473" column="21" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
+      <jump line="474" column="21" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
+      <jump line="367" column="0" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
+      <jump line="370" column="21" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
+      <jump line="368" column="13" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
+      <jump line="476" column="186" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -661,49 +666,49 @@
         <text>term</text>
       </register>
       <register name="-" type="4">
-        <text>2378182086834239023L</text>
+        <text>CITY</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRGaWVsZERvY0lkQXJyXD4=</text>
+        <text encoding="base64">XDxjb2RlUHJvdlw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBVdGlsaXR5LmluaXRTaW5nbGVNYXBGb3JKdW5pdFRlc3QoImluZGV4SW5mb01hcCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PExvbmc+IHJldCA9IFV0aWxpdHkuSW5kZXhJbmZvVXRpbC5nZXRGaWVsZERvY0lkQXJyKG5ldyBsb25nW117aWQxLCBpZDIsIGlkM30sIG5ldyBpbnRbXXtDb25zdGFudHMuUE9JX09GRklDQUxfTkFNRSwgQ29uc3RhbnRzLlBPSV9PRkZJQ0FMX05BTUUsIENvbnN0YW50cy5QT0lfT0ZGSUNBTF9OQU1FfSwgY29kZVByb3YsIEluZGV4SW5mb0Fyci5EaXN0TGV2ZWwuQ0lUWSwgQ29uc3RhbnRzLlBPSV9PRkZJQ0FMX05BTUUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXQgPSBVdGlsaXR5LkluZGV4SW5mb1V0aWwuZ2V0RmllbGREb2NJZEFycihuZXcgbG9uZ1tde2lkMSwgaWQyLCBpZDN9LCBuZXcgaW50W117Q29uc3RhbnRzLlBPSV9PRkZJQ0FMX05BTUUsIENvbnN0YW50cy5QT0lfT0ZGSUNBTF9OQU1FLCBDb25zdGFudHMuUE9JX09GRklDQUxfTkFNRX0sIGNvZGVEaXN0LCBJbmRleEluZm9BcnIuRGlzdExldmVsLlBST1YsIENvbnN0YW50cy5QT0lfT0ZGSUNBTF9OQU1FKTsKICAgICAgICBBc3NlcnQuYXNzZXJ0VHJ1ZShyZXQuc2l6ZSgpID09IDApOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBnZXRQb3NCeXRlcygpIHsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocmV0LnNpemUoKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBVdGlsaXR5LmluaXRTaW5nbGVNYXBGb3JKdW5pdFRlc3QoImluZGV4SW5mb01hcCIpOwogICAgICAgIEFzc2VydC5hc3NlcnRUcnVlKFV0aWxpdHkuZ2V0VGVybVBvcygyMzc4MTgyMDg2ODM0MjM5MDIzTCwgIumdkuW5tCIsIDApICE9IG51bGwpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocmV0LnNpemUoKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgTWFwPFN0cmluZywgSW5kZXhJbmZvQXJyPiB0ZXJtc01hcCA9IENhY2hlTWFuYWdlci5JbnZlcnNlSWR4Q2FjaGUuaW5kZXhJbmZvTWFwLmdldChVdGlsaXR5LkNPVU5UUllfTEFORyk7CiAgICAgICAgSW5kZXhJbmZvQXJyIGluZm9BcnIgPSB0ZXJtc01hcC5nZXQodGVybSk7CiAgICAgICAgaWYgKG51bGwgPT0gaW5mb0FycikgcmV0dXJuIG51bGw7CiAgICAgICAgaW50IGluZGV4OwogICAgICAgIGlmIChwb3NpdGlvbiA9PSAtMSkgewogICAgICAgICAgICBpbmRleCA9IEFycmF5cy5iaW5hcnlTZWFyY2goaW5mb0Fyci5nZXRJZHMoKSwgZG9jSWQpOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIGluZGV4ID0gcG9zaXRpb247CiAgICAgICAgfQogICAgICAgIGlmIChpbmRleCA8IDApIHJldHVybiBudWxsOwogICAgICAgIGJ5dGVbXSBieXRlcyA9IGluZm9BcnIuZ2V0UG9zSW5mbygpOwogICAgICAgIGlmIChieXRlcyA9PSBudWxsKSByZXR1cm4gbnVsbDsKICAgICAgICBpbnQgc3RhcnRJZHggPSBpbmRleCAqIDU7CiAgICAgICAgaW50IG9mZnNldCA9IChieXRlc1tzdGFydElkeF0gJiAweEZGKSA8PCAyNAogICAgICAgICAgICAgICAgfCAoYnl0ZXNbc3RhcnRJZHggKyAxXSAmIDB4RkYpIDw8IDE2CiAgICAgICAgICAgICAgICB8IChieXRlc1tzdGFydElkeCArIDJdICYgMHhGRikgPDwgOAogICAgICAgICAgICAgICAgfCBieXRlc1tzdGFydElkeCArIDNdICYgMHhGRjsKICAgICAgICBpZiAob2Zmc2V0ID09IC0xKSByZXR1cm4gbnVsbDsKICAgICAgICBpbnQgc2l6ZSA9IGJ5dGVzW3N0YXJ0SWR4ICsgNF07CiAgICAgICAgYnl0ZVtdIHBvc3MgPSBuZXcgYnl0ZVtzaXplXTsKICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IHNpemU7IGkrKykgewogICAgICAgICAgICBwb3NzW2ldID0gYnl0ZXNbb2Zmc2V0ICsgaV07CiAgICAgICAgfQogICAgICAgIHJldHVybiBwb3NzOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBPdXRsaW5lVGV4dFJlbmRlcmVyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">Y2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICAgICAgICAgIH0g</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBzdGF0aWMgYm9vbGVhbiBzaWduRmFsc2UoU3RyaW5nIHRlcm0sIGxvbmcgZG9jSWQsIGludCB0ZXJtS2V5VHlwZSwgaW50IGZyZXEpIHsKICAgICAgICAvLyAgICAgYnl0ZVtdIHBvcyA9IGdldFRlcm1Qb3MoZG9jSWQsIHRlcm0sIHRlcm1LZXlUeXBlKTsKICAgICAgICAvLyAgICAgcmV0dXJuICEocG9zICE9IG51bGwgJiYgcG9zWzBdID49IGZyZXEpOwogICAgICAgIC8vIH0K</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgY2xhc3MgSW5kZXhJbmZvVXRpbCB7CiAgICAgICAgLyoqCiAgICAgICAgICog5LiN5bim5Ye6546w5qyh5pWw55qE6L+H6JmRCiAgICAgICAgICoKICAgICAgICAgKiBAcGFyYW0gaWRzIElE6ZuG5ZCICiAgICAgICAgICogQHBhcmFtIGFyZWFzIElE5Ye6546w5Z+f6ZuG5ZCICiAgICAgICAgICogQHBhcmFtIGRpc3RDb2RlIOihjOaUv+WMugogICAgICAgICAqIEBwYXJhbSBsZXZlbCDov4fmu6TnuqfliKsKICAgICAgICAgKiBAcGFyYW0gZmlsdGVyIOWHuueOsOWfnwogICAgICAgICAqIEByZXR1cm4gQXJyYXlMaXN0PExvbmc+CiAgICAgICAgICovCiAgICAgICAgcHVibGljIHN0YXRpYyBMaXN0PExvbmc+IGdldEZpZWxkRG9jSWRBcnIobG9uZ1tdIGlkcywgaW50W10gYXJlYXMsIGxvbmcgZGlzdENvZGUsIEluZGV4SW5mb0Fyci5EaXN0TGV2ZWwgbGV2ZWwsIGludCBmaWx0ZXIpIHsKICAgICAgICAgICAgaW50IHN0YXJ0LCBlbmQsIHRtcDsKCiAgICAgICAgICAgIHN0YXJ0ID0gZ2V0U3RhcnRJbmRleEFycihpZHMsIGRpc3RDb2RlLCBsZXZlbCk7CiAgICAgICAgICAgIGVuZCA9IGdldEVuZEluZGV4QXJyKGlkcywgZGlzdENvZGUsIGxldmVsKTsKCiAgICAgICAgICAgIGlmIChzdGFydCA+IGVuZCkgewogICAgICAgICAgICAgICAgdG1wID0gc3RhcnQ7CiAgICAgICAgICAgICAgICBzdGFydCA9IGVuZDsKICAgICAgICAgICAgICAgIGVuZCA9IHRtcDsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgQXJyYXlMaXN0PExvbmc+IHJldCA9IG5ldyBBcnJheUxpc3Q8PigpOwoKICAgICAgICAgICAgZm9yIChpbnQgaSA9IHN0YXJ0OyBpIDwgZW5kOyBpKyspIHsKICAgICAgICAgICAgICAgIGlmICgoYXJlYXNbaV0gJiBmaWx0ZXIpICE9IDApIHsKICAgICAgICAgICAgICAgICAgICByZXQuYWRkKGlkc1tpXSk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICAgICAgcmV0dXJuIHJldDsKICAgICAgICB9CgogICAgICAgIHN0YXRpYyBib29sZWFuIHNpZ25GYWxzZShTdHJpbmcgdGVybSwgbG9uZyBkb2NJZCwgaW50IHRlcm1LZXlUeXBlLCBpbnQgZnJlcSkgewogICAgICAgICAgICBieXRlW10gcG9zID0gZ2V0VGVybVBvcyhkb2NJZCwgdGVybSwgdGVybUtleVR5cGUpOwogICAgICAgICAgICByZXR1cm4gIShwb3MgIT0gbnVsbCAmJiBwb3NbMF0gPj0gZnJlcSk7CiAgICAgICAgfQoKICAgICAgICBwcml2YXRlIHN0YXRpYyBCaXRTZXQgbWFya0ZyZXEobG9uZyBkb2NJZCwgU3RyaW5nIHRlcm0sIGludCBuZWVkX2ZyZXEsIGludCBwb3NpdGlvbikgewogICAgICAgICAgICBCaXRTZXQgYml0U2V0ID0gbmV3IEJpdFNldCg2KTsKICAgICAgICAgICAgYnl0ZVtdIHBvc0J5dGVzID0gZ2V0UG9zQnl0ZXMoZG9jSWQsIHRlcm0sIHBvc2l0aW9uKTsKICAgICAgICAgICAgaWYgKG51bGwgPT0gcG9zQnl0ZXMpIHJldHVybiBiaXRTZXQ7CiAgICAgICAgICAgIGludCBpbmRleCA9IDA7CiAgICAgICAgICAgIHdoaWxlIChpbmRleCA8IHBvc0J5dGVzLmxlbmd0aCkgewogICAgICAgICAgICAgICAgYnl0ZSB0eXBlTGVuID0gcG9zQnl0ZXNbaW5kZXhdOwogICAgICAgICAgICAgICAgaW50IHR5cGUgPSB0eXBlTGVuID4+IDQ7CiAgICAgICAgICAgICAgICBpbnQgbGVuID0gdHlwZUxlbiAmIDBiMDAwMDExMTE7CiAgICAgICAgICAgICAgICBpZiAobGVuID49IG5lZWRfZnJlcSkgYml0U2V0LnNldCh0eXBlKTsKICAgICAgICAgICAgICAgIGluZGV4ICs9IChsZW4gKyAxKTsKICAgICAgICAgICAgfQogICAgICAgICAgICByZXR1cm4gYml0U2V0OwogICAgICAgIH0KCiAgICAgICAgLyoqKgogICAgICAgICAqIOi/lOWbnklkV2l0aFRlcm1z55qEbGlzdCwgSWRXaXRoVGVybXPkuK3nmoR1c2VkVGVybXPlup/lvIPvvIzlj6rmmK/kuLrkuobmjqXlj6PkuIDoh7TmiY3ku43nhLbkvb/nlKjor6Xnu5PmnoQKICAgICAgICAgKiDpgInkuK3nmoRkb2NpZOS8muWKoOWFpeWIsHNyY+S4re+8jOi/lOWbnuWAvOWwseaYr+S8oOWFpeeahHNyYwogICAgICAgICAqIEBwYXJhbSBpbmRleEluZm8KICAgICAgICAgKiBAcGFyYW0gZGlzdENvZGUKICAgICAgICAgKiBAcGFyYW0gbGV2ZWwKICAgICAgICAgKiBAcGFyYW0gZmlsdGVyCiAgICAgICAgICogQHBhcmFtIGZyZXF1ZW5jeSDlgLzkuLotMeaXtu+8jOihqOekuuS4jeiAg+iZkeivpeWPguaVsAogICAgICAgICAqIEBwYXJhbSBzcmMKICAgICAgICAgKiBAcmV0dXJuCiAgICAgICAgICovCiAgICAgICAgcHVibGljIHN0YXRpYyB2b2lkIGdldEZpZWxkRG9jSWRBcnIoSW5kZXhJbmZvQXJyIGluZGV4SW5mbywgbG9uZyBkaXN0Q29kZSwgSW5kZXhJbmZvQXJyLkRpc3RMZXZlbCBsZXZlbCwgaW50IGZpbHRlciwgaW50IGZyZXF1ZW5jeSwgUXVpY2tJZEFycmF5IHNyYywgUXVpY2tJZEFycmF5IHNvdXJjZSwgU3RyaW5nIHRlcm0pIHsKICAgICAgICAgICAgYm9vbGVhbiB0ZXJtSXNFbXB0eSA9IHNyYy50ZXJtID09IG51bGw7CiAgICAgICAgICAgIGludCBzcmNfZW5kX3BvcyA9IHNyYy5lbmRfcG9zOwoKICAgICAgICAgICAgaW50IHN0YXJ0X2lkcywgZW5kX2lkcywgdG1wOwoKICAgICAgICAgICAgbG9uZ1tdIGlkcyA9IGluZGV4SW5mby5nZXRJZHMoKTsKICAgICAgICAgICAgaW50W10gYXJlYXMgPSBpbmRleEluZm8uZ2V0QXJlYXMoKTsKCgogICAgICAgICAgICBzdGFydF9pZHMgPSBnZXRTdGFydEluZGV4QXJyKGlkcywgZGlzdENvZGUsIGxldmVsKTsKICAgICAgICAgICAgZW5kX2lkcyA9IGdldEVuZEluZGV4QXJyKGlkcywgZGlzdENvZGUsIGxldmVsKTsKCiAgICAgICAgICAgIGlmIChzdGFydF9pZHMgPT0gZW5kX2lkcyAmJiBlbmRfaWRzIDwgaWRzLmxlbmd0aAogICAgICAgICAgICAgICAgICAgICYmIGxldmVsICE9IEluZGV4SW5mb0Fyci5EaXN0TGV2ZWwuQ09VTlRSWSAmJiBzcmNfZW5kX3BvcyA+IDAKICAgICAgICAgICAgICAgICAgICAmJiAoKGlkc1tzdGFydF9pZHNdICYgMHhGRjAwMDAwMDAwMDAwMDAwTCkgIT0gKHNyYy5pZEFycmF5WzBdICYgMHhGRjAwMDAwMDAwMDAwMDAwTCkpKSB7CiAgICAgICAgICAgICAgICByZXR1cm47CiAgICAgICAgICAgIH0KICAgICAgICAgICAgaWYgKHN0YXJ0X2lkcyA+IGVuZF9pZHMpIHsKICAgICAgICAgICAgICAgIHRtcCA9IHN0YXJ0X2lkczsKICAgICAgICAgICAgICAgIHN0YXJ0X2lkcyA9IGVuZF9pZHM7CiAgICAgICAgICAgICAgICBlbmRfaWRzID0gdG1wOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGlmIChzcmNfZW5kX3BvcyArIGVuZF9pZHMgLSBzdGFydF9pZHMgKyAxID49IHNyYy5pZEFycmF5Lmxlbmd0aCkgewogICAgICAgICAgICAgICAgaW50IGxlbmd0aCA9IHNyY19lbmRfcG9zICsgZW5kX2lkcyAtIHN0YXJ0X2lkcyArIDE7CiAgICAgICAgICAgICAgICBpZiAobGVuZ3RoIDwgc3JjLmlkQXJyYXkubGVuZ3RoICogMikgewogICAgICAgICAgICAgICAgICAgIGxlbmd0aCA9IHNyYy5pZEFycmF5Lmxlbmd0aCAqIDI7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBsb25nW10gcmVhbGxvYyA9IG5ldyBsb25nW2xlbmd0aF07CiAgICAgICAgICAgICAgICBTeXN0ZW0uYXJyYXljb3B5KHNyYy5pZEFycmF5LCAwLCByZWFsbG9jLCAwLCBzcmMuaWRBcnJheS5sZW5ndGgpOwogICAgICAgICAgICAgICAgc3JjLmlkQXJyYXkgPSByZWFsbG9jOwogICAgICAgICAgICB9CgogICAgICAgICAgICBmb3IgKGludCBpID0gc3RhcnRfaWRzOyBpIDwgZW5kX2lkczsgaSsrKSB7CiAgICAgICAgICAgICAgICBpZiAoaSA+PSBhcmVhcy5sZW5ndGgpCiAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICBpZiAobnVsbCAhPSBzb3VyY2UgJiYgbnVsbCA9PSBzb3VyY2UudGVybSkgewogICAgICAgICAgICAgICAgICAgIGlmIChudWxsID09IHNvdXJjZS5pZFRlcm1zTWFwLmdldChpZHNbaV0pKQogICAgICAgICAgICAgICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGlmICgoYXJlYXNbaV0gJiBmaWx0ZXIpICE9IDApIHsKICAgICAgICAgICAgICAgICAgICBCaXRTZXQgYml0U2V0ID0gbWFya0ZyZXEoaWRzW2ldLCB0ZXJtLCBmcmVxdWVuY3ksIGkpOwogICAgICAgICAgICAgICAgICAgIGJvb2xlYW4gZmxhZyA9IHRydWU7CiAgICAgICAgICAgICAgICAgICAgaWYgKChhcmVhc1tpXSAmIENvbnN0YW50cy5ET0NfTkFNRSkgIT0gMCkgewogICAgICAgICAgICAgICAgICAgICAgICAvLyBpZiAoc2lnbkZhbHNlKHRlcm0sIGlkc1tpXSwgSW5kZXhJbmZvQXJyLlRFUk1fS0VZX05BTUUsIGZyZXF1ZW5jeSkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgLy8gICAgIGZsYWcgPSBmYWxzZTsKICAgICAgICAgICAgICAgICAgICAgICAgLy8gfQogICAgICAgICAgICAgICAgICAgICAgICBmbGFnID0gYml0U2V0LmdldChJbmRleEluZm9BcnIuVEVSTV9LRVlfTkFNRSk7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIGlmIChmbGFnICYmIChhcmVhc1tpXSAmIENvbnN0YW50cy5QT0lfU0hPUlRfTkFNRSkgIT0gMCkgewogICAgICAgICAgICAgICAgICAgICAgICAvLyBpZiAoc2lnbkZhbHNlKHRlcm0sIGlkc1tpXSwgSW5kZXhJbmZvQXJyLlRFUk1fS0VZX1NIT1JUX05BTUUsIGZyZXF1ZW5jeSkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgLy8gICAgIGZsYWcgPSBmYWxzZTsKICAgICAgICAgICAgICAgICAgICAgICAgLy8gfQogICAgICAgICAgICAgICAgICAgICAgICBmbGFnID0gYml0U2V0LmdldChJbmRleEluZm9BcnIuVEVSTV9LRVlfU0hPUlRfTkFNRSk7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIGlmIChmbGFnICYmIChhcmVhc1tpXSAmIENvbnN0YW50cy5QT0lfQUxJQVNfTkFNRSkgIT0gMCkgewogICAgICAgICAgICAgICAgICAgICAgICAvLyBpZiAoc2lnbkZhbHNlKHRlcm0sIGlkc1tpXSwgSW5kZXhJbmZvQXJyLlRFUk1fS0VZX1NIT1JUX05BTUUsIGZyZXF1ZW5jeSkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgLy8gICAgIGZsYWcgPSBmYWxzZTsKICAgICAgICAgICAgICAgICAgICAgICAgLy8gfQogICAgICAgICAgICAgICAgICAgICAgICBmbGFnID0gYml0U2V0LmdldChJbmRleEluZm9BcnIuVEVSTV9LRVlfU0hPUlRfTkFNRSk7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIGlmIChmbGFnICYmIChhcmVhc1tpXSAmIENvbnN0YW50cy5ET0NfTkFNRV9QWSkgIT0gMCkgewogICAgICAgICAgICAgICAgICAgICAgICAvLyBpZiAoc2lnbkZhbHNlKHRlcm0sIGlkc1tpXSwgSW5kZXhJbmZvQXJyLlRFUk1fS0VZX1BJTllJTiwgZnJlcXVlbmN5KSkgewogICAgICAgICAgICAgICAgICAgICAgICAvLyAgICAgZmxhZyA9IGZhbHNlOwogICAgICAgICAgICAgICAgICAgICAgICAvLyB9CiAgICAgICAgICAgICAgICAgICAgICAgIGZsYWcgPSBiaXRTZXQuZ2V0KEluZGV4SW5mb0Fyci5URVJNX0tFWV9QSU5ZSU4pOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICBpZiAoZmxhZyAmJiAoYXJlYXNbaV0gJiBDb25zdGFudHMuUE9JX1NIT1JUX05BTUVfUFkpICE9IDApIHsKICAgICAgICAgICAgICAgICAgICAgICAgLy8gaWYgKHNpZ25GYWxzZSh0ZXJtLCBpZHNbaV0sIEluZGV4SW5mb0Fyci5URVJNX0tFWV9QWSwgZnJlcXVlbmN5KSkgewogICAgICAgICAgICAgICAgICAgICAgICAvLyAgICAgZmxhZyA9IGZhbHNlOwogICAgICAgICAgICAgICAgICAgICAgICAvLyB9CiAgICAgICAgICAgICAgICAgICAgICAgIGZsYWcgPSBiaXRTZXQuZ2V0KEluZGV4SW5mb0Fyci5URVJNX0tFWV9QWSk7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIGlmIChmbGFnICYmIChhcmVhc1tpXSAmIENvbnN0YW50cy5QT0lfQUxJQVNfTkFNRV9QWSkgIT0gMCkgewogICAgICAgICAgICAgICAgICAgICAgICAvLyBpZiAoc2lnbkZhbHNlKHRlcm0sIGlkc1tpXSwgSW5kZXhJbmZvQXJyLlRFUk1fS0VZX0FMSUFTX1BJTllJTiwgZnJlcXVlbmN5KSkgewogICAgICAgICAgICAgICAgICAgICAgICAvLyAgICAgZmxhZyA9IGZhbHNlOwogICAgICAgICAgICAgICAgICAgICAgICAvLyB9CiAgICAgICAgICAgICAgICAgICAgICAgIGZsYWcgPSBiaXRTZXQuZ2V0KEluZGV4SW5mb0Fyci5URVJNX0tFWV9BTElBU19QSU5ZSU4pOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICBpZiAoZmxhZykgewogICAgICAgICAgICAgICAgICAgICAgICBzcmMuaWRBcnJheVtzcmNfZW5kX3BvcysrXSA9IGlkc1tpXTsKICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHRlcm1Jc0VtcHR5KSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAobnVsbCA9PSBzcmMuaWRUZXJtc01hcC5nZXQoaWRzW2ldKSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8v5aaC5p6c5pWw6YeP5aSn5LqG44CA6L+Z6YeM5pyJ5oCn6IO96Zeu6aKYCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTGlua2VkSGFzaFNldCBzZXQgPSBuZXcgTGlua2VkSGFzaFNldCgpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNldC5hZGQodGVybSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3JjLmlkVGVybXNNYXAucHV0KGlkc1tpXSwgc2V0KTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3JjLmlkVGVybXNNYXAuZ2V0KGlkc1tpXSkuYWRkKHRlcm0pOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgICAgIHNyYy5lbmRfcG9zID0gc3JjX2VuZF9wb3M7CgogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQoKICAgICAgICAvKioqCiAgICAgICAgICog6K+l5Ye95pWw5Lya5Y+W5b6X5oyH5a6a5Zyw5Yy6L2xldmVs55qEaWRz5Lit55qEZG9jaWTvvIzkuI5zcmPkuK3nmoTorrDlvZXlgZrlubbpm4YKICAgICAgICAgKiDov5Tlm55JZFdpdGhUZXJtc0ZsYWfnmoRsaXN077yMSWRXaXRoVGVybXNGbGFn5YW35pyJ6Lef6Liq6aaW5ou85a+55bqU55qE5YiG6K+N55qE6IO95YqbCiAgICAgICAgICogQHBhcmFtIGlkcwogICAgICAgICAqIEBwYXJhbSBhcmVhcwogICAgICAgICAqIEBwYXJhbSBkaXN0Q29kZQogICAgICAgICAqIEBwYXJhbSBsZXZlbAogICAgICAgICAqIEBwYXJhbSBmaWx0ZXIKICAgICAgICAgKiBAcGFyYW0gZmxhZwogICAgICAgICAqIEBwYXJhbSBzcmMKICAgICAgICAgKiBAcGFyYW0gZmxhZ0lkeAogICAgICAgICAqIEBwYXJhbSBmbGFnQXJyTGVuCiAgICAgICAgICogQHJldHVybgogICAgICAgICAqLwogICAgICAgIHB1YmxpYyBzdGF0aWMgTGlzdDxJZFdpdGhUZXJtc0ZsYWc+IGdldEZpZWxkRG9jSWRBcnJXaXRoVGVybUZsYWcobG9uZ1tdIGlkcywgaW50W10gYXJlYXMsIGxvbmcgZGlzdENvZGUsIEluZGV4SW5mb0Fyci5EaXN0TGV2ZWwgbGV2ZWwsIGludCBmaWx0ZXIsIGxvbmcgZmxhZywgTGlzdDxJZFdpdGhUZXJtc0ZsYWc+IHNyYywgaW50IGZsYWdJZHgsIGludCBmbGFnQXJyTGVuKSB7CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIGludCBzdGFydF9pZHMsIGVuZF9pZHMsIHRtcDsKCiAgICAgICAgICAgICAgICBzdGFydF9pZHMgPSBnZXRTdGFydEluZGV4QXJyKGlkcywgZGlzdENvZGUsIGxldmVsKTsKICAgICAgICAgICAgICAgIGVuZF9pZHMgPSBnZXRFbmRJbmRleEFycihpZHMsIGRpc3RDb2RlLCBsZXZlbCk7CgogICAgICAgICAgICAgICAgaWYgKHN0YXJ0X2lkcyA+IGVuZF9pZHMpIHsKICAgICAgICAgICAgICAgICAgICB0bXAgPSBzdGFydF9pZHM7CiAgICAgICAgICAgICAgICAgICAgc3RhcnRfaWRzID0gZW5kX2lkczsKICAgICAgICAgICAgICAgICAgICBlbmRfaWRzID0gdG1wOwogICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgIGludCBzdGFydCwgZW5kOwogICAgICAgICAgICAgICAgTGlzdDxJZFdpdGhUZXJtc0ZsYWc+IHJldCA9IHNyYzsKCiAgICAgICAgICAgICAgICBzdGFydCA9IDA7CiAgICAgICAgICAgICAgICBlbmQgPSBzcmMuc2l6ZSgpIC0gMTsKCiAgICAgICAgICAgICAgICBmb3IgKGludCBpID0gc3RhcnRfaWRzOyBpIDwgZW5kX2lkczsgaSsrKSB7CiAgICAgICAgICAgICAgICAgICAgSWRXaXRoVGVybXNGbGFnIGlkV2l0aEZsYWcgPSBudWxsOwogICAgICAgICAgICAgICAgICAgIGlmIChzdGFydCA8IGVuZCkgewogICAgICAgICAgICAgICAgICAgICAgICBpbnQgZm91bmQgPSBiaW5hbnJ5U2VhcmNoKHNyYywgc3RhcnQsIGVuZCwgaWRzW2ldKTsKICAgICAgICAgICAgICAgICAgICAgICAgc3RhcnQgPSBmb3VuZDsKICAgICAgICAgICAgICAgICAgICAgICAgaWRXaXRoRmxhZyA9IHNyYy5nZXQoZm91bmQpOwogICAgICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICAgICAgaWYgKGlkV2l0aEZsYWcgIT0gbnVsbCAmJiBpZHNbaV0gPT0gaWRXaXRoRmxhZy5nZXREb2NJZCgpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIC8vIOW3suaJvuWIsCwg5oqK6K+N55qE57Si5byVZmxhZ+abtOaWsAogICAgICAgICAgICAgICAgICAgICAgICBpZFdpdGhGbGFnLnNldEZsYWcoaWRXaXRoRmxhZy5nZXRGbGFnKGZsYWdJZHgpIHwgZmxhZywgZmxhZ0lkeCk7CiAgICAgICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICAgICAgLy8g5pyq5om+5YiwCiAgICAgICAgICAgICAgICAgICAgICAgIHJldC5hZGQobmV3IElkV2l0aFRlcm1zRmxhZyhpZHNbaV0sIGZsYWcsIGZsYWdJZHgsIGZsYWdBcnJMZW4pKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBDb2xsZWN0aW9ucy5zb3J0KHJldCwgQ29tcGFyYXRvci5jb21wYXJpbmdMb25nKElkV2l0aFRlcm1zRmxhZzo6Z2V0RG9jSWQpKTsKICAgICAgICAgICAgICAgIHJldHVybiByZXQ7CiAgICAgICAgICAgIH0KICAgICAgICB9CgogICAgICAgIC8vIC8qKgogICAgICAgIC8vICAqIOW4puWHuueOsOasoeaVsOeahOi/h+iZkQogICAgICAgIC8vICAqCiAgICAgICAgLy8gICogQHBhcmFtIGFyZWFzIElE5Ye6546w5Z+f6ZuG5ZCICiAgICAgICAgLy8gICogQHBhcmFtIGRpc3RDb2RlIOihjOaUv+WMugogICAgICAgIC8vICAqIEBwYXJhbSBsZXZlbCDov4fmu6TnuqfliKsKICAgICAgICAvLyAgKiBAcGFyYW0gZmlsdGVyIOWHuueOsOWfnwogICAgICAgIC8vICAqIEBwYXJhbSBmcmVxdWVuY3kg5Ye6546w5qyh5pWwCiAgICAgICAgLy8gICogQHJldHVybiBBcnJheUxpc3Q8TG9uZz4KICAgICAgICAvLyAgKi8KICAgICAgICAvLyBwdWJsaWMgc3RhdGljIEFycmF5TGlzdDxMb25nPiBnZXRGaWVsZERvY0lkQXJyKGxvbmdbXSBpZHgsIGludFtdIGFyZWFzLCBieXRlW11bXVtdIHBvc0luZm9zLCBsb25nIGRpc3RDb2RlLCBJbmRleEluZm9BcnIuRGlzdExldmVsIGxldmVsLCBpbnQgZmlsdGVyLCBpbnQgZnJlcXVlbmN5KSB7CiAgICAgICAgLy8gICAgIGludCBzdGFydCwgZW5kLCB0bXA7CiAgICAgICAgLy8KICAgICAgICAvLyAgICAgc3RhcnQgPSBnZXRTdGFydEluZGV4QXJyKGlkeCwgZGlzdENvZGUsIGxldmVsKTsKICAgICAgICAvLyAgICAgZW5kID0gZ2V0RW5kSW5kZXhBcnIoaWR4LCBkaXN0Q29kZSwgbGV2ZWwpOwogICAgICAgIC8vCiAgICAgICAgLy8gICAgIGlmIChzdGFydCA+IGVuZCkgewogICAgICAgIC8vICAgICAgICAgdG1wID0gc3RhcnQ7CiAgICAgICAgLy8gICAgICAgICBzdGFydCA9IGVuZDsKICAgICAgICAvLyAgICAgICAgIGVuZCA9IHRtcDsKICAgICAgICAvLyAgICAgfQogICAgICAgIC8vICAgICBBcnJheUxpc3Q8TG9uZz4gcmV0ID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgICAgLy8gICAgIElkV2l0aFRlcm1zIGlkV2l0aFRlcm1zID0gbmV3IElkV2l0aFRlcm1zKCk7CiAgICAgICAgLy8gICAgIGZvciAoaW50IGkgPSBzdGFydDsgaSA8IGVuZDsgaSsrKSB7CiAgICAgICAgLy8gICAgICAgICBpZiAoKGFyZWFzW2ldICYgZmlsdGVyKSAhPSAwKSB7CiAgICAgICAgLy8gICAgICAgICAgICAgaWRXaXRoVGVybXMuc2V0RG9jSWQoaWR4W2ldKTsKICAgICAgICAvLyAgICAgICAgICAgICBieXRlIGluZGV4W11bXSA9IHBvc0luZm9zW2JpbmFucnlTZWFyY2hBcnIoaWR4LCBpZFdpdGhUZXJtcyldOwogICAgICAgIC8vICAgICAgICAgICAgIGJvb2xlYW4gc2lnbiA9IHRydWU7CiAgICAgICAgLy8gICAgICAgICAgICAgaWYgKChhcmVhc1tpXSAmIENvbnN0YW50cy5ET0NfTkFNRSkgIT0gMCkgewogICAgICAgIC8vICAgICAgICAgICAgICAgICBpZiAoIShpbmRleFtJbmRleEluZm9BcnIuVEVSTV9LRVlfTkFNRV0gIT0gbnVsbCAmJiAoaW5kZXhbSW5kZXhJbmZvQXJyLlRFUk1fS0VZX05BTUVdWzBdICYgMFhGRikgPj0gZnJlcXVlbmN5KSkgewogICAgICAgIC8vICAgICAgICAgICAgICAgICAgICAgc2lnbiA9IGZhbHNlOwogICAgICAgIC8vICAgICAgICAgICAgICAgICB9CiAgICAgICAgLy8gICAgICAgICAgICAgfQogICAgICAgIC8vICAgICAgICAgICAgIGlmICgoYXJlYXNbaV0gJiBDb25zdGFudHMuUE9JX1NIT1JUX05BTUUpICE9IDApIHsKICAgICAgICAvLyAgICAgICAgICAgICAgICAgaWYgKCEoaW5kZXhbSW5kZXhJbmZvQXJyLlRFUk1fS0VZX1NIT1JUX05BTUVdICE9IG51bGwgJiYgKGluZGV4W0luZGV4SW5mb0Fyci5URVJNX0tFWV9TSE9SVF9OQU1FXVswXSAmIDBYRkYpID49IGZyZXF1ZW5jeSkpIHsKICAgICAgICAvLyAgICAgICAgICAgICAgICAgICAgIHNpZ24gPSBmYWxzZTsKICAgICAgICAvLyAgICAgICAgICAgICAgICAgfQogICAgICAgIC8vICAgICAgICAgICAgIH0KICAgICAgICAvLyAgICAgICAgICAgICBpZiAoKGFyZWFzW2ldICYgQ29uc3RhbnRzLlBPSV9BTElBU19OQU1FKSAhPSAwKSB7CiAgICAgICAgLy8gICAgICAgICAgICAgICAgIGlmICghKGluZGV4W0luZGV4SW5mb0Fyci5URVJNX0tFWV9BTElBU10gIT0gbnVsbCAmJiAoaW5kZXhbSW5kZXhJbmZvQXJyLlRFUk1fS0VZX0FMSUFTXVswXSAmIDBYRkYpID49IGZyZXF1ZW5jeSkpIHsKICAgICAgICAvLyAgICAgICAgICAgICAgICAgICAgIHNpZ24gPSBmYWxzZTsKICAgICAgICAvLyAgICAgICAgICAgICAgICAgfQogICAgICAgIC8vICAgICAgICAgICAgIH0KICAgICAgICAvLyAgICAgICAgICAgICBpZiAoKGFyZWFzW2ldICYgQ29uc3RhbnRzLkRPQ19OQU1FX1BZKSAhPSAwKSB7CiAgICAgICAgLy8gICAgICAgICAgICAgICAgIGlmICghKGluZGV4W0luZGV4SW5mb0Fyci5URVJNX0tFWV9QSU5ZSU5dICE9IG51bGwgJiYgKGluZGV4W0luZGV4SW5mb0Fyci5URVJNX0tFWV9QSU5ZSU5dWzBdICYgMFhGRikgPj0gZnJlcXVlbmN5KSkgewogICAgICAgIC8vICAgICAgICAgICAgICAgICAgICAgc2lnbiA9IGZhbHNlOwogICAgICAgIC8vICAgICAgICAgICAgICAgICB9CiAgICAgICAgLy8gICAgICAgICAgICAgfQogICAgICAgIC8vICAgICAgICAgICAgIGlmICgoYXJlYXNbaV0gJiBDb25zdGFudHMuUE9JX1NIT1JUX05BTUVfUFkpICE9IDApIHsKICAgICAgICAvLyAgICAgICAgICAgICAgICAgaWYgKCEoaW5kZXhbSW5kZXhJbmZvQXJyLlRFUk1fS0VZX1BZXSAhPSBudWxsICYmIChpbmRleFtJbmRleEluZm9BcnIuVEVSTV9LRVlfUFldWzBdICYgMFhGRikgPj0gZnJlcXVlbmN5KSkgewogICAgICAgIC8vICAgICAgICAgICAgICAgICAgICAgc2lnbiA9IGZhbHNlOwogICAgICAgIC8vICAgICAgICAgICAgICAgICB9CiAgICAgICAgLy8gICAgICAgICAgICAgfQogICAgICAgIC8vICAgICAgICAgICAgIGlmICgoYXJlYXNbaV0gJiBDb25zdGFudHMuUE9JX0FMSUFTX05BTUVfUFkpICE9IDApIHsKICAgICAgICAvLyAgICAgICAgICAgICAgICAgaWYgKCEoaW5kZXhbSW5kZXhJbmZvQXJyLlRFUk1fS0VZX0FMSUFTX1BJTllJTl0gIT0gbnVsbCAmJiAoaW5kZXhbSW5kZXhJbmZvQXJyLlRFUk1fS0VZX0FMSUFTX1BJTllJTl1bMF0gJiAwWEZGKSA+PSBmcmVxdWVuY3kpKSB7CiAgICAgICAgLy8gICAgICAgICAgICAgICAgICAgICBzaWduID0gZmFsc2U7CiAgICAgICAgLy8gICAgICAgICAgICAgICAgIH0KICAgICAgICAvLyAgICAgICAgICAgICB9CiAgICAgICAgLy8gICAgICAgICAgICAgaWYgKHNpZ24pCiAgICAgICAgLy8gICAgICAgICAgICAgICAgIHJldC5hZGQoaWR4W2ldKTsKICAgICAgICAvLyAgICAgICAgIH0KICAgICAgICAvLyAgICAgfQogICAgICAgIC8vICAgICByZXR1cm4gcmV0OwogICAgICAgIC8vIH0KCiAgICAgICAgcHVibGljIHN0YXRpYyBpbnQgZ2V0U3RhcnRJbmRleEFycihsb25nW10gaWRzLCBsb25nIGRpc3RDb2RlLCBJbmRleEluZm9BcnIuRGlzdExldmVsIGxldmVsKSB7CiAgICAgICAgICAgIGludCBzdGFydCA9IDA7CiAgICAgICAgICAgIHN3aXRjaCAobGV2ZWwpIHsKICAgICAgICAgICAgICAgIGNhc2UgUFJPVjoKICAgICAgICAgICAgICAgICAgICBzdGFydCA9IGJpbmFucnlTZWFyY2hBcnIoaWRzLCBuZXcgSWRXaXRoVGVybXMoKGRpc3RDb2RlICYgMHhmZjAwMDAwMCkgPDwgMzIpKTsKICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgIGNhc2UgQ0lUWToKICAgICAgICAgICAgICAgICAgICBzdGFydCA9IGJpbmFucnlTZWFyY2hBcnIoaWRzLCBuZXcgSWRXaXRoVGVybXMoKGRpc3RDb2RlICYgMHhmZmZmMDAwMCkgPDwgMzIpKTsKICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgIGNhc2UgRElTVDoKICAgICAgICAgICAgICAgICAgICAvLyDljLrnuqdjb2Rl5Y+v5Lul55u05o6l5Y+WZG9jSWTpm4blkIgKICAgICAgICAgICAgICAgICAgICBzdGFydCA9IGJpbmFucnlTZWFyY2hBcnIoaWRzLCBuZXcgSWRXaXRoVGVybXMoZGlzdENvZGUgPDwgMzIpKTsKICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgIGNhc2UgQ09VTlRSWToKICAgICAgICAgICAgICAgICAgICBzdGFydCA9IDA7CiAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICBkZWZhdWx0OgogICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICB9CiAgICAgICAgICAgIHJldHVybiBzdGFydDsKICAgICAgICB9CgogICAgICAgIHByaXZhdGUgc3RhdGljIGludCBnZXRFbmRJbmRleEFycihsb25nW10gaWR4LCBsb25nIGRpc3RDb2RlLCBJbmRleEluZm9BcnIuRGlzdExldmVsIGxldmVsKSB7CgogICAgICAgICAgICBpbnQgZW5kID0gMDsKICAgICAgICAgICAgc3dpdGNoIChsZXZlbCkgewogICAgICAgICAgICAgICAgY2FzZSBQUk9WOgogICAgICAgICAgICAgICAgICAgIGVuZCA9IGJpbmFucnlTZWFyY2hBcnIoaWR4LCBuZXcgSWRXaXRoVGVybXMoKChkaXN0Q29kZSAmIDB4ZmYwMDAwMDApICsgMHgwMTAwMDAwMCkgPDwgMzIpKTsKICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgIGNhc2UgQ0lUWToKICAgICAgICAgICAgICAgICAgICBlbmQgPSBiaW5hbnJ5U2VhcmNoQXJyKGlkeCwgbmV3IElkV2l0aFRlcm1zKCgoKGRpc3RDb2RlICYgMHhmZmZmMDAwMCkgKyAweDAwMDEwMDAwKSkgPDwgMzIpKTsKICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgIGNhc2UgRElTVDoKICAgICAgICAgICAgICAgICAgICAvLyDljLrnuqdjb2Rl5Y+v5Lul55u05o6l5Y+WZG9jSWTpm4blkIgKICAgICAgICAgICAgICAgICAgICBlbmQgPSBiaW5hbnJ5U2VhcmNoQXJyKGlkeCwgbmV3IElkV2l0aFRlcm1zKCgoZGlzdENvZGUgKyAxKSkgPDwgMzIpKTsKICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgIGNhc2UgQ09VTlRSWToKICAgICAgICAgICAgICAgICAgICBlbmQgPSBpZHgubGVuZ3RoOwogICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgZGVmYXVsdDoKICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgfQogICAgICAgICAgICByZXR1cm4gZW5kOwogICAgICAgIH0KCiAgICAgICAgLyoqCiAgICAgICAgICog5Y+W5b6X5paH5qGj5a+55bqU55qE5Ye6546w5Z+f5qCH6K+GCiAgICAgICAgICoKICAgICAgICAgKiBAcmV0dXJuCiAgICAgICAgICovCiAgICAgICAgcHVibGljIHN0YXRpYyBpbnQgZ2V0QXJlYShJbmRleEluZm9BcnIgaW5mbywgbG9uZyBkb2NJZCkgewogICAgICAgICAgICBsb25nW10gaWRzID0gaW5mby5nZXRJZHMoKTsKICAgICAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBpZHMubGVuZ3RoOyBpKyspIHsKICAgICAgICAgICAgICAgIGludCBpbmRleCA9IGJpbmFucnlTZWFyY2hBcnIoaWRzLCBuZXcgSWRXaXRoVGVybXMoZG9jSWQpKTsKICAgICAgICAgICAgICAgIGlmIChpbmRleCA8IGlkcy5sZW5ndGgpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gaW5mby5nZXRBcmVhcygpW2ldOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgICAgIHJldHVybiAwOwogICAgICAgIH0KICAgIH0K</text>
+        <text encoding="base64">ICAgIC8vIHB1YmxpYyBzdGF0aWMgdm9pZCBRdWlja0RlbGV0ZUR1cERvY0lkKFF1aWNrSWRBcnJheSBxdWlja0lkQXJyYXkpIHsKICAgIC8vICAgICBpbnQgb3Blbl9pZHggPSAwOwogICAgLy8gICAgIHF1aWNrSWRBcnJheS5yZXN1c2x0X2NvdW50ID0gMDsKICAgIC8vICAgICBpZiAocXVpY2tJZEFycmF5LmZsYWdBcnJheSA9PSBudWxsKSB7CiAgICAvLyAgICAgICAgIHF1aWNrSWRBcnJheS5mbGFnQXJyYXkgPSBuZXcgYnl0ZVtxdWlja0lkQXJyYXkuZW5kX3Bvc107CiAgICAvLyAgICAgfQogICAgLy8gICAgIGZvciAoaW50IGkgPSAwOyBpIDwgcXVpY2tJZEFycmF5LmVuZF9wb3M7IGkrKykgewogICAgLy8gICAgICAgICBpZiAoaSA+IG9wZW5faWR4ICYmIHF1aWNrSWRBcnJheS5pZEFycmF5W29wZW5faWR4XSA9PSBxdWlja0lkQXJyYXkuaWRBcnJheVtpXSkgewogICAgLy8gICAgICAgICAgICAgcXVpY2tJZEFycmF5LmZsYWdBcnJheVtpXSA9IDE7CiAgICAvLyAgICAgICAgIH0gZWxzZSB7CiAgICAvLyAgICAgICAgICAgICBxdWlja0lkQXJyYXkucmVzdXNsdF9jb3VudCsrOwogICAgLy8gICAgICAgICAgICAgb3Blbl9pZHggPSBpOwogICAgLy8gICAgICAgICB9CiAgICAvLyAgICAgfQogICAgLy8gfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWRkKG5ldyBJZFdpdGhUZXJtcyg1LCBuZXcgTGlua2VkSGFzaFNldDxTdHJpbmc+KCkge3sKICAgICAgICAgICAgICAgIGFkZCgidGVzdDIiKTsKICAgICAgICAgICAgfX0pKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRGaWVsZERvY0lkQXJyXD4=</last-search>
+      <last-search encoding="base64">XDxjb2RlUHJvdlw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRGaWVsZERvY0lkQXJyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxjb2RlUHJvdlw+</last-pattern>
       <last-replace />
       <last-substitute>L</last-substitute>
       <last-dir>1</last-dir>
@@ -711,10 +716,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzcmNGcm9tXD4=</entry>
-        <entry encoding="base64">XDxpZFw+</entry>
-        <entry>&quot;</entry>
-        <entry>jackson</entry>
         <entry encoding="base64">XDx2YWx1ZVR5cGVcPg==</entry>
         <entry>maper</entry>
         <entry>TheDay</entry>
@@ -728,9 +729,13 @@
         <entry encoding="base64">XDxxdWlja0RvY0lkc0ludGVyc2VjdGlvblw+</entry>
         <entry encoding="base64">bmV3IExpbmtlZEhhc2hTZXQ8Pigp</entry>
         <entry>1</entry>
-        <entry>dist</entry>
         <entry>L</entry>
         <entry encoding="base64">XDxnZXRGaWVsZERvY0lkQXJyXD4=</entry>
+        <entry>\/\/</entry>
+        <entry>dist</entry>
+        <entry>codeProv</entry>
+        <entry encoding="base64">XDxmaWx0ZXJcPg==</entry>
+        <entry encoding="base64">XDxjb2RlUHJvdlw+</entry>
       </history-search>
       <history-cmd>
         <entry>lp</entry>
