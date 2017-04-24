@@ -142,12 +142,12 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" timestamp="1492997614948">
-        <mark key="'" line="366" column="0" />
-        <mark key="[" line="351" column="0" />
-        <mark key="]" line="351" column="0" />
-        <mark key="." line="351" column="0" />
-        <mark key="^" line="351" column="71" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" timestamp="1493000390388">
+        <mark key="'" line="375" column="0" />
+        <mark key="[" line="360" column="71" />
+        <mark key="]" line="360" column="72" />
+        <mark key="." line="360" column="72" />
+        <mark key="^" line="359" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/red/app/models/DbFactory.scala" timestamp="1490010277743">
         <mark key="[" line="7" column="16" />
@@ -317,7 +317,7 @@
       <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.0.2.Final/hibernate-core-5.0.2.Final-sources.jar!/org/hibernate/dialect/MySQLDialect.java" timestamp="1491974630981">
         <mark key="'" line="41" column="37" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" timestamp="1492764828978">
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" timestamp="1493000190366">
         <mark key="'" line="645" column="26" />
         <mark key="[" line="631" column="7" />
         <mark key="]" line="631" column="11" />
@@ -533,7 +533,7 @@
       <file name="$USER_HOME$/workspace/search/search_web/src/main/java/com/mx/server/search/web/UnitTestProxy.java" timestamp="1491463319987">
         <mark key="'" line="58" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1492764817276">
+      <file name="/fragment.java" timestamp="1493000097428">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="7" />
@@ -655,37 +655,37 @@
         <text>term</text>
       </register>
       <register name="-" type="4">
-        <text>HashSet</text>
+        <text>new HashMap()</text>
       </register>
       <register name="/" type="4">
         <text>1</text>
       </register>
-      <register name="0" type="4">
-        <text>Utility.DocIdsIntersection(l1, l2)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0VHJ1ZShVdGlsaXR5LkRvY0lkc0ludGVyc2VjdGlvbihsMSwgbDIpLnNpemUoKSA9PSAxKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBVdGlsaXR5LkRvY0lkc0ludGVyc2VjdGlvbihsMSwgbDIpOwo=</text>
+        <text encoding="base64">ICAgICAgICB0MiA9IG5ldyBJZFdpdGhUZXJtcyg1KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0MS5zZXRVc2VkVGVybXMoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlzZXNzaW9uLmEK</text>
+        <text encoding="base64">ICAgICAgICBVdGlsaXR5LkRvY0lkc0ludGVyc2VjdGlvbihsMSwgbDIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBIYXNoTWFwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBRdWlja0lkQXJyYXkgYXIyID0gbmV3IFF1aWNrSWRBcnJheSgpOwogICAgICAgIGFyMi5mbGFnQXJyYXkgPSBuZXcgYnl0ZVtdezB9OwogICAgICAgIGFyMi5pZEFycmF5ID0gbmV3IGxvbmdbXXsxfTsKICAgICAgICBhcjIuaWRUZXJtc01hcC5wdXQoMUwsIG5ldyBMaW5rZWRIYXNoU2V0PD4oKSk7Cg==</text>
+        <text encoding="base64">CQlzZXNzaW9uLmEK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBIYXNoTWFwCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBRdWlja0lkQXJyYXkgYXIyID0gbmV3IFF1aWNrSWRBcnJheSgpOwogICAgICAgIGFyMi5mbGFnQXJyYXkgPSBuZXcgYnl0ZVtdezB9OwogICAgICAgIGFyMi5pZEFycmF5ID0gbmV3IGxvbmdbXXsxfTsKICAgICAgICBhcjIuaWRUZXJtc01hcC5wdXQoMUwsIG5ldyBMaW5rZWRIYXNoU2V0PD4oKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBxdWlja0RlbGV0ZUR1cERvY0lkKCkgdGhyb3dzIEV4Y2VwdGlvbiB7CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
