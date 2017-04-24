@@ -142,12 +142,12 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" timestamp="1493000390388">
-        <mark key="'" line="375" column="0" />
-        <mark key="[" line="360" column="71" />
-        <mark key="]" line="360" column="72" />
-        <mark key="." line="360" column="72" />
-        <mark key="^" line="359" column="18" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" timestamp="1493001380397">
+        <mark key="'" line="383" column="0" />
+        <mark key="[" line="370" column="17" />
+        <mark key="]" line="370" column="20" />
+        <mark key="." line="370" column="20" />
+        <mark key="^" line="370" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/red/app/models/DbFactory.scala" timestamp="1490010277743">
         <mark key="[" line="7" column="16" />
@@ -305,6 +305,10 @@
       <file name="$USER_HOME$/workspace/uauth/src/main/java/com/mx/server/core/base/dao/impl/GenericDAO.java" timestamp="1491975015476">
         <mark key="'" line="188" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsAAASearcher.java" timestamp="1493001360142">
+        <mark key="[" line="132" column="28" />
+        <mark key="]" line="132" column="46" />
+      </file>
       <file name="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.1-sources.jar!/scala/Array.scala" timestamp="1490335255827">
         <mark key="'" line="197" column="6" />
       </file>
@@ -317,10 +321,10 @@
       <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.0.2.Final/hibernate-core-5.0.2.Final-sources.jar!/org/hibernate/dialect/MySQLDialect.java" timestamp="1491974630981">
         <mark key="'" line="41" column="37" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" timestamp="1493000190366">
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" timestamp="1493001183540">
         <mark key="'" line="645" column="26" />
-        <mark key="[" line="631" column="7" />
-        <mark key="]" line="631" column="11" />
+        <mark key="[" line="760" column="0" />
+        <mark key="]" line="761" column="98" />
         <mark key="^" line="631" column="11" />
         <mark key="." line="631" column="11" />
       </file>
@@ -655,37 +659,37 @@
         <text>term</text>
       </register>
       <register name="-" type="4">
-        <text>new HashMap()</text>
+        <text>testStr</text>
       </register>
       <register name="/" type="4">
         <text>1</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0VHJ1ZShVdGlsaXR5LkRvY0lkc0ludGVyc2VjdGlvbihsMSwgbDIpLnNpemUoKSA9PSAxKTsK</text>
+      <register name="0" type="4">
+        <text>0x8000000000000000L</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0MiA9IG5ldyBJZFdpdGhUZXJtcyg1KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0MS5zZXRVc2VkVGVybXMoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgSW5kZXhpbmdQYXJzZXIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBVdGlsaXR5LkRvY0lkc0ludGVyc2VjdGlvbihsMSwgbDIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHV0KCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBIYXNoTWFwPFN0cmluZywgSW5kZXhJbmZvQXJyPiBpbmRleEluZm9NYXAgPSBpbmRleEluZm9NYXBGVFMuZ2V0KGNvdW50cnkgKyAiXyIgKyBsYW5ndWFnZSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlzZXNzaW9uLmEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBIYXNoTWFwCg==</text>
+        <text encoding="base64">ICAgICAgICB0MiA9IG5ldyBJZFdpdGhUZXJtcyg1KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBRdWlja0lkQXJyYXkgYXIyID0gbmV3IFF1aWNrSWRBcnJheSgpOwogICAgICAgIGFyMi5mbGFnQXJyYXkgPSBuZXcgYnl0ZVtdezB9OwogICAgICAgIGFyMi5pZEFycmF5ID0gbmV3IGxvbmdbXXsxfTsKICAgICAgICBhcjIuaWRUZXJtc01hcC5wdXQoMUwsIG5ldyBMaW5rZWRIYXNoU2V0PD4oKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0MS5zZXRVc2VkVGVybXMoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBVdGlsaXR5LkRvY0lkc0ludGVyc2VjdGlvbihsMSwgbDIpOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
