@@ -336,11 +336,12 @@
         <mark key="]" line="136" column="0" />
         <mark key="." line="136" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" timestamp="1493109328992">
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" timestamp="1493110318321">
         <mark key="'" line="203" column="0" />
-        <mark key="[" line="163" column="0" />
-        <mark key="]" line="163" column="0" />
-        <mark key="." line="163" column="0" />
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="7" />
+        <mark key="." line="81" column="0" />
+        <mark key="^" line="78" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsRTXSearcher.java" timestamp="1491815563079">
         <mark key="'" line="15" column="13" />
@@ -697,13 +698,13 @@
         <text>term</text>
       </register>
       <register name="-" type="4">
-        <text>respCode</text>
+        <text>boolean</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvYmplY3RNYXBwZXJcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>SearchServiceStation</text>
+        <text>SemanticRet</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
@@ -733,7 +734,7 @@
         <text encoding="base64">CTwvbXZjOmFubm90YXRpb24tZHJpdmVuPgo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>source ~/.ideavimrc</text>
       </register>
     </registers>
     <search>
@@ -776,7 +777,6 @@
         <entry>action</entry>
         <entry>actionlist</entry>
         <entry>action TranslateTextComponent</entry>
-        <entry>source ~/.ideavimrc</entry>
         <entry>action EditorTranslateAction</entry>
         <entry encoding="base64">JzwsJz5zLyIvXCIvZw==</entry>
         <entry encoding="base64">JzwsJz5zLyIvXFwiL2c=</entry>
@@ -789,6 +789,7 @@
         <entry encoding="base64">JzwsJz5zL0wvL2c=</entry>
         <entry>action $Redo</entry>
         <entry>w</entry>
+        <entry>source ~/.ideavimrc</entry>
       </history-cmd>
       <history-expr />
       <history-input />
