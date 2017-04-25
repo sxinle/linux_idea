@@ -734,7 +734,7 @@
         <text encoding="base64">CTwvbXZjOmFubm90YXRpb24tZHJpdmVuPgo=</text>
       </register>
       <register name=":" type="4">
-        <text>source ~/.ideavimrc</text>
+        <text>reg</text>
       </register>
     </registers>
     <search>
@@ -770,7 +770,6 @@
         <entry encoding="base64">XDxvYmplY3RNYXBwZXJcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>lp</entry>
         <entry>action CollapseBlock</entry>
         <entry>se list</entry>
         <entry>action AceAction</entry>
@@ -790,6 +789,7 @@
         <entry>action $Redo</entry>
         <entry>w</entry>
         <entry>source ~/.ideavimrc</entry>
+        <entry>reg</entry>
       </history-cmd>
       <history-expr />
       <history-input />
