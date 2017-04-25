@@ -122,6 +122,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/doc/DocAttr.java" timestamp="1493104774588" />
       <file name="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/util/TreeMap.java" timestamp="1490759040501">
         <mark key="'" line="149" column="0" />
       </file>
@@ -460,11 +461,6 @@
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/IndexInfoUtilTest.java" timestamp="1493021259364">
-        <mark key="'" line="5" column="8" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="19" column="5" />
-      </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/UserInputPreHandler.java" timestamp="1488850097687">
         <mark key="[" line="7" column="32" />
         <mark key="]" line="8" column="0" />
@@ -473,11 +469,11 @@
       <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/models/IdWithTermsFlag.java" timestamp="1492064610447">
         <mark key="'" line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/business/poi/action/PoiController.java" timestamp="1493103579170">
-        <mark key="'" line="449" column="0" />
-        <mark key="[" line="232" column="5" />
-        <mark key="]" line="232" column="25" />
-        <mark key="." line="232" column="5" />
+      <file name="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/business/poi/action/PoiController.java" timestamp="1493104213882">
+        <mark key="'" line="65" column="31" />
+        <mark key="[" line="61" column="13" />
+        <mark key="]" line="61" column="54" />
+        <mark key="." line="61" column="13" />
         <mark key="^" line="230" column="4" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.5.RELEASE/spring-webmvc-4.3.5.RELEASE.jar!/org/springframework/web/servlet/config/spring-mvc-4.0.xsd" timestamp="1493083434646">
@@ -519,11 +515,6 @@
       </file>
       <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/models/QuickIdArray.java" timestamp="1492761507210">
         <mark key="'" line="25" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/search/search_web/src/main/resources/spring-mvc.xml" timestamp="1493019719002">
-        <mark key="'" line="38" column="0" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="36" column="10" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/TermsSetter.java" timestamp="1492589181650">
         <mark key="'" line="92" column="0" />
@@ -592,8 +583,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="452" column="20" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
-      <jump line="453" column="20" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
       <jump line="470" column="4" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
       <jump line="471" column="4" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
       <jump line="472" column="4" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
@@ -686,12 +675,14 @@
       <jump line="252" column="64" filename="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/business/poi/action/PoiController.java" />
       <jump line="450" column="0" filename="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/business/poi/action/PoiController.java" />
       <jump line="49" column="6" filename="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/business/poi/action/PoiController.java" />
-      <jump line="449" column="0" filename="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/business/poi/action/PoiController.java" />
       <jump line="71" column="4" filename="/JNISegmenter.java" />
       <jump line="170" column="0" filename="/JNISegmenter.java" />
       <jump line="347" column="43" filename="/QueryParamBean.java" />
       <jump line="0" column="0" filename="/QueryParamBean.java" />
       <jump line="366" column="0" filename="/QueryParamBean.java" />
+      <jump line="52" column="35" filename="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/business/poi/action/PoiController.java" />
+      <jump line="449" column="0" filename="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/business/poi/action/PoiController.java" />
+      <jump line="65" column="31" filename="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/business/poi/action/PoiController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
