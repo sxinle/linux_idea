@@ -134,8 +134,8 @@
       <file name="/HotPoiSearcher.java" timestamp="1491532203561">
         <mark key="'" line="90" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/query/semantic/HotPoiSearcherTest.java" timestamp="1493036815375">
-        <mark key="'" line="30" column="0" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/query/semantic/HotPoiSearcherTest.java" timestamp="1493086533127">
+        <mark key="'" line="151" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/common/util/Trans2PinYin.java" timestamp="1491464474960">
         <mark key="'" line="224" column="0" />
@@ -318,7 +318,6 @@
       <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/transfer/req/BaseParam.java" timestamp="1491470092254">
         <mark key="'" line="73" column="15" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.6.3/jackson-databind-2.6.3-sources.jar!/com/fasterxml/jackson/databind/ObjectMapper.java" timestamp="1493084896076" />
       <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.0.2.Final/hibernate-core-5.0.2.Final-sources.jar!/org/hibernate/dialect/MySQLDialect.java" timestamp="1491974630981">
         <mark key="'" line="41" column="37" />
       </file>
@@ -573,8 +572,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="90" column="46" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
-      <jump line="100" column="8" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
       <jump line="109" column="51" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
       <jump line="114" column="44" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
       <jump line="117" column="44" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
@@ -673,6 +670,8 @@
       <jump line="63" column="2" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.5.RELEASE/spring-web-4.3.5.RELEASE-sources.jar!/org/springframework/http/converter/json/AbstractJackson2HttpMessageConverter.java" />
       <jump line="71" column="27" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.5.RELEASE/spring-web-4.3.5.RELEASE-sources.jar!/org/springframework/http/converter/json/AbstractJackson2HttpMessageConverter.java" />
       <jump line="250" column="12" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.5.RELEASE/spring-web-4.3.5.RELEASE-sources.jar!/org/springframework/http/converter/json/AbstractJackson2HttpMessageConverter.java" />
+      <jump line="124" column="30" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/query/semantic/HotPoiSearcherTest.java" />
+      <jump line="151" column="0" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/query/semantic/HotPoiSearcherTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -728,7 +727,7 @@
       <last-replace />
       <last-substitute>L</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
