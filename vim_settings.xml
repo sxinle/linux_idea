@@ -210,12 +210,12 @@
         <mark key="]" line="77" column="0" />
         <mark key="." line="77" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zest/src/main/java/moud/Sec.java" timestamp="1492692903422">
-        <mark key="'" line="38" column="61" />
-        <mark key="[" line="12" column="23" />
-        <mark key="]" line="12" column="27" />
-        <mark key="." line="12" column="27" />
-        <mark key="^" line="12" column="27" />
+      <file name="$USER_HOME$/workspace/zest/src/main/java/moud/Sec.java" timestamp="1493081096320">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="77" column="30" />
+        <mark key="]" line="78" column="37" />
+        <mark key="." line="78" column="37" />
+        <mark key="^" line="78" column="37" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/KeywordSearcher.java" timestamp="1492667315443">
         <mark key="'" line="193" column="15" />
@@ -565,7 +565,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="409" column="50" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
       <jump line="884" column="77" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
       <jump line="956" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
       <jump line="420" column="30" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
@@ -665,6 +664,7 @@
       <jump line="30" column="0" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/query/semantic/HotPoiSearcherTest.java" />
       <jump line="139" column="49" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
       <jump line="509" column="0" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
+      <jump line="12" column="0" filename="$USER_HOME$/workspace/zest/src/main/java/moud/Sec.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -674,7 +674,7 @@
         <text>term</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>ignores</text>
       </register>
       <register name="/" type="4">
         <text>null</text>
@@ -683,31 +683,31 @@
         <text encoding="base64">ICAgICAgICBLZXl3b3JkUmVzcC5Eb2MgZG9jID0gVXRpbGl0eS5nZXREb2MoIkNITiIsICJ6aCIsIDEyMjQ5NzkxMDI5NTU4Njk3MTlMLCAibXgiLCBmYWxzZSwgMCwgMCk7CiAgICAgICAgQXNzZXJ0LmFzc2VydEVxdWFscygidGVzdEFkZHJlc3MiLCBkb2MuZ2V0QWRkcmVzcygpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBnZXRTdGFydEluZGV4QXJyKCkgdGhyb3dzIEV4Y2VwdGlvbiB7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgU2V0PFN0cmluZz4gSUdOT1JFX1NFVDsKCiAgICBzdGF0aWMgdm9pZCBpbml0SWdub3JlKCkgewogICAgICAgIAogICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBnZXRTdGFydEluZGV4QXJyKCkgdGhyb3dzIEV4Y2VwdGlvbiB7CiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtYXBGaWVsZC5zZXQobnVsbCwga3J5by5yZWFkT2JqZWN0KGlucHV0LCAoQ2xhc3MpIG1hcEZpZWxkLmdldFR5cGUoKSkpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZihudWxsID09IG1hcEZpZWxkKSB7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtYXBGaWVsZC5nZXQobWFwRmllbGQpID09IG51bGwK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtYXBGaWVsZC5zZXQobnVsbCwga3J5by5yZWFkT2JqZWN0KGlucHV0LCAoQ2xhc3MpIG1hcEZpZWxkLmdldFR5cGUoKSkpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZihudWxsID09IG1hcEZpZWxkKSB7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtYXBGaWVsZC5nZXQobWFwRmllbGQpID09IG51bGwK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgSGFzaE1hcDxTdHJpbmcsIEhhc2hNYXA8U3RyaW5nLCBJbmRleEluZm9BcnI+PiBpbmRleEluZm9NYXBGVFMgPSBDYWNoZU1hbmFnZXIuSW52ZXJzZUlkeENhY2hlLmluZGV4SW5mb01hcDsKICAgICAgICBIYXNoTWFwPFN0cmluZywgSW5kZXhJbmZvQXJyPiBpbmRleEluZm9NYXAgPSBpbmRleEluZm9NYXBGVFMuZ2V0KGNvdW50cnkgKyAiXyIgKyBsYW5ndWFnZSk7CiAgICAgICAgSW5kZXhJbmZvQXJyIGluZGV4SW5mbyA9IGluZGV4SW5mb01hcC5nZXQoVXRpbGl0eS5oYWxmMmZ1bGwodGVybS50b0xvd2VyQ2FzZSgpKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -720,7 +720,7 @@
       <last-replace />
       <last-substitute>L</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
