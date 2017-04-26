@@ -11,8 +11,8 @@
       <file name="/a.dummy" timestamp="1493187424247">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" timestamp="1493192071514">
-        <mark key="'" line="127" column="40" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" timestamp="1493193341188">
+        <mark key="'" line="192" column="54" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_data/pom.xml" timestamp="1490170885976">
         <mark key="[" line="12" column="15" />
@@ -248,10 +248,16 @@
         <mark key="^" line="7" column="28" />
         <mark key="." line="7" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1493193013337">
+      <file name="/Dummy.txt" timestamp="1493193251047">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="25" />
         <mark key="." line="3" column="25" />
+      </file>
+      <file name="$USER_HOME$/workspace/Android/Zhgp/app/src/main/AndroidManifest.xml" timestamp="1493193240577">
+        <mark key="[" line="11" column="12" />
+        <mark key="]" line="14" column="20" />
+        <mark key="." line="11" column="12" />
+        <mark key="^" line="11" column="11" />
       </file>
       <file name="$USER_HOME$/workspace/zhgp_svr/src/main/java/com/yh/controller/AboutController.java" timestamp="1493169536049">
         <mark key="[" line="15" column="25" />
@@ -327,7 +333,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="471" column="13" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
       <jump line="472" column="21" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
       <jump line="473" column="21" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
       <jump line="474" column="21" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
@@ -427,6 +432,7 @@
       <jump line="25" column="31" filename="$USER_HOME$/workspace/zhgp_svr/src/main/java/com/yh/zhgp/domain/User.java" />
       <jump line="76" column="0" filename="$USER_HOME$/workspace/zhgp_svr/src/main/java/com/yh/zhgp/domain/User.java" />
       <jump line="127" column="40" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" />
+      <jump line="192" column="54" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -436,7 +442,7 @@
         <text>term</text>
       </register>
       <register name="-" type="4">
-        <text>Object</text>
+        <text>luch</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
@@ -445,31 +451,31 @@
         <text>BussException</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGludGVudC1maWx0ZXIgPjwvaW50ZW50LWZpbHRlcj4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIGludCAgICBjb2RlOwo=</text>
+        <text encoding="base64">ICAgICAgICA8Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgQnVzc0V4Y2VwdGlvbihpbnQgY29kZSwgU3RyaW5nbSkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGprCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBCaW5kaW5nUmVzdWx0IHJlc3VsdCA9IGUuZ2V0QmluZGluZ1Jlc3VsdCgpOwogICAgICAgIExpc3Q8RmllbGRFcnJvcj4gZmllbGRFcnJvcnMgPSByZXN1bHQuZ2V0RmllbGRFcnJvcnMoKTsKICAgICAgICBMaXN0PFN0cmluZz4gZXJyb3JzID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgICAgZmllbGRFcnJvcnMuZm9yRWFjaChlcnJvciAtPiBlcnJvcnMuYWRkKGVycm9yLmdldERlZmF1bHRNZXNzYWdlKCkpKTsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIGludCAgICBjb2RlOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgQnVzc0V4Y2VwdGlvbihpbnQgY29kZSwgU3RyaW5nbSkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGprCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBCaW5kaW5nUmVzdWx0IHJlc3VsdCA9IGUuZ2V0QmluZGluZ1Jlc3VsdCgpOwogICAgICAgIExpc3Q8RmllbGRFcnJvcj4gZmllbGRFcnJvcnMgPSByZXN1bHQuZ2V0RmllbGRFcnJvcnMoKTsKICAgICAgICBMaXN0PFN0cmluZz4gZXJyb3JzID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgICAgZmllbGRFcnJvcnMuZm9yRWFjaChlcnJvciAtPiBlcnJvcnMuYWRkKGVycm9yLmdldERlZmF1bHRNZXNzYWdlKCkpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBSZXNwLkZBSUwoKS5zZXRNc2coZXJyb3JzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
