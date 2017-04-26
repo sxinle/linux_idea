@@ -203,7 +203,9 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/KeywordSearcher.java" timestamp="1493197780026" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/KeywordSearcher.java" timestamp="1493198888922">
+        <mark key="'" line="685" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/zhgp_svr/src/main/java/com/yh/zhgp/module/User.java" timestamp="1493174757479">
         <mark key="'" line="67" column="0" />
         <mark key="[" line="16" column="27" />
@@ -348,8 +350,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="139" column="49" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
-      <jump line="509" column="0" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
       <jump line="12" column="0" filename="$USER_HOME$/workspace/zest/src/main/java/moud/Sec.java" />
       <jump line="15" column="26" filename="$USER_HOME$/.share/mx_developer/src/main/resources/servlet-mvc.xml" />
       <jump line="46" column="0" filename="$USER_HOME$/.share/mx_developer/src/main/resources/servlet-mvc.xml" />
@@ -448,6 +448,8 @@
       <jump line="90" column="32" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/RevAndMatchSetter.java" />
       <jump line="26" column="31" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/TermsSetter.java" />
       <jump line="74" column="28" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" />
+      <jump line="167" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/KeywordSearcher.java" />
+      <jump line="685" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/KeywordSearcher.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
