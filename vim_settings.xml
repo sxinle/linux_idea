@@ -11,8 +11,12 @@
       <file name="/a.dummy" timestamp="1493187424247">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" timestamp="1493193984503">
-        <mark key="'" line="182" column="43" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" timestamp="1493194686991">
+        <mark key="'" line="130" column="22" />
+        <mark key="[" line="193" column="57" />
+        <mark key="]" line="194" column="0" />
+        <mark key="." line="194" column="0" />
+        <mark key="^" line="193" column="76" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_data/pom.xml" timestamp="1490170885976">
         <mark key="[" line="12" column="15" />
@@ -133,6 +137,7 @@
         <mark key="]" line="7" column="16" />
         <mark key="." line="7" column="16" />
       </file>
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/RevAndMatchSetter.java" timestamp="1493194479578" />
       <file name="$USER_HOME$/workspace/zhgp_svr/src/main/java/com/yh/zhgp/service/impl/UserServcie.java" timestamp="1493175941206">
         <mark key="[" line="0" column="27" />
         <mark key="]" line="0" column="27" />
@@ -333,10 +338,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="370" column="21" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
-      <jump line="368" column="13" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
-      <jump line="476" column="186" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
-      <jump line="62" column="6" filename="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/lang/reflect/Field.java" />
       <jump line="74" column="38" filename="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/lang/reflect/Field.java" />
       <jump line="102" column="27" filename="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/lang/reflect/Field.java" />
       <jump line="146" column="25" filename="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/lang/reflect/Field.java" />
@@ -427,12 +428,16 @@
       <jump line="26" column="4" filename="$USER_HOME$/workspace/zhgp_svr/src/main/java/com/yh/zhgp/service/UserServcie.java" />
       <jump line="25" column="31" filename="$USER_HOME$/workspace/zhgp_svr/src/main/java/com/yh/zhgp/domain/User.java" />
       <jump line="76" column="0" filename="$USER_HOME$/workspace/zhgp_svr/src/main/java/com/yh/zhgp/domain/User.java" />
-      <jump line="127" column="40" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" />
-      <jump line="192" column="54" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" />
       <jump line="92" column="74" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" />
       <jump line="180" column="44" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" />
       <jump line="181" column="44" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" />
       <jump line="182" column="43" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" />
+      <jump line="192" column="76" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" />
+      <jump line="74" column="28" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" />
+      <jump line="124" column="17" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" />
+      <jump line="127" column="48" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" />
+      <jump line="129" column="22" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" />
+      <jump line="130" column="22" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -442,10 +447,10 @@
         <text>term</text>
       </register>
       <register name="-" type="4">
-        <text>luch</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb250YWluc0lucHV0XD4=</text>
+        <text encoding="base64">XDxvcmdfdGVybXNcPg==</text>
       </register>
       <register name="0" type="4">
         <text>BussException</text>
@@ -482,9 +487,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb250YWluc0lucHV0XD4=</last-search>
+      <last-search encoding="base64">XDxvcmdfdGVybXNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb250YWluc0lucHV0XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxvcmdfdGVybXNcPg==</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -492,7 +497,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxxdWlja0RvY0lkc0ludGVyc2VjdGlvblw+</entry>
         <entry encoding="base64">bmV3IExpbmtlZEhhc2hTZXQ8Pigp</entry>
         <entry>1</entry>
         <entry>L</entry>
@@ -512,6 +516,7 @@
         <entry>mysql</entry>
         <entry>&quot;</entry>
         <entry encoding="base64">XDxjb250YWluc0lucHV0XD4=</entry>
+        <entry encoding="base64">XDxvcmdfdGVybXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>action CollapseBlock</entry>
