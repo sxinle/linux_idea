@@ -132,6 +132,9 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" timestamp="1493256157417">
+        <mark key="'" line="524" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/red/app/models/DbFactory.scala" timestamp="1490010277743">
         <mark key="[" line="7" column="16" />
         <mark key="]" line="7" column="16" />
@@ -177,7 +180,6 @@
         <mark key="." line="25" column="73" />
         <mark key="^" line="25" column="73" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/BaseSearcher.java" timestamp="1493197863089" />
       <file name="$USER_HOME$/workspace/zhgp_svr/src/main/java/com/yh/config/WebAppInitializer.java" timestamp="1493169023380">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
@@ -249,6 +251,9 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/search/pom.xml" timestamp="1493255906175">
+        <mark key="'" line="114" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/business/poi/data/ClientFormatPoi.java" timestamp="1491464298069">
         <mark key="[" line="13" column="0" />
@@ -350,17 +355,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="0" filename="$USER_HOME$/workspace/zest/src/main/java/moud/Sec.java" />
-      <jump line="15" column="26" filename="$USER_HOME$/.share/mx_developer/src/main/resources/servlet-mvc.xml" />
-      <jump line="46" column="0" filename="$USER_HOME$/.share/mx_developer/src/main/resources/servlet-mvc.xml" />
-      <jump line="16" column="63" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.5.RELEASE/spring-webmvc-4.3.5.RELEASE.jar!/org/springframework/web/servlet/config/spring-mvc-4.0.xsd" />
-      <jump line="82" column="43" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.5.RELEASE/spring-webmvc-4.3.5.RELEASE.jar!/org/springframework/web/servlet/config/spring-mvc-4.0.xsd" />
-      <jump line="85" column="65" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.5.RELEASE/spring-webmvc-4.3.5.RELEASE.jar!/org/springframework/web/servlet/config/spring-mvc-4.0.xsd" />
-      <jump line="87" column="90" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.5.RELEASE/spring-webmvc-4.3.5.RELEASE.jar!/org/springframework/web/servlet/config/spring-mvc-4.0.xsd" />
-      <jump line="97" column="18" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.5.RELEASE/spring-webmvc-4.3.5.RELEASE.jar!/org/springframework/web/servlet/config/spring-mvc-4.0.xsd" />
-      <jump line="104" column="33" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.5.RELEASE/spring-webmvc-4.3.5.RELEASE.jar!/org/springframework/web/servlet/config/spring-mvc-4.0.xsd" />
-      <jump line="113" column="38" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.5.RELEASE/spring-webmvc-4.3.5.RELEASE.jar!/org/springframework/web/servlet/config/spring-mvc-4.0.xsd" />
-      <jump line="232" column="33" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.3.5.RELEASE/spring-webmvc-4.3.5.RELEASE.jar!/org/springframework/web/servlet/config/spring-mvc-4.0.xsd" />
       <jump line="63" column="2" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.5.RELEASE/spring-web-4.3.5.RELEASE-sources.jar!/org/springframework/http/converter/json/AbstractJackson2HttpMessageConverter.java" />
       <jump line="71" column="27" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.5.RELEASE/spring-web-4.3.5.RELEASE-sources.jar!/org/springframework/http/converter/json/AbstractJackson2HttpMessageConverter.java" />
       <jump line="250" column="12" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.5.RELEASE/spring-web-4.3.5.RELEASE-sources.jar!/org/springframework/http/converter/json/AbstractJackson2HttpMessageConverter.java" />
@@ -450,6 +444,17 @@
       <jump line="74" column="28" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" />
       <jump line="167" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/KeywordSearcher.java" />
       <jump line="685" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/KeywordSearcher.java" />
+      <jump line="122" column="29" filename="$USER_HOME$/workspace/search/pom.xml" />
+      <jump line="124" column="27" filename="$USER_HOME$/workspace/search/pom.xml" />
+      <jump line="128" column="29" filename="$USER_HOME$/workspace/search/pom.xml" />
+      <jump line="129" column="28" filename="$USER_HOME$/workspace/search/pom.xml" />
+      <jump line="130" column="27" filename="$USER_HOME$/workspace/search/pom.xml" />
+      <jump line="27" column="34" filename="$USER_HOME$/workspace/search/pom.xml" />
+      <jump line="5" column="0" filename="$USER_HOME$/workspace/search/pom.xml" />
+      <jump line="123" column="42" filename="$USER_HOME$/workspace/search/pom.xml" />
+      <jump line="114" column="24" filename="$USER_HOME$/workspace/search/pom.xml" />
+      <jump line="472" column="8" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
+      <jump line="524" column="0" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -462,7 +467,7 @@
         <text>nameTermCnt</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvcmdfdGVybXNcPg==</text>
+        <text encoding="base64">XDxtb2NraXRvXD4=</text>
       </register>
       <register name="0" type="4">
         <text>BussException</text>
@@ -499,9 +504,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvcmdfdGVybXNcPg==</last-search>
+      <last-search encoding="base64">XDxtb2NraXRvXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvcmdfdGVybXNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxtb2NraXRvXD4=</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -509,10 +514,6 @@
     </search>
     <history>
       <history-search>
-        <entry>\/\/</entry>
-        <entry>dist</entry>
-        <entry>codeProv</entry>
-        <entry encoding="base64">XDxmaWx0ZXJcPg==</entry>
         <entry encoding="base64">XDxjb2RlUHJvdlw+</entry>
         <entry>check null</entry>
         <entry>null</entry>
@@ -529,6 +530,10 @@
         <entry>allIn</entry>
         <entry encoding="base64">XDxwb3N0Zml4VHJpZ2dlcmRcPg==</entry>
         <entry encoding="base64">XDxvcmdfdGVybXNcPg==</entry>
+        <entry>mocki</entry>
+        <entry encoding="base64">XDxwb3dlcm1vY2tcPg==</entry>
+        <entry>mockito</entry>
+        <entry encoding="base64">XDxtb2NraXRvXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>action CollapseBlock</entry>
