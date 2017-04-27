@@ -132,8 +132,8 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" timestamp="1493256157417">
-        <mark key="'" line="524" column="0" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" timestamp="1493256951090">
+        <mark key="'" line="87" column="54" />
       </file>
       <file name="$USER_HOME$/workspace/red/app/models/DbFactory.scala" timestamp="1490010277743">
         <mark key="[" line="7" column="16" />
@@ -179,6 +179,9 @@
         <mark key="]" line="25" column="73" />
         <mark key="." line="25" column="73" />
         <mark key="^" line="25" column="73" />
+      </file>
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/BaseSearcher.java" timestamp="1493256970427">
+        <mark key="'" line="21" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/zhgp_svr/src/main/java/com/yh/config/WebAppInitializer.java" timestamp="1493169023380">
         <mark key="[" line="31" column="0" />
@@ -355,8 +358,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="2" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.5.RELEASE/spring-web-4.3.5.RELEASE-sources.jar!/org/springframework/http/converter/json/AbstractJackson2HttpMessageConverter.java" />
-      <jump line="71" column="27" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.5.RELEASE/spring-web-4.3.5.RELEASE-sources.jar!/org/springframework/http/converter/json/AbstractJackson2HttpMessageConverter.java" />
       <jump line="250" column="12" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.3.5.RELEASE/spring-web-4.3.5.RELEASE-sources.jar!/org/springframework/http/converter/json/AbstractJackson2HttpMessageConverter.java" />
       <jump line="124" column="30" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/query/semantic/HotPoiSearcherTest.java" />
       <jump line="151" column="0" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/query/semantic/HotPoiSearcherTest.java" />
@@ -455,6 +456,8 @@
       <jump line="114" column="24" filename="$USER_HOME$/workspace/search/pom.xml" />
       <jump line="472" column="8" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
       <jump line="524" column="0" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
+      <jump line="87" column="54" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
+      <jump line="21" column="22" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/BaseSearcher.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
