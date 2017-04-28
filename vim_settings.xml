@@ -47,12 +47,6 @@
         <mark key="^" line="2" column="28" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yh_svr/src/main/java/com/yh/zhgp/domain/User.java" timestamp="1493277322689">
-        <mark key="'" line="37" column="0" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/zhgp_svr/src/main/java/com/yh/zhgp/controller/UserController.java" timestamp="1493258051533">
         <mark key="'" line="16" column="0" />
         <mark key="[" line="14" column="22" />
@@ -102,6 +96,9 @@
       </file>
       <file name="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/net/URLConnection.java" timestamp="1493280046841">
         <mark key="'" line="1078" column="34" />
+      </file>
+      <file name="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/net/HttpURLConnection.java" timestamp="1493348794173">
+        <mark key="'" line="418" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/zhgp_svr/src/main/java/com/yh/zhgp/service/impl/UserServiceImpl.java" timestamp="1493175714973">
         <mark key="[" line="21" column="0" />
@@ -179,6 +176,7 @@
         <mark key="." line="26" column="24" />
         <mark key="^" line="26" column="24" />
       </file>
+      <file name="/usr/lib/jvm/oracle-jdk-8.111/jre/lib/rt.jar!/sun/net/www/protocol/http/HttpURLConnection.class" timestamp="1493348256363" />
       <file name="$USER_HOME$/workspace/zhgp_svr/src/main/java/com/yh/zhgp/util/zbj.java" timestamp="1493274798792">
         <mark key="'" line="39" column="57" />
       </file>
@@ -194,12 +192,6 @@
         <mark key="[" line="7" column="16" />
         <mark key="]" line="7" column="16" />
         <mark key="." line="7" column="16" />
-      </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/RevAndMatchSetter.java" timestamp="1493197375992">
-        <mark key="'" line="85" column="32" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zhgp_svr/pom.xml" timestamp="1493274866052">
         <mark key="'" line="12" column="69" />
@@ -259,6 +251,7 @@
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/BaseSearcher.java" timestamp="1493256970427">
         <mark key="'" line="21" column="22" />
       </file>
+      <file name="/usr/lib/jvm/oracle-jdk-8.111/jre/lib/rt.jar!/sun/net/www/protocol/https/HttpsURLConnectionImpl.class" timestamp="1493348213917" />
       <file name="$USER_HOME$/workspace/zhgp_svr/src/main/java/com/yh/config/WebAppInitializer.java" timestamp="1493169023380">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
@@ -306,11 +299,12 @@
         <mark key="." line="40" column="43" />
         <mark key="^" line="40" column="48" />
       </file>
-      <file name="$USER_HOME$/workspace/yh_svr/src/main/java/com/yh/zhgp/util/Sms.java" timestamp="1493286588014">
-        <mark key="'" line="51" column="66" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
+      <file name="$USER_HOME$/workspace/yh_svr/src/main/java/com/yh/zhgp/util/Sms.java" timestamp="1493350174351">
+        <mark key="'" line="44" column="47" />
+        <mark key="[" line="39" column="22" />
+        <mark key="]" line="39" column="27" />
+        <mark key="." line="39" column="27" />
+        <mark key="^" line="39" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/red/app/controllers/JsonWritters.scala" timestamp="1490062121490">
         <mark key="[" line="2" column="0" />
@@ -332,8 +326,8 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsRTSearcher.java" timestamp="1493346926573">
-        <mark key="'" line="17" column="13" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsRTSearcher.java" timestamp="1493347589334">
+        <mark key="'" line="145" column="0" />
         <mark key="[" line="47" column="0" />
         <mark key="]" line="59" column="4" />
       </file>
@@ -451,7 +445,7 @@
         <mark key="." line="13" column="22" />
         <mark key="^" line="13" column="22" />
       </file>
-      <file name="/fragment.java" timestamp="1493345227763">
+      <file name="/fragment.java" timestamp="1493350124060">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="16" />
         <mark key="." line="0" column="16" />
@@ -463,10 +457,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="48" filename="$USER_HOME$/workspace/zhgp_svr/src/main/java/com/yh/zhgp/module/User.java" />
-      <jump line="67" column="0" filename="$USER_HOME$/workspace/zhgp_svr/src/main/java/com/yh/zhgp/module/User.java" />
-      <jump line="51" column="27" filename="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/GenericController.java" />
-      <jump line="27" column="0" filename="$USER_HOME$/workspace/zhgp_svr/src/main/java/com/yh/zhgp/domain/User.java" />
       <jump line="7" column="56" filename="$USER_HOME$/workspace/zhgp_svr/src/main/java/com/yh/zhgp/data/Resp.java" />
       <jump line="41" column="0" filename="$USER_HOME$/workspace/zhgp_svr/src/main/java/com/yh/zhgp/data/Resp.java" />
       <jump line="15" column="0" filename="$USER_HOME$/workspace/zhgp_svr/src/main/java/com/yh/zhgp/util/ErrorHandler.java" />
@@ -563,6 +553,10 @@
       <jump line="299" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" />
       <jump line="124" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
       <jump line="170" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
+      <jump line="46" column="11" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsRTSearcher.java" />
+      <jump line="145" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsRTSearcher.java" />
+      <jump line="418" column="16" filename="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/net/HttpURLConnection.java" />
+      <jump line="43" column="47" filename="$USER_HOME$/workspace/yh_svr/src/main/java/com/yh/zhgp/util/Sms.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -572,37 +566,37 @@
         <text>term</text>
       </register>
       <register name="-" type="4">
-        <text>市政府</text>
+        <text>Output</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkaXN0TmFtZXNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCAgTGlzdDxJZFdpdGhUZXJtcz4gc2VhcmNoU3BlY2lhbGx5Q2xhc3MoU2VtYW50aWNSZXQgc2VtYW50aWNSZXQsIFNlbWFudGljc1BhcmFtIHBhcmFtKXsKICAgICAgICBMaXN0PElkV2l0aFRlcm1zPiB0TGlzdCA9IHNlYXJjaDNSb3VuZChzZW1hbnRpY1JldCxwYXJhbSk7CiAgICAgICAgU29ydGVyLnNvcnRCeURQKHRMaXN0LHRoaXMuY291bnRyeSk7CgogICAgICAgIExpc3Q8SWRXaXRoVGVybXM+IHhMaXN0ID0gc2VhcmNoMlJvdW5kKHNlbWFudGljUmV0LHBhcmFtKTsKICAgICAgICBTb3J0ZXIuc29ydEJ5RFAoeExpc3QsdGhpcy5jb3VudHJ5KTsKCiAgICAgICAgTGlzdDxJZFdpdGhUZXJtcz4gcmVzdWx0TGlzdCA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgIHhMaXN0LnJlbW92ZUFsbCh0TGlzdCk7CiAgICAgICAgcmVzdWx0TGlzdC5hZGRBbGwodExpc3QpOwogICAgICAgIHJlc3VsdExpc3QuYWRkQWxsKHhMaXN0KTsKICAgICAgICByZXR1cm4gcmVzdWx0TGlzdDsKICAgIH0K</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29ubi5jb25uZWN0KCk7Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29ubi5zZXRSZXF1ZXN0TWV0aG9kKCJQT1NUIik7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29ubi5kb3AK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29ubi5zZXRSZXF1ZXN0TWV0aG9kKCk7Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29ubi5zZXREb091dHB1dCh0cnVlKTsK</text>
       </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29ubi5zZXREb091dHB1dCh0cnVlKTsK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgb3Mud3IK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29ubi5jb25uZWN0KCk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29ubi5zZXRSZXF1ZXN0TWV0aG9kKCJQT1NUIik7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29ubi5kb3AK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29ubi5zZXRSZXF1ZXN0TWV0aG9kKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29ubi5zZXREb091dHB1dCh0cnVlKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFVzZXIgZmluZEJ5RW1haWwoU3RyaW5nIGVtYWlsKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
