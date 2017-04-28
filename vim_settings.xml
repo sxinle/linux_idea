@@ -101,7 +101,6 @@
       <file name="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/net/URLConnection.java" timestamp="1493280046841">
         <mark key="'" line="1078" column="34" />
       </file>
-      <file name="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/net/HttpURLConnection.java" timestamp="1493286371579" />
       <file name="$USER_HOME$/workspace/zhgp_svr/src/main/java/com/yh/zhgp/service/impl/UserServiceImpl.java" timestamp="1493175714973">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -121,6 +120,9 @@
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsTSearcher.java" timestamp="1493342440085">
+        <mark key="'" line="14" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/zest/src/main/java/moud/a.html" timestamp="1490603538671">
         <mark key="[" line="0" column="0" />
@@ -322,6 +324,9 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsRTSearcher.java" timestamp="1493342423006">
+        <mark key="'" line="17" column="13" />
+      </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/test/java/TestUtil.java" timestamp="1492665700193">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -356,6 +361,12 @@
         <mark key="]" line="14" column="20" />
         <mark key="." line="11" column="12" />
         <mark key="^" line="11" column="11" />
+      </file>
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/UserInputPreProcess.java" timestamp="1493342966979">
+        <mark key="'" line="327" column="19" />
+        <mark key="[" line="338" column="28" />
+        <mark key="]" line="338" column="33" />
+        <mark key="." line="338" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/TermsSetter.java" timestamp="1493196628284">
         <mark key="'" line="25" column="31" />
@@ -439,9 +450,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="0" filename="$USER_HOME$/workspace/zhgp_svr/src/main/resources/application.properties" />
-      <jump line="32" column="0" filename="$USER_HOME$/workspace/zhgp_svr/src/main/java/com/yh/account/Account.java" />
-      <jump line="11" column="0" filename="$USER_HOME$/workspace/uauth/pom.xml" />
       <jump line="220" column="63" filename="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/business/poi/action/PoiController.java" />
       <jump line="46" column="42" filename="$USER_HOME$/workspace/zhgp_svr/src/main/java/com/yh/config/JpaConfig.java" />
       <jump line="18" column="0" filename="$USER_HOME$/workspace/zhgp_svr/src/main/java/com/yh/zhgp/account/Account.java" />
@@ -539,6 +547,9 @@
       <jump line="96" column="0" filename="$USER_HOME$/workspace/yh_svr/src/main/java/com/yh/zhgp/util/Sms.java" />
       <jump line="52" column="66" filename="$USER_HOME$/workspace/yh_svr/src/main/java/com/yh/zhgp/util/Sms.java" />
       <jump line="12" column="42" filename="$USER_HOME$/workspace/yh_svr/pom.xml" />
+      <jump line="17" column="13" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsRTSearcher.java" />
+      <jump line="14" column="13" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsTSearcher.java" />
+      <jump line="327" column="19" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/UserInputPreProcess.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -548,13 +559,13 @@
         <text>term</text>
       </register>
       <register name="-" type="4">
-        <text>Method</text>
+        <text>市政府</text>
       </register>
       <register name="/" type="4">
         <text>header</text>
       </register>
       <register name="0" type="4">
-        <text>HttpsURLConnection</text>
+        <text>市人民政府</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29ubi5jb25uZWN0KCk7Cg==</text>
@@ -594,7 +605,7 @@
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
