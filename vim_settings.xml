@@ -161,8 +161,12 @@
         <mark key="^" line="26" column="13" />
         <mark key="." line="26" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" timestamp="1493346591317">
-        <mark key="'" line="170" column="0" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" timestamp="1493692239605">
+        <mark key="'" line="53" column="64" />
+        <mark key="[" line="166" column="65" />
+        <mark key="]" line="166" column="68" />
+        <mark key="." line="166" column="68" />
+        <mark key="^" line="166" column="68" />
       </file>
       <file name="$USER_HOME$/workspace/uauth/src/main/java/com/mx/server/buss/admin/service/impl/TMCRoadService.java" timestamp="1489718591079">
         <mark key="[" line="50" column="0" />
@@ -466,8 +470,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="124" column="17" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" />
-      <jump line="127" column="48" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" />
       <jump line="129" column="22" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" />
       <jump line="130" column="22" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" />
       <jump line="78" column="50" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/RevAndMatchSetter.java" />
@@ -566,6 +568,8 @@
       <jump line="35" column="4" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" />
       <jump line="98" column="37" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" />
       <jump line="75" column="28" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" />
+      <jump line="44" column="10" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
+      <jump line="53" column="64" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -575,7 +579,7 @@
         <text>term</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>３６１</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcm9jZXNzZWRfdGVybXNcPg==</text>
