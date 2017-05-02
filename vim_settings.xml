@@ -275,6 +275,13 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/zest/src/main/java/moud/Sec.java" timestamp="1493688804746">
+        <mark key="'" line="33" column="41" />
+        <mark key="[" line="13" column="23" />
+        <mark key="]" line="13" column="26" />
+        <mark key="." line="13" column="26" />
+        <mark key="^" line="13" column="26" />
+      </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/KeywordSearcher.java" timestamp="1493198888922">
         <mark key="'" line="685" column="0" />
       </file>
@@ -455,8 +462,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="4" filename="$USER_HOME$/workspace/zhgp_svr/src/main/java/com/yh/zhgp/service/UserServcie.java" />
-      <jump line="25" column="31" filename="$USER_HOME$/workspace/zhgp_svr/src/main/java/com/yh/zhgp/domain/User.java" />
       <jump line="92" column="74" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" />
       <jump line="180" column="44" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" />
       <jump line="181" column="44" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" />
@@ -555,6 +560,8 @@
       <jump line="138" column="12" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsRTSearcher.java" />
       <jump line="31" column="4" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsRTSearcher.java" />
       <jump line="145" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsRTSearcher.java" />
+      <jump line="51" column="46" filename="$USER_HOME$/workspace/zest/src/main/java/moud/Sec.java" />
+      <jump line="33" column="41" filename="$USER_HOME$/workspace/zest/src/main/java/moud/Sec.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -564,7 +571,7 @@
         <text>term</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
