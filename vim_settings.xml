@@ -23,6 +23,11 @@
         <mark key="]" line="120" column="0" />
         <mark key="." line="120" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/search/common-conf/distSuffix.json" timestamp="1493862310497">
+        <mark key="'" line="9" column="59" />
+        <mark key="[" line="70" column="25" />
+        <mark key="]" line="70" column="33" />
+      </file>
       <file name="$USER_HOME$/workspace/yh_svr/src/main/resources/logback.xml" timestamp="1493877564083">
         <mark key="[" line="19" column="65" />
         <mark key="]" line="19" column="69" />
@@ -230,10 +235,6 @@
         <mark key="." line="129" column="0" />
         <mark key="^" line="131" column="41" />
       </file>
-      <file name="$USER_HOME$/workspace/yh_svr/src/main/resources/db/migration/V1_init.sql" timestamp="1493869524134">
-        <mark key="'" line="0" column="0" />
-        <mark key="^" line="0" column="134" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/flywaydb/flyway-core/3.2.1/flyway-core-3.2.1-sources.jar!/org/flywaydb/core/Flyway.java" timestamp="1493876398480">
         <mark key="'" line="80" column="52" />
       </file>
@@ -377,9 +378,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1493871001594">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/search_tool/src/main/java/com/mx/server/search/tool/util/Algorithm.java" timestamp="1493709100339">
         <mark key="'" line="228" column="0" />
       </file>
@@ -387,6 +385,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="25" />
         <mark key="." line="3" column="25" />
+      </file>
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/UserInputPreProcess.java" timestamp="1493884728300">
+        <mark key="'" line="343" column="18" />
+        <mark key="[" line="344" column="0" />
+        <mark key="]" line="344" column="42" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/TermsSetter.java" timestamp="1493859761198">
         <mark key="'" line="85" column="44" />
@@ -400,7 +403,7 @@
         <mark key="]" line="11" column="24" />
         <mark key="." line="11" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" timestamp="1493866589686">
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" timestamp="1493884750054">
         <mark key="'" line="141" column="41" />
       </file>
       <file name="$USER_HOME$/workspace/red/build.sbt" timestamp="1490843488683">
@@ -435,7 +438,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="24" filename="$USER_HOME$/workspace/yh_svr/src/main/java/com/yh/zhgp/util/config/WebMvcConfig.java" />
       <jump line="154" column="52" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" />
       <jump line="20" column="0" filename="$USER_HOME$/workspace/search/common-conf/distSuffix.json" />
       <jump line="77" column="22" filename="$USER_HOME$/workspace/search/common-conf/distSuffix.json" />
@@ -535,6 +537,7 @@
       <jump line="62" column="38" filename="$USER_HOME$/workspace/yh_svr/src/main/java/com/yh/zhgp/util/config/JpaConfig.java" />
       <jump line="29" column="54" filename="$USER_HOME$/workspace/yh_svr/src/main/java/com/yh/zhgp/util/config/WebAppInitializer.java" />
       <jump line="11" column="0" filename="$USER_HOME$/workspace/yh_svr/src/main/resources/db/migration/V1__init.sql" />
+      <jump line="343" column="18" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/UserInputPreProcess.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -550,7 +553,7 @@
         <text>autocon</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgV3JpdGVyIHdyaXRlciA9IHJlc3BvbnNlLmdldFdyaXRlcigpOwogICAgICAgICAgICB3cml0ZXIud3JpdGUobWFwcGVyLndyaXRlVmFsdWVBc1N0cmluZyhyZXNwKSk7CiAgICAgICAgICAgIHdyaXRlci5mbHVzaCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkaXN0UmVwbGFjZU1hcC5wdXQoIuW4guaUv+W6nCIsICLluILkurrmsJHmlL/lupwiKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIC8qKiAqLwo=</text>
