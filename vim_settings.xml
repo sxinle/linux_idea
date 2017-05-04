@@ -24,8 +24,8 @@
         <mark key="]" line="18" column="1" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" timestamp="1493862352752">
-        <mark key="'" line="46" column="41" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" timestamp="1493866598685">
+        <mark key="'" line="259" column="57" />
         <mark key="[" line="129" column="0" />
         <mark key="]" line="129" column="0" />
         <mark key="." line="129" column="0" />
@@ -352,8 +352,8 @@
         <mark key="]" line="11" column="24" />
         <mark key="." line="11" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" timestamp="1493862440725">
-        <mark key="'" line="389" column="0" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" timestamp="1493866589686">
+        <mark key="'" line="141" column="41" />
       </file>
       <file name="$USER_HOME$/workspace/red/build.sbt" timestamp="1490843488683">
         <mark key="[" line="8" column="28" />
@@ -402,9 +402,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="101" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/RevAndMatchSetter.java" />
-      <jump line="33" column="78" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/TermsSetter.java" />
-      <jump line="23" column="60" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/TermsSetter.java" />
       <jump line="41" column="21" filename="$USER_HOME$/workspace/mx_search/trunk/trunk_search/src/com/mx/business/address/ctrl/AddressController.java" />
       <jump line="49" column="47" filename="$USER_HOME$/workspace/mx_search/trunk/trunk_search/src/com/mx/business/poi/action/PoiController.java" />
       <jump line="106" column="8" filename="$USER_HOME$/workspace/mx_search/trunk/trunk_search/src/com/mx/business/poi/action/PoiController.java" />
@@ -502,6 +499,9 @@
       <jump line="46" column="41" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" />
       <jump line="17" column="39" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
       <jump line="9" column="59" filename="$USER_HOME$/workspace/search/common-conf/distSuffix.json" />
+      <jump line="141" column="41" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" />
+      <jump line="135" column="10" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" />
+      <jump line="259" column="57" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
