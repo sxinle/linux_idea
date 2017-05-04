@@ -35,11 +35,12 @@
       <file name="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/net/URLConnection.java" timestamp="1493280046841">
         <mark key="'" line="1078" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/yh_svr/src/main/java/com/yh/zhgp/controller/UserController.java" timestamp="1493878857624">
+      <file name="$USER_HOME$/workspace/yh_svr/src/main/java/com/yh/zhgp/controller/UserController.java" timestamp="1493882432829">
         <mark key="'" line="29" column="0" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+        <mark key="[" line="34" column="26" />
+        <mark key="]" line="34" column="26" />
+        <mark key="." line="34" column="26" />
+        <mark key="^" line="34" column="30" />
       </file>
       <file name="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/net/HttpURLConnection.java" timestamp="1493348794173">
         <mark key="'" line="418" column="16" />
@@ -151,12 +152,12 @@
         <mark key="]" line="2" column="14" />
         <mark key="." line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/workspace/yh_svr/src/main/java/com/yh/zhgp/util/config/WebMvcConfig.java" timestamp="1493804505981">
+      <file name="$USER_HOME$/workspace/yh_svr/src/main/java/com/yh/zhgp/util/config/WebMvcConfig.java" timestamp="1493882463459">
         <mark key="'" line="2" column="24" />
-        <mark key="[" line="37" column="29" />
-        <mark key="]" line="37" column="29" />
-        <mark key="." line="37" column="29" />
-        <mark key="^" line="37" column="35" />
+        <mark key="[" line="36" column="91" />
+        <mark key="]" line="36" column="90" />
+        <mark key="." line="36" column="90" />
+        <mark key="^" line="36" column="90" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/gdautonavi/AutonaviSearcher.java" timestamp="1483953212651">
         <mark key="[" line="69" column="0" />
@@ -543,7 +544,7 @@
         <text>term</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>, &quot;/user/regist&quot;, &quot;/user/login/*&quot;</text>
       </register>
       <register name="/" type="4">
         <text>autocon</text>
