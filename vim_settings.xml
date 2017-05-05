@@ -92,8 +92,8 @@
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/ServerConfig.java" timestamp="1493716733620">
         <mark key="'" line="235" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/shopping/cart.html" timestamp="1493957663653">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/workspace/shopping/cart.html" timestamp="1493961330938">
+        <mark key="'" line="398" column="0" />
         <mark key="[" line="16" column="81" />
         <mark key="]" line="16" column="81" />
         <mark key="." line="16" column="81" />
@@ -125,8 +125,8 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yh_svr/src/main/java/com/yh/zhgp/util/config/JpaConfig.java" timestamp="1493879840850">
-        <mark key="'" line="62" column="38" />
+      <file name="$USER_HOME$/workspace/yh_svr/src/main/java/com/yh/zhgp/util/config/JpaConfig.java" timestamp="1493961397124">
+        <mark key="'" line="38" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/yh_svr/src/main/java/com/yh/zhgp/util/zbj.java" timestamp="1493792344264">
         <mark key="'" line="51" column="0" />
@@ -136,10 +136,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yh_svr/src/main/resources/application.properties" timestamp="1493877396932">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/workspace/yh_svr/src/main/resources/application.properties" timestamp="1493961568764">
+        <mark key="[" line="7" column="23" />
+        <mark key="]" line="7" column="28" />
+        <mark key="." line="7" column="28" />
+        <mark key="^" line="7" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/zhgp_svr/src/main/java/com/yh/config/WebAppInitializer.java" timestamp="1493169023380">
         <mark key="[" line="31" column="0" />
@@ -202,6 +203,10 @@
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.0.11.Final/hibernate-core-5.0.11.Final-sources.jar!/org/hibernate/cfg/AvailableSettings.java" timestamp="1493961454708">
+        <mark key="[" line="553" column="27" />
+        <mark key="]" line="553" column="48" />
       </file>
       <file name="$USER_HOME$/workspace/red/project/plugins.sbt" timestamp="1490790128062">
         <mark key="[" line="4" column="55" />
@@ -310,6 +315,12 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/shopping/index.html" timestamp="1493961187941">
+        <mark key="'" line="1392" column="33" />
+        <mark key="[" line="1511" column="40" />
+        <mark key="]" line="1511" column="40" />
+        <mark key="." line="1511" column="40" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-parent/1.4.2.RELEASE/spring-boot-starter-parent-1.4.2.RELEASE.pom" timestamp="1493875040378">
         <mark key="'" line="116" column="21" />
@@ -476,15 +487,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="19" filename="$USER_HOME$/workspace/yh_svr/src/main/java/com/yh/zhgp/data/Resp.java" />
-      <jump line="40" column="12" filename="$USER_HOME$/workspace/yh_svr/src/main/java/com/yh/zhgp/data/Resp.java" />
-      <jump line="45" column="24" filename="$USER_HOME$/workspace/yh_svr/src/main/java/com/yh/zhgp/data/Resp.java" />
-      <jump line="35" column="35" filename="$USER_HOME$/workspace/yh_svr/src/main/java/com/yh/zhgp/data/Resp.java" />
-      <jump line="34" column="0" filename="$USER_HOME$/workspace/yh_svr/src/main/java/com/yh/zhgp/data/Resp.java" />
-      <jump line="60" column="20" filename="$USER_HOME$/workspace/yh_svr/pom.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/yh_svr/src/main/resources/db/migration/V1_init.sql" />
-      <jump line="100" column="19" filename="$USER_HOME$/workspace/yh_svr/pom.xml" />
-      <jump line="56" column="20" filename="$USER_HOME$/workspace/yh_svr/pom.xml" />
       <jump line="385" column="49" filename="$MAVEN_REPOSITORY$/io/spring/platform/platform-bom/Athens-SR1/platform-bom-Athens-SR1.pom" />
       <jump line="0" column="0" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/1.4.2.RELEASE/spring-boot-dependencies-1.4.2.RELEASE.pom" />
       <jump line="276" column="5" filename="$MAVEN_REPOSITORY$/org/flywaydb/flyway-core/3.2.1/flyway-core-3.2.1-sources.jar!/org/flywaydb/core/Flyway.java" />
@@ -576,6 +578,15 @@
       <jump line="209" column="25" filename="$USER_HOME$/workspace/shopping/cart.html" />
       <jump line="18" column="54" filename="$USER_HOME$/workspace/shopping/cart.html" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/shopping/cart.html" />
+      <jump line="4" column="0" filename="$USER_HOME$/workspace/shopping/index.html" />
+      <jump line="305" column="53" filename="$USER_HOME$/workspace/shopping/index.html" />
+      <jump line="656" column="39" filename="$USER_HOME$/workspace/shopping/index.html" />
+      <jump line="1374" column="33" filename="$USER_HOME$/workspace/shopping/index.html" />
+      <jump line="1380" column="33" filename="$USER_HOME$/workspace/shopping/index.html" />
+      <jump line="1387" column="33" filename="$USER_HOME$/workspace/shopping/index.html" />
+      <jump line="1392" column="33" filename="$USER_HOME$/workspace/shopping/index.html" />
+      <jump line="398" column="0" filename="$USER_HOME$/workspace/shopping/cart.html" />
+      <jump line="38" column="19" filename="$USER_HOME$/workspace/yh_svr/src/main/java/com/yh/zhgp/util/config/JpaConfig.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -585,13 +596,13 @@
         <text>term</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>none</text>
       </register>
       <register name="/" type="4">
-        <text>navbar</text>
+        <text encoding="base64">XDxoYm0yZGRsQXV0b1w+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">PGJlYW5zIHhtbG5zPSJodHRwOi8vd3d3LnNwcmluZ2ZyYW1ld29yay5vcmcvc2NoZW1hL2JlYW5zIgogICAgICAgeG1sbnM6eHNpPSJodHRwOi8vd3d3LnczLm9yZy8yMDAxL1hNTFNjaGVtYS1pbnN0YW5jZSIKICAgICAgIHhtbG5zOmNvbnRleHQ9Imh0dHA6Ly93d3cuc3ByaW5nZnJhbWV3b3JrLm9yZy9zY2hlbWEvY29udGV4dCIKICAgICAgIHhtbG5zOm12Yz0iaHR0cDovL3d3dy5zcHJpbmdmcmFtZXdvcmsub3JnL3NjaGVtYS9tdmMiIHhtbG5zOmFvcD0iaHR0cDovL3d3dy5zcHJpbmdmcmFtZXdvcmsub3JnL3NjaGVtYS9hb3AiCiAgICAgICB4c2k6c2NoZW1hTG9jYXRpb249Imh0dHA6Ly93d3cuc3ByaW5nZnJhbWV3b3JrLm9yZy9zY2hlbWEvYmVhbnMKICAgICAgICAgICAgICAgICAgICAgICAgaHR0cDovL3d3dy5zcHJpbmdmcmFtZXdvcmsub3JnL3NjaGVtYS9iZWFucy9zcHJpbmctYmVhbnMtNC4yLnhzZAogICAgICAgICAgICAgICAgICAgICAgICBodHRwOi8vd3d3LnNwcmluZ2ZyYW1ld29yay5vcmcvc2NoZW1hL2NvbnRleHQgIAogICAgICAgICAgICAgICAgICAgICAgICBodHRwOi8vd3d3LnNwcmluZ2ZyYW1ld29yay5vcmcvc2NoZW1hL2NvbnRleHQvc3ByaW5nLWNvbnRleHQtNC4yLnhzZAogICAgICAgICAgICAgICAgICAgICAgICBodHRwOi8vd3d3LnNwcmluZ2ZyYW1ld29yay5vcmcvc2NoZW1hL212YyAgCiAgICAgICAgICAgICAgICAgICAgICAgIGh0dHA6Ly93d3cuc3ByaW5nZnJhbWV3b3JrLm9yZy9zY2hlbWEvbXZjL3NwcmluZy1tdmMtNC4yLnhzZCBodHRwOi8vd3d3LnNwcmluZ2ZyYW1ld29yay5vcmcvc2NoZW1hL2FvcCBodHRwOi8vd3d3LnNwcmluZ2ZyYW1ld29yay5vcmcvc2NoZW1hL2FvcC9zcHJpbmctYW9wLnhzZCI+Cg==</text>
+      <register name="0" type="4">
+        <text>hibernate.hbm2ddl.auto</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -625,9 +636,9 @@
       </register>
     </registers>
     <search>
-      <last-search>navbar</last-search>
+      <last-search encoding="base64">XDxoYm0yZGRsQXV0b1w+</last-search>
       <last-offset />
-      <last-pattern>navbar</last-pattern>
+      <last-pattern encoding="base64">XDxoYm0yZGRsQXV0b1w+</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -635,9 +646,6 @@
     </search>
     <history>
       <history-search>
-        <entry>manag</entry>
-        <entry encoding="base64">XDxjb25uZWN0VGltZW91dFw+</entry>
-        <entry>timeout</entry>
         <entry>自自取</entry>
         <entry>自治区</entry>
         <entry>distSuffix</entry>
@@ -655,6 +663,9 @@
         <entry>footer</entry>
         <entry>pages</entry>
         <entry>navbar</entry>
+        <entry>category</entry>
+        <entry>category2</entry>
+        <entry encoding="base64">XDxoYm0yZGRsQXV0b1w+</entry>
       </history-search>
       <history-cmd>
         <entry>action CollapseBlock</entry>
