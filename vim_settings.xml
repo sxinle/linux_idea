@@ -353,12 +353,12 @@
         <mark key="]" line="1511" column="40" />
         <mark key="." line="1511" column="40" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" timestamp="1494212618693">
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" timestamp="1494219738759">
         <mark key="'" line="170" column="0" />
-        <mark key="[" line="27" column="27" />
-        <mark key="]" line="27" column="27" />
-        <mark key="." line="27" column="27" />
-        <mark key="^" line="27" column="27" />
+        <mark key="[" line="147" column="70" />
+        <mark key="]" line="147" column="69" />
+        <mark key="." line="147" column="69" />
+        <mark key="^" line="147" column="69" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-parent/1.4.2.RELEASE/spring-boot-starter-parent-1.4.2.RELEASE.pom" timestamp="1493875040378">
         <mark key="'" line="116" column="21" />
@@ -634,7 +634,7 @@
         <text>term</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>jackson</text>
