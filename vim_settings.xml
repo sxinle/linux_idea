@@ -8,11 +8,12 @@
         <mark key="]" line="230" column="99" />
         <mark key="." line="230" column="99" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/semantic/JNISegmenterTest.java" timestamp="1494208539471">
-        <mark key="[" line="18" column="41" />
-        <mark key="]" line="18" column="41" />
-        <mark key="." line="18" column="41" />
-        <mark key="^" line="18" column="41" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/semantic/JNISegmenterTest.java" timestamp="1494221108206">
+        <mark key="'" line="17" column="8" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="11" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_data/pom.xml" timestamp="1490170885976">
         <mark key="[" line="12" column="15" />
@@ -255,6 +256,7 @@
         <mark key="]" line="16" column="63" />
         <mark key="." line="16" column="29" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.7.3/jackson-databind-2.7.3-sources.jar!/com/fasterxml/jackson/databind/deser/DeserializerCache.java" timestamp="1494221379733" />
       <file name="$USER_HOME$/workspace/zhgp_svr/src/main/webapp/WEB-INF/web.xml" timestamp="1493124378133">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -279,12 +281,12 @@
         <mark key="]" line="18" column="1" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" timestamp="1493866598685">
-        <mark key="'" line="259" column="57" />
-        <mark key="[" line="129" column="0" />
-        <mark key="]" line="129" column="0" />
-        <mark key="." line="129" column="0" />
-        <mark key="^" line="131" column="41" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" timestamp="1494221098090">
+        <mark key="'" line="50" column="30" />
+        <mark key="[" line="43" column="31" />
+        <mark key="]" line="43" column="50" />
+        <mark key="." line="43" column="50" />
+        <mark key="^" line="43" column="50" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/flywaydb/flyway-core/3.2.1/flyway-core-3.2.1-sources.jar!/org/flywaydb/core/Flyway.java" timestamp="1493876398480">
         <mark key="'" line="80" column="52" />
@@ -353,7 +355,7 @@
         <mark key="]" line="1511" column="40" />
         <mark key="." line="1511" column="40" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" timestamp="1494219738759">
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" timestamp="1494221324240">
         <mark key="'" line="170" column="0" />
         <mark key="[" line="147" column="70" />
         <mark key="]" line="147" column="69" />
@@ -525,8 +527,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="22" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-parent/1.4.2.RELEASE/spring-boot-starter-parent-1.4.2.RELEASE.pom" />
-      <jump line="90" column="21" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-parent/1.4.2.RELEASE/spring-boot-starter-parent-1.4.2.RELEASE.pom" />
       <jump line="98" column="22" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-parent/1.4.2.RELEASE/spring-boot-starter-parent-1.4.2.RELEASE.pom" />
       <jump line="103" column="21" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-parent/1.4.2.RELEASE/spring-boot-starter-parent-1.4.2.RELEASE.pom" />
       <jump line="111" column="22" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-parent/1.4.2.RELEASE/spring-boot-starter-parent-1.4.2.RELEASE.pom" />
@@ -625,6 +625,8 @@
       <jump line="121" column="12" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
       <jump line="30" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
       <jump line="170" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
+      <jump line="17" column="8" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/semantic/JNISegmenterTest.java" />
+      <jump line="50" column="30" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -634,40 +636,40 @@
         <text>term</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>abc</text>
       </register>
       <register name="/" type="4">
         <text>jackson</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBSdW50aW1lLmdldFJ1bnRpbWUoKS5hZGRTaHV0ZG93bkhvb2sobmV3IFRocmVhZCgoKSAtPiBKTklTZWdtZW50ZXIuZXhpdCgpKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRGYWxzZShKTklTZWdtZW50ZXIuaXNDaGluZXNlKCJhYmMiKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oSk5JU2VnbWVudGVyLmdldEluc3RhbmNlKCkpOwo=</text>
+        <text encoding="base64">QFBvd2VyTW9ja0lnbm9yZSgiamF2YXgubWFuYWdlbWVudC4qIikK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20ubXguc2VydmVyLnNlYXJjaC5jb3JlLmF1dG9uYXZpLkFtYXBTZWFyY2hlci5tYXBwZXI7Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBDb2x1bW4KICAgIHByaXZhdGUgaW50IHBhcmVudElkOwo=</text>
+        <text encoding="base64">ICAgICAgICBVdGlsaXR5LmluaXRTaW5nbGVNYXBGb3JKdW5pdFRlc3QoInRhZ01hcCIpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBDb2x1bW4KICAgIEBDcmVhdGlvblRpbWVzdGFtcAogICAgcHJpdmF0ZSBEYXRlIGNyZWF0ZV9hdDsKICAgIEBDb2x1bW4KICAgIEBVcGRhdGVUaW1lc3RhbXAKICAgIHByaXZhdGUgRGF0ZSB1cGRhdGVfYXQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICBKTklTZWdtZW50ZXIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oSk5JU2VnbWVudGVyLmdldEluc3RhbmNlKCkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0UGhvbmUoKSB7CiAgICAgICAgcmV0dXJuIHBob25lOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldFBob25lKFN0cmluZyBwaG9uZSkgewogICAgICAgIHRoaXMucGhvbmUgPSBwaG9uZTsKICAgIH0KCiAgICBwdWJsaWMgRGF0ZSBnZXRDcmVhdGVfYXQoKSB7CiAgICAgICAgcmV0dXJuIGNyZWF0ZV9hdDsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRDcmVhdGVfYXQoRGF0ZSBjcmVhdGVfYXQpIHsKICAgICAgICB0aGlzLmNyZWF0ZV9hdCA9IGNyZWF0ZV9hdDsKICAgIH0KCiAgICBwdWJsaWMgRGF0ZSBnZXRVcGRhdGVfYXQoKSB7CiAgICAgICAgcmV0dXJuIHVwZGF0ZV9hdDsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRVcGRhdGVfYXQoRGF0ZSB1cGRhdGVfYXQpIHsKICAgICAgICB0aGlzLnVwZGF0ZV9hdCA9IHVwZGF0ZV9hdDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBOb3ROdWxsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
