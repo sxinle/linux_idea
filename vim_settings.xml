@@ -8,6 +8,9 @@
         <mark key="]" line="230" column="99" />
         <mark key="." line="230" column="99" />
       </file>
+      <file name="$USER_HOME$/workspace/uauth/src/main/java/com/mx/server/core/util/AESCodec.java" timestamp="1494224292383">
+        <mark key="'" line="102" column="8" />
+      </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/semantic/JNISegmenterTest.java" timestamp="1494221108206">
         <mark key="'" line="17" column="8" />
         <mark key="[" line="12" column="0" />
@@ -224,10 +227,6 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.0.11.Final/hibernate-core-5.0.11.Final-sources.jar!/org/hibernate/cfg/AvailableSettings.java" timestamp="1493961454708">
-        <mark key="[" line="553" column="27" />
-        <mark key="]" line="553" column="48" />
-      </file>
       <file name="$USER_HOME$/workspace/red/project/plugins.sbt" timestamp="1490790128062">
         <mark key="[" line="4" column="55" />
         <mark key="]" line="4" column="56" />
@@ -355,13 +354,14 @@
         <mark key="]" line="1511" column="40" />
         <mark key="." line="1511" column="40" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" timestamp="1494221324240">
-        <mark key="'" line="170" column="0" />
-        <mark key="[" line="147" column="70" />
-        <mark key="]" line="147" column="69" />
-        <mark key="." line="147" column="69" />
-        <mark key="^" line="147" column="69" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" timestamp="1494223412374">
+        <mark key="'" line="148" column="52" />
+        <mark key="[" line="166" column="71" />
+        <mark key="]" line="166" column="75" />
+        <mark key="." line="166" column="75" />
+        <mark key="^" line="166" column="75" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.7.3/jackson-databind-2.7.3-sources.jar!/com/fasterxml/jackson/databind/deser/std/UntypedObjectDeserializer.java" timestamp="1494223338051" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-parent/1.4.2.RELEASE/spring-boot-starter-parent-1.4.2.RELEASE.pom" timestamp="1493875040378">
         <mark key="'" line="116" column="21" />
       </file>
@@ -527,12 +527,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="98" column="22" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-parent/1.4.2.RELEASE/spring-boot-starter-parent-1.4.2.RELEASE.pom" />
-      <jump line="103" column="21" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-parent/1.4.2.RELEASE/spring-boot-starter-parent-1.4.2.RELEASE.pom" />
-      <jump line="111" column="22" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-parent/1.4.2.RELEASE/spring-boot-starter-parent-1.4.2.RELEASE.pom" />
-      <jump line="116" column="21" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-parent/1.4.2.RELEASE/spring-boot-starter-parent-1.4.2.RELEASE.pom" />
-      <jump line="14" column="16" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/1.4.2.RELEASE/spring-boot-dependencies-1.4.2.RELEASE.pom" />
-      <jump line="211" column="45" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/1.4.2.RELEASE/spring-boot-dependencies-1.4.2.RELEASE.pom" />
       <jump line="237" column="16" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/1.4.2.RELEASE/spring-boot-dependencies-1.4.2.RELEASE.pom" />
       <jump line="463" column="48" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/1.4.2.RELEASE/spring-boot-dependencies-1.4.2.RELEASE.pom" />
       <jump line="18" column="31" filename="$USER_HOME$/workspace/yh_svr/pom.xml" />
@@ -627,6 +621,12 @@
       <jump line="170" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
       <jump line="17" column="8" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/semantic/JNISegmenterTest.java" />
       <jump line="50" column="30" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" />
+      <jump line="24" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
+      <jump line="148" column="52" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
+      <jump line="25" column="45" filename="$USER_HOME$/workspace/uauth/src/main/java/com/mx/server/core/util/AESCodec.java" />
+      <jump line="108" column="0" filename="$USER_HOME$/workspace/uauth/src/main/java/com/mx/server/core/util/AESCodec.java" />
+      <jump line="101" column="57" filename="$USER_HOME$/workspace/uauth/src/main/java/com/mx/server/core/util/AESCodec.java" />
+      <jump line="102" column="8" filename="$USER_HOME$/workspace/uauth/src/main/java/com/mx/server/core/util/AESCodec.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -636,10 +636,10 @@
         <text>term</text>
       </register>
       <register name="-" type="4">
-        <text>abc</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
-        <text>jackson</text>
+        <text encoding="base64">XDxrZXlcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhc3NlcnRGYWxzZShKTklTZWdtZW50ZXIuaXNDaGluZXNlKCJhYmMiKSk7Cg==</text>
@@ -676,17 +676,16 @@
       </register>
     </registers>
     <search>
-      <last-search>jackson</last-search>
+      <last-search encoding="base64">XDxrZXlcPg==</last-search>
       <last-offset />
-      <last-pattern>jackson</last-pattern>
+      <last-pattern encoding="base64">XDxrZXlcPg==</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>自治区</entry>
         <entry>distSuffix</entry>
         <entry>suffix</entry>
         <entry>gu zi zhi qu</entry>
@@ -706,6 +705,7 @@
         <entry>category2</entry>
         <entry encoding="base64">XDxoYm0yZGRsQXV0b1w+</entry>
         <entry>jackson</entry>
+        <entry encoding="base64">XDxrZXlcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>action CollapseBlock</entry>
