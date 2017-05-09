@@ -264,11 +264,12 @@
       <file name="$MAVEN_REPOSITORY$/org/flywaydb/flyway-core/3.2.1/flyway-core-3.2.1-sources.jar!/org/flywaydb/core/Flyway.java" timestamp="1493876398480">
         <mark key="'" line="80" column="52" />
       </file>
-      <file name="$USER_HOME$/workspace/yh_svr/src/main/java/com/yh/zhgp/domain/goods/GoodsCategory.java" timestamp="1493973936772">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="30" column="23" />
+      <file name="$USER_HOME$/workspace/yh_svr/src/main/java/com/yh/zhgp/domain/goods/GoodsCategory.java" timestamp="1494296796898">
+        <mark key="'" line="39" column="0" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="^" line="19" column="23" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_old/pom.xml" timestamp="1494228337030">
         <mark key="'" line="27" column="35" />
@@ -449,8 +450,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="0" filename="$USER_HOME$/workspace/shopping/all-page-link.html" />
-      <jump line="15" column="35" filename="$USER_HOME$/workspace/shopping/navbar.html" />
       <jump line="2" column="0" filename="$USER_HOME$/workspace/shopping/product-details.html" />
       <jump line="116" column="36" filename="$USER_HOME$/workspace/shopping/product-details.html" />
       <jump line="1153" column="0" filename="$USER_HOME$/workspace/shopping/product-details.html" />
@@ -549,6 +548,8 @@
       <jump line="31" column="16" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/semantic/WordTypeJudgerTest.java" />
       <jump line="45" column="4" filename="$USER_HOME$/workspace/uauth/src/main/java/com/mx/server/core/util/AESCodec.java" />
       <jump line="108" column="0" filename="$USER_HOME$/workspace/uauth/src/main/java/com/mx/server/core/util/AESCodec.java" />
+      <jump line="47" column="26" filename="$USER_HOME$/workspace/yh_svr/src/main/java/com/yh/zhgp/domain/goods/GoodsCategory.java" />
+      <jump line="39" column="0" filename="$USER_HOME$/workspace/yh_svr/src/main/java/com/yh/zhgp/domain/goods/GoodsCategory.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -567,31 +568,31 @@
         <text>http://task.zbj.com/t-ydyykf/p1s5.html</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBQb2lTZXJ2aWNlLmdldERpc3RyaWN0Q29kZUJ5UG9pbnQocHQpOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBQb2ludCBwdCA9IG5ldyBQb2ludCgxMDcyNjc4NDIyLCAzNjgwODA0MTMpOy8vIOWMl+S6rAo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBEYXRlIGdldENyZWF0ZV9hdCgpIHsKICAgICAgICByZXR1cm4gY3JlYXRlX2F0OwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldENyZWF0ZV9hdChEYXRlIGNyZWF0ZV9hdCkgewogICAgICAgIHRoaXMuY3JlYXRlX2F0ID0gY3JlYXRlX2F0OwogICAgfQoKICAgIHB1YmxpYyBEYXRlIGdldFVwZGF0ZV9hdCgpIHsKICAgICAgICByZXR1cm4gdXBkYXRlX2F0OwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldFVwZGF0ZV9hdChEYXRlIHVwZGF0ZV9hdCkgewogICAgICAgIHRoaXMudXBkYXRlX2F0ID0gdXBkYXRlX2F0Owo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBnZXRDb2RlQnlsZXZlKCkgdGhyb3dzIEV4Y2VwdGlvbiB7CgogICAgfQo=</text>
+        <text encoding="base64">ICAgIEBDb2x1bW4KICAgIEBDcmVhdGlvblRpbWVzdGFtcAogICAgcHJpdmF0ZSBEYXRlIGNyZWF0ZV9hdDsKICAgIEBDb2x1bW4KICAgIEBVcGRhdGVUaW1lc3RhbXAKICAgIHByaXZhdGUgRGF0ZSB1cGRhdGVfYXQ7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBQb2lTZXJ2aWNlLmdldERpc3RyaWN0Q29kZUJ5UG9pbnQocHQpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCByZWN1cnNpb25BbWVudSgpIHRocm93cyBFeGNlcHRpb24gewogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBQb2ludCBwdCA9IG5ldyBQb2ludCgxMDcyNjc4NDIyLCAzNjgwODA0MTMpOy8vIOWMl+S6rAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBXb3JkVHlwZUp1ZGdlci4K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBnZXRDb2RlQnlsZXZlKCkgdGhyb3dzIEV4Y2VwdGlvbiB7CgogICAgfQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBjb250YWluc1NwZWNpYWxDaXR5KCkgdGhyb3dzIEV4Y2VwdGlvbiB7CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
