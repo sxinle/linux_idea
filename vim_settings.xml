@@ -71,9 +71,11 @@
       <file name="$USER_HOME$/PoiController.class" timestamp="1493715640669">
         <mark key="'" line="62" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/yh_svr/shadowsocks/src/main/java/shadowsocks/Main.java" timestamp="1494377955199">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="59" />
+      <file name="$USER_HOME$/workspace/yh_svr/shadowsocks/src/main/java/shadowsocks/Main.java" timestamp="1494384966850">
+        <mark key="[" line="26" column="40" />
+        <mark key="]" line="26" column="43" />
+        <mark key="." line="26" column="43" />
+        <mark key="^" line="26" column="43" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.3.RELEASE/spring-context-4.3.3.RELEASE-sources.jar!/org/springframework/jndi/JndiTemplate.java" timestamp="1493877623145">
         <mark key="'" line="33" column="48" />
@@ -161,6 +163,12 @@
         <mark key="." line="169" column="25" />
         <mark key="^" line="163" column="25" />
       </file>
+      <file name="$USER_HOME$/workspace/yh_svr/shadowsocks/src/test/java/shadowsocks/SystemTest.java" timestamp="1494385010108">
+        <mark key="[" line="68" column="35" />
+        <mark key="]" line="68" column="39" />
+        <mark key="." line="68" column="39" />
+        <mark key="^" line="68" column="39" />
+      </file>
       <file name="$USER_HOME$/Downloads/shadowsocks-java/pom.xml" timestamp="1494329536662">
         <mark key="'" line="13" column="49" />
         <mark key="[" line="67" column="23" />
@@ -198,11 +206,12 @@
       <file name="$USER_HOME$/workspace/search_tool/src/main/java/com/mx/server/search/tool/util/Algorithm.java" timestamp="1493709100339">
         <mark key="'" line="228" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yh_svr/shadowsocks/src/main/java/shadowsocks/Shadowsocks.java" timestamp="1494383297993">
-        <mark key="'" line="73" column="8" />
-        <mark key="[" line="112" column="0" />
-        <mark key="]" line="112" column="0" />
-        <mark key="." line="112" column="0" />
+      <file name="$USER_HOME$/workspace/yh_svr/shadowsocks/src/main/java/shadowsocks/Shadowsocks.java" timestamp="1494385057235">
+        <mark key="'" line="55" column="16" />
+        <mark key="[" line="76" column="30" />
+        <mark key="]" line="76" column="30" />
+        <mark key="^" line="76" column="30" />
+        <mark key="." line="76" column="30" />
       </file>
       <file name="/Dummy.txt" timestamp="1494379390330">
         <mark key="[" line="0" column="0" />
@@ -235,7 +244,7 @@
       <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.7.3/jackson-databind-2.7.3-sources.jar!/com/fasterxml/jackson/databind/JavaType.java" timestamp="1494227075468">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1494382433787">
+      <file name="/fragment.java" timestamp="1494383324765">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="14" />
         <mark key="." line="4" column="14" />
@@ -249,12 +258,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="148" column="52" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
-      <jump line="25" column="45" filename="$USER_HOME$/workspace/uauth/src/main/java/com/mx/server/core/util/AESCodec.java" />
-      <jump line="101" column="57" filename="$USER_HOME$/workspace/uauth/src/main/java/com/mx/server/core/util/AESCodec.java" />
-      <jump line="102" column="8" filename="$USER_HOME$/workspace/uauth/src/main/java/com/mx/server/core/util/AESCodec.java" />
-      <jump line="147" column="42" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
-      <jump line="45" column="19" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" />
       <jump line="314" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" />
       <jump line="220" column="50" filename="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.7.3/jackson-databind-2.7.3-sources.jar!/com/fasterxml/jackson/databind/deser/DeserializerCache.java" />
       <jump line="93" column="41" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
@@ -349,6 +352,12 @@
       <jump line="158" column="12" filename="$USER_HOME$/workspace/yh_svr/shadowsocks/src/main/java/shadowsocks/nio/tcp/TcpWorker.java" />
       <jump line="79" column="23" filename="$USER_HOME$/workspace/yh_svr/shadowsocks/src/main/java/shadowsocks/nio/tcp/TcpWorker.java" />
       <jump line="155" column="29" filename="$USER_HOME$/workspace/yh_svr/shadowsocks/src/main/java/shadowsocks/nio/tcp/ServerTcpWorker.java" />
+      <jump line="39" column="29" filename="$USER_HOME$/workspace/yh_svr/shadowsocks/src/main/java/shadowsocks/Shadowsocks.java" />
+      <jump line="59" column="19" filename="$USER_HOME$/workspace/yh_svr/shadowsocks/src/main/java/shadowsocks/Shadowsocks.java" />
+      <jump line="65" column="12" filename="$USER_HOME$/workspace/yh_svr/shadowsocks/src/main/java/shadowsocks/Shadowsocks.java" />
+      <jump line="38" column="29" filename="$USER_HOME$/workspace/yh_svr/shadowsocks/src/main/java/shadowsocks/Shadowsocks.java" />
+      <jump line="66" column="12" filename="$USER_HOME$/workspace/yh_svr/shadowsocks/src/main/java/shadowsocks/Shadowsocks.java" />
+      <jump line="55" column="16" filename="$USER_HOME$/workspace/yh_svr/shadowsocks/src/main/java/shadowsocks/Shadowsocks.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -358,49 +367,49 @@
         <text>term</text>
       </register>
       <register name="-" type="4">
-        <text>123456</text>
+        <text>(Config.get().isServerMode())</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtQ3J5cHRvclw+</text>
+        <text encoding="base64">XDxtUnVubmluZ1N0YXRlXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>&quot;aes-256-cfb&quot;</text>
+        <text>portStateMap.get(port)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxvY2FsLmdldExvY2FsQWRkcmVzcygpLmdldAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbUV4ZWN1dG9yU2VydmljZS5zCg==</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBpbnRbXSBwb3J0ID0gbmV3IGludFtdezY1NTMxLCA2NTUzMiwgNjU1MzN9OwogICAgICAgIGlmIChtSXNTZXJ2ZXIpIHsKICAgICAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBwb3J0Lmxlbmd0aDsgaSsrKSB7CiAgICAgICAgICAgICAgICBpZiAoZ2V0U3RhdGUocG9ydFtpXSkgPT0gUlVOTklORykgewogICAgICAgICAgICAgICAgICAgIGxvZy53YXJuKHN2ck9yTG9jYWwgKyAiIGlzIHJ1bm5pbmcuIik7CiAgICAgICAgICAgICAgICAgICAgbUxvY2sudW5sb2NrKCk7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgZmluYWwgaW50IGluZGV4ID0gaTsKICAgICAgICAgICAgICAgIHNldFN0YXRlKHBvcnRbaV0sIFJVTk5JTkcpOwogICAgICAgICAgICAgICAgbUV4ZWN1dG9yU2VydmljZS5zdWJtaXQoKCkgLT4gewogICAgICAgICAgICAgICAgICAgIHRyeSAoU2VydmVyU29ja2V0Q2hhbm5lbCBzZXJ2ZXIgPSBTZXJ2ZXJTb2NrZXRDaGFubmVsLm9wZW4oKSkgewogICAgICAgICAgICAgICAgICAgICAgICBzZXJ2ZXIuc29ja2V0KCkuYmluZChuZXcgSW5ldFNvY2tldEFkZHJlc3MocG9ydFtpbmRleF0pKTsKICAgICAgICAgICAgICAgICAgICAgICAgc2VydmVyLnNvY2tldCgpLnNldFJldXNlQWRkcmVzcyh0cnVlKTsKICAgICAgICAgICAgICAgICAgICAgICAgbG9nLmluZm8oIlN0YXJ0aW5nICIgKyBzdnJPckxvY2FsICsgIiBhdCAiICsgc2VydmVyLnNvY2tldCgpLmdldExvY2FsU29ja2V0QWRkcmVzcygpKTsKICAgICAgICAgICAgICAgICAgICAgICAgLy9UZWxsIG1haW4gdGhyZWFkLCBiaW5kIGZpbmlzaCwgZW50ZXIgbWFpbmxvb3AuCiAgICAgICAgICAgICAgICAgICAgICAgIHN5bmNocm9uaXplZCAoZmluaXNoKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBmaW5pc2gubm90aWZ5KCk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgd2hpbGUgKHRydWUpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIFNvY2tldENoYW5uZWwgbG9jYWwgPSBzZXJ2ZXIuYWNjZXB0KCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAoZ2V0U3RhdGUocG9ydFtpbmRleF0pID09IFNUT1ApIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxvY2FsLnNvY2tldCgpLnNldFRjcE5vRGVsYXkodHJ1ZSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBtRXhlY3V0b3JTZXJ2aWNlLmV4ZWN1dGUoY3JlYXRlV29ya2VyKGxvY2FsLCBtSXNTZXJ2ZXIpKTsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICBsb2cuaW5mbygiU3RvcCAiICsgc3ZyT3JMb2NhbCArICIgZG9uZS4iKTsKICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgICAgICAgICAgICAgfSBjYXRjaCAoSU9FeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgICAgICAgICBsb2cuZXJyb3Ioc3ZyT3JMb2NhbCArICIgcnVubmluZyBlcnJvci4iLCBlKTsKICAgICAgICAgICAgICAgICAgICAgICAgc2V0U3RhdGUocG9ydFtpbmRleF0sIFNUT1ApOwogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfSk7CgogICAgICAgICAgICB9CiAgICAgICAgfSBlbHNlIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50W10gcG9ydCA9IG5ldyBpbnRbXXs2NTUzMSwgNjU1MzIsIDY1NTMzfTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImFlcy0yNTYtY2ZiIgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbUxvY2FsLgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbUV4ZWN1dG9yU2VydmljZS5zdWJtaXQoKCkgLT4gewogICAgICAgICAgICAgICAgdHJ5IChTZXJ2ZXJTb2NrZXRDaGFubmVsIHNlcnZlciA9IFNlcnZlclNvY2tldENoYW5uZWwub3BlbigpKSB7CiAgICAgICAgICAgICAgICAgICAgc2VydmVyLnNvY2tldCgpLmJpbmQobmV3IEluZXRTb2NrZXRBZGRyZXNzKG1Qb3J0KSk7CiAgICAgICAgICAgICAgICAgICAgc2VydmVyLnNvY2tldCgpLnNldFJldXNlQWRkcmVzcyh0cnVlKTsKICAgICAgICAgICAgICAgICAgICBsb2cuaW5mbygiU3RhcnRpbmcgIiArIHN2ck9yTG9jYWwgKyAiIGF0ICIgKyBzZXJ2ZXIuc29ja2V0KCkuZ2V0TG9jYWxTb2NrZXRBZGRyZXNzKCkpOwogICAgICAgICAgICAgICAgICAgIC8vVGVsbCBtYWluIHRocmVhZCwgYmluZCBmaW5pc2gsIGVudGVyIG1haW5sb29wLgogICAgICAgICAgICAgICAgICAgIHN5bmNocm9uaXplZCAoZmluaXNoKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGZpbmlzaC5ub3RpZnkoKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgd2hpbGUgKHRydWUpIHsKICAgICAgICAgICAgICAgICAgICAgICAgU29ja2V0Q2hhbm5lbCBsb2NhbCA9IHNlcnZlci5hY2NlcHQoKTsKICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGdldFN0YXRlKCkgPT0gU1RPUCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgbG9jYWwuc29ja2V0KCkuc2V0VGNwTm9EZWxheSh0cnVlKTsKICAgICAgICAgICAgICAgICAgICAgICAgbUV4ZWN1dG9yU2VydmljZS5leGVjdXRlKGNyZWF0ZVdvcmtlcihsb2NhbCwgbUlzU2VydmVyKSk7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIGxvZy5pbmZvKCJTdG9wICIgKyBzdnJPckxvY2FsICsgIiBkb25lLiIpOwogICAgICAgICAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgICAgICAgICAgfSBjYXRjaCAoSU9FeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgICAgIGxvZy5lcnJvcihzdnJPckxvY2FsICsgIiBydW5uaW5nIGVycm9yLiIsIGUpOwogICAgICAgICAgICAgICAgICAgIHNldFN0YXRlKFNUT1ApOwogICAgICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSk7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoZ2V0U3RhdGUoKSA9PSBSVU5OSU5HKSB7CiAgICAgICAgICAgIGxvZy53YXJuKHN2ck9yTG9jYWwgKyAiIGlzIHJ1bm5pbmcuIik7CiAgICAgICAgICAgIG1Mb2NrLnVubG9jaygpOwogICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgfQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtRnV0dXJlID0gbUV4ZWN1dG9yU2VydmljZS5zdWJtaXQoKCkgLT4gewogICAgICAgICAgICB0cnkgKFNlcnZlclNvY2tldENoYW5uZWwgc2VydmVyID0gU2VydmVyU29ja2V0Q2hhbm5lbC5vcGVuKCkpIHsKICAgICAgICAgICAgICAgIHNlcnZlci5zb2NrZXQoKS5iaW5kKG5ldyBJbmV0U29ja2V0QWRkcmVzcyhtUG9ydCkpOwogICAgICAgICAgICAgICAgc2VydmVyLnNvY2tldCgpLnNldFJldXNlQWRkcmVzcyh0cnVlKTsKICAgICAgICAgICAgICAgIGxvZy5pbmZvKCJTdGFydGluZyAiICsgc3ZyT3JMb2NhbCArICIgYXQgIiArIHNlcnZlci5zb2NrZXQoKS5nZXRMb2NhbFNvY2tldEFkZHJlc3MoKSk7CiAgICAgICAgICAgICAgICAvL1RlbGwgbWFpbiB0aHJlYWQsIGJpbmQgZmluaXNoLCBlbnRlciBtYWlubG9vcC4KICAgICAgICAgICAgICAgIHN5bmNocm9uaXplZCAoZmluaXNoKSB7CiAgICAgICAgICAgICAgICAgICAgZmluaXNoLm5vdGlmeSgpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgd2hpbGUgKHRydWUpIHsKICAgICAgICAgICAgICAgICAgICBTb2NrZXRDaGFubmVsIGxvY2FsID0gc2VydmVyLmFjY2VwdCgpOwogICAgICAgICAgICAgICAgICAgIGlmIChnZXRTdGF0ZSgpID09IFNUT1ApIHsKICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIGxvY2FsLnNvY2tldCgpLnNldFRjcE5vRGVsYXkodHJ1ZSk7CiAgICAgICAgICAgICAgICAgICAgbUV4ZWN1dG9yU2VydmljZS5leGVjdXRlKGNyZWF0ZVdvcmtlcihsb2NhbCwgbUlzU2VydmVyKSk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBsb2cuaW5mbygiU3RvcCAiICsgc3ZyT3JMb2NhbCArICIgZG9uZS4iKTsKICAgICAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICBsb2cuZXJyb3Ioc3ZyT3JMb2NhbCArICIgcnVubmluZyBlcnJvci4iLCBlKTsKICAgICAgICAgICAgICAgIHNldFN0YXRlKFNUT1ApOwogICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgICAgICB9CiAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG1SdW5uaW5nU3RhdGU7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtQ3J5cHRvclw+</last-search>
+      <last-search encoding="base64">XDxtUnVubmluZ1N0YXRlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtQ3J5cHRvclw+</last-pattern>
+      <last-pattern encoding="base64">XDxtUnVubmluZ1N0YXRlXD4=</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -408,9 +417,6 @@
     </search>
     <history>
       <history-search>
-        <entry>common</entry>
-        <entry encoding="base64">XDx1dGlsc1w+</entry>
-        <entry>mx_common</entry>
         <entry encoding="base64">XDxteFw+</entry>
         <entry>jackson</entry>
         <entry>special</entry>
@@ -428,6 +434,9 @@
         <entry encoding="base64">XDxzdnJPckxvY2FsXD4=</entry>
         <entry encoding="base64">XDxtTG9jYWxcPg==</entry>
         <entry encoding="base64">XDxtQ3J5cHRvclw+</entry>
+        <entry encoding="base64">XDxTVE9QXD4=</entry>
+        <entry encoding="base64">XDxSVU5OSU5HXD4=</entry>
+        <entry encoding="base64">XDxtUnVubmluZ1N0YXRlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>action CollapseBlock</entry>
