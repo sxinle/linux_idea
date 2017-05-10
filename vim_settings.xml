@@ -16,18 +16,13 @@
         <mark key="." line="13" column="40" />
         <mark key="^" line="13" column="40" />
       </file>
-      <file name="$USER_HOME$/Downloads/shadowsocks-java/src/main/java/shadowsocks/Main.java" timestamp="1494331337878">
-        <mark key="'" line="28" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.2/httpclient-4.5.2-sources.jar!/org/apache/http/impl/client/HttpClientBuilder.java" timestamp="1493797219149">
         <mark key="'" line="396" column="66" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" timestamp="1493859822882">
         <mark key="'" line="51" column="61" />
       </file>
+      <file name="$USER_HOME$/workspace/uauth/src/main/java/com/mx/server/core/misc/LoginFilter.java" timestamp="1494386409218" />
       <file name="/PosSorterTest.java" timestamp="1493948332713">
         <mark key="'" line="156" column="0" />
       </file>
@@ -68,11 +63,11 @@
       <file name="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/net/URLConnection.java" timestamp="1493280046841">
         <mark key="'" line="1078" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/yh_svr/src/main/java/com/yh/zhgp/controller/UserController.java" timestamp="1494385954262">
-        <mark key="[" line="22" column="51" />
-        <mark key="]" line="22" column="52" />
-        <mark key="." line="22" column="52" />
-        <mark key="^" line="21" column="10" />
+      <file name="$USER_HOME$/workspace/yh_svr/src/main/java/com/yh/zhgp/controller/UserController.java" timestamp="1494386529883">
+        <mark key="[" line="22" column="53" />
+        <mark key="]" line="22" column="78" />
+        <mark key="." line="22" column="78" />
+        <mark key="^" line="22" column="78" />
       </file>
       <file name="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/net/HttpURLConnection.java" timestamp="1493348794173">
         <mark key="'" line="418" column="16" />
@@ -254,12 +249,12 @@
       <file name="$USER_HOME$/workspace/search_tool/src/main/java/com/mx/server/search/tool/util/Algorithm.java" timestamp="1493709100339">
         <mark key="'" line="228" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yh_svr/shadowsocks/src/main/java/shadowsocks/Shadowsocks.java" timestamp="1494386315247">
-        <mark key="'" line="78" column="8" />
-        <mark key="[" line="102" column="54" />
-        <mark key="]" line="103" column="47" />
-        <mark key="^" line="103" column="47" />
-        <mark key="." line="103" column="47" />
+      <file name="$USER_HOME$/workspace/yh_svr/shadowsocks/src/main/java/shadowsocks/Shadowsocks.java" timestamp="1494386975195">
+        <mark key="'" line="125" column="4" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="88" column="47" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1494379390330">
         <mark key="[" line="0" column="0" />
@@ -312,14 +307,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="509" column="6" filename="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.7.3/jackson-databind-2.7.3-sources.jar!/com/fasterxml/jackson/databind/JavaType.java" />
-      <jump line="0" column="0" filename="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.7.3/jackson-databind-2.7.3-sources.jar!/com/fasterxml/jackson/databind/JavaType.java" />
-      <jump line="127" column="52" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
-      <jump line="25" column="48" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/semantic/JNISegmenterTest.java" />
-      <jump line="39" column="60" filename="$USER_HOME$/workspace/search/pom.xml" />
-      <jump line="21" column="32" filename="$USER_HOME$/workspace/search/pom.xml" />
-      <jump line="49" column="28" filename="$USER_HOME$/workspace/search/pom.xml" />
-      <jump line="54" column="39" filename="$USER_HOME$/workspace/search/pom.xml" />
       <jump line="55" column="28" filename="$USER_HOME$/workspace/search/pom.xml" />
       <jump line="56" column="27" filename="$USER_HOME$/workspace/search/pom.xml" />
       <jump line="7" column="38" filename="$USER_HOME$/workspace/search/search_core/pom.xml" />
@@ -412,6 +399,14 @@
       <jump line="114" column="65" filename="$USER_HOME$/workspace/yh_svr/shadowsocks/src/main/java/shadowsocks/Shadowsocks.java" />
       <jump line="44" column="26" filename="$USER_HOME$/workspace/yh_svr/shadowsocks/src/main/java/shadowsocks/Shadowsocks.java" />
       <jump line="78" column="8" filename="$USER_HOME$/workspace/yh_svr/shadowsocks/src/main/java/shadowsocks/Shadowsocks.java" />
+      <jump line="136" column="56" filename="$USER_HOME$/workspace/yh_svr/shadowsocks/src/main/java/shadowsocks/Shadowsocks.java" />
+      <jump line="97" column="21" filename="$USER_HOME$/workspace/yh_svr/shadowsocks/src/main/java/shadowsocks/Shadowsocks.java" />
+      <jump line="105" column="41" filename="$USER_HOME$/workspace/yh_svr/shadowsocks/src/main/java/shadowsocks/Shadowsocks.java" />
+      <jump line="106" column="30" filename="$USER_HOME$/workspace/yh_svr/shadowsocks/src/main/java/shadowsocks/Shadowsocks.java" />
+      <jump line="107" column="20" filename="$USER_HOME$/workspace/yh_svr/shadowsocks/src/main/java/shadowsocks/Shadowsocks.java" />
+      <jump line="128" column="26" filename="$USER_HOME$/workspace/yh_svr/shadowsocks/src/main/java/shadowsocks/Shadowsocks.java" />
+      <jump line="130" column="16" filename="$USER_HOME$/workspace/yh_svr/shadowsocks/src/main/java/shadowsocks/Shadowsocks.java" />
+      <jump line="140" column="4" filename="$USER_HOME$/workspace/yh_svr/shadowsocks/src/main/java/shadowsocks/Shadowsocks.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -421,49 +416,49 @@
         <text>term</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>Resp.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtSXNTZXJ2ZXJcPg==</text>
+        <text encoding="base64">XDxmaW5pc2hcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoZ2V0U3RhdGUocG9ydCkgPT0gU1RPUCkgewogICAgICAgICAgICBsb2cud2FybihzdnJPckxvY2FsICsgIiBpcyBub3QgcnVubmluZy4iKTsKICAgICAgICAgICAgbUxvY2sudW5sb2NrKCk7CiAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoKICogICBDb3B5cmlnaHQgMjAxNiBBdXRob3I6TlUxMSBiZXN0b2FwYWNoZUBnbWFpbC5jb20KICoKICogIExpY2Vuc2VkIHVuZGVyIHRoZSBBcGFjaGUgTGljZW5zZSwgVmVyc2lvbiAyLjAgKHRoZSAiTGljZW5zZSIpOwogKiAgeW91IG1heSBub3QgdXNlIHRoaXMgZmlsZSBleGNlcHQgaW4gY29tcGxpYW5jZSB3aXRoIHRoZSBMaWNlbnNlLgogKiAgWW91IG1heSBvYnRhaW4gYSBjb3B5IG9mIHRoZSBMaWNlbnNlIGF0CiAqCiAqICAgICAgIGh0dHA6Ly93d3cuYXBhY2hlLm9yZy9saWNlbnNlcy9MSUNFTlNFLTIuMAogKgogKiAgVW5sZXNzIHJlcXVpcmVkIGJ5IGFwcGxpY2FibGUgbGF3IG9yIGFncmVlZCB0byBpbiB3cml0aW5nLCBzb2Z0d2FyZQogKiAgZGlzdHJpYnV0ZWQgdW5kZXIgdGhlIExpY2Vuc2UgaXMgZGlzdHJpYnV0ZWQgb24gYW4gIkFTIElTIiBCQVNJUywKICogIFdJVEhPVVQgV0FSUkFOVElFUyBPUiBDT05ESVRJT05TIE9GIEFOWSBLSU5ELCBlaXRoZXIgZXhwcmVzcyBvciBpbXBsaWVkLgogKiAgU2VlIHRoZSBMaWNlbnNlIGZvciB0aGUgc3BlY2lmaWMgbGFuZ3VhZ2UgZ292ZXJuaW5nIHBlcm1pc3Npb25zIGFuZAogKiAgbGltaXRhdGlvbnMgdW5kZXIgdGhlIExpY2Vuc2UuCiAqLwo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZ1tdIHB3ZHMgPSBuZXcgU3RyaW5nW117IjEyMzQ1NiIsICJhYmNkIiwgIjEyMzQifTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZ1tdIHB3ZHMgPSBuZXcgU3RyaW5nW117IjEyMzQ1NiIsICJhYmNkIiwgIjEyMzQifTsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHBhc3N3b3JkID0gIiI7CiAgICAgICAgICAgIHN3aXRjaCAoKChJbmV0U29ja2V0QWRkcmVzcykgbG9jYWwuZ2V0TG9jYWxBZGRyZXNzKCkpLmdldFBvcnQoKSkgewogICAgICAgICAgICAgICAgY2FzZSA2NTUzMToKICAgICAgICAgICAgICAgICAgICBwYXNzd29yZCA9IHB3ZHNbMF07CiAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICBjYXNlIDY1NTMyOgogICAgICAgICAgICAgICAgICAgIHBhc3N3b3JkID0gcHdkc1sxXTsKICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgIGNhc2UgNjU1MzM6CiAgICAgICAgICAgICAgICAgICAgcGFzc3dvcmQgPSBwd2RzWzJdOwogICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgZGVmYXVsdDoKICAgICAgICAgICAgICAgICAgICBwYXNzd29yZCA9IHB3ZHNbMF07CiAgICAgICAgICAgIH0K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHBhc3N3b3JkID0gIiI7CiAgICAgICAgICAgIHN3aXRjaCAoKChJbmV0U29ja2V0QWRkcmVzcykgbG9jYWwuZ2V0TG9jYWxBZGRyZXNzKCkpLmdldFBvcnQoKSkgewogICAgICAgICAgICAgICAgY2FzZSA2NTUzMToKICAgICAgICAgICAgICAgICAgICBwYXNzd29yZCA9IHB3ZHNbMF07CiAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICBjYXNlIDY1NTMyOgogICAgICAgICAgICAgICAgICAgIHBhc3N3b3JkID0gcHdkc1sxXTsKICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgIGNhc2UgNjU1MzM6CiAgICAgICAgICAgICAgICAgICAgcGFzc3dvcmQgPSBwd2RzWzJdOwogICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgZGVmYXVsdDoKICAgICAgICAgICAgICAgICAgICBwYXNzd29yZCA9IHB3ZHNbMF07CiAgICAgICAgICAgIH0K</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gbUNyeXB0b3IgPSBDcnlwdG9GYWN0b3J5LmNyZWF0ZShDb25maWcuZ2V0KCkuZ2V0TWV0aG9kKCksIENvbmZpZy5nZXQoKS5nZXRQYXNzd29yZCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHBhc3N3b3JkID0gIiI7CiAgICAgICAgICAgIHN3aXRjaCAoKChJbmV0U29ja2V0QWRkcmVzcykgbG9jYWwuZ2V0TG9jYWxBZGRyZXNzKCkpLmdldFBvcnQoKSkgewogICAgICAgICAgICAgICAgY2FzZSA2NTUzMToKICAgICAgICAgICAgICAgICAgICBwYXNzd29yZCA9IHB3ZHNbMF07CiAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICBjYXNlIDY1NTMyOgogICAgICAgICAgICAgICAgICAgIHBhc3N3b3JkID0gcHdkc1sxXTsKICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgIGNhc2UgNjU1MzM6CiAgICAgICAgICAgICAgICAgICAgcGFzc3dvcmQgPSBwd2RzWzJdOwogICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgZGVmYXVsdDoKICAgICAgICAgICAgICAgICAgICBwYXNzd29yZCA9IHB3ZHNbMF07CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtSXNTZXJ2ZXJcPg==</last-search>
+      <last-search encoding="base64">XDxmaW5pc2hcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtSXNTZXJ2ZXJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxmaW5pc2hcPg==</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -471,7 +466,6 @@
     </search>
     <history>
       <history-search>
-        <entry>log</entry>
         <entry>log4j</entry>
         <entry>slf4j</entry>
         <entry encoding="base64">XDxtU2Vzc2lvblw+</entry>
@@ -491,6 +485,7 @@
         <entry>mpo</entry>
         <entry encoding="base64">XDxtUG9ydFw+</entry>
         <entry encoding="base64">XDxtSXNTZXJ2ZXJcPg==</entry>
+        <entry encoding="base64">XDxmaW5pc2hcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>action CollapseBlock</entry>
