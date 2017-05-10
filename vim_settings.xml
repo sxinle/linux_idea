@@ -281,15 +281,15 @@
         <mark key="]" line="87" column="0" />
         <mark key="." line="87" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1494405772811">
+      <file name="/Dummy.txt" timestamp="1494406106519">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yh_svr/pom.xml" timestamp="1494406098131">
+      <file name="$USER_HOME$/workspace/yh_svr/pom.xml" timestamp="1494407569127">
         <mark key="'" line="94" column="19" />
-        <mark key="[" line="25" column="16" />
-        <mark key="]" line="25" column="26" />
-        <mark key="^" line="25" column="26" />
-        <mark key="." line="25" column="26" />
+        <mark key="[" line="112" column="16" />
+        <mark key="]" line="147" column="21" />
+        <mark key="^" line="111" column="7" />
+        <mark key="." line="112" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" timestamp="1493884750054">
         <mark key="'" line="141" column="41" />
@@ -322,22 +322,20 @@
       <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.7.3/jackson-databind-2.7.3-sources.jar!/com/fasterxml/jackson/databind/JavaType.java" timestamp="1494227075468">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1494402423210">
+      <file name="/fragment.java" timestamp="1494407596448">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="14" />
         <mark key="." line="4" column="14" />
         <mark key="^" line="4" column="14" />
       </file>
-      <file name="$USER_HOME$/workspace/yh_svr/shadowsocks/pom.xml" timestamp="1494377879918">
-        <mark key="'" line="67" column="30" />
-        <mark key="[" line="6" column="27" />
-        <mark key="]" line="6" column="27" />
+      <file name="$USER_HOME$/workspace/yh_svr/shadowsocks/pom.xml" timestamp="1494407564861">
+        <mark key="'" line="46" column="19" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="81" column="20" />
         <mark key="." line="6" column="27" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="147" column="29" filename="$USER_HOME$/workspace/search/pom.xml" />
-      <jump line="153" column="29" filename="$USER_HOME$/workspace/search/pom.xml" />
       <jump line="34" column="25" filename="$USER_HOME$/workspace/search/search_core/pom.xml" />
       <jump line="39" column="25" filename="$USER_HOME$/workspace/search/search_core/pom.xml" />
       <jump line="44" column="25" filename="$USER_HOME$/workspace/search/search_core/pom.xml" />
@@ -436,6 +434,8 @@
       <jump line="365" column="0" filename="$MAVEN_REPOSITORY$/com/mx/server/gis/mx_place_api_new/1.0.17-RELEASE/mx_place_api_new-1.0.17-RELEASE.jar!/com/mx/placeapi/service/PoiService.class" />
       <jump line="21" column="26" filename="$USER_HOME$/workspace/yh_svr/shadowsocks/src/test/resources/result-example-com" />
       <jump line="49" column="0" filename="$USER_HOME$/workspace/yh_svr/shadowsocks/src/test/resources/result-example-com" />
+      <jump line="46" column="19" filename="$USER_HOME$/workspace/yh_svr/shadowsocks/pom.xml" />
+      <jump line="94" column="19" filename="$USER_HOME$/workspace/yh_svr/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -451,7 +451,7 @@
         <text encoding="base64">XDxyZXN1bHRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZ2V0U3RhdGUocG9ydCkgPT0gU1RPUCkgewogICAgICAgICAgICBsb2cud2FybihzdnJPckxvY2FsICsgIiBpcyBub3QgcnVubmluZy4iKTsKICAgICAgICAgICAgbUxvY2sudW5sb2NrKCk7CiAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmpzb248L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmpzb248L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjIwMTYwMjEyPC92ZXJzaW9uPgogICAgICAgICAgICA8c2NvcGU+Y29tcGlsZTwvc2NvcGU+CiAgICAgICAgPC9kZXBlbmRlbmN5PgogICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5qdW5pdDwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+anVuaXQ8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjQuMTI8L3ZlcnNpb24+CiAgICAgICAgICAgIDxzY29wZT50ZXN0PC9zY29wZT4KICAgICAgICA8L2RlcGVuZGVuY3k+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPm9yZy5hcGFjaGUubG9nZ2luZy5sb2c0ajwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+bG9nNGotYXBpPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4yLjguMjwvdmVyc2lvbj4KICAgICAgICAgICAgPHNjb3BlPmNvbXBpbGU8L3Njb3BlPgogICAgICAgIDwvZGVwZW5kZW5jeT4KICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmFwYWNoZS5sb2dnaW5nLmxvZzRqPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5sb2c0ai1jb3JlPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4yLjguMjwvdmVyc2lvbj4KICAgICAgICAgICAgPHNjb3BlPmNvbXBpbGU8L3Njb3BlPgogICAgICAgIDwvZGVwZW5kZW5jeT4KICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmJvdW5jeWNhc3RsZTwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+YmNwcm92LWpkazE1b248L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjEuNTQ8L3ZlcnNpb24+CiAgICAgICAgICAgIDxzY29wZT5jb21waWxlPC9zY29wZT4KICAgICAgICA8L2RlcGVuZGVuY3k+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPmdudS5nZXRvcHQ8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmphdmEtZ2V0b3B0PC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4xLjAuMTM8L3ZlcnNpb24+CiAgICAgICAgICAgIDxzY29wZT5jb21waWxlPC9zY29wZT4KICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIDxtb2R1bGVzPi4uL3NoYWRvd3NvY2tzL3BvbS54bWw8L21vZHVsZXM+Cgo=</text>
