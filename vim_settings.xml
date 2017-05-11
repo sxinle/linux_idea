@@ -2,7 +2,7 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks>
-      <mark key="V" line="339" column="79" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/WEB-INF/view/index.jsp" />
+      <mark key="V" line="344" column="79" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/WEB-INF/view/index.jsp" />
     </globalmarks>
     <filemarks>
       <file name="$USER_HOME$/workspace/uauth/src/main/java/com/mx/server/core/util/AESCodec.java" timestamp="1494234041984">
@@ -79,6 +79,9 @@
         <mark key="." line="22" column="78" />
         <mark key="^" line="22" column="78" />
       </file>
+      <file name="$USER_HOME$/workspace/yh_svr/src/main/java/shadowsocks/Shadowsocks.java" timestamp="1494488600669">
+        <mark key="'" line="18" column="13" />
+      </file>
       <file name="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/net/HttpURLConnection.java" timestamp="1493348794173">
         <mark key="'" line="418" column="16" />
       </file>
@@ -152,13 +155,13 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yh_svr/src/main/webapp/WEB-INF/view/index.jsp" timestamp="1494486499555">
-        <mark key="'" line="301" column="70" />
-        <mark key="i" line="403" column="48" />
-        <mark key="[" line="341" column="0" />
-        <mark key="]" line="341" column="55" />
-        <mark key="^" line="304" column="48" />
-        <mark key="." line="304" column="48" />
+      <file name="$USER_HOME$/workspace/yh_svr/src/main/webapp/WEB-INF/view/index.jsp" timestamp="1494489441432">
+        <mark key="'" line="337" column="32" />
+        <mark key="i" line="408" column="48" />
+        <mark key="[" line="327" column="35" />
+        <mark key="]" line="305" column="50" />
+        <mark key="." line="327" column="50" />
+        <mark key="^" line="305" column="50" />
       </file>
       <file name="$USER_HOME$/workspace/mx_search/trunk/trunk_search/src/com/mx/business/address/ctrl/AddressController.java" timestamp="1493713515528">
         <mark key="'" line="41" column="21" />
@@ -291,7 +294,7 @@
       <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.7.3/jackson-databind-2.7.3-sources.jar!/com/fasterxml/jackson/databind/JavaType.java" timestamp="1494227075468">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1494422702401">
+      <file name="/fragment.java" timestamp="1494488314134">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="14" />
         <mark key="." line="4" column="14" />
@@ -303,38 +306,14 @@
         <mark key="]" line="81" column="20" />
         <mark key="." line="6" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/yh_svr/src/main/webapp/assets/css/style.css" timestamp="1494481710024">
-        <mark key="'" line="608" column="14" />
-        <mark key="[" line="143" column="17" />
-        <mark key="]" line="143" column="22" />
-        <mark key="." line="143" column="22" />
-        <mark key="^" line="143" column="22" />
+      <file name="$USER_HOME$/workspace/yh_svr/src/main/webapp/assets/css/style.css" timestamp="1494488997099">
+        <mark key="[" line="1621" column="0" />
+        <mark key="]" line="1621" column="0" />
+        <mark key="." line="1621" column="0" />
+        <mark key="^" line="1620" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="186" column="19" filename="$USER_HOME$/workspace/yh_svr/pom.xml" />
-      <jump line="196" column="0" filename="$USER_HOME$/workspace/yh_svr/pom.xml" />
-      <jump line="270" column="0" filename="$USER_HOME$/workspace/search/pom.xml" />
-      <jump line="12" column="53" filename="$USER_HOME$/workspace/yh_svr/pom.xml" />
-      <jump line="146" column="5" filename="$USER_HOME$/workspace/yh_svr/pom.xml" />
-      <jump line="73" column="20" filename="$USER_HOME$/workspace/yh_svr/pom.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/yh_svr/pom.xml" />
-      <jump line="197" column="0" filename="$USER_HOME$/workspace/yh_svr/pom.xml" />
-      <jump line="17" column="13" filename="$USER_HOME$/workspace/yh_svr/src/main/java/com/yh/zhgp/controller/IndexController.java" />
-      <jump line="25" column="21" filename="$USER_HOME$/workspace/yh_svr/src/main/java/com/yh/zhgp/controller/IndexController.java" />
-      <jump line="14" column="10" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/WEB-INF/view/index.jsp" />
-      <jump line="86" column="41" filename="$USER_HOME$/workspace/yh_svr/pom.xml" />
-      <jump line="150" column="31" filename="$USER_HOME$/workspace/yh_svr/pom.xml" />
-      <jump line="18" column="38" filename="$USER_HOME$/workspace/yh_svr/src/main/java/shadowsocks/util/Config.java" />
-      <jump line="76" column="0" filename="$USER_HOME$/workspace/yh_svr/src/main/java/shadowsocks/util/Config.java" />
-      <jump line="13" column="27" filename="$USER_HOME$/workspace/yh_svr/src/main/java/shadowsocks/util/Config.java" />
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/WEB-INF/view/index.jsp" />
-      <jump line="759" column="31" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/WEB-INF/view/index.jsp" />
-      <jump line="105" column="43" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/WEB-INF/view/index.jsp" />
-      <jump line="11" column="9" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/WEB-INF/view/index.jsp" />
-      <jump line="809" column="63" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/WEB-INF/view/index.jsp" />
-      <jump line="719" column="21" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/WEB-INF/view/index.jsp" />
-      <jump line="771" column="56" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/WEB-INF/view/index.jsp" />
       <jump line="796" column="61" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/WEB-INF/view/index.jsp" />
       <jump line="644" column="46" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/WEB-INF/view/index.jsp" />
       <jump line="8" column="39" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/WEB-INF/view/index.jsp" />
@@ -412,6 +391,29 @@
       <jump line="296" column="17" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/WEB-INF/view/index.jsp" />
       <jump line="295" column="58" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/WEB-INF/view/index.jsp" />
       <jump line="302" column="70" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/WEB-INF/view/index.jsp" />
+      <jump line="563" column="1" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/assets/css/style.css" />
+      <jump line="18" column="13" filename="$USER_HOME$/workspace/yh_svr/src/main/java/shadowsocks/Shadowsocks.java" />
+      <jump line="788" column="17" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/assets/css/style.css" />
+      <jump line="795" column="15" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/assets/css/style.css" />
+      <jump line="800" column="15" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/assets/css/style.css" />
+      <jump line="812" column="34" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/assets/css/style.css" />
+      <jump line="932" column="11" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/assets/css/style.css" />
+      <jump line="1602" column="0" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/assets/css/style.css" />
+      <jump line="95" column="0" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/assets/css/style.css" />
+      <jump line="707" column="1" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/assets/css/style.css" />
+      <jump line="1628" column="0" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/assets/css/style.css" />
+      <jump line="948" column="11" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/assets/css/style.css" />
+      <jump line="954" column="11" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/assets/css/style.css" />
+      <jump line="1072" column="12" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/assets/css/style.css" />
+      <jump line="1294" column="20" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/assets/css/style.css" />
+      <jump line="599" column="16" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/assets/css/style.css" />
+      <jump line="943" column="11" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/assets/css/style.css" />
+      <jump line="980" column="12" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/assets/css/style.css" />
+      <jump line="1621" column="0" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/assets/css/style.css" />
+      <jump line="238" column="32" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/WEB-INF/view/index.jsp" />
+      <jump line="313" column="43" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/WEB-INF/view/index.jsp" />
+      <jump line="336" column="75" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/WEB-INF/view/index.jsp" />
+      <jump line="337" column="32" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/WEB-INF/view/index.jsp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -421,50 +423,49 @@
         <text>term</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHRhcmdldD0iX2JsYW5rIg==</text>
+        <text>议</text>
       </register>
       <register name="/" type="4">
-        <text>img-pop</text>
+        <text encoding="base64">PiBoMw==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0ic3VibWl0Ij4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGgzIHN0eWxlPSJ0ZXh0LWFsaWduOiBjZW50ZXI7Zm9udC1mYW1pbHk6IGZhbnRhc3kiPlYyLjEuMjwvaDM+Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>Uaerat litora, taciti quaerat dolor ligula laoreet omnis aut scelerisque ex fuga platea
-                            eveniet pulvinar praesent molestiae maiores, quidem cumque!</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIDxzdHlsZT4KICAgICAgICAuZ3JpZCA+IGgzIHsKICAgICAgICAgICAgdGV4dC1hbGlnbjogY2VudGVyOwogICAgICAgICAgICBmb250LWZhbWlseTogZmFudGFzeTsKICAgICAgICB9CgogICAgICAgIC5ncmlkID4gaW1nIHsKICAgICAgICAgICAgd2lkdGg6IDcwJTsKICAgICAgICAgICAgaGVpZ2h0OiA3MCU7CiAgICAgICAgICAgIG1hcmdpbi1sZWZ0OiAxNSU7CiAgICAgICAgfQogICAgPC9zdHlsZT4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGgzPlYyLjEuMjwvaDM+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPCUtLTxkaXYgY2xhc3M9InBvcnRmb2xpbyBob3Zlci1zdHlsZSI+LS0lPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPCUtLTxkaXYgY2xhc3M9InBvcnRmb2xpby1pbWciPi0tJT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8JS0tPGltZyBzcmM9IjxjOnVybCB2YWx1ZT0iL2Fzc2V0cy9pbWcvcG9ydGZvbGlvLzEuanBnIi8+IiBhbHQ9IiIvPi0tJT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8JS0tPGRpdiBjbGFzcz0icG9ydGZvbGlvLXZpZXciPi0tJT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPCUtLTxhIGNsYXNzPSJpbWctcG9wcHUiIGhyZWY9ImltZy9wb3J0Zm9saW8vOS5qcGciPi0tJT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwlLS08c3BhbiBjbGFzcz0icGx1cyI+PC9zcGFuPi0tJT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPCUtLTwvYT4tLSU+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPCUtLTwvZGl2Pi0tJT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwlLS08L2Rpdj4tLSU+CiAgICAgICAgICAgICAgICAgICAgICAgIDwlLS08L2Rpdj4tLSU+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGgzPlYyLjEuMjwvaDM+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGgzPlYyLjEuMjwvaDM+Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhIGhyZWY9IiMiIGNsYXNzPSJodnItd29iYmxlLXRvLWJvdHRvbS1yaWdodCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGltZyBzcmM9IjxjOnVybCB2YWx1ZT0iL2Fzc2V0cy9pbWcvcG9ydGZvbGlvLzEuanBnIi8+IiBhbHQ9IiIvPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9hPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJwb3J0Zm9saW8tdGl0bGUgdGl0bGUtc3R5bGUtMSI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxoMz48YSBocmVmPSIjIj5USVRMRSBHT0VTIEhFUkU8L2E+PC9oMz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4+RGV2ZWxvcG1lbnQ8L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">LmdyaWQgPiBoMyB7CiAgICB0ZXh0LWFsaWduOiBjZW50ZXI7CiAgICBmb250LWZhbWlseTogZmFudGFzeTsKfQoKLmdyaWQgPiBpbWcgewogICAgd2lkdGg6IDcwJTsKICAgIGhlaWdodDogNzAlOwogICAgbWFyZ2luLWxlZnQ6IDE1JTsKfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJwb3J0Zm9saW8tdGl0bGUgdGl0bGUtc3R5bGUtMSI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxoMz48YSBocmVmPSIjIj5USVRMRSBHT0VTIEhFUkU8L2E+PC9oMz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4+RGV2ZWxvcG1lbnQ8L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJwb3J0Zm9saW8tdGl0bGUgdGl0bGUtc3R5bGUtMSI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxoMz48YSBocmVmPSIjIj5USVRMRSBHT0VTIEhFUkU8L2E+PC9oMz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4+RGV2ZWxvcG1lbnQ8L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">LmdyaWQgPiBoMyB7CiAgICB0ZXh0LWFsaWduOiBjZW50ZXI7CiAgICBmb250LWZhbWlseTogZmFudGFzeTsKfQoKLmdyaWQgPiBpbWcgewogICAgd2lkdGg6IDcwJTsKICAgIGhlaWdodDogNzAlOwogICAgbWFyZ2luLWxlZnQ6IDE1JTsKfQoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>img-pop</last-search>
+      <last-search encoding="base64">PiBoMw==</last-search>
       <last-offset />
-      <last-pattern>img-pop</last-pattern>
+      <last-pattern encoding="base64">PiBoMw==</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -472,12 +473,6 @@
     </search>
     <history>
       <history-search>
-        <entry>contact</entry>
-        <entry>gray-bg</entry>
-        <entry>textarea</entry>
-        <entry>Blog</entry>
-        <entry>BLOG</entry>
-        <entry encoding="base64">XDxmaWx0ZXJcPg==</entry>
         <entry encoding="base64">XDxjb250YWN0XD4=</entry>
         <entry>902</entry>
         <entry encoding="base64">XDxwb3J0Zm9saW9cPg==</entry>
@@ -492,6 +487,12 @@
         <entry>a img</entry>
         <entry>img-</entry>
         <entry>img-pop</entry>
+        <entry>center</entry>
+        <entry encoding="base64">LmdyaWQgPiBpbWc=</entry>
+        <entry>grid-item</entry>
+        <entry>h3</entry>
+        <entry encoding="base64">Z3JpZCA+IGgz</entry>
+        <entry encoding="base64">PiBoMw==</entry>
       </history-search>
       <history-cmd>
         <entry>action CollapseBlock</entry>
