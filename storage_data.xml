@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="traffic size" />
+      <item value="traffic" />
+      <item value="流量" />
+      <item value="bandwidth" />
+      <item value="ports" />
       <item value="PORTFOLIO" />
       <item value="expressing the relative importance of a short" />
       <item value="Telay" />
@@ -46,11 +51,6 @@
       <item value="issue" />
       <item value="Some POP 3 servers will mark messages for deletion when they ' re read . To prevent such messages from being deleted before the client deletes them , you can set the mail . pop 3. rsetbeforequit property to true . This causes us to issue a POP 3 RSET command to clear all the &quot; marked for deletion &quot; flags . We can then explicitly delete messages as desired ." />
       <item value="expunge" />
-      <item value="trait" />
-      <item value="treat" />
-      <item value="expect Words" />
-      <item value="Deserialization Feature" />
-      <item value="Feature" />
     </histories>
   </component>
 </application>
