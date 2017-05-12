@@ -2,7 +2,7 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks>
-      <mark key="V" line="319" column="79" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/WEB-INF/view/index.jsp" />
+      <mark key="V" line="285" column="79" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/WEB-INF/view/index.jsp" />
     </globalmarks>
     <filemarks>
       <file name="$USER_HOME$/workspace/uauth/src/main/java/com/mx/server/core/util/AESCodec.java" timestamp="1494234041984">
@@ -160,13 +160,13 @@
       <file name="$USER_HOME$/workspace/yh_svr/src/main/java/com/yh/zhgp/util/config/JpaConfig.java" timestamp="1493961397124">
         <mark key="'" line="38" column="19" />
       </file>
-      <file name="$USER_HOME$/workspace/yh_svr/src/main/webapp/WEB-INF/view/index.jsp" timestamp="1494556410539">
-        <mark key="'" line="395" column="0" />
-        <mark key="i" line="384" column="48" />
-        <mark key="[" line="140" column="33" />
-        <mark key="]" line="140" column="37" />
-        <mark key="." line="140" column="37" />
-        <mark key="^" line="140" column="37" />
+      <file name="$USER_HOME$/workspace/yh_svr/src/main/webapp/WEB-INF/view/index.jsp" timestamp="1494557920940">
+        <mark key="'" line="189" column="14" />
+        <mark key="i" line="350" column="48" />
+        <mark key="[" line="361" column="0" />
+        <mark key="]" line="361" column="0" />
+        <mark key="^" line="362" column="45" />
+        <mark key="." line="361" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/yh_svr/src/main/resources/application.properties" timestamp="1494423156705">
         <mark key="[" line="11" column="0" />
@@ -325,8 +325,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="12" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/assets/css/style.css" />
-      <jump line="35" column="0" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/assets/css/style.css" />
       <jump line="657" column="4" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/assets/css/style.css" />
       <jump line="1041" column="4" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/assets/css/style.css" />
       <jump line="1476" column="4" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/assets/css/style.css" />
@@ -385,7 +383,6 @@
       <jump line="81" column="46" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/WEB-INF/view/index.jsp" />
       <jump line="119" column="49" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/WEB-INF/view/index.jsp" />
       <jump line="381" column="0" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/WEB-INF/view/index.jsp" />
-      <jump line="148" column="32" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/WEB-INF/view/index.jsp" />
       <jump line="136" column="0" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/WEB-INF/view/index.jsp" />
       <jump line="928" column="19" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/assets/css/style.css" />
       <jump line="930" column="1" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/assets/css/style.css" />
@@ -425,6 +422,9 @@
       <jump line="49" column="0" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/WEB-INF/view/index.jsp" />
       <jump line="395" column="0" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/WEB-INF/view/index.jsp" />
       <jump line="81" column="0" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/assets/css/layla-effect.css" />
+      <jump line="148" column="64" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/WEB-INF/view/index.jsp" />
+      <jump line="360" column="0" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/WEB-INF/view/index.jsp" />
+      <jump line="189" column="14" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/WEB-INF/view/index.jsp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -434,40 +434,42 @@
         <text>term</text>
       </register>
       <register name="-" type="4">
-        <text>layla-</text>
+        <text>nivo-lightbox</text>
       </register>
       <register name="/" type="4">
         <text>layla</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZmlndXJlLmVmZmVjdC1sYXlsYSBwIHsKCS13ZWJraXQtdHJhbnNpdGlvbjogb3BhY2l0eSAwLjM1cywgLXdlYmtpdC10cmFuc2Zvcm0gMC4zNXM7Cgl0cmFuc2l0aW9uOiBvcGFjaXR5IDAuMzVzLCB0cmFuc2Zvcm0gMC4zNXM7Cn0K</text>
+        <text encoding="base64">PHNjcmlwdCBzcmM9IjxjOnVybCB2YWx1ZT0iL2Fzc2V0cy9qcy9uaXZvLWxpZ2h0Ym94LmpzIi8+Ij48L3NjcmlwdD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDwhLS0g6L+95YqgQ1NTIC0tPgogICAgPGxpbmsgaHJlZj0iPGM6dXJsIHZhbHVlPSIvYXNzZXRzL2Nzcy9ob3Zlci5jc3MiLz4iIHJlbD0ic3R5bGVzaGVldCIgbWVkaWE9ImFsbCI+CiAgICA8bGluayBocmVmPSI8Yzp1cmwgdmFsdWU9Ii9hc3NldHMvY3NzL2xheWxhLWVmZmVjdC5jc3MiLz4iIHJlbD0ic3R5bGVzaGVldCIgbWVkaWE9ImFsbCI+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGxpbmsgaHJlZj0iPGM6dXJsIHZhbHVlPSIvYXNzZXRzL2Nzcy9sYXlsYS1lZmZlY3QuY3NzIi8+IiByZWw9InN0eWxlc2hlZXQiIG1lZGlhPSJhbGwiPgo=</text>
+        <text encoding="base64">PHNjcmlwdCBzcmM9Imh0dHBzOi8vY2F0Lml5ZWt1LmNvbS9qcy9uaXZvLWxpZ2h0Ym94LmpzIj48L3NjcmlwdD4KPHNjcmlwdCBzcmM9Imh0dHBzOi8vY2F0Lml5ZWt1LmNvbS9qcy90b29sdGlwcy5qcyI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PHNjcmlwdCBzcmM9Imh0dHBzOi8vY2F0Lml5ZWt1LmNvbS9qcy9TbW9vdGhTY3JvbGwuanMiPjwvc2NyaXB0Pgo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="8">
+        <text encoding="base64">IAogCiA=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="8">
+        <text>type=&quot;text/javascript&quot;
+type=&quot;text/javascript&quot;
+type=&quot;text/javascript&quot;</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIHNyYz0iaHR0cHM6Ly9jYXQuaXlla3UuY29tL2Rpc3QvY2xpcGJvYXJkLm1pbi5qcyI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRyYW5zaXRpb246IG9wYWNpdHkgMC4zNXMsIHRyYW5zZm9ybSAwLjM1czsK</text>
+        <text encoding="base64">PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIHNyYz0iaHR0cHM6Ly9jYXQuaXlla3UuY29tL2pzL3Rvb2x0aXBzLmpzIj48L3NjcmlwdD4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC13ZWJraXQtdHJhbnNpdGlvbjogb3BhY2l0eSAwLjM1cywgLXdlYmtpdC10cmFuc2Zvcm0gMC4zNXM7Cg==</text>
+        <text encoding="base64">PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIHNyYz0iaHR0cHM6Ly9jYXQuaXlla3UuY29tL2pzL21haW4uanMiPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIHNyYz0iaHR0cHM6Ly9jYXQuaXlla3UuY29tL2pzL2NvbnRhY3RfbWUuanMiPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
