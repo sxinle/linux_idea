@@ -5,6 +5,12 @@
       <mark key="V" line="289" column="79" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/WEB-INF/view/index.jsp" />
     </globalmarks>
     <filemarks>
+      <file name="$USER_HOME$/workspace/uauth/src/main/java/com/mx/server/core/util/AESCodec.java" timestamp="1494234041984">
+        <mark key="'" line="108" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/search/search_api/pom.xml" timestamp="1494228964949">
+        <mark key="'" line="33" column="35" />
+      </file>
       <file name="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/business/poi/searcher/PoiSearcher.java" timestamp="1494402974095">
         <mark key="[" line="122" column="72" />
         <mark key="]" line="122" column="73" />
@@ -25,14 +31,33 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yh_svr/src/main/java/shadowsocks/util/Config.java" timestamp="1494465608330">
-        <mark key="'" line="13" column="27" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.2/httpclient-4.5.2-sources.jar!/org/apache/http/impl/client/HttpClientBuilder.java" timestamp="1493797219149">
+        <mark key="'" line="396" column="66" />
+      </file>
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" timestamp="1493859822882">
+        <mark key="'" line="51" column="61" />
+      </file>
+      <file name="$USER_HOME$/workspace/yh_svr/src/main/java/shadowsocks/util/Config.java" timestamp="1494566308504">
+        <mark key="'" line="192" column="0" />
+        <mark key="[" line="11" column="19" />
+        <mark key="]" line="11" column="18" />
+        <mark key="." line="11" column="18" />
+        <mark key="^" line="11" column="18" />
+      </file>
+      <file name="/PosSorterTest.java" timestamp="1493948332713">
+        <mark key="'" line="156" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/mx/server/gis/mx_place_api_new/1.0.17-RELEASE/mx_place_api_new-1.0.17-RELEASE.jar!/com/mx/placeapi/service/PoiService.class" timestamp="1494405831598">
+        <mark key="'" line="365" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/yh_svr/src/main/webapp/assets/js/nivo-lightbox.js" timestamp="1494563332900">
         <mark key="'" line="13" column="26" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/flywaydb/flyway-core/3.2.1/flyway-core-3.2.1-sources.jar!/org/flywaydb/core/Flyway.java" timestamp="1493876398480">
+        <mark key="'" line="80" column="52" />
+      </file>
+      <file name="$USER_HOME$/Downloads/shadowsocks-java/src/main/java/shadowsocks/nio/tcp/ServerTcpWorker.java" timestamp="1494331878027">
+        <mark key="'" line="245" column="11" />
       </file>
       <file name="$USER_HOME$/workspace/yh_svr/src/main/java/com/yh/zhgp/domain/goods/GoodsCategory.java" timestamp="1494296796898">
         <mark key="'" line="39" column="0" />
@@ -41,20 +66,54 @@
         <mark key="^" line="19" column="23" />
         <mark key="." line="43" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.4.2.RELEASE/spring-boot-autoconfigure-1.4.2.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/flyway/FlywayAutoConfiguration.java" timestamp="1493876295081">
+        <mark key="'" line="108" column="56" />
+      </file>
+      <file name="$USER_HOME$/workspace/search/search_old/pom.xml" timestamp="1494228337030">
+        <mark key="'" line="27" column="35" />
+      </file>
+      <file name="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/util/concurrent/atomic/AtomicInteger.java" timestamp="1494379972322">
+        <mark key="'" line="193" column="21" />
+      </file>
+      <file name="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/net/URLConnection.java" timestamp="1493280046841">
+        <mark key="'" line="1078" column="34" />
+      </file>
       <file name="$USER_HOME$/workspace/yh_svr/src/main/java/com/yh/zhgp/controller/UserController.java" timestamp="1494386529883">
         <mark key="[" line="22" column="53" />
         <mark key="]" line="22" column="78" />
         <mark key="." line="22" column="78" />
         <mark key="^" line="22" column="78" />
       </file>
-      <file name="$USER_HOME$/workspace/yh_svr/src/main/java/shadowsocks/Shadowsocks.java" timestamp="1494550633529">
-        <mark key="'" line="18" column="13" />
+      <file name="$USER_HOME$/workspace/yh_svr/src/main/java/shadowsocks/Shadowsocks.java" timestamp="1494566135306">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="131" column="40" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/net/HttpURLConnection.java" timestamp="1493348794173">
+        <mark key="'" line="418" column="16" />
+      </file>
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsTSearcher.java" timestamp="1493346540876">
+        <mark key="'" line="14" column="13" />
+      </file>
+      <file name="$USER_HOME$/PoiController.class" timestamp="1493715640669">
+        <mark key="'" line="62" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/yh_svr/shadowsocks/src/main/java/shadowsocks/Main.java" timestamp="1494384966850">
         <mark key="[" line="26" column="40" />
         <mark key="]" line="26" column="43" />
         <mark key="." line="26" column="43" />
         <mark key="^" line="26" column="43" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.3.RELEASE/spring-context-4.3.3.RELEASE-sources.jar!/org/springframework/jndi/JndiTemplate.java" timestamp="1493877623145">
+        <mark key="'" line="33" column="48" />
+      </file>
+      <file name="$USER_HOME$/Downloads/shadowsocks-java/src/main/java/shadowsocks/nio/tcp/TcpWorker.java" timestamp="1494334964739">
+        <mark key="'" line="145" column="12" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3-sources.jar!/org/apache/http/impl/client/DefaultHttpClient.java" timestamp="1493793597140">
+        <mark key="'" line="146" column="11" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" timestamp="1494230794648">
         <mark key="'" line="155" column="45" />
@@ -69,6 +128,12 @@
         <mark key="]" line="2373" column="0" />
         <mark key="." line="2373" column="0" />
       </file>
+      <file name="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/lang/invoke/MethodHandleImpl.java" timestamp="1494329231413">
+        <mark key="'" line="1392" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-parent/1.4.2.RELEASE/spring-boot-starter-parent-1.4.2.RELEASE.pom" timestamp="1493875040378">
+        <mark key="'" line="116" column="21" />
+      </file>
       <file name="$USER_HOME$/workspace/yh_svr/src/main/java/com/yh/zhgp/controller/IndexController.java" timestamp="1494422756961">
         <mark key="[" line="9" column="18" />
         <mark key="]" line="9" column="18" />
@@ -82,12 +147,36 @@
         <mark key="^" line="224" column="21" />
         <mark key="." line="418" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/yh_svr/src/main/java/com/yh/zhgp/util/config/WebAppInitializer.java" timestamp="1493879860235">
+        <mark key="'" line="29" column="54" />
+      </file>
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/ServerConfig.java" timestamp="1493716733620">
+        <mark key="'" line="235" column="11" />
+      </file>
+      <file name="$USER_HOME$/workspace/zhgp_svr/src/main/java/com/yh/zhgp/util/zbj.java" timestamp="1493274798792">
+        <mark key="'" line="39" column="57" />
+      </file>
       <file name="$USER_HOME$/Downloads/shadowsocks-java/src/main/java/shadowsocks/Shadowsocks.java" timestamp="1494331764575">
         <mark key="'" line="53" column="28" />
         <mark key="[" line="118" column="23" />
         <mark key="]" line="118" column="27" />
         <mark key="." line="118" column="27" />
         <mark key="^" line="118" column="27" />
+      </file>
+      <file name="$USER_HOME$/workspace/search_tool/src/main/java/com/mx/server/search/tool/service/impl/IndexInfoServiceImpl.java" timestamp="1493709094929">
+        <mark key="'" line="88" column="58" />
+      </file>
+      <file name="$USER_HOME$/workspace/yh_svr/src/main/java/shadowsocks/nio/tcp/ServerTcpWorker.java" timestamp="1494566230911">
+        <mark key="'" line="220" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/RevAndMatchSetter.java" timestamp="1493713442009">
+        <mark key="'" line="20" column="101" />
+      </file>
+      <file name="$USER_HOME$/workspace/yh_svr/src/main/java/com/yh/zhgp/util/config/JpaConfig.java" timestamp="1493961397124">
+        <mark key="'" line="38" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/yh_svr/src/main/webapp/assets/css/googlefonts.css" timestamp="1494565201135">
         <mark key="[" line="5" column="76" />
@@ -108,12 +197,30 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/mx_search/trunk/trunk_search/src/com/mx/business/address/ctrl/AddressController.java" timestamp="1493713515528">
+        <mark key="'" line="41" column="21" />
+      </file>
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/BaseSearcher.java" timestamp="1493256970427">
+        <mark key="'" line="21" column="22" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/io/spring/platform/platform-bom/Athens-SR1/platform-bom-Athens-SR1.pom" timestamp="1493874364440">
+        <mark key="'" line="385" column="49" />
+      </file>
       <file name="$USER_HOME$/Downloads/shadowsocks-java/src/test/java/shadowsocks/SystemTest.java" timestamp="1494334075474">
         <mark key="'" line="72" column="10" />
         <mark key="[" line="72" column="4" />
         <mark key="]" line="72" column="10" />
         <mark key="." line="72" column="10" />
         <mark key="^" line="72" column="10" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.2/httpclient-4.5.2-sources.jar!/org/apache/http/conn/HttpClientConnectionManager.java" timestamp="1493797079054">
+        <mark key="'" line="105" column="37" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/1.4.2.RELEASE/spring-boot-dependencies-1.4.2.RELEASE.pom" timestamp="1493875345626">
+        <mark key="'" line="15" column="51" />
+      </file>
+      <file name="$USER_HOME$/workspace/yh_svr/shadowsocks/src/test/resources/result-example-com" timestamp="1494405885013">
+        <mark key="'" line="49" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/yh_svr/shadowsocks/src/main/java/shadowsocks/nio/tcp/TcpWorker.java" timestamp="1494395160064">
         <mark key="'" line="157" column="12" />
@@ -135,11 +242,22 @@
         <mark key="^" line="61" column="25" />
         <mark key="." line="67" column="24" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/gnu/getopt/java-getopt/1.0.13/java-getopt-1.0.13.jar!/gnu/getopt/Getopt.class" timestamp="1494329616148">
+        <mark key="'" line="30" column="26" />
+      </file>
       <file name="$USER_HOME$/workspace/zest/src/main/java/moud/Sec.java" timestamp="1494391776583">
         <mark key="'" line="70" column="12" />
         <mark key="[" line="14" column="30" />
         <mark key="]" line="14" column="31" />
         <mark key="." line="14" column="31" />
+      </file>
+      <file name="$USER_HOME$/workspace/yh_svr/src/main/java/shadowsocks/auth/AuthException.java" timestamp="1494566203691">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/KeywordSearcher.java" timestamp="1493198888922">
+        <mark key="'" line="685" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1494466123233">
         <mark key="[" line="0" column="0" />
@@ -171,25 +289,31 @@
         <mark key="." line="160" column="29" />
         <mark key="^" line="160" column="29" />
       </file>
+      <file name="$USER_HOME$/workspace/search_tool/src/main/java/com/mx/server/search/tool/util/Algorithm.java" timestamp="1493709100339">
+        <mark key="'" line="228" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/yh_svr/shadowsocks/src/main/java/shadowsocks/Shadowsocks.java" timestamp="1494395643549">
         <mark key="'" line="70" column="11" />
         <mark key="[" line="87" column="0" />
         <mark key="]" line="87" column="0" />
         <mark key="." line="87" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1494564319250">
+      <file name="/Dummy.txt" timestamp="1494565390494">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/yh_svr/src/main/webapp/assets/css/nivo-lightbox/nivo-lightbox.css" timestamp="1494561759342">
         <mark key="[" line="2" column="3" />
         <mark key="]" line="2" column="38" />
       </file>
-      <file name="$USER_HOME$/workspace/yh_svr/pom.xml" timestamp="1494465414074">
+      <file name="$USER_HOME$/workspace/yh_svr/pom.xml" timestamp="1494565612035">
         <mark key="'" line="150" column="31" />
         <mark key="[" line="182" column="0" />
         <mark key="]" line="182" column="0" />
         <mark key="^" line="162" column="31" />
         <mark key="." line="182" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" timestamp="1493884750054">
+        <mark key="'" line="141" column="41" />
       </file>
       <file name="$USER_HOME$/workspace/yh_svr/shadowsocks/src/main/java/shadowsocks/nio/tcp/ServerTcpWorker.java" timestamp="1494395639332">
         <mark key="'" line="128" column="33" />
@@ -197,6 +321,24 @@
         <mark key="]" line="232" column="9" />
         <mark key="^" line="232" column="9" />
         <mark key="." line="232" column="9" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.7.3/jackson-databind-2.7.3-sources.jar!/com/fasterxml/jackson/databind/deser/DeserializerCache.java" timestamp="1494227792985">
+        <mark key="'" line="220" column="50" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.5/httpcore-4.4.5-sources.jar!/org/apache/http/message/AbstractHttpMessage.java" timestamp="1493793437822">
+        <mark key="'" line="174" column="16" />
+      </file>
+      <file name="$USER_HOME$/workspace/yh_svr/src/main/java/shadowsocks/nio/tcp/LocalTcpWorker.java" timestamp="1494565932468">
+        <mark key="'" line="247" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/search/common-conf/search.properties" timestamp="1494231299364">
+        <mark key="'" line="69" column="40" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.2/httpclient-4.5.2-sources.jar!/org/apache/http/client/methods/HttpRequestBase.java" timestamp="1493796768118">
+        <mark key="'" line="103" column="33" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.7.3/jackson-databind-2.7.3-sources.jar!/com/fasterxml/jackson/databind/JavaType.java" timestamp="1494227075468">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1494550780261">
         <mark key="[" line="0" column="0" />
@@ -219,33 +361,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="214" column="0" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/assets/css/set1.css" />
-      <jump line="212" column="0" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/assets/css/set1.css" />
-      <jump line="175" column="15" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/assets/css/set1.css" />
-      <jump line="87" column="18" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/assets/css/set1.css" />
-      <jump line="58" column="0" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/assets/css/set1.css" />
-      <jump line="24" column="0" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/assets/css/set1.css" />
-      <jump line="126" column="0" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/WEB-INF/view/index.jsp" />
-      <jump line="49" column="0" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/WEB-INF/view/index.jsp" />
-      <jump line="395" column="0" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/WEB-INF/view/index.jsp" />
-      <jump line="81" column="0" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/assets/css/layla-effect.css" />
-      <jump line="148" column="64" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/WEB-INF/view/index.jsp" />
-      <jump line="360" column="0" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/WEB-INF/view/index.jsp" />
-      <jump line="189" column="14" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/WEB-INF/view/index.jsp" />
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/assets/css/layla-effect.css" />
-      <jump line="222" column="1" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/assets/css/layla-effect.css" />
-      <jump line="226" column="1" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/assets/css/layla-effect.css" />
-      <jump line="247" column="1" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/assets/css/layla-effect.css" />
-      <jump line="259" column="131" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/assets/css/layla-effect.css" />
-      <jump line="264" column="72" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/assets/css/layla-effect.css" />
-      <jump line="268" column="44" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/assets/css/layla-effect.css" />
-      <jump line="274" column="46" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/assets/css/layla-effect.css" />
-      <jump line="282" column="1" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/assets/css/layla-effect.css" />
-      <jump line="288" column="1" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/assets/css/layla-effect.css" />
-      <jump line="292" column="44" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/assets/css/layla-effect.css" />
-      <jump line="298" column="46" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/assets/css/layla-effect.css" />
-      <jump line="306" column="1" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/assets/css/layla-effect.css" />
-      <jump line="312" column="1" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/assets/css/layla-effect.css" />
       <jump line="316" column="22" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/assets/css/layla-effect.css" />
       <jump line="322" column="1" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/assets/css/layla-effect.css" />
       <jump line="331" column="1" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/assets/css/layla-effect.css" />
@@ -319,6 +434,33 @@
       <jump line="392" column="0" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/WEB-INF/view/index.jsp" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/WEB-INF/view/index.jsp" />
       <jump line="384" column="0" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/WEB-INF/view/index.jsp" />
+      <jump line="95" column="44" filename="$USER_HOME$/workspace/yh_svr/src/main/java/shadowsocks/nio/tcp/LocalTcpWorker.java" />
+      <jump line="49" column="26" filename="$USER_HOME$/workspace/yh_svr/src/main/java/shadowsocks/nio/tcp/LocalTcpWorker.java" />
+      <jump line="223" column="0" filename="$USER_HOME$/workspace/yh_svr/src/main/java/shadowsocks/nio/tcp/ServerTcpWorker.java" />
+      <jump line="166" column="50" filename="$USER_HOME$/workspace/yh_svr/src/main/java/shadowsocks/util/Config.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/yh_svr/src/main/java/shadowsocks/util/Config.java" />
+      <jump line="195" column="0" filename="$USER_HOME$/workspace/yh_svr/src/main/java/shadowsocks/util/Config.java" />
+      <jump line="12" column="0" filename="$USER_HOME$/workspace/yh_svr/src/main/java/shadowsocks/util/Config.java" />
+      <jump line="69" column="0" filename="$USER_HOME$/workspace/yh_svr/src/main/java/shadowsocks/nio/tcp/ServerTcpWorker.java" />
+      <jump line="32" column="0" filename="$USER_HOME$/workspace/yh_svr/src/main/java/shadowsocks/Shadowsocks.java" />
+      <jump line="135" column="0" filename="$USER_HOME$/workspace/yh_svr/src/main/java/shadowsocks/Shadowsocks.java" />
+      <jump line="61" column="5" filename="$USER_HOME$/workspace/yh_svr/src/main/java/shadowsocks/nio/tcp/LocalTcpWorker.java" />
+      <jump line="247" column="0" filename="$USER_HOME$/workspace/yh_svr/src/main/java/shadowsocks/nio/tcp/LocalTcpWorker.java" />
+      <jump line="141" column="0" filename="$USER_HOME$/workspace/yh_svr/src/main/java/shadowsocks/Shadowsocks.java" />
+      <jump line="22" column="25" filename="$USER_HOME$/workspace/yh_svr/src/main/java/shadowsocks/Shadowsocks.java" />
+      <jump line="58" column="0" filename="$USER_HOME$/workspace/yh_svr/src/main/java/shadowsocks/Shadowsocks.java" />
+      <jump line="122" column="38" filename="$USER_HOME$/workspace/yh_svr/src/main/java/shadowsocks/Shadowsocks.java" />
+      <jump line="133" column="31" filename="$USER_HOME$/workspace/yh_svr/src/main/java/shadowsocks/Shadowsocks.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/yh_svr/src/main/java/shadowsocks/Shadowsocks.java" />
+      <jump line="37" column="0" filename="$USER_HOME$/workspace/yh_svr/src/main/java/shadowsocks/nio/tcp/ServerTcpWorker.java" />
+      <jump line="21" column="26" filename="$USER_HOME$/workspace/yh_svr/src/main/java/shadowsocks/nio/tcp/ServerTcpWorker.java" />
+      <jump line="220" column="0" filename="$USER_HOME$/workspace/yh_svr/src/main/java/shadowsocks/nio/tcp/ServerTcpWorker.java" />
+      <jump line="23" column="20" filename="$USER_HOME$/workspace/yh_svr/src/main/java/shadowsocks/util/Config.java" />
+      <jump line="73" column="15" filename="$USER_HOME$/workspace/yh_svr/src/main/java/shadowsocks/util/Config.java" />
+      <jump line="77" column="8" filename="$USER_HOME$/workspace/yh_svr/src/main/java/shadowsocks/util/Config.java" />
+      <jump line="110" column="8" filename="$USER_HOME$/workspace/yh_svr/src/main/java/shadowsocks/util/Config.java" />
+      <jump line="10" column="0" filename="$USER_HOME$/workspace/yh_svr/src/main/java/shadowsocks/util/Config.java" />
+      <jump line="192" column="0" filename="$USER_HOME$/workspace/yh_svr/src/main/java/shadowsocks/util/Config.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -328,49 +470,49 @@
         <text>term</text>
       </register>
       <register name="-" type="4">
-        <text>望</text>
+        <text>svrOrLocal</text>
       </register>
       <register name="/" type="4">
-        <text>RIG</text>
+        <text encoding="base64">XDxtT25lVGltZUF1dGhcPg==</text>
       </register>
       <register name="0" type="4">
         <text>https://fonts.gstatic.com/s/dancingscript/v8/DK0eTGXiZjN6yA8zAEyM2Ud0sm1ffa_JvZxsF_BEwQk.woff2</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZvbnQtZmFtaWx5OiBjdXJzaXZlOwo=</text>
+        <text encoding="base64">LyogICAKICogICBDb3B5cmlnaHQgMjAxNiBBdXRob3I6TlUxMSBiZXN0b2FwYWNoZUBnbWFpbC5jb20KICoKICogIExpY2Vuc2VkIHVuZGVyIHRoZSBBcGFjaGUgTGljZW5zZSwgVmVyc2lvbiAyLjAgKHRoZSAiTGljZW5zZSIpOwogKiAgeW91IG1heSBub3QgdXNlIHRoaXMgZmlsZSBleGNlcHQgaW4gY29tcGxpYW5jZSB3aXRoIHRoZSBMaWNlbnNlLgogKiAgWW91IG1heSBvYnRhaW4gYSBjb3B5IG9mIHRoZSBMaWNlbnNlIGF0CiAqCiAqICAgICAgIGh0dHA6Ly93d3cuYXBhY2hlLm9yZy9saWNlbnNlcy9MSUNFTlNFLTIuMAogKgogKiAgVW5sZXNzIHJlcXVpcmVkIGJ5IGFwcGxpY2FibGUgbGF3IG9yIGFncmVlZCB0byBpbiB3cml0aW5nLCBzb2Z0d2FyZQogKiAgZGlzdHJpYnV0ZWQgdW5kZXIgdGhlIExpY2Vuc2UgaXMgZGlzdHJpYnV0ZWQgb24gYW4gIkFTIElTIiBCQVNJUywKICogIFdJVEhPVVQgV0FSUkFOVElFUyBPUiBDT05ESVRJT05TIE9GIEFOWSBLSU5ELCBlaXRoZXIgZXhwcmVzcyBvciBpbXBsaWVkLgogKiAgU2VlIHRoZSBMaWNlbnNlIGZvciB0aGUgc3BlY2lmaWMgbGFuZ3VhZ2UgZ292ZXJuaW5nIHBlcm1pc3Npb25zIGFuZAogKiAgbGltaXRhdGlvbnMgdW5kZXIgdGhlIExpY2Vuc2UuCiAqLwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkKCdhJykubml2b0xpZ2h0Ym94KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICQoJ2EnKS5uaXZvTGlnaHRib3goKTsK</text>
+        <text encoding="base64">ICAgIC8vIGZpbmFsIHByaXZhdGUgU3RyaW5nIHN2ck9yTG9jYWw7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRvY3VtZW50LnJlYWR5Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdnJPckxvY2FsID0gc2VydmVyID8gInNlcnZlciIgOiAibG9jYWwiOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9IjxjOnVybCB2YWx1ZT0iL2Fzc2V0cy9qcy9jbGlwYm9hcmQubWluLmpzIi8+Ij48L3NjcmlwdD4K</text>
+        <text encoding="base64">ICAgICAgICBzdnJPckxvY2FsID0gc2VydmVyID8gInNlcnZlciIgOiAibG9jYWwiOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LyogbGF0aW4tZXh0ICovCkBmb250LWZhY2UgewogIGZvbnQtZmFtaWx5OiAnUmFsZXdheSc7CiAgZm9udC1zdHlsZTogbm9ybWFsOwogIGZvbnQtd2VpZ2h0OiAzMDA7CiAgc3JjOiBsb2NhbCgnUmFsZXdheSBMaWdodCcpLCBsb2NhbCgnUmFsZXdheS1MaWdodCcpLCB1cmwoZ29vZ2xlLWZvbnRzL1pLd1VMeUNHOTV0azZtT3FIUWZSQkFzWWJiQ2p5YmlIeEFyVExqdDdGUlUud29mZjIpIGZvcm1hdCgnd29mZjInKTsKICB1bmljb2RlLXJhbmdlOiBVKzAxMDAtMDI0RiwgVSsxRTAwLTFFRkYsIFUrMjBBMC0yMEFCLCBVKzIwQUQtMjBDRiwgVSsyQzYwLTJDN0YsIFUrQTcyMC1BN0ZGOwp9Ci8qIGxhdGluICovCkBmb250LWZhY2UgewogIGZvbnQtZmFtaWx5OiAnUmFsZXdheSc7CiAgZm9udC1zdHlsZTogbm9ybWFsOwogIGZvbnQtd2VpZ2h0OiAzMDA7CiAgc3JjOiBsb2NhbCgnUmFsZXdheSBMaWdodCcpLCBsb2NhbCgnUmFsZXdheS1MaWdodCcpLCB1cmwoZ29vZ2xlLWZvbnRzLy1fQ3R6ajliNTZiOFJnWFc4RkFyaVF6eURNWGhkRDhzQWo2T0FKVEZzQkkud29mZjIpIGZvcm1hdCgnd29mZjInKTsKICB1bmljb2RlLXJhbmdlOiBVKzAwMDAtMDBGRiwgVSswMTMxLCBVKzAxNTItMDE1MywgVSswMkM2LCBVKzAyREEsIFUrMDJEQywgVSsyMDAwLTIwNkYsIFUrMjA3NCwgVSsyMEFDLCBVKzIyMTIsIFUrMjIxNTsKfQovKiBsYXRpbi1leHQgKi8KQGZvbnQtZmFjZSB7CiAgZm9udC1mYW1pbHk6ICdSYWxld2F5JzsKICBmb250LXN0eWxlOiBub3JtYWw7CiAgZm9udC13ZWlnaHQ6IDQwMDsKICBzcmM6IGxvY2FsKCdSYWxld2F5JyksIGxvY2FsKCdSYWxld2F5LVJlZ3VsYXInKSwgdXJsKGdvb2dsZS1mb250cy9ZWmFPNmxsek9QNTdEcFRCdjJHbnlGS1BHczFaenBNdm5IWC03ZlBPdUFjLndvZmYyKSBmb3JtYXQoJ3dvZmYyJyk7CiAgdW5pY29kZS1yYW5nZTogVSswMTAwLTAyNEYsIFUrMUUwMC0xRUZGLCBVKzIwQTAtMjBBQiwgVSsyMEFELTIwQ0YsIFUrMkM2MC0yQzdGLCBVK0E3MjAtQTdGRjsKfQovKiBsYXRpbiAqLwpAZm9udC1mYWNlIHsKICBmb250LWZhbWlseTogJ1JhbGV3YXknOwogIGZvbnQtc3R5bGU6IG5vcm1hbDsKICBmb250LXdlaWdodDogNDAwOwogIHNyYzogbG9jYWwoJ1JhbGV3YXknKSwgbG9jYWwoJ1JhbGV3YXktUmVndWxhcicpLCB1cmwoZ29vZ2xlLWZvbnRzL1FBVWxWdDFqWE9nUWF2bFc1d0VmeFFMVXVFcFR5b1VzdHFFbTVBTWxKbzQud29mZjIpIGZvcm1hdCgnd29mZjInKTsKICB1bmljb2RlLXJhbmdlOiBVKzAwMDAtMDBGRiwgVSswMTMxLCBVKzAxNTItMDE1MywgVSswMkM2LCBVKzAyREEsIFUrMDJEQywgVSsyMDAwLTIwNkYsIFUrMjA3NCwgVSsyMEFDLCBVKzIyMTIsIFUrMjIxNTsKfQovKiBsYXRpbi1leHQgKi8KQGZvbnQtZmFjZSB7CiAgZm9udC1mYW1pbHk6ICdSYWxld2F5JzsKICBmb250LXN0eWxlOiBub3JtYWw7CiAgZm9udC13ZWlnaHQ6IDUwMDsKICBzcmM6IGxvY2FsKCdSYWxld2F5IE1lZGl1bScpLCBsb2NhbCgnUmFsZXdheS1NZWRpdW0nKSwgdXJsKGdvb2dsZS1mb250cy9MaTE4VEVGT2J4X3lHZHpLRG9JX2Nnc1liYkNqeWJpSHhBclRManQ3RlJVLndvZmYyKSBmb3JtYXQoJ3dvZmYyJyk7CiAgdW5pY29kZS1yYW5nZTogVSswMTAwLTAyNEYsIFUrMUUwMC0xRUZGLCBVKzIwQTAtMjBBQiwgVSsyMEFELTIwQ0YsIFUrMkM2MC0yQzdGLCBVK0E3MjAtQTdGRjsKfQovKiBsYXRpbiAqLwpAZm9udC1mYWNlIHsKICBmb250LWZhbWlseTogJ1JhbGV3YXknOwogIGZvbnQtc3R5bGU6IG5vcm1hbDsKICBmb250LXdlaWdodDogNTAwOwogIHNyYzogbG9jYWwoJ1JhbGV3YXkgTWVkaXVtJyksIGxvY2FsKCdSYWxld2F5LU1lZGl1bScpLCB1cmwoZ29vZ2xlLWZvbnRzL0NjS0k0azl1bjdUWlZXelJWVC1UOHd6eURNWGhkRDhzQWo2T0FKVEZzQkkud29mZjIpIGZvcm1hdCgnd29mZjInKTsKICB1bmljb2RlLXJhbmdlOiBVKzAwMDAtMDBGRiwgVSswMTMxLCBVKzAxNTItMDE1MywgVSswMkM2LCBVKzAyREEsIFUrMDJEQywgVSsyMDAwLTIwNkYsIFUrMjA3NCwgVSsyMEFDLCBVKzIyMTIsIFUrMjIxNTsKfQovKiBsYXRpbi1leHQgKi8KQGZvbnQtZmFjZSB7CiAgZm9udC1mYW1pbHk6ICdSYWxld2F5JzsKICBmb250LXN0eWxlOiBub3JtYWw7CiAgZm9udC13ZWlnaHQ6IDYwMDsKICBzcmM6IGxvY2FsKCdSYWxld2F5IFNlbWlCb2xkJyksIGxvY2FsKCdSYWxld2F5LVNlbWlCb2xkJyksIHVybChnb29nbGUtZm9udHMvU1RCT08yd2FEMkxwWDQ1U1hZalFCUXNZYmJDanliaUh4QXJUTGp0N0ZSVS53b2ZmMikgZm9ybWF0KCd3b2ZmMicpOwogIHVuaWNvZGUtcmFuZ2U6IFUrMDEwMC0wMjRGLCBVKzFFMDAtMUVGRiwgVSsyMEEwLTIwQUIsIFUrMjBBRC0yMENGLCBVKzJDNjAtMkM3RiwgVStBNzIwLUE3RkY7Cn0KLyogbGF0aW4gKi8KQGZvbnQtZmFjZSB7CiAgZm9udC1mYW1pbHk6ICdSYWxld2F5JzsKICBmb250LXN0eWxlOiBub3JtYWw7CiAgZm9udC13ZWlnaHQ6IDYwMDsKICBzcmM6IGxvY2FsKCdSYWxld2F5IFNlbWlCb2xkJyksIGxvY2FsKCdSYWxld2F5LVNlbWlCb2xkJyksIHVybChnb29nbGUtZm9udHMveGt2b05vOWZDOE8yUkR5ZEtqMTJid3p5RE1YaGREOHNBajZPQUpURnNCSS53b2ZmMikgZm9ybWF0KCd3b2ZmMicpOwogIHVuaWNvZGUtcmFuZ2U6IFUrMDAwMC0wMEZGLCBVKzAxMzEsIFUrMDE1Mi0wMTUzLCBVKzAyQzYsIFUrMDJEQSwgVSswMkRDLCBVKzIwMDAtMjA2RiwgVSsyMDc0LCBVKzIwQUMsIFUrMjIxMiwgVSsyMjE1Owp9Ci8qIGxhdGluLWV4dCAqLwpAZm9udC1mYWNlIHsKICBmb250LWZhbWlseTogJ1JhbGV3YXknOwogIGZvbnQtc3R5bGU6IG5vcm1hbDsKICBmb250LXdlaWdodDogNzAwOwogIHNyYzogbG9jYWwoJ1JhbGV3YXkgQm9sZCcpLCBsb2NhbCgnUmFsZXdheS1Cb2xkJyksIHVybChnb29nbGUtZm9udHMvV21WS1hWY091ZmZQX3FtQ3BGdXl6UXNZYmJDanliaUh4QXJUTGp0N0ZSVS53b2ZmMikgZm9ybWF0KCd3b2ZmMicpOwogIHVuaWNvZGUtcmFuZ2U6IFUrMDEwMC0wMjRGLCBVKzFFMDAtMUVGRiwgVSsyMEEwLTIwQUIsIFUrMjBBRC0yMENGLCBVKzJDNjAtMkM3RiwgVStBNzIwLUE3RkY7Cn0KLyogbGF0aW4gKi8KQGZvbnQtZmFjZSB7CiAgZm9udC1mYW1pbHk6ICdSYWxld2F5JzsKICBmb250LXN0eWxlOiBub3JtYWw7CiAgZm9udC13ZWlnaHQ6IDcwMDsKICBzcmM6IGxvY2FsKCdSYWxld2F5IEJvbGQnKSwgbG9jYWwoJ1JhbGV3YXktQm9sZCcpLCB1cmwoZ29vZ2xlLWZvbnRzL0pidE16cUxhWWJiYkNMOVg2RXZhSXd6eURNWGhkRDhzQWo2T0FKVEZzQkkud29mZjIpIGZvcm1hdCgnd29mZjInKTsKICB1bmljb2RlLXJhbmdlOiBVKzAwMDAtMDBGRiwgVSswMTMxLCBVKzAxNTItMDE1MywgVSswMkM2LCBVKzAyREEsIFUrMDJEQywgVSsyMDAwLTIwNkYsIFUrMjA3NCwgVSsyMEFDLCBVKzIyMTIsIFUrMjIxNTsKfQovKiBjeXJpbGxpYy1leHQgKi8KQGZvbnQtZmFjZSB7CiAgZm9udC1mYW1pbHk6ICdPcGVuIFNhbnMnOwogIGZvbnQtc3R5bGU6IG5vcm1hbDsKICBmb250LXdlaWdodDogMzAwOwogIHNyYzogbG9jYWwoJ09wZW4gU2FucyBMaWdodCcpLCBsb2NhbCgnT3BlblNhbnMtTGlnaHQnKSwgdXJsKGdvb2dsZS1mb250cy9EWEkxT1JIQ3BzUW0zVnA2bVhvYVRRN2FDNlNqaUFPcEFXT0tmSkRmVlJZLndvZmYyKSBmb3JtYXQoJ3dvZmYyJyk7CiAgdW5pY29kZS1yYW5nZTogVSswNDYwLTA1MkYsIFUrMjBCNCwgVSsyREUwLTJERkYsIFUrQTY0MC1BNjlGOwp9Ci8qIGN5cmlsbGljICovCkBmb250LWZhY2UgewogIGZvbnQtZmFtaWx5OiAnT3BlbiBTYW5zJzsKICBmb250LXN0eWxlOiBub3JtYWw7CiAgZm9udC13ZWlnaHQ6IDMwMDsKICBzcmM6IGxvY2FsKCdPcGVuIFNhbnMgTGlnaHQnKSwgbG9jYWwoJ09wZW5TYW5zLUxpZ2h0JyksIHVybChnb29nbGUtZm9udHMvRFhJMU9SSENwc1FtM1ZwNm1Yb2FUUmR3eENYZlpwS281a1dBeF83NGJIcy53b2ZmMikgZm9ybWF0KCd3b2ZmMicpOwogIHVuaWNvZGUtcmFuZ2U6IFUrMDQwMC0wNDVGLCBVKzA0OTAtMDQ5MSwgVSswNEIwLTA0QjEsIFUrMjExNjsKfQovKiBncmVlay1leHQgKi8KQGZvbnQtZmFjZSB7CiAgZm9udC1mYW1pbHk6ICdPcGVuIFNhbnMnOwogIGZvbnQtc3R5bGU6IG5vcm1hbDsKICBmb250LXdlaWdodDogMzAwOwogIHNyYzogbG9jYWwoJ09wZW4gU2FucyBMaWdodCcpLCBsb2NhbCgnT3BlblNhbnMtTGlnaHQnKSwgdXJsKGdvb2dsZS1mb250cy9EWEkxT1JIQ3BzUW0zVnA2bVhvYVRaNnZuYVBadzZuWUR4TTRTVkVNRktnLndvZmYyKSBmb3JtYXQoJ3dvZmYyJyk7CiAgdW5pY29kZS1yYW5nZTogVSsxRjAwLTFGRkY7Cn0KLyogZ3JlZWsgKi8KQGZvbnQtZmFjZSB7CiAgZm9udC1mYW1pbHk6ICdPcGVuIFNhbnMnOwogIGZvbnQtc3R5bGU6IG5vcm1hbDsKICBmb250LXdlaWdodDogMzAwOwogIHNyYzogbG9jYWwoJ09wZW4gU2FucyBMaWdodCcpLCBsb2NhbCgnT3BlblNhbnMtTGlnaHQnKSwgdXJsKGdvb2dsZS1mb250cy9EWEkxT1JIQ3BzUW0zVnA2bVhvYVRmeTFfSFR3UndndGwxY1BnYTNGeTNZLndvZmYyKSBmb3JtYXQoJ3dvZmYyJyk7CiAgdW5pY29kZS1yYW5nZTogVSswMzcwLTAzRkY7Cn0KLyogdmlldG5hbWVzZSAqLwpAZm9udC1mYWNlIHsKICBmb250LWZhbWlseTogJ09wZW4gU2Fucyc7CiAgZm9udC1zdHlsZTogbm9ybWFsOwogIGZvbnQtd2VpZ2h0OiAzMDA7CiAgc3JjOiBsb2NhbCgnT3BlbiBTYW5zIExpZ2h0JyksIGxvY2FsKCdPcGVuU2Fucy1MaWdodCcpLCB1cmwoZ29vZ2xlLWZvbnRzL0RYSTFPUkhDcHNRbTNWcDZtWG9hVGZnckxzV283SmsxS3Zac2VyMG9sS1kud29mZjIpIGZvcm1hdCgnd29mZjInKTsKICB1bmljb2RlLXJhbmdlOiBVKzAxMDItMDEwMywgVSsxRUEwLTFFRjksIFUrMjBBQjsKfQovKiBsYXRpbi1leHQgKi8KQGZvbnQtZmFjZSB7CiAgZm9udC1mYW1pbHk6ICdPcGVuIFNhbnMnOwogIGZvbnQtc3R5bGU6IG5vcm1hbDsKICBmb250LXdlaWdodDogMzAwOwogIHNyYzogbG9jYWwoJ09wZW4gU2FucyBMaWdodCcpLCBsb2NhbCgnT3BlblNhbnMtTGlnaHQnKSwgdXJsKGdvb2dsZS1mb250cy9EWEkxT1JIQ3BzUW0zVnA2bVhvYVRZam9ZdzNZVHlrdENDZXJfaWxPbGhFLndvZmYyKSBmb3JtYXQoJ3dvZmYyJyk7CiAgdW5pY29kZS1yYW5nZTogVSswMTAwLTAyNEYsIFUrMUUwMC0xRUZGLCBVKzIwQTAtMjBBQiwgVSsyMEFELTIwQ0YsIFUrMkM2MC0yQzdGLCBVK0E3MjAtQTdGRjsKfQovKiBsYXRpbiAqLwpAZm9udC1mYWNlIHsKICBmb250LWZhbWlseTogJ09wZW4gU2Fucyc7CiAgZm9udC1zdHlsZTogbm9ybWFsOwogIGZvbnQtd2VpZ2h0OiAzMDA7CiAgc3JjOiBsb2NhbCgnT3BlbiBTYW5zIExpZ2h0JyksIGxvY2FsKCdPcGVuU2Fucy1MaWdodCcpLCB1cmwoZ29vZ2xlLWZvbnRzL0RYSTFPUkhDcHNRbTNWcDZtWG9hVFJhbXB1NV83Q2pIVzVzcHhvZU4zVnMud29mZjIpIGZvcm1hdCgnd29mZjInKTsKICB1bmljb2RlLXJhbmdlOiBVKzAwMDAtMDBGRiwgVSswMTMxLCBVKzAxNTItMDE1MywgVSswMkM2LCBVKzAyREEsIFUrMDJEQywgVSsyMDAwLTIwNkYsIFUrMjA3NCwgVSsyMEFDLCBVKzIyMTIsIFUrMjIxNTsKfQovKiBjeXJpbGxpYy1leHQgKi8KQGZvbnQtZmFjZSB7CiAgZm9udC1mYW1pbHk6ICdPcGVuIFNhbnMnOwogIGZvbnQtc3R5bGU6IG5vcm1hbDsKICBmb250LXdlaWdodDogNDAwOwogIHNyYzogbG9jYWwoJ09wZW4gU2FucycpLCBsb2NhbCgnT3BlblNhbnMnKSwgdXJsKGdvb2dsZS1mb250cy9LODhwUjNnb0FXVDdCVHQzMlowMW00WDBoVmd6WlFVZlJEdVpyUHZIM0Q4LndvZmYyKSBmb3JtYXQoJ3dvZmYyJyk7CiAgdW5pY29kZS1yYW5nZTogVSswNDYwLTA1MkYsIFUrMjBCNCwgVSsyREUwLTJERkYsIFUrQTY0MC1BNjlGOwp9Ci8qIGN5cmlsbGljICovCkBmb250LWZhY2UgewogIGZvbnQtZmFtaWx5OiAnT3BlbiBTYW5zJzsKICBmb250LXN0eWxlOiBub3JtYWw7CiAgZm9udC13ZWlnaHQ6IDQwMDsKICBzcmM6IGxvY2FsKCdPcGVuIFNhbnMnKSwgbG9jYWwoJ09wZW5TYW5zJyksIHVybChnb29nbGUtZm9udHMvUmpnTzdyWVRtcWlWcDd2emktUTVVWVgwaFZnelpRVWZSRHVaclB2SDNEOC53b2ZmMikgZm9ybWF0KCd3b2ZmMicpOwogIHVuaWNvZGUtcmFuZ2U6IFUrMDQwMC0wNDVGLCBVKzA0OTAtMDQ5MSwgVSswNEIwLTA0QjEsIFUrMjExNjsKfQovKiBncmVlay1leHQgKi8KQGZvbnQtZmFjZSB7CiAgZm9udC1mYW1pbHk6ICdPcGVuIFNhbnMnOwogIGZvbnQtc3R5bGU6IG5vcm1hbDsKICBmb250LXdlaWdodDogNDAwOwogIHNyYzogbG9jYWwoJ09wZW4gU2FucycpLCBsb2NhbCgnT3BlblNhbnMnKSwgdXJsKGdvb2dsZS1mb250cy9MV0Nqc1FrQjZFTWRmSHJFVnFBMUtZWDBoVmd6WlFVZlJEdVpyUHZIM0Q4LndvZmYyKSBmb3JtYXQoJ3dvZmYyJyk7CiAgdW5pY29kZS1yYW5nZTogVSsxRjAwLTFGRkY7Cn0KLyogZ3JlZWsgKi8KQGZvbnQtZmFjZSB7CiAgZm9udC1mYW1pbHk6ICdPcGVuIFNhbnMnOwogIGZvbnQtc3R5bGU6IG5vcm1hbDsKICBmb250LXdlaWdodDogNDAwOwogIHNyYzogbG9jYWwoJ09wZW4gU2FucycpLCBsb2NhbCgnT3BlblNhbnMnKSwgdXJsKGdvb2dsZS1mb250cy94b3pzY3BUMjcyNm9uN2piY2JfcEFvWDBoVmd6WlFVZlJEdVpyUHZIM0Q4LndvZmYyKSBmb3JtYXQoJ3dvZmYyJyk7CiAgdW5pY29kZS1yYW5nZTogVSswMzcwLTAzRkY7Cn0KLyogdmlldG5hbWVzZSAqLwpAZm9udC1mYWNlIHsKICBmb250LWZhbWlseTogJ09wZW4gU2Fucyc7CiAgZm9udC1zdHlsZTogbm9ybWFsOwogIGZvbnQtd2VpZ2h0OiA0MDA7CiAgc3JjOiBsb2NhbCgnT3BlbiBTYW5zJyksIGxvY2FsKCdPcGVuU2FucycpLCB1cmwoZ29vZ2xlLWZvbnRzLzU5WlJrbGFPNWJXR3FGNUE5YmFFRVlYMGhWZ3paUVVmUkR1WnJQdkgzRDgud29mZjIpIGZvcm1hdCgnd29mZjInKTsKICB1bmljb2RlLXJhbmdlOiBVKzAxMDItMDEwMywgVSsxRUEwLTFFRjksIFUrMjBBQjsKfQovKiBsYXRpbi1leHQgKi8KQGZvbnQtZmFjZSB7CiAgZm9udC1mYW1pbHk6ICdPcGVuIFNhbnMnOwogIGZvbnQtc3R5bGU6IG5vcm1hbDsKICBmb250LXdlaWdodDogNDAwOwogIHNyYzogbG9jYWwoJ09wZW4gU2FucycpLCBsb2NhbCgnT3BlblNhbnMnKSwgdXJsKGdvb2dsZS1mb250cy91LVdVb3FyRVQ5ZlVlb2JRVzdqa1JZWDBoVmd6WlFVZlJEdVpyUHZIM0Q4LndvZmYyKSBmb3JtYXQoJ3dvZmYyJyk7CiAgdW5pY29kZS1yYW5nZTogVSswMTAwLTAyNEYsIFUrMUUwMC0xRUZGLCBVKzIwQTAtMjBBQiwgVSsyMEFELTIwQ0YsIFUrMkM2MC0yQzdGLCBVK0E3MjAtQTdGRjsKfQovKiBsYXRpbiAqLwpAZm9udC1mYWNlIHsKICBmb250LWZhbWlseTogJ09wZW4gU2Fucyc7CiAgZm9udC1zdHlsZTogbm9ybWFsOwogIGZvbnQtd2VpZ2h0OiA0MDA7CiAgc3JjOiBsb2NhbCgnT3BlbiBTYW5zJyksIGxvY2FsKCdPcGVuU2FucycpLCB1cmwoZ29vZ2xlLWZvbnRzL2NKWktlT3VCcm40a0VSeHF0YVVIM1pCdzF4VTFyS3B0SmpfMGphbnM5MjAud29mZjIpIGZvcm1hdCgnd29mZjInKTsKICB1bmljb2RlLXJhbmdlOiBVKzAwMDAtMDBGRiwgVSswMTMxLCBVKzAxNTItMDE1MywgVSswMkM2LCBVKzAyREEsIFUrMDJEQywgVSsyMDAwLTIwNkYsIFUrMjA3NCwgVSsyMEFDLCBVKzIyMTIsIFUrMjIxNTsKfQovKiBjeXJpbGxpYy1leHQgKi8KQGZvbnQtZmFjZSB7CiAgZm9udC1mYW1pbHk6ICdPcGVuIFNhbnMnOwogIGZvbnQtc3R5bGU6IG5vcm1hbDsKICBmb250LXdlaWdodDogNjAwOwogIHNyYzogbG9jYWwoJ09wZW4gU2FucyBTZW1pYm9sZCcpLCBsb2NhbCgnT3BlblNhbnMtU2VtaWJvbGQnKSwgdXJsKGdvb2dsZS1mb250cy9NVFBfeVNVSkhfYm40OFZCRzhzTlNnN2FDNlNqaUFPcEFXT0tmSkRmVlJZLndvZmYyKSBmb3JtYXQoJ3dvZmYyJyk7CiAgdW5pY29kZS1yYW5nZTogVSswNDYwLTA1MkYsIFUrMjBCNCwgVSsyREUwLTJERkYsIFUrQTY0MC1BNjlGOwp9Ci8qIGN5cmlsbGljICovCkBmb250LWZhY2UgewogIGZvbnQtZmFtaWx5OiAnT3BlbiBTYW5zJzsKICBmb250LXN0eWxlOiBub3JtYWw7CiAgZm9udC13ZWlnaHQ6IDYwMDsKICBzcmM6IGxvY2FsKCdPcGVuIFNhbnMgU2VtaWJvbGQnKSwgbG9jYWwoJ09wZW5TYW5zLVNlbWlib2xkJyksIHVybChnb29nbGUtZm9udHMvTVRQX3lTVUpIX2JuNDhWQkc4c05TaGR3eENYZlpwS281a1dBeF83NGJIcy53b2ZmMikgZm9ybWF0KCd3b2ZmMicpOwogIHVuaWNvZGUtcmFuZ2U6IFUrMDQwMC0wNDVGLCBVKzA0OTAtMDQ5MSwgVSswNEIwLTA0QjEsIFUrMjExNjsKfQovKiBncmVlay1leHQgKi8KQGZvbnQtZmFjZSB7CiAgZm9udC1mYW1pbHk6ICdPcGVuIFNhbnMnOwogIGZvbnQtc3R5bGU6IG5vcm1hbDsKICBmb250LXdlaWdodDogNjAwOwogIHNyYzogbG9jYWwoJ09wZW4gU2FucyBTZW1pYm9sZCcpLCBsb2NhbCgnT3BlblNhbnMtU2VtaWJvbGQnKSwgdXJsKGdvb2dsZS1mb250cy9NVFBfeVNVSkhfYm40OFZCRzhzTlNwNnZuYVBadzZuWUR4TTRTVkVNRktnLndvZmYyKSBmb3JtYXQoJ3dvZmYyJyk7CiAgdW5pY29kZS1yYW5nZTogVSsxRjAwLTFGRkY7Cn0KLyogZ3JlZWsgKi8KQGZvbnQtZmFjZSB7CiAgZm9udC1mYW1pbHk6ICdPcGVuIFNhbnMnOwogIGZvbnQtc3R5bGU6IG5vcm1hbDsKICBmb250LXdlaWdodDogNjAwOwogIHNyYzogbG9jYWwoJ09wZW4gU2FucyBTZW1pYm9sZCcpLCBsb2NhbCgnT3BlblNhbnMtU2VtaWJvbGQnKSwgdXJsKGdvb2dsZS1mb250cy9NVFBfeVNVSkhfYm40OFZCRzhzTlN2eTFfSFR3UndndGwxY1BnYTNGeTNZLndvZmYyKSBmb3JtYXQoJ3dvZmYyJyk7CiAgdW5pY29kZS1yYW5nZTogVSswMzcwLTAzRkY7Cn0KLyogdmlldG5hbWVzZSAqLwpAZm9udC1mYWNlIHsKICBmb250LWZhbWlseTogJ09wZW4gU2Fucyc7CiAgZm9udC1zdHlsZTogbm9ybWFsOwogIGZvbnQtd2VpZ2h0OiA2MDA7CiAgc3JjOiBsb2NhbCgnT3BlbiBTYW5zIFNlbWlib2xkJyksIGxvY2FsKCdPcGVuU2Fucy1TZW1pYm9sZCcpLCB1cmwoZ29vZ2xlLWZvbnRzL01UUF95U1VKSF9ibjQ4VkJHOHNOU3ZnckxzV283SmsxS3Zac2VyMG9sS1kud29mZjIpIGZvcm1hdCgnd29mZjInKTsKICB1bmljb2RlLXJhbmdlOiBVKzAxMDItMDEwMywgVSsxRUEwLTFFRjksIFUrMjBBQjsKfQovKiBsYXRpbi1leHQgKi8KQGZvbnQtZmFjZSB7CiAgZm9udC1mYW1pbHk6ICdPcGVuIFNhbnMnOwogIGZvbnQtc3R5bGU6IG5vcm1hbDsKICBmb250LXdlaWdodDogNjAwOwogIHNyYzogbG9jYWwoJ09wZW4gU2FucyBTZW1pYm9sZCcpLCBsb2NhbCgnT3BlblNhbnMtU2VtaWJvbGQnKSwgdXJsKGdvb2dsZS1mb250cy9NVFBfeVNVSkhfYm40OFZCRzhzTlNvam9ZdzNZVHlrdENDZXJfaWxPbGhFLndvZmYyKSBmb3JtYXQoJ3dvZmYyJyk7CiAgdW5pY29kZS1yYW5nZTogVSswMTAwLTAyNEYsIFUrMUUwMC0xRUZGLCBVKzIwQTAtMjBBQiwgVSsyMEFELTIwQ0YsIFUrMkM2MC0yQzdGLCBVK0E3MjAtQTdGRjsKfQovKiBsYXRpbiAqLwpAZm9udC1mYWNlIHsKICBmb250LWZhbWlseTogJ09wZW4gU2Fucyc7CiAgZm9udC1zdHlsZTogbm9ybWFsOwogIGZvbnQtd2VpZ2h0OiA2MDA7CiAgc3JjOiBsb2NhbCgnT3BlbiBTYW5zIFNlbWlib2xkJyksIGxvY2FsKCdPcGVuU2Fucy1TZW1pYm9sZCcpLCB1cmwoZ29vZ2xlLWZvbnRzL01UUF95U1VKSF9ibjQ4VkJHOHNOU2hhbXB1NV83Q2pIVzVzcHhvZU4zVnMud29mZjIpIGZvcm1hdCgnd29mZjInKTsKICB1bmljb2RlLXJhbmdlOiBVKzAwMDAtMDBGRiwgVSswMTMxLCBVKzAxNTItMDE1MywgVSswMkM2LCBVKzAyREEsIFUrMDJEQywgVSsyMDAwLTIwNkYsIFUrMjA3NCwgVSsyMEFDLCBVKzIyMTIsIFUrMjIxNTsKfQovKiBjeXJpbGxpYy1leHQgKi8KQGZvbnQtZmFjZSB7CiAgZm9udC1mYW1pbHk6ICdPcGVuIFNhbnMnOwogIGZvbnQtc3R5bGU6IG5vcm1hbDsKICBmb250LXdlaWdodDogNzAwOwogIHNyYzogbG9jYWwoJ09wZW4gU2FucyBCb2xkJyksIGxvY2FsKCdPcGVuU2Fucy1Cb2xkJyksIHVybChnb29nbGUtZm9udHMvazNrNzAyWk9LaUxKYzNXVmp1cGx6QTdhQzZTamlBT3BBV09LZkpEZlZSWS53b2ZmMikgZm9ybWF0KCd3b2ZmMicpOwogIHVuaWNvZGUtcmFuZ2U6IFUrMDQ2MC0wNTJGLCBVKzIwQjQsIFUrMkRFMC0yREZGLCBVK0E2NDAtQTY5RjsKfQovKiBjeXJpbGxpYyAqLwpAZm9udC1mYWNlIHsKICBmb250LWZhbWlseTogJ09wZW4gU2Fucyc7CiAgZm9udC1zdHlsZTogbm9ybWFsOwogIGZvbnQtd2VpZ2h0OiA3MDA7CiAgc3JjOiBsb2NhbCgnT3BlbiBTYW5zIEJvbGQnKSwgbG9jYWwoJ09wZW5TYW5zLUJvbGQnKSwgdXJsKGdvb2dsZS1mb250cy9rM2s3MDJaT0tpTEpjM1dWanVwbHpCZHd4Q1hmWnBLbzVrV0F4Xzc0YkhzLndvZmYyKSBmb3JtYXQoJ3dvZmYyJyk7CiAgdW5pY29kZS1yYW5nZTogVSswNDAwLTA0NUYsIFUrMDQ5MC0wNDkxLCBVKzA0QjAtMDRCMSwgVSsyMTE2Owp9Ci8qIGdyZWVrLWV4dCAqLwpAZm9udC1mYWNlIHsKICBmb250LWZhbWlseTogJ09wZW4gU2Fucyc7CiAgZm9udC1zdHlsZTogbm9ybWFsOwogIGZvbnQtd2VpZ2h0OiA3MDA7CiAgc3JjOiBsb2NhbCgnT3BlbiBTYW5zIEJvbGQnKSwgbG9jYWwoJ09wZW5TYW5zLUJvbGQnKSwgdXJsKGdvb2dsZS1mb250cy9rM2s3MDJaT0tpTEpjM1dWanVwbHpKNnZuYVBadzZuWUR4TTRTVkVNRktnLndvZmYyKSBmb3JtYXQoJ3dvZmYyJyk7CiAgdW5pY29kZS1yYW5nZTogVSsxRjAwLTFGRkY7Cn0KLyogZ3JlZWsgKi8KQGZvbnQtZmFjZSB7CiAgZm9udC1mYW1pbHk6ICdPcGVuIFNhbnMnOwogIGZvbnQtc3R5bGU6IG5vcm1hbDsKICBmb250LXdlaWdodDogNzAwOwogIHNyYzogbG9jYWwoJ09wZW4gU2FucyBCb2xkJyksIGxvY2FsKCdPcGVuU2Fucy1Cb2xkJyksIHVybChnb29nbGUtZm9udHMvazNrNzAyWk9LaUxKYzNXVmp1cGx6UHkxX0hUd1J3Z3RsMWNQZ2EzRnkzWS53b2ZmMikgZm9ybWF0KCd3b2ZmMicpOwogIHVuaWNvZGUtcmFuZ2U6IFUrMDM3MC0wM0ZGOwp9Ci8qIHZpZXRuYW1lc2UgKi8KQGZvbnQtZmFjZSB7CiAgZm9udC1mYW1pbHk6ICdPcGVuIFNhbnMnOwogIGZvbnQtc3R5bGU6IG5vcm1hbDsKICBmb250LXdlaWdodDogNzAwOwogIHNyYzogbG9jYWwoJ09wZW4gU2FucyBCb2xkJyksIGxvY2FsKCdPcGVuU2Fucy1Cb2xkJyksIHVybChnb29nbGUtZm9udHMvazNrNzAyWk9LaUxKYzNXVmp1cGx6UGdyTHNXbzdKazFLdlpzZXIwb2xLWS53b2ZmMikgZm9ybWF0KCd3b2ZmMicpOwogIHVuaWNvZGUtcmFuZ2U6IFUrMDEwMi0wMTAzLCBVKzFFQTAtMUVGOSwgVSsyMEFCOwp9Ci8qIGxhdGluLWV4dCAqLwpAZm9udC1mYWNlIHsKICBmb250LWZhbWlseTogJ09wZW4gU2Fucyc7CiAgZm9udC1zdHlsZTogbm9ybWFsOwogIGZvbnQtd2VpZ2h0OiA3MDA7CiAgc3JjOiBsb2NhbCgnT3BlbiBTYW5zIEJvbGQnKSwgbG9jYWwoJ09wZW5TYW5zLUJvbGQnKSwgdXJsKGdvb2dsZS1mb250cy9rM2s3MDJaT0tpTEpjM1dWanVwbHpJam9ZdzNZVHlrdENDZXJfaWxPbGhFLndvZmYyKSBmb3JtYXQoJ3dvZmYyJyk7CiAgdW5pY29kZS1yYW5nZTogVSswMTAwLTAyNEYsIFUrMUUwMC0xRUZGLCBVKzIwQTAtMjBBQiwgVSsyMEFELTIwQ0YsIFUrMkM2MC0yQzdGLCBVK0E3MjAtQTdGRjsKfQovKiBsYXRpbiAqLwpAZm9udC1mYWNlIHsKICBmb250LWZhbWlseTogJ09wZW4gU2Fucyc7CiAgZm9udC1zdHlsZTogbm9ybWFsOwogIGZvbnQtd2VpZ2h0OiA3MDA7CiAgc3JjOiBsb2NhbCgnT3BlbiBTYW5zIEJvbGQnKSwgbG9jYWwoJ09wZW5TYW5zLUJvbGQnKSwgdXJsKGdvb2dsZS1mb250cy9rM2s3MDJaT0tpTEpjM1dWanVwbHpCYW1wdTVfN0NqSFc1c3B4b2VOM1ZzLndvZmYyKSBmb3JtYXQoJ3dvZmYyJyk7CiAgdW5pY29kZS1yYW5nZTogVSswMDAwLTAwRkYsIFUrMDEzMSwgVSswMTUyLTAxNTMsIFUrMDJDNiwgVSswMkRBLCBVKzAyREMsIFUrMjAwMC0yMDZGLCBVKzIwNzQsIFUrMjBBQywgVSsyMjEyLCBVKzIyMTU7Cn0KLyogdmlldG5hbWVzZSAqLwpAZm9udC1mYWNlIHsKICBmb250LWZhbWlseTogJ0RhbmNpbmcgU2NyaXB0JzsKICBmb250LXN0eWxlOiBub3JtYWw7CiAgZm9udC13ZWlnaHQ6IDQwMDsKICBzcmM6IGxvY2FsKCdEYW5jaW5nIFNjcmlwdCBSZWd1bGFyJyksIGxvY2FsKCdEYW5jaW5nU2NyaXB0LVJlZ3VsYXInKSwgdXJsKGdvb2dsZS1mb250cy9ESzBlVEdYaVpqTjZ5QTh6QUV5TTJhNFltZ01hWU50REQ3bnJ2N3ZldUR3LndvZmYyKSBmb3JtYXQoJ3dvZmYyJyk7CiAgdW5pY29kZS1yYW5nZTogVSswMTAyLTAxMDMsIFUrMUVBMC0xRUY5LCBVKzIwQUI7Cn0KLyogbGF0aW4tZXh0ICovCkBmb250LWZhY2UgewogIGZvbnQtZmFtaWx5OiAnRGFuY2luZyBTY3JpcHQnOwogIGZvbnQtc3R5bGU6IG5vcm1hbDsKICBmb250LXdlaWdodDogNDAwOwogIHNyYzogbG9jYWwoJ0RhbmNpbmcgU2NyaXB0IFJlZ3VsYXInKSwgbG9jYWwoJ0RhbmNpbmdTY3JpcHQtUmVndWxhcicpLCB1cmwoZ29vZ2xlLWZvbnRzL0RLMGVUR1hpWmpONnlBOHpBRXlNMlpzYWJRbjNDaVdKUWhjeXFPLVgtd28ud29mZjIpIGZvcm1hdCgnd29mZjInKTsKICB1bmljb2RlLXJhbmdlOiBVKzAxMDAtMDI0RiwgVSsxRTAwLTFFRkYsIFUrMjBBMC0yMEFCLCBVKzIwQUQtMjBDRiwgVSsyQzYwLTJDN0YsIFUrQTcyMC1BN0ZGOwp9Ci8qIGxhdGluICovCkBmb250LWZhY2UgewogIGZvbnQtZmFtaWx5OiAnRGFuY2luZyBTY3JpcHQnOwogIGZvbnQtc3R5bGU6IG5vcm1hbDsKICBmb250LXdlaWdodDogNDAwOwogIHNyYzogbG9jYWwoJ0RhbmNpbmcgU2NyaXB0IFJlZ3VsYXInKSwgbG9jYWwoJ0RhbmNpbmdTY3JpcHQtUmVndWxhcicpLCB1cmwoZ29vZ2xlLWZvbnRzL0RLMGVUR1hpWmpONnlBOHpBRXlNMlpzTTNGVE1tajJrVFBIM3lYOTlZYXcud29mZjIpIGZvcm1hdCgnd29mZjInKTsKICB1bmljb2RlLXJhbmdlOiBVKzAwMDAtMDBGRiwgVSswMTMxLCBVKzAxNTItMDE1MywgVSswMkM2LCBVKzAyREEsIFUrMDJEQywgVSsyMDAwLTIwNkYsIFUrMjA3NCwgVSsyMEFDLCBVKzIyMTIsIFUrMjIxNTsKfQovKiB2aWV0bmFtZXNlICovCkBmb250LWZhY2UgewogIGZvbnQtZmFtaWx5OiAnRGFuY2luZyBTY3JpcHQnOwogIGZvbnQtc3R5bGU6IG5vcm1hbDsKICBmb250LXdlaWdodDogNzAwOwogIHNyYzogbG9jYWwoJ0RhbmNpbmcgU2NyaXB0IEJvbGQnKSwgbG9jYWwoJ0RhbmNpbmdTY3JpcHQtQm9sZCcpLCB1cmwoZ29vZ2xlLWZvbnRzL0tHQmZ3YWJ0MFpSTEE1VzF5d2pvd1R4UlhRSkp1dXdtYnI4OEJ4Z0dGc28ud29mZjIpIGZvcm1hdCgnd29mZjInKTsKICB1bmljb2RlLXJhbmdlOiBVKzAxMDItMDEwMywgVSsxRUEwLTFFRjksIFUrMjBBQjsKfQovKiBsYXRpbi1leHQgKi8KQGZvbnQtZmFjZSB7CiAgZm9udC1mYW1pbHk6ICdEYW5jaW5nIFNjcmlwdCc7CiAgZm9udC1zdHlsZTogbm9ybWFsOwogIGZvbnQtd2VpZ2h0OiA3MDA7CiAgc3JjOiBsb2NhbCgnRGFuY2luZyBTY3JpcHQgQm9sZCcpLCBsb2NhbCgnRGFuY2luZ1NjcmlwdC1Cb2xkJyksIHVybChnb29nbGUtZm9udHMvS0dCZndhYnQwWlJMQTVXMXl3am93Y3ZXTUVrZ0NsUUJHdGM5bWFUbjIyVS53b2ZmMikgZm9ybWF0KCd3b2ZmMicpOwogIHVuaWNvZGUtcmFuZ2U6IFUrMDEwMC0wMjRGLCBVKzFFMDAtMUVGRiwgVSsyMEEwLTIwQUIsIFUrMjBBRC0yMENGLCBVKzJDNjAtMkM3RiwgVStBNzIwLUE3RkY7Cn0KLyogbGF0aW4gKi8KQGZvbnQtZmFjZSB7CiAgZm9udC1mYW1pbHk6ICdEYW5jaW5nIFNjcmlwdCc7CiAgZm9udC1zdHlsZTogbm9ybWFsOwogIGZvbnQtd2VpZ2h0OiA3MDA7CiAgc3JjOiBsb2NhbCgnRGFuY2luZyBTY3JpcHQgQm9sZCcpLCBsb2NhbCgnRGFuY2luZ1NjcmlwdC1Cb2xkJyksIHVybChnb29nbGUtZm9udHMvS0dCZndhYnQwWlJMQTVXMXl3am93ZFoxcEgzSFJkWDJsTEZtWlk0bnduay53b2ZmMikgZm9ybWF0KCd3b2ZmMicpOwogIHVuaWNvZGUtcmFuZ2U6IFUrMDAwMC0wMEZGLCBVKzAxMzEsIFUrMDE1Mi0wMTUzLCBVKzAyQzYsIFUrMDJEQSwgVSswMkRDLCBVKzIwMDAtMjA2RiwgVSsyMDc0LCBVKzIwQUMsIFUrMjIxMiwgVSsyMjE1Owp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtSXNTZXJ2ZXIgPSBzZXJ2ZXI7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LyotLS0tLS0tLS0tLS0tLS0tLS0tKi8KLyoqKioqIExpZ2h0Ym94ICoqKioqLy8qCi8qLS0tLS0tLS0tLS0tLS0tLS0tLSovCi5uaXZvLWxpZ2h0Ym94LXRoZW1lLWRlZmF1bHQgKiB7CiAgICAtd2Via2l0LWJveC1zaXppbmc6IGluaXRpYWwgIWltcG9ydGFudDsKICAgIC1tb3otYm94LXNpemluZzogaW5pdGlhbCAhaW1wb3J0YW50OwogICAgYm94LXNpemluZzogaW5pdGlhbCAhaW1wb3J0YW50Owp9Cgoubml2by1saWdodGJveC10aGVtZS1kZWZhdWx0Lm5pdm8tbGlnaHRib3gtb3ZlcmxheSB7CiAgICBiYWNrZ3JvdW5kOiAjNjY2OwogICAgYmFja2dyb3VuZDogcmdiYSgwLCAwLCAwLCAwLjYpOwp9Cgoubml2by1saWdodGJveC10aGVtZS1kZWZhdWx0IC5uaXZvLWxpZ2h0Ym94LWNvbnRlbnQubml2by1saWdodGJveC1sb2FkaW5nIHsKICAgIGJhY2tncm91bmQ6IHVybChsb2FkaW5nLmdpZikgbm8tcmVwZWF0IDUwJSA1MCU7Cn0KCi5uaXZvLWxpZ2h0Ym94LXRoZW1lLWRlZmF1bHQgLm5pdm8tbGlnaHRib3gtbmF2IHsKICAgIHRvcDogMTAlOwogICAgd2lkdGg6IDglOwogICAgaGVpZ2h0OiA4MCU7CiAgICB0ZXh0LWluZGVudDogLTk5OTlweDsKICAgIGJhY2tncm91bmQtcmVwZWF0OiBuby1yZXBlYXQ7CiAgICBiYWNrZ3JvdW5kLXBvc2l0aW9uOiA1MCUgNTAlOwogICAgb3BhY2l0eTogMC41Owp9Cgoubml2by1saWdodGJveC10aGVtZS1kZWZhdWx0IC5uaXZvLWxpZ2h0Ym94LW5hdjpob3ZlciB7CiAgICBvcGFjaXR5OiAxOwogICAgYmFja2dyb3VuZC1jb2xvcjogdHJhbnNwYXJlbnQ7Cn0KCi5uaXZvLWxpZ2h0Ym94LXRoZW1lLWRlZmF1bHQgLm5pdm8tbGlnaHRib3gtcHJldiB7CiAgICBiYWNrZ3JvdW5kLWltYWdlOiB1cmwocHJldi5wbmcpOwogICAgYm9yZGVyLXJhZGl1czogMCAzcHggM3B4IDA7Cn0KCi5uaXZvLWxpZ2h0Ym94LXRoZW1lLWRlZmF1bHQgLm5pdm8tbGlnaHRib3gtbmV4dCB7CiAgICBiYWNrZ3JvdW5kLWltYWdlOiB1cmwobmV4dC5wbmcpOwogICAgYm9yZGVyLXJhZGl1czogM3B4IDAgMCAzcHg7Cn0KCi5uaXZvLWxpZ2h0Ym94LXRoZW1lLWRlZmF1bHQgLm5pdm8tbGlnaHRib3gtY2xvc2UgewogICAgZGlzcGxheTogYmxvY2s7CiAgICBiYWNrZ3JvdW5kOiB1cmwoY2xvc2UucG5nKSBuby1yZXBlYXQgNXB4IDVweDsKICAgIHdpZHRoOiAxNnB4OwogICAgaGVpZ2h0OiAxNnB4OwogICAgdGV4dC1pbmRlbnQ6IC05OTk5cHg7CiAgICBwYWRkaW5nOiA1cHg7CiAgICBvcGFjaXR5OiAwLjU7Cn0KCi5uaXZvLWxpZ2h0Ym94LXRoZW1lLWRlZmF1bHQgLm5pdm8tbGlnaHRib3gtY2xvc2U6aG92ZXIgewogICAgb3BhY2l0eTogMTsKfQoKLm5pdm8tbGlnaHRib3gtdGhlbWUtZGVmYXVsdCAubml2by1saWdodGJveC10aXRsZS13cmFwIHsKICAgIGJvdHRvbTogLTclOwp9Cgoubml2by1saWdodGJveC10aGVtZS1kZWZhdWx0IC5uaXZvLWxpZ2h0Ym94LXRpdGxlIHsKICAgIGZvbnQ6IDE0cHgvMjBweCAnSGVsdmV0aWNhIE5ldWUnLCBIZWx2ZXRpY2EsIEFyaWFsLCBzYW5zLXNlcmlmOwogICAgZm9udC1zdHlsZTogbm9ybWFsOwogICAgZm9udC13ZWlnaHQ6IG5vcm1hbDsKICAgIGJhY2tncm91bmQ6ICMwMDA7CiAgICBjb2xvcjogI2ZmZjsKICAgIHBhZGRpbmc6IDdweCAxNXB4OwogICAgYm9yZGVyLXJhZGl1czogMzBweDsKfQoKLm5pdm8tbGlnaHRib3gtdGhlbWUtZGVmYXVsdCAubml2by1saWdodGJveC1pbWFnZSBpbWcgewogICAgYmFja2dyb3VuZDogI2ZmZjsKICAgIC13ZWJraXQtYm94LXNoYWRvdzogMHB4IDFweCAxcHggcmdiYSgwLCAwLCAwLCAwLjQpOwogICAgLW1vei1ib3gtc2hhZG93OiAwcHggMXB4IDFweCByZ2JhKDAsIDAsIDAsIDAuNCk7CiAgICBib3gtc2hhZG93OiAwcHggMXB4IDFweCByZ2JhKDAsIDAsIDAsIDAuNCk7Cn0KCi5uaXZvLWxpZ2h0Ym94LXRoZW1lLWRlZmF1bHQgLm5pdm8tbGlnaHRib3gtYWpheCwKLm5pdm8tbGlnaHRib3gtdGhlbWUtZGVmYXVsdCAubml2by1saWdodGJveC1pbmxpbmUgewogICAgYmFja2dyb3VuZDogI2ZmZjsKICAgIHBhZGRpbmc6IDQwcHg7CiAgICAtd2Via2l0LWJveC1zaGFkb3c6IDBweCAxcHggMXB4IHJnYmEoMCwgMCwgMCwgMC40KTsKICAgIC1tb3otYm94LXNoYWRvdzogMHB4IDFweCAxcHggcmdiYSgwLCAwLCAwLCAwLjQpOwogICAgYm94LXNoYWRvdzogMHB4IDFweCAxcHggcmdiYSgwLCAwLCAwLCAwLjQpOwp9CgpAbWVkaWEgKC13ZWJraXQtbWluLWRldmljZS1waXhlbC1yYXRpbzogMS4zKSwKKC1vLW1pbi1kZXZpY2UtcGl4ZWwtcmF0aW86IDIuNi8yKSwKKG1pbi0tbW96LWRldmljZS1waXhlbC1yYXRpbzogMS4zKSwKKG1pbi1kZXZpY2UtcGl4ZWwtcmF0aW86IDEuMyksCihtaW4tcmVzb2x1dGlvbjogMS4zZHBweCkgewoKICAgIC5uaXZvLWxpZ2h0Ym94LXRoZW1lLWRlZmF1bHQgLm5pdm8tbGlnaHRib3gtY29udGVudC5uaXZvLWxpZ2h0Ym94LWxvYWRpbmcgewogICAgICAgIGJhY2tncm91bmQtaW1hZ2U6IHVybChsb2FkaW5nQDJ4LmdpZik7CiAgICAgICAgYmFja2dyb3VuZC1zaXplOiAzMnB4IDMycHg7CiAgICB9CgogICAgLm5pdm8tbGlnaHRib3gtdGhlbWUtZGVmYXVsdCAubml2by1saWdodGJveC1wcmV2IHsKICAgICAgICBiYWNrZ3JvdW5kLWltYWdlOiB1cmwocHJldkAyeC5wbmcpOwogICAgICAgIGJhY2tncm91bmQtc2l6ZTogNDhweCA0OHB4OwogICAgfQoKICAgIC5uaXZvLWxpZ2h0Ym94LXRoZW1lLWRlZmF1bHQgLm5pdm8tbGlnaHRib3gtbmV4dCB7CiAgICAgICAgYmFja2dyb3VuZC1pbWFnZTogdXJsKG5leHRAMngucG5nKTsKICAgICAgICBiYWNrZ3JvdW5kLXNpemU6IDQ4cHggNDhweDsKICAgIH0KCiAgICAubml2by1saWdodGJveC10aGVtZS1kZWZhdWx0IC5uaXZvLWxpZ2h0Ym94LWNsb3NlIHsKICAgICAgICBiYWNrZ3JvdW5kLWltYWdlOiB1cmwoY2xvc2VAMngucG5nKTsKICAgICAgICBiYWNrZ3JvdW5kLXNpemU6IDE2cHggMTZweDsKICAgIH0KCn0K</text>
+        <text encoding="base64">ICAgIGZpbmFsIHByaXZhdGUgYm9vbGVhbiBtSXNTZXJ2ZXI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>RIG</last-search>
+      <last-search encoding="base64">XDxtT25lVGltZUF1dGhcPg==</last-search>
       <last-offset />
-      <last-pattern>RIG</last-pattern>
+      <last-pattern encoding="base64">XDxtT25lVGltZUF1dGhcPg==</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -378,8 +520,6 @@
     </search>
     <history>
       <history-search>
-        <entry>1T</entry>
-        <entry>cur</entry>
         <entry encoding="base64">XDxjdXJzaXZlXD4=</entry>
         <entry>layl</entry>
         <entry>26%</entry>
@@ -398,6 +538,8 @@
         <entry>font-fami</entry>
         <entry>Lato</entry>
         <entry>RIG</entry>
+        <entry encoding="base64">XDxzdnJPckxvY2FsXD4=</entry>
+        <entry encoding="base64">XDxtT25lVGltZUF1dGhcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>action CollapseBlock</entry>
