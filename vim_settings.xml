@@ -100,12 +100,12 @@
         <mark key="^" line="19" column="23" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yh_svr/src/main/resources/logback.xml" timestamp="1494828469403">
-        <mark key="'" line="38" column="31" />
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="85" column="35" />
-        <mark key="." line="84" column="0" />
-        <mark key="^" line="91" column="33" />
+      <file name="$USER_HOME$/workspace/yh_svr/src/main/resources/logback.xml" timestamp="1494828921068">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="76" column="17" />
+        <mark key="]" line="76" column="20" />
+        <mark key="." line="76" column="20" />
+        <mark key="^" line="76" column="20" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/1.4.2.RELEASE/spring-boot-autoconfigure-1.4.2.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/flyway/FlywayAutoConfiguration.java" timestamp="1493876295081">
         <mark key="'" line="108" column="56" />
@@ -373,7 +373,7 @@
         <mark key="]" line="87" column="0" />
         <mark key="." line="87" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1494827742270">
+      <file name="/Dummy.txt" timestamp="1494828925247">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/yh_svr/pom.xml" timestamp="1494828004684">
@@ -441,7 +441,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="150" column="23" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/WEB-INF/view/index.jsp" />
       <jump line="392" column="0" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/WEB-INF/view/index.jsp" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/WEB-INF/view/index.jsp" />
       <jump line="384" column="0" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/WEB-INF/view/index.jsp" />
@@ -541,6 +540,7 @@
       <jump line="14" column="62" filename="$USER_HOME$/workspace/yh_svr/src/main/java/shadowsocks/util/Config.java" />
       <jump line="93" column="17" filename="$USER_HOME$/workspace/yh_svr/src/main/java/shadowsocks/nio/tcp/LocalTcpWorker.java" />
       <jump line="36" column="0" filename="$USER_HOME$/workspace/yh_svr/src/test/java/shadowsocks/SystemTest.java" />
+      <jump line="16" column="0" filename="$USER_HOME$/workspace/yh_svr/src/main/resources/logback.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -550,7 +550,7 @@
         <text>term</text>
       </register>
       <register name="-" type="4">
-        <text>LogManager</text>
+        <text>DEBUG</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2dfZGlyXD4=</text>
