@@ -2,7 +2,7 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks>
-      <mark key="V" line="289" column="79" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/WEB-INF/view/index.jsp" />
+      <mark key="V" line="290" column="79" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/WEB-INF/view/index.jsp" />
     </globalmarks>
     <filemarks>
       <file name="$USER_HOME$/workspace/uauth/src/main/java/com/mx/server/core/util/AESCodec.java" timestamp="1494234041984">
@@ -17,7 +17,9 @@
         <mark key="^" line="122" column="96" />
         <mark key="." line="122" column="73" />
       </file>
-      <file name="$USER_HOME$/workspace/yh_svr/src/main/java/shadowsocks/nio/tcp/TcpWorker.java" timestamp="1494550779444" />
+      <file name="$USER_HOME$/workspace/yh_svr/src/main/java/com/yh/zhgp/util/ErrorHandler.java" timestamp="1494813459382">
+        <mark key="'" line="23" column="27" />
+      </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/semantic/JNISegmenterTest.java" timestamp="1494230408405">
         <mark key="'" line="17" column="48" />
         <mark key="[" line="13" column="21" />
@@ -184,13 +186,13 @@
         <mark key="." line="5" column="93" />
         <mark key="^" line="5" column="93" />
       </file>
-      <file name="$USER_HOME$/workspace/yh_svr/src/main/webapp/WEB-INF/view/index.jsp" timestamp="1494565381428">
-        <mark key="'" line="384" column="0" />
-        <mark key="i" line="355" column="48" />
-        <mark key="[" line="104" column="29" />
-        <mark key="]" line="104" column="30" />
-        <mark key="." line="104" column="30" />
-        <mark key="^" line="104" column="30" />
+      <file name="$USER_HOME$/workspace/yh_svr/src/main/webapp/WEB-INF/view/index.jsp" timestamp="1494813444679">
+        <mark key="'" line="492" column="0" />
+        <mark key="i" line="356" column="48" />
+        <mark key="[" line="122" column="26" />
+        <mark key="]" line="122" column="27" />
+        <mark key="." line="122" column="27" />
+        <mark key="^" line="122" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/yh_svr/src/main/resources/application.properties" timestamp="1494423156705">
         <mark key="[" line="11" column="0" />
@@ -361,13 +363,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="348" column="1" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/assets/css/layla-effect.css" />
-      <jump line="356" column="1" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/assets/css/layla-effect.css" />
-      <jump line="367" column="22" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/assets/css/layla-effect.css" />
-      <jump line="387" column="24" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/assets/css/layla-effect.css" />
-      <jump line="412" column="1" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/assets/css/layla-effect.css" />
-      <jump line="413" column="0" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/assets/css/layla-effect.css" />
-      <jump line="224" column="21" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/assets/css/layla-effect.css" />
       <jump line="415" column="0" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/assets/css/layla-effect.css" />
       <jump line="11" column="0" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/WEB-INF/view/index.jsp" />
       <jump line="361" column="0" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/WEB-INF/view/index.jsp" />
@@ -383,7 +378,6 @@
       <jump line="1043" column="4" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/assets/css/style.css" />
       <jump line="1478" column="4" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/assets/css/style.css" />
       <jump line="1624" column="4" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/assets/css/style.css" />
-      <jump line="53" column="45" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/WEB-INF/view/index.jsp" />
       <jump line="158" column="51" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/WEB-INF/view/index.jsp" />
       <jump line="1626" column="0" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/assets/css/style.css" />
       <jump line="8" column="39" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/WEB-INF/view/index.jsp" />
@@ -461,6 +455,14 @@
       <jump line="30" column="31" filename="$USER_HOME$/workspace/yh_svr/src/main/java/shadowsocks/Shadowsocks.java" />
       <jump line="47" column="59" filename="$USER_HOME$/workspace/yh_svr/src/main/java/shadowsocks/Shadowsocks.java" />
       <jump line="137" column="0" filename="$USER_HOME$/workspace/yh_svr/src/main/java/shadowsocks/Shadowsocks.java" />
+      <jump line="53" column="35" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/WEB-INF/view/index.jsp" />
+      <jump line="124" column="61" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/WEB-INF/view/index.jsp" />
+      <jump line="452" column="23" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/WEB-INF/view/index.jsp" />
+      <jump line="87" column="73" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/WEB-INF/view/index.jsp" />
+      <jump line="123" column="30" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/WEB-INF/view/index.jsp" />
+      <jump line="16" column="0" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/WEB-INF/view/index.jsp" />
+      <jump line="492" column="0" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/WEB-INF/view/index.jsp" />
+      <jump line="23" column="27" filename="$USER_HOME$/workspace/yh_svr/src/main/java/com/yh/zhgp/util/ErrorHandler.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -470,13 +472,13 @@
         <text>term</text>
       </register>
       <register name="-" type="4">
-        <text>svrOrLocal</text>
+        <text>8</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtT25lVGltZUF1dGhcPg==</text>
+        <text>login</text>
       </register>
-      <register name="0" type="4">
-        <text>https://fonts.gstatic.com/s/dancingscript/v8/DK0eTGXiZjN6yA8zAEyM2Ud0sm1ffa_JvZxsF_BEwQk.woff2</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YSBjbGFzcz0ic2Nyb2xsLWRvd24iIGhyZWY9IiMiIG9uY2xpY2s9ImxvZ2luKCk7Ij7ms6jlhowv55m75b2VPC9hPgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">LyogICAKICogICBDb3B5cmlnaHQgMjAxNiBBdXRob3I6TlUxMSBiZXN0b2FwYWNoZUBnbWFpbC5jb20KICoKICogIExpY2Vuc2VkIHVuZGVyIHRoZSBBcGFjaGUgTGljZW5zZSwgVmVyc2lvbiAyLjAgKHRoZSAiTGljZW5zZSIpOwogKiAgeW91IG1heSBub3QgdXNlIHRoaXMgZmlsZSBleGNlcHQgaW4gY29tcGxpYW5jZSB3aXRoIHRoZSBMaWNlbnNlLgogKiAgWW91IG1heSBvYnRhaW4gYSBjb3B5IG9mIHRoZSBMaWNlbnNlIGF0CiAqCiAqICAgICAgIGh0dHA6Ly93d3cuYXBhY2hlLm9yZy9saWNlbnNlcy9MSUNFTlNFLTIuMAogKgogKiAgVW5sZXNzIHJlcXVpcmVkIGJ5IGFwcGxpY2FibGUgbGF3IG9yIGFncmVlZCB0byBpbiB3cml0aW5nLCBzb2Z0d2FyZQogKiAgZGlzdHJpYnV0ZWQgdW5kZXIgdGhlIExpY2Vuc2UgaXMgZGlzdHJpYnV0ZWQgb24gYW4gIkFTIElTIiBCQVNJUywKICogIFdJVEhPVVQgV0FSUkFOVElFUyBPUiBDT05ESVRJT05TIE9GIEFOWSBLSU5ELCBlaXRoZXIgZXhwcmVzcyBvciBpbXBsaWVkLgogKiAgU2VlIHRoZSBMaWNlbnNlIGZvciB0aGUgc3BlY2lmaWMgbGFuZ3VhZ2UgZ292ZXJuaW5nIHBlcm1pc3Npb25zIGFuZAogKiAgbGltaXRhdGlvbnMgdW5kZXIgdGhlIExpY2Vuc2UuCiAqLwo=</text>
@@ -510,9 +512,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtT25lVGltZUF1dGhcPg==</last-search>
+      <last-search>login</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtT25lVGltZUF1dGhcPg==</last-pattern>
+      <last-pattern>login</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -520,7 +522,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjdXJzaXZlXD4=</entry>
         <entry>layl</entry>
         <entry>26%</entry>
         <entry>layly</entry>
@@ -540,6 +541,7 @@
         <entry>RIG</entry>
         <entry encoding="base64">XDxzdnJPckxvY2FsXD4=</entry>
         <entry encoding="base64">XDxtT25lVGltZUF1dGhcPg==</entry>
+        <entry>login</entry>
       </history-search>
       <history-cmd>
         <entry>action CollapseBlock</entry>
