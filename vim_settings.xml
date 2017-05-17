@@ -151,6 +151,9 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="36" column="43" />
       </file>
+      <file name="$USER_HOME$/workspace/search_tool/pom.xml" timestamp="1495010536639">
+        <mark key="'" line="122" column="24" />
+      </file>
       <file name="$USER_HOME$/workspace/yh_svr/src/main/java/com/yh/zhgp/controller/IndexController.java" timestamp="1494834861815">
         <mark key="'" line="25" column="19" />
         <mark key="[" line="30" column="18" />
@@ -315,9 +318,6 @@
         <mark key="." line="234" column="11" />
         <mark key="^" line="234" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1494921377568">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/yh_svr/pom.xml" timestamp="1494828004684">
         <mark key="'" line="68" column="24" />
         <mark key="[" line="129" column="0" />
@@ -370,8 +370,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="44" filename="$USER_HOME$/workspace/search/search_web/src/main/webapp/WEB-INF/web.xml" />
-      <jump line="15" column="44" filename="$USER_HOME$/workspace/search/search_web/src/main/webapp/WEB-INF/web.xml" />
       <jump line="17" column="19" filename="$USER_HOME$/workspace/yh_svr/src/main/java/com/yh/zhgp/controller/IndexController.java" />
       <jump line="56" column="26" filename="$USER_HOME$/workspace/yh_svr/src/main/java/com/yh/zhgp/util/Util.java" />
       <jump line="30" column="24" filename="$USER_HOME$/workspace/search/search_web/pom.xml" />
@@ -470,6 +468,8 @@
       <jump line="18" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/resources/entity.proto" />
       <jump line="56" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/resources/entity.proto" />
       <jump line="25" column="31" filename="$USER_HOME$/workspace/search/search_core/src/main/resources/entity.proto" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/search_tool/pom.xml" />
+      <jump line="122" column="24" filename="$USER_HOME$/workspace/search_tool/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -482,7 +482,7 @@
         <text>r</text>
       </register>
       <register name="/" type="4">
-        <text>1.8</text>
+        <text>search_data</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgVXRpbC5Qb3J0VHJhZmZpY0NvbnRyb2wudXBUcmFmZmljTWFwLnB1dChJbnRlZ2VyLnZhbHVlT2Yobm9kZS5nZXRQb3J0KCkpLCBuZXcgQXRvbWljTG9uZygwKSk7Cg==</text>
@@ -519,17 +519,16 @@
       </register>
     </registers>
     <search>
-      <last-search>1.8</last-search>
+      <last-search>search_data</last-search>
       <last-offset />
-      <last-pattern>1.8</last-pattern>
+      <last-pattern>search_data</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>login</entry>
         <entry>aes</entry>
         <entry>forEach</entry>
         <entry>Ports</entry>
@@ -549,6 +548,7 @@
         <entry>Connecting</entry>
         <entry>log</entry>
         <entry>1.8</entry>
+        <entry>search_data</entry>
       </history-search>
       <history-cmd>
         <entry>action CollapseBlock</entry>
