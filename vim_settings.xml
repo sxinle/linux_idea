@@ -192,6 +192,12 @@
         <mark key="^" line="12" column="0" />
         <mark key="." line="37" column="4" />
       </file>
+      <file name="$USER_HOME$/search_proto/com/mx/dsef/common/Common.java" timestamp="1494992407488">
+        <mark key="'" line="2123" column="8" />
+        <mark key="[" line="1034" column="44" />
+        <mark key="]" line="1036" column="0" />
+        <mark key="." line="1036" column="0" />
+      </file>
       <file name="$USER_HOME$/Downloads/shadowsocks-java/src/test/java/shadowsocks/SystemTest.java" timestamp="1494334075474">
         <mark key="'" line="72" column="10" />
         <mark key="[" line="72" column="4" />
@@ -211,6 +217,12 @@
         <mark key="]" line="149" column="0" />
         <mark key="^" line="157" column="83" />
         <mark key="." line="149" column="0" />
+      </file>
+      <file name="$USER_HOME$/search_proto/com/mx/dsef/root/Root.java" timestamp="1494992454488">
+        <mark key="[" line="7" column="33" />
+        <mark key="]" line="7" column="33" />
+        <mark key="^" line="7" column="33" />
+        <mark key="." line="7" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/yh_svr/src/main/java/com/yh/zhgp/domain/FeedBack.java" timestamp="1494833244985">
         <mark key="'" line="23" column="0" />
@@ -319,9 +331,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="147" column="4" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/WEB-INF/view/index.jsp" />
-      <jump line="146" column="22" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/WEB-INF/view/index.jsp" />
-      <jump line="17" column="36" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/WEB-INF/view/index.jsp" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/yh_svr/pom.xml" />
       <jump line="35" column="10" filename="$USER_HOME$/workspace/yh_svr/src/main/java/com/yh/zhgp/domain/SSNode.java" />
       <jump line="97" column="0" filename="$USER_HOME$/workspace/yh_svr/src/main/java/com/yh/zhgp/domain/SSNode.java" />
@@ -419,6 +428,9 @@
       <jump line="3" column="17" filename="$USER_HOME$/workspace/yh_svr/src/main/java/shadowsocks/nio/tcp/TcpWorker.java" />
       <jump line="53" column="28" filename="$USER_HOME$/workspace/yh_svr/src/main/java/shadowsocks/nio/tcp/TcpWorker.java" />
       <jump line="48" column="32" filename="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/business/poi/action/PoiController.java" />
+      <jump line="167" column="43" filename="$USER_HOME$/search_proto/com/mx/dsef/common/Common.java" />
+      <jump line="4369" column="0" filename="$USER_HOME$/search_proto/com/mx/dsef/common/Common.java" />
+      <jump line="2119" column="8" filename="$USER_HOME$/search_proto/com/mx/dsef/common/Common.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -437,31 +449,31 @@
         <text encoding="base64">ICAgICAgICAgICAgVXRpbC5Qb3J0VHJhZmZpY0NvbnRyb2wudXBUcmFmZmljTWFwLnB1dChJbnRlZ2VyLnZhbHVlT2Yobm9kZS5nZXRQb3J0KCkpLCBuZXcgQXRvbWljTG9uZygwKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBDb21tb24uampramRkCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmdCdWZmZXIgc2l6ZVN0ciA9IG5ldyBTdHJpbmdCdWZmZXIoKTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoc2IudG9TdHJpbmcoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBDb21tb24uVmVyc2lvbi5uZXdCdWlsZGVyKCkuYnVpbGQoKQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmdCdWZmZXIgc2l6ZVN0ciA9IG5ldyBTdHJpbmdCdWZmZXIoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoVXRpbC5Qb3J0VHJhZmZpY0NvbnRyb2wuZG93blRyYWZmaWNNYXAuZ2V0KHBvcnQpKQo=</text>
+        <text encoding="base64">ICAgICAgICBsb2cuZGVidWcoc2IudG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoVXRpbC5Qb3J0VHJhZmZpY0NvbnRyb2wuZG93blRyYWZmaWNNYXAuZ2V0KHBvcnQpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoVXRpbC5Qb3J0VHJhZmZpY0NvbnRyb2wuZG93blRyYWZmaWNNYXAuZ2V0KHBvcnQpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
