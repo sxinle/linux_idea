@@ -21,8 +21,8 @@
         <mark key="^" line="209" column="88" />
         <mark key="." line="209" column="88" />
       </file>
-      <file name="$USER_HOME$/workspace/yh_svr/src/main/java/shadowsocks/nio/tcp/TcpWorker.java" timestamp="1494920261308">
-        <mark key="'" line="135" column="39" />
+      <file name="$USER_HOME$/workspace/yh_svr/src/main/java/shadowsocks/nio/tcp/TcpWorker.java" timestamp="1494983924244">
+        <mark key="'" line="53" column="28" />
         <mark key="[" line="135" column="84" />
         <mark key="]" line="135" column="138" />
         <mark key="." line="29" column="12" />
@@ -94,8 +94,8 @@
         <mark key="." line="7" column="65" />
         <mark key="^" line="7" column="65" />
       </file>
-      <file name="$USER_HOME$/workspace/yh_svr/src/main/java/shadowsocks/Shadowsocks.java" timestamp="1494919804418">
-        <mark key="'" line="14" column="13" />
+      <file name="$USER_HOME$/workspace/yh_svr/src/main/java/shadowsocks/Shadowsocks.java" timestamp="1494983894199">
+        <mark key="'" line="137" column="0" />
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="80" />
         <mark key="." line="2" column="0" />
@@ -319,13 +319,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="27" filename="$USER_HOME$/workspace/yh_svr/src/main/java/com/yh/zhgp/util/ErrorHandler.java" />
-      <jump line="30" column="24" filename="$USER_HOME$/workspace/yh_svr/src/main/java/com/yh/zhgp/domain/SSNode.java" />
-      <jump line="36" column="0" filename="$USER_HOME$/workspace/yh_svr/src/main/java/com/yh/zhgp/domain/SSNode.java" />
-      <jump line="21" column="3" filename="$USER_HOME$/workspace/yh_svr/src/main/java/com/yh/zhgp/service/SSNodeService.java" />
-      <jump line="141" column="25" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/WEB-INF/view/index.jsp" />
-      <jump line="22" column="4" filename="$USER_HOME$/workspace/yh_svr/src/main/java/com/yh/zhgp/controller/IndexController.java" />
-      <jump line="20" column="35" filename="$USER_HOME$/workspace/yh_svr/src/main/resources/db/migration/V1__init.sql" />
       <jump line="30" column="0" filename="$USER_HOME$/workspace/yh_svr/src/main/resources/db/migration/V1__init.sql" />
       <jump line="147" column="4" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/WEB-INF/view/index.jsp" />
       <jump line="146" column="22" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/WEB-INF/view/index.jsp" />
@@ -419,6 +412,13 @@
       <jump line="208" column="46" filename="$USER_HOME$/workspace/yh_svr/src/main/java/shadowsocks/nio/tcp/ServerTcpWorker.java" />
       <jump line="122" column="18" filename="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/business/poi/action/PoiController.java" />
       <jump line="449" column="0" filename="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/business/poi/action/PoiController.java" />
+      <jump line="137" column="0" filename="$USER_HOME$/workspace/yh_svr/src/main/java/shadowsocks/Shadowsocks.java" />
+      <jump line="95" column="19" filename="$USER_HOME$/workspace/yh_svr/src/main/java/shadowsocks/nio/tcp/TcpWorker.java" />
+      <jump line="136" column="0" filename="$USER_HOME$/workspace/yh_svr/src/main/java/shadowsocks/nio/tcp/TcpWorker.java" />
+      <jump line="144" column="26" filename="$USER_HOME$/workspace/yh_svr/src/main/java/shadowsocks/nio/tcp/TcpWorker.java" />
+      <jump line="2" column="17" filename="$USER_HOME$/workspace/yh_svr/src/main/java/shadowsocks/nio/tcp/TcpWorker.java" />
+      <jump line="3" column="17" filename="$USER_HOME$/workspace/yh_svr/src/main/java/shadowsocks/nio/tcp/TcpWorker.java" />
+      <jump line="53" column="28" filename="$USER_HOME$/workspace/yh_svr/src/main/java/shadowsocks/nio/tcp/TcpWorker.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -431,7 +431,7 @@
         <text>p</text>
       </register>
       <register name="/" type="4">
-        <text>Connecting</text>
+        <text>log</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgVXRpbC5Qb3J0VHJhZmZpY0NvbnRyb2wudXBUcmFmZmljTWFwLnB1dChJbnRlZ2VyLnZhbHVlT2Yobm9kZS5nZXRQb3J0KCkpLCBuZXcgQXRvbWljTG9uZygwKSk7Cg==</text>
@@ -468,17 +468,16 @@
       </register>
     </registers>
     <search>
-      <last-search>Connecting</last-search>
+      <last-search>log</last-search>
       <last-offset />
-      <last-pattern>Connecting</last-pattern>
+      <last-pattern>log</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzdnJPckxvY2FsXD4=</entry>
         <entry encoding="base64">XDxtT25lVGltZUF1dGhcPg==</entry>
         <entry>login</entry>
         <entry>aes</entry>
@@ -498,6 +497,7 @@
         <entry>3</entry>
         <entry>qq.com</entry>
         <entry>Connecting</entry>
+        <entry>log</entry>
       </history-search>
       <history-cmd>
         <entry>action CollapseBlock</entry>
