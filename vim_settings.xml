@@ -42,6 +42,12 @@
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" timestamp="1495071417213">
         <mark key="'" line="96" column="18" />
       </file>
+      <file name="$USER_HOME$/workspace/zest/src/main/java/moud/Sec.java" timestamp="1495084152443">
+        <mark key="[" line="13" column="35" />
+        <mark key="]" line="13" column="39" />
+        <mark key="." line="13" column="39" />
+        <mark key="^" line="13" column="39" />
+      </file>
       <file name="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/GenericController.java" timestamp="1495078127087">
         <mark key="[" line="36" column="58" />
         <mark key="]" line="41" column="39" />
@@ -79,7 +85,7 @@
       <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/dsef/common/Common.java" timestamp="1495021572117">
         <mark key="'" line="4136" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/UserInputPreProcess.java" timestamp="1495076347880">
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/UserInputPreProcess.java" timestamp="1495083833026">
         <mark key="'" line="367" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.3.RELEASE/spring-context-4.3.3.RELEASE-sources.jar!/org/springframework/scheduling/annotation/ScheduledAnnotationBeanPostProcessor.java" timestamp="1494864003725">
@@ -124,7 +130,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="20" filename="$USER_HOME$/workspace/yh_svr/src/main/resources/logback.xml" />
       <jump line="24" column="39" filename="$USER_HOME$/workspace/yh_svr/src/main/resources/logback.xml" />
       <jump line="39" column="39" filename="$USER_HOME$/workspace/yh_svr/src/main/resources/logback.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/yh_svr/src/main/resources/application.properties" />
@@ -223,6 +228,7 @@
       <jump line="32" column="17" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/semantic/WordTypeJudgerTest.java" />
       <jump line="13" column="32" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/semantic/WordTypeJudgerTest.java" />
       <jump line="46" column="72" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/UserInputPreProcess.java" />
+      <jump line="61" column="48" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/UserInputPreProcess.java" />
       <jump line="367" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/UserInputPreProcess.java" />
     </jumps>
     <registers>
@@ -233,7 +239,7 @@
         <text>term</text>
       </register>
       <register name="-" type="4">
-        <text>原</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>plugins</text>
