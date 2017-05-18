@@ -5,25 +5,40 @@
       <mark key="V" line="200" column="79" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/WEB-INF/view/index.jsp" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/workspace/yh_svr/src/main/webapp/WEB-INF/view/index.jsp" timestamp="1495068233807" />
+      <file name="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/business/poi/searcher/PoiSearcher.java" timestamp="1494913962115">
+        <mark key="[" line="122" column="72" />
+        <mark key="]" line="122" column="73" />
+        <mark key="^" line="122" column="96" />
+        <mark key="." line="122" column="73" />
+      </file>
+      <file name="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/common/util/SortUtil.java" timestamp="1494914892857">
+        <mark key="[" line="209" column="85" />
+        <mark key="]" line="209" column="88" />
+        <mark key="^" line="209" column="88" />
+        <mark key="." line="209" column="88" />
+      </file>
+      <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/transfer/req/BaseParam.java" timestamp="1495085202231" />
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/dsef/root/Root.java" timestamp="1495009691666">
         <mark key="'" line="2623" column="32" />
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/search_proto/com/mx/dsef/common/Common.java" timestamp="1494992407488">
-        <mark key="'" line="2123" column="8" />
-        <mark key="[" line="1034" column="44" />
-        <mark key="]" line="1036" column="0" />
-        <mark key="." line="1036" column="0" />
+      <file name="$USER_HOME$/workspace/yh_svr/src/main/java/com/yh/zhgp/util/ScheduledTasks.java" timestamp="1494896425536">
+        <mark key="[" line="26" column="84" />
+        <mark key="]" line="26" column="93" />
+        <mark key="." line="26" column="93" />
+        <mark key="^" line="26" column="93" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/mx/server/gis/mx_place_api_new/1.0.17-RELEASE/mx_place_api_new-1.0.17-RELEASE.jar!/com/mx/placeapi/service/PoiService.class" timestamp="1495070883451">
         <mark key="[" line="31" column="30" />
         <mark key="]" line="31" column="47" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/business/poi/action/PoiController.java" timestamp="1495006901600">
-        <mark key="'" line="449" column="0" />
+      <file name="$USER_HOME$/workspace/yh_svr/src/main/java/com/yh/zhgp/util/config/StartupListener.java" timestamp="1494920983478">
+        <mark key="[" line="24" column="36" />
+        <mark key="]" line="24" column="39" />
+        <mark key="." line="24" column="39" />
+        <mark key="^" line="24" column="39" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_nds_protobuf/pom.xml" timestamp="1495069149896">
         <mark key="'" line="52" column="44" />
@@ -31,16 +46,118 @@
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" timestamp="1495085311143">
+        <mark key="'" line="96" column="18" />
+        <mark key="[" line="167" column="31" />
+        <mark key="]" line="167" column="39" />
+      </file>
+      <file name="$USER_HOME$/workspace/yh_svr/src/main/java/com/yh/zhgp/service/SSNodeService.java" timestamp="1494833048895">
+        <mark key="[" line="24" column="25" />
+        <mark key="]" line="24" column="35" />
+        <mark key="." line="24" column="35" />
+        <mark key="^" line="24" column="35" />
+      </file>
+      <file name="$USER_HOME$/workspace/yh_svr/src/main/java/com/yh/zhgp/repository/FeedBackRepository.java" timestamp="1494833305822">
+        <mark key="[" line="7" column="58" />
+        <mark key="]" line="7" column="65" />
+        <mark key="." line="7" column="65" />
+        <mark key="^" line="7" column="65" />
+      </file>
+      <file name="$USER_HOME$/workspace/yh_svr/src/main/java/com/yh/zhgp/util/config/ApplicationConfig.java" timestamp="1494841370146">
+        <mark key="[" line="16" column="98" />
+        <mark key="]" line="16" column="98" />
+        <mark key="^" line="16" column="98" />
+        <mark key="." line="16" column="98" />
+      </file>
+      <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/resources/poi.proto" timestamp="1495069121481">
+        <mark key="'" line="297" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/yh_svr/src/main/java/com/yh/zhgp/util/ScheduleTask.java" timestamp="1494832623714">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="21" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/yh_svr/shadowsocks/src/main/java/shadowsocks/Main.java" timestamp="1494384966850">
+        <mark key="[" line="26" column="40" />
+        <mark key="]" line="26" column="43" />
+        <mark key="." line="26" column="43" />
+        <mark key="^" line="26" column="43" />
+      </file>
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" timestamp="1495085642423">
+        <mark key="'" line="147" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/search_tool/pom.xml" timestamp="1495010589478">
+        <mark key="'" line="122" column="24" />
+        <mark key="[" line="123" column="23" />
+        <mark key="]" line="123" column="24" />
+        <mark key="." line="123" column="24" />
+      </file>
+      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/search_core/PosSorterTest.java" timestamp="1495069204160">
+        <mark key="'" line="159" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/search_tool/src/main/java/com/mx/server/search/tool/service/impl/DataInfoServiceImpl.java" timestamp="1495010604261">
+        <mark key="'" line="493" column="12" />
+      </file>
+      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/query/semantic/SemanticsRXSearcherTest.java" timestamp="1495085122933">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="30" />
+      </file>
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/dsef/poi/Poi.java" timestamp="1495008847096">
+        <mark key="'" line="27" column="2" />
+      </file>
+      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/semantic/WordTypeJudgerTest.java" timestamp="1495086493635">
+        <mark key="'" line="22" column="32" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="60" />
+        <mark key="." line="45" column="0" />
+        <mark key="^" line="42" column="57" />
+      </file>
+      <file name="$USER_HOME$/workspace/yh_svr/src/main/webapp/assets/css/googlefonts.css" timestamp="1494565201135">
+        <mark key="[" line="5" column="76" />
+        <mark key="]" line="5" column="93" />
+        <mark key="." line="5" column="93" />
+        <mark key="^" line="5" column="93" />
+      </file>
+      <file name="$USER_HOME$/workspace/yh_svr/src/main/java/com/yh/zhgp/util/config/JpaConfig.java" timestamp="1494841329981">
+        <mark key="'" line="49" column="41" />
+      </file>
+      <file name="$USER_HOME$/workspace/yh_svr/src/main/webapp/WEB-INF/view/index.jsp" timestamp="1495068233807" />
+      <file name="$USER_HOME$/search_proto/com/mx/dsef/common/Common.java" timestamp="1494992407488">
+        <mark key="'" line="2123" column="8" />
+        <mark key="[" line="1034" column="44" />
+        <mark key="]" line="1036" column="0" />
+        <mark key="." line="1036" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/business/poi/action/PoiController.java" timestamp="1495006901600">
+        <mark key="'" line="449" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/yh_svr/src/main/java/shadowsocks/nio/tcp/Session.java" timestamp="1494919841956">
         <mark key="'" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/autonavi/Test.java" timestamp="1495010401261">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/search_proto/com/mx/dsef/root/Root.java" timestamp="1494992454488">
+        <mark key="[" line="7" column="33" />
+        <mark key="]" line="7" column="33" />
+        <mark key="^" line="7" column="33" />
+        <mark key="." line="7" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" timestamp="1495071417213">
-        <mark key="'" line="96" column="18" />
+      <file name="$USER_HOME$/workspace/yh_svr/shadowsocks/src/test/java/shadowsocks/SystemTest.java" timestamp="1494385010108">
+        <mark key="[" line="68" column="35" />
+        <mark key="]" line="68" column="39" />
+        <mark key="." line="68" column="39" />
+        <mark key="^" line="68" column="39" />
+      </file>
+      <file name="$USER_HOME$/workspace/search/search_core/pom.xml" timestamp="1495008765728">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="14" column="7" />
+      </file>
+      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/semantic/LabelRecheckerTest.java" timestamp="1495088242480">
+        <mark key="[" line="11" column="30" />
+        <mark key="]" line="11" column="45" />
+        <mark key="^" line="11" column="45" />
+        <mark key="." line="11" column="45" />
       </file>
       <file name="$USER_HOME$/workspace/zest/src/main/java/moud/Sec.java" timestamp="1495084152443">
         <mark key="[" line="13" column="35" />
@@ -53,6 +170,12 @@
         <mark key="]" line="41" column="39" />
         <mark key="^" line="41" column="39" />
         <mark key="." line="41" column="39" />
+      </file>
+      <file name="$USER_HOME$/workspace/yh_svr/src/main/java/com/yh/zhgp/util/config/AppInit.java" timestamp="1494825644703">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/resources/entity.proto" timestamp="1495010253226">
         <mark key="'" line="25" column="31" />
@@ -69,15 +192,8 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/pom.xml" timestamp="1495013598938">
-        <mark key="'" line="44" column="23" />
-        <mark key="[" line="237" column="0" />
-        <mark key="]" line="286" column="11" />
-        <mark key="." line="75" column="11" />
-        <mark key="^" line="75" column="11" />
-      </file>
-      <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/resources/poi.proto" timestamp="1495069121481">
-        <mark key="'" line="297" column="0" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/LabelRechecker.java" timestamp="1495087647760">
+        <mark key="'" line="140" column="24" />
       </file>
       <file name="/Dummy.txt" timestamp="1495020624028">
         <mark key="[" line="0" column="0" />
@@ -91,17 +207,12 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.3.RELEASE/spring-context-4.3.3.RELEASE-sources.jar!/org/springframework/scheduling/annotation/ScheduledAnnotationBeanPostProcessor.java" timestamp="1494864003725">
         <mark key="'" line="333" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/search_tool/pom.xml" timestamp="1495010589478">
-        <mark key="'" line="122" column="24" />
-        <mark key="[" line="123" column="23" />
-        <mark key="]" line="123" column="24" />
-        <mark key="." line="123" column="24" />
-      </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" timestamp="1494853121932">
-        <mark key="'" line="125" column="49" />
-      </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/search_core/PosSorterTest.java" timestamp="1495069204160">
-        <mark key="'" line="159" column="0" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" timestamp="1495087568877">
+        <mark key="'" line="387" column="0" />
+        <mark key="[" line="103" column="60" />
+        <mark key="]" line="103" column="60" />
+        <mark key="." line="103" column="60" />
+        <mark key="^" line="103" column="59" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/resources/common.proto" timestamp="1495009706329">
         <mark key="'" line="166" column="0" />
@@ -109,34 +220,24 @@
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/dsef/common/Common.java" timestamp="1495009166822">
         <mark key="'" line="4388" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search_tool/src/main/java/com/mx/server/search/tool/service/impl/DataInfoServiceImpl.java" timestamp="1495010604261">
-        <mark key="'" line="493" column="12" />
-      </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/dsef/poi/Poi.java" timestamp="1495008847096">
-        <mark key="'" line="27" column="2" />
-      </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/semantic/WordTypeJudgerTest.java" timestamp="1495071634113">
-        <mark key="'" line="22" column="32" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
-        <mark key="^" line="42" column="57" />
-      </file>
-      <file name="$USER_HOME$/workspace/yh_svr/src/main/java/com/yh/zhgp/util/config/JpaConfig.java" timestamp="1494841329981">
-        <mark key="'" line="49" column="41" />
-      </file>
       <file name="$USER_HOME$/workspace/search/common-conf/search.properties" timestamp="1495006952899">
         <mark key="'" line="105" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/semantic/SemanticAnalyzerTest.java" timestamp="1495087502798">
+        <mark key="'" line="54" column="0" />
+        <mark key="[" line="54" column="86" />
+        <mark key="]" line="54" column="86" />
+        <mark key="." line="54" column="86" />
+        <mark key="^" line="54" column="86" />
+      </file>
+      <file name="/fragment.java" timestamp="1495088197766">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="21" />
+        <mark key="." line="0" column="42" />
+        <mark key="^" line="0" column="21" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="39" filename="$USER_HOME$/workspace/yh_svr/src/main/resources/logback.xml" />
-      <jump line="39" column="39" filename="$USER_HOME$/workspace/yh_svr/src/main/resources/logback.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/yh_svr/src/main/resources/application.properties" />
-      <jump line="303" column="21" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/WEB-INF/view/index.jsp" />
-      <jump line="2" column="17" filename="$USER_HOME$/workspace/yh_svr/src/main/resources/logback.xml" />
-      <jump line="333" column="16" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.3.RELEASE/spring-context-4.3.3.RELEASE-sources.jar!/org/springframework/scheduling/annotation/ScheduledAnnotationBeanPostProcessor.java" />
-      <jump line="32" column="65" filename="$USER_HOME$/workspace/yh_svr/src/main/resources/logback.xml" />
       <jump line="68" column="77" filename="$USER_HOME$/workspace/yh_svr/src/main/resources/logback.xml" />
       <jump line="49" column="41" filename="$USER_HOME$/workspace/yh_svr/src/main/java/com/yh/zhgp/util/config/JpaConfig.java" />
       <jump line="34" column="0" filename="$USER_HOME$/workspace/yh_svr/src/main/java/com/yh/zhgp/util/config/WebMvcConfig.java" />
@@ -230,6 +331,13 @@
       <jump line="46" column="72" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/UserInputPreProcess.java" />
       <jump line="61" column="48" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/UserInputPreProcess.java" />
       <jump line="367" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/UserInputPreProcess.java" />
+      <jump line="59" column="43" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" />
+      <jump line="21" column="11" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
+      <jump line="147" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
+      <jump line="54" column="0" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/semantic/SemanticAnalyzerTest.java" />
+      <jump line="32" column="32" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" />
+      <jump line="387" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" />
+      <jump line="140" column="24" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/LabelRechecker.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -239,57 +347,56 @@
         <text>term</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>市政府</text>
       </register>
       <register name="/" type="4">
-        <text>plugins</text>
+        <text encoding="base64">XDxyZWxhYmVsVGVybXNcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>368080413</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBwYXJhbS5zZXRLZXl3b3Jkcygi5rKI6ZizXHUzMDAw5biC5pS/5bqcIik7CiAgICAgICAgQXNzZXJ0LmFzc2VydFRydWUobmV3IFNlbWFudGljQW5hbHl6ZXIoKS5hbmFseXplKHBhcmFtKS5nZXRlTGFiZWxzKCkuZXF1YWxzKCJSWCIpKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBnZXROZWFyZXN0RGlzdHJpY3QoKSB0aHJvd3MgRXhjZXB0aW9uIHsKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBQb2ludCBwdCA9IG5ldyBQb2ludCgxMDcyNjc4NDIyLCAzNjgwODA0MTMpOy8vIOWMl+S6rAo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBwYXJhbS5zZXRLZXl3b3Jkcygi5rKI6Ziz576O6KGM56eR5oqAIik7Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBQb2ludCBwdCA9IG5ldyBQb2ludCgxMDcyNjc4NDIyLCAzNjgwODA0MTMpOy8vIOWMl+S6rAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAg5rOo6YeK5o6JCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBQb3dlck1vY2tpdG8ucHJlcGEK</text>
+        <text encoding="base64">ICAgICAgICBhTWVudUxpc3QK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcubW9ja2l0by5Nb2NraXRvLndoZW47Cg==</text>
+        <text encoding="base64">ICAgICAgICBuZXcgS2V5d29yZFBhcmFtKCkuc2V0Q291bnRyeSgiQ0hOIik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>plugins</last-search>
+      <last-search encoding="base64">XDxyZWxhYmVsVGVybXNcPg==</last-search>
       <last-offset />
-      <last-pattern>plugins</last-pattern>
+      <last-pattern encoding="base64">XDxyZWxhYmVsVGVybXNcPg==</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>web</entry>
         <entry>logback</entry>
         <entry>slf4</entry>
         <entry encoding="base64">XDxsb2dfZGlyXD4=</entry>
@@ -309,6 +416,7 @@
         <entry>search_data</entry>
         <entry>kryo</entry>
         <entry>plugins</entry>
+        <entry encoding="base64">XDxyZWxhYmVsVGVybXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>action CollapseBlock</entry>
