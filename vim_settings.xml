@@ -145,6 +145,9 @@
       <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/dsef/common/Common.java" timestamp="1495021572117">
         <mark key="'" line="4136" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/UserInputPreProcess.java" timestamp="1495076347880">
+        <mark key="'" line="367" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/yh_svr/src/main/java/com/yh/zhgp/util/ScheduleTask.java" timestamp="1494832623714">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -211,8 +214,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="39" filename="$USER_HOME$/workspace/yh_svr/src/main/resources/logback.xml" />
-      <jump line="69" column="39" filename="$USER_HOME$/workspace/yh_svr/src/main/resources/logback.xml" />
       <jump line="6" column="20" filename="$USER_HOME$/workspace/yh_svr/src/main/resources/logback.xml" />
       <jump line="24" column="39" filename="$USER_HOME$/workspace/yh_svr/src/main/resources/logback.xml" />
       <jump line="39" column="39" filename="$USER_HOME$/workspace/yh_svr/src/main/resources/logback.xml" />
@@ -311,6 +312,8 @@
       <jump line="38" column="28" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/semantic/WordTypeJudgerTest.java" />
       <jump line="32" column="17" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/semantic/WordTypeJudgerTest.java" />
       <jump line="13" column="32" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/semantic/WordTypeJudgerTest.java" />
+      <jump line="46" column="72" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/UserInputPreProcess.java" />
+      <jump line="367" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/UserInputPreProcess.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
