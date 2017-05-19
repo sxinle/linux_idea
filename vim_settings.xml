@@ -71,7 +71,8 @@
       <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/resources/poi.proto" timestamp="1495069121481">
         <mark key="'" line="297" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/CacheManager.java" timestamp="1495156725330">
+      <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/CacheManager.java" timestamp="1495156739008">
+        <mark key="'" line="50" column="0" />
         <mark key="[" line="31" column="67" />
         <mark key="]" line="27" column="25" />
         <mark key="^" line="27" column="25" />
@@ -224,8 +225,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="63" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/WEB-INF/view/index.jsp" />
-      <jump line="125" column="49" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" />
       <jump line="33" column="41" filename="$USER_HOME$/workspace/zest/src/main/java/moud/Sec.java" />
       <jump line="30" column="4" filename="$USER_HOME$/workspace/yh_svr/src/main/java/com/yh/zhgp/util/Util.java" />
       <jump line="14" column="13" filename="$USER_HOME$/workspace/yh_svr/src/main/java/shadowsocks/Shadowsocks.java" />
@@ -324,6 +323,8 @@
       <jump line="187" column="33" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" />
       <jump line="42" column="48" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/semantic/UserInputSpecialCaseTest.java" />
       <jump line="20" column="8" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/semantic/UserInputSpecialCaseTest.java" />
+      <jump line="27" column="54" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/CacheManager.java" />
+      <jump line="50" column="0" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/CacheManager.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
