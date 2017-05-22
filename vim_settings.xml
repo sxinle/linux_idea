@@ -73,8 +73,8 @@
         <mark key="^" line="16" column="98" />
         <mark key="." line="16" column="98" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/resources/poi.proto" timestamp="1495417433804">
-        <mark key="'" line="208" column="0" />
+      <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/resources/poi.proto" timestamp="1495418830823">
+        <mark key="'" line="141" column="10" />
         <mark key="[" line="177" column="8" />
         <mark key="]" line="177" column="19" />
       </file>
@@ -109,7 +109,7 @@
       <file name="$USER_HOME$/workspace/search/search_core/src/test/java/search_core/PosSorterTest.java" timestamp="1495069204160">
         <mark key="'" line="159" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/doc/GridInfo.java" timestamp="1495418215377">
+      <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/doc/GridInfo.java" timestamp="1495418719264">
         <mark key="'" line="55" column="43" />
       </file>
       <file name="$USER_HOME$/workspace/search_tool/src/main/java/com/mx/server/search/tool/service/impl/DataInfoServiceImpl.java" timestamp="1495010604261">
@@ -210,6 +210,13 @@
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/UserInputPreProcess.java" timestamp="1495083833026">
         <mark key="'" line="367" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/dsef/poi/Poi.java" timestamp="1495418815986">
+        <mark key="'" line="9673" column="93" />
+        <mark key="[" line="4353" column="0" />
+        <mark key="]" line="4353" column="98" />
+        <mark key="." line="4353" column="61" />
+        <mark key="^" line="4353" column="61" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.3.RELEASE/spring-context-4.3.3.RELEASE-sources.jar!/org/springframework/scheduling/annotation/ScheduledAnnotationBeanPostProcessor.java" timestamp="1494864003725">
         <mark key="'" line="333" column="16" />
       </file>
@@ -242,19 +249,14 @@
         <mark key="." line="54" column="86" />
         <mark key="^" line="54" column="86" />
       </file>
-      <file name="/fragment.java" timestamp="1495184581308">
+      <file name="/fragment.java" timestamp="1495419096969">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="7" />
-        <mark key="." line="0" column="7" />
-        <mark key="^" line="0" column="7" />
+        <mark key="]" line="0" column="36" />
+        <mark key="." line="0" column="36" />
+        <mark key="^" line="0" column="36" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="2" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/dsef/poi/Poi.java" />
-      <jump line="170" column="23" filename="$USER_HOME$/workspace/search/pom.xml" />
-      <jump line="244" column="18" filename="$USER_HOME$/workspace/search/pom.xml" />
-      <jump line="12" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/dsef/common/Common.java" />
-      <jump line="4388" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/dsef/common/Common.java" />
       <jump line="18" column="2" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/dsef/root/Root.java" />
       <jump line="2291" column="23" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/dsef/poi/Poi.java" />
       <jump line="2623" column="32" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/dsef/root/Root.java" />
@@ -350,6 +352,11 @@
       <jump line="199" column="29" filename="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/net/HttpURLConnection.java" />
       <jump line="208" column="0" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/resources/poi.proto" />
       <jump line="55" column="43" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/doc/GridInfo.java" />
+      <jump line="4353" column="61" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/dsef/poi/Poi.java" />
+      <jump line="9625" column="45" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/dsef/poi/Poi.java" />
+      <jump line="9673" column="93" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/dsef/poi/Poi.java" />
+      <jump line="19" column="3" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/resources/poi.proto" />
+      <jump line="141" column="10" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/resources/poi.proto" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -362,10 +369,10 @@
         <text>InvalidProtocolBuffer</text>
       </register>
       <register name="/" type="4">
-        <text>state code</text>
+        <text>geom</text>
       </register>
-      <register name="0" type="4">
-        <text>PoiGrideData</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obGlua0RhdGEuaGFzaENvZG5lKCkpOy5wYXJzZXIoKSwgZXh0ZW5zaW9uUmVnaXN0cnkpKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBjb25uLmdlCg==</text>
@@ -399,17 +406,16 @@
       </register>
     </registers>
     <search>
-      <last-search>state code</last-search>
+      <last-search>geom</last-search>
       <last-offset />
-      <last-pattern>state code</last-pattern>
+      <last-pattern>geom</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>up</entry>
         <entry>max</entry>
         <entry>hour</entry>
         <entry>Pautern</entry>
@@ -429,6 +435,7 @@
         <entry>stat</entry>
         <entry>state</entry>
         <entry>state code</entry>
+        <entry>geom</entry>
       </history-search>
       <history-cmd>
         <entry>action CollapseBlock</entry>
