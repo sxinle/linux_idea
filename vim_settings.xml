@@ -109,8 +109,8 @@
       <file name="$USER_HOME$/workspace/search/search_core/src/test/java/search_core/PosSorterTest.java" timestamp="1495069204160">
         <mark key="'" line="159" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/doc/GridInfo.java" timestamp="1495418719264">
-        <mark key="'" line="55" column="43" />
+      <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/doc/GridInfo.java" timestamp="1495434497073">
+        <mark key="'" line="28" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/search_tool/src/main/java/com/mx/server/search/tool/service/impl/DataInfoServiceImpl.java" timestamp="1495010604261">
         <mark key="'" line="493" column="12" />
@@ -134,7 +134,6 @@
       <file name="$USER_HOME$/workspace/yh_svr/src/main/java/com/yh/zhgp/util/config/JpaConfig.java" timestamp="1494841329981">
         <mark key="'" line="49" column="41" />
       </file>
-      <file name="$USER_HOME$/workspace/yh_svr/src/main/webapp/WEB-INF/view/index.jsp" timestamp="1495156123988" />
       <file name="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/business/poi/action/PoiController.java" timestamp="1495006901600">
         <mark key="'" line="449" column="0" />
       </file>
@@ -195,6 +194,13 @@
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/LabelRechecker.java" timestamp="1495087647760">
         <mark key="'" line="140" column="24" />
       </file>
+      <file name="$USER_HOME$/workspace/search/pom.xml" timestamp="1495434538511">
+        <mark key="'" line="131" column="23" />
+        <mark key="[" line="275" column="35" />
+        <mark key="]" line="275" column="39" />
+        <mark key="." line="275" column="39" />
+        <mark key="^" line="275" column="39" />
+      </file>
       <file name="/Dummy.txt" timestamp="1495423149080">
         <mark key="[" line="0" column="0" />
       </file>
@@ -254,16 +260,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/resources/entity.proto" />
-      <jump line="25" column="31" filename="$USER_HOME$/workspace/search/search_core/src/main/resources/entity.proto" />
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/search_tool/pom.xml" />
-      <jump line="122" column="24" filename="$USER_HOME$/workspace/search_tool/pom.xml" />
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/search/pom.xml" />
-      <jump line="13" column="16" filename="$USER_HOME$/workspace/search/pom.xml" />
-      <jump line="374" column="59" filename="$USER_HOME$/workspace/search_tool/src/main/java/com/mx/server/search/tool/service/impl/DataInfoServiceImpl.java" />
-      <jump line="493" column="12" filename="$USER_HOME$/workspace/search_tool/src/main/java/com/mx/server/search/tool/service/impl/DataInfoServiceImpl.java" />
-      <jump line="46" column="28" filename="$USER_HOME$/workspace/search/pom.xml" />
-      <jump line="8" column="61" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/Test.java" />
       <jump line="219" column="0" filename="$USER_HOME$/workspace/search/pom.xml" />
       <jump line="101" column="16" filename="$USER_HOME$/workspace/search/pom.xml" />
       <jump line="41" column="29" filename="$USER_HOME$/workspace/search/pom.xml" />
@@ -354,6 +350,16 @@
       <jump line="10" column="13" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/models/Poi.java" />
       <jump line="73" column="0" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/models/Poi.java" />
       <jump line="12" column="28" filename="$USER_HOME$/workspace/zest/src/main/java/com/CacheManager.java" />
+      <jump line="75" column="8" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/doc/GridInfo.java" />
+      <jump line="28" column="0" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/doc/GridInfo.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/search/pom.xml" />
+      <jump line="298" column="0" filename="$USER_HOME$/workspace/search/pom.xml" />
+      <jump line="108" column="16" filename="$USER_HOME$/workspace/search/pom.xml" />
+      <jump line="113" column="23" filename="$USER_HOME$/workspace/search/pom.xml" />
+      <jump line="117" column="35" filename="$USER_HOME$/workspace/search/pom.xml" />
+      <jump line="119" column="23" filename="$USER_HOME$/workspace/search/pom.xml" />
+      <jump line="125" column="23" filename="$USER_HOME$/workspace/search/pom.xml" />
+      <jump line="131" column="23" filename="$USER_HOME$/workspace/search/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -363,10 +369,10 @@
         <text>term</text>
       </register>
       <register name="-" type="4">
-        <text>line</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
-        <text>likk</text>
+        <text>skip</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8a3J5by52ZXJzaW9uPjQuMC4wPC9rcnlvLnZlcnNpb24+Cg==</text>
@@ -403,9 +409,9 @@
       </register>
     </registers>
     <search>
-      <last-search>likk</last-search>
+      <last-search>skip</last-search>
       <last-offset />
-      <last-pattern>likk</last-pattern>
+      <last-pattern>skip</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -413,8 +419,6 @@
     </search>
     <history>
       <history-search>
-        <entry>hour</entry>
-        <entry>Pautern</entry>
         <entry>logo</entry>
         <entry>fav</entry>
         <entry>3</entry>
@@ -433,6 +437,8 @@
         <entry>state code</entry>
         <entry>geom</entry>
         <entry>likk</entry>
+        <entry>test</entry>
+        <entry>skip</entry>
       </history-search>
       <history-cmd>
         <entry>action CollapseBlock</entry>
