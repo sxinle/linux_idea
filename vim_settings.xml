@@ -47,11 +47,12 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/util/DataProducer.java" timestamp="1495453119985">
-        <mark key="'" line="35" column="0" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/util/DataProducer.java" timestamp="1495453408956">
+        <mark key="'" line="49" column="0" />
+        <mark key="[" line="18" column="32" />
+        <mark key="]" line="19" column="29" />
+        <mark key="." line="19" column="29" />
+        <mark key="^" line="19" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/yh_svr/src/main/java/com/yh/zhgp/util/config/StartupListener.java" timestamp="1494920983478">
         <mark key="[" line="24" column="36" />
@@ -420,13 +421,13 @@
         <text>term</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>I</text>
       </register>
       <register name="/" type="4">
         <text>seri</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcG9pLnNldE5hbWVfY24oci5nZXROYW1lcygwKSk7Cg==</text>
+        <text encoding="base64">ICAgIHN0YXRpYyBmaW5hbCBTdHJpbmcgUE9JX0RBVEFfUEFUSCA9ICIvaG9tZS9oc29uZy8uc2hhcmUvUG9pRGF0YTQzODA3Mi5wcm90byI7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
