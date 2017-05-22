@@ -21,7 +21,13 @@
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="38" />
       </file>
-      <file name="/a.dummy" timestamp="1495445327791">
+      <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/util/DataMaker.java" timestamp="1495451313177">
+        <mark key="[" line="7" column="17" />
+        <mark key="]" line="7" column="24" />
+        <mark key="." line="7" column="24" />
+        <mark key="^" line="7" column="24" />
+      </file>
+      <file name="/a.dummy" timestamp="1495451288943">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" timestamp="1495179652173">
@@ -40,6 +46,9 @@
       <file name="$USER_HOME$/workspace/search/search_data/pom.xml" timestamp="1495443768993">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="34" />
+      </file>
+      <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/util/DataProducer.java" timestamp="1495451329828">
+        <mark key="'" line="17" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/yh_svr/src/main/java/com/yh/zhgp/util/config/StartupListener.java" timestamp="1494920983478">
         <mark key="[" line="24" column="36" />
@@ -230,7 +239,7 @@
         <mark key="." line="240" column="53" />
         <mark key="^" line="240" column="53" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495445432757">
+      <file name="/Dummy.txt" timestamp="1495451322855">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/dsef/common/Common.java" timestamp="1495445464021">
@@ -245,8 +254,8 @@
         <mark key="." line="23" column="28" />
         <mark key="^" line="23" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/data/NdsCache.java" timestamp="1495445515540">
-        <mark key="'" line="89" column="37" />
+      <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/data/NdsCache.java" timestamp="1495451272405">
+        <mark key="'" line="136" column="52" />
         <mark key="[" line="136" column="120" />
         <mark key="]" line="137" column="15" />
         <mark key="." line="137" column="15" />
@@ -280,7 +289,8 @@
         <mark key="." line="31" column="3" />
         <mark key="^" line="31" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/search/common-conf/search.properties" timestamp="1495445073272">
+      <file name="$USER_HOME$/workspace/search/common-conf/search.properties" timestamp="1495451190836">
+        <mark key="'" line="96" column="40" />
         <mark key="[" line="109" column="0" />
         <mark key="]" line="109" column="17" />
         <mark key="^" line="109" column="32" />
@@ -297,12 +307,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="8" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/semantic/UserInputSpecialCaseTest.java" />
-      <jump line="238" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" />
-      <jump line="92" column="20" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" />
-      <jump line="54" column="40" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" />
-      <jump line="46" column="23" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" />
-      <jump line="187" column="33" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" />
       <jump line="42" column="48" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/semantic/UserInputSpecialCaseTest.java" />
       <jump line="20" column="8" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/semantic/UserInputSpecialCaseTest.java" />
       <jump line="27" column="54" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/CacheManager.java" />
@@ -364,7 +368,6 @@
       <jump line="101" column="25" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
       <jump line="85" column="33" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
       <jump line="111" column="0" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
       <jump line="74" column="37" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/data/NdsCache.java" />
       <jump line="94" column="0" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/data/NdsCache.java" />
       <jump line="103" column="0" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/data/NdsCache.java" />
@@ -397,6 +400,13 @@
       <jump line="4136" column="0" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/dsef/common/Common.java" />
       <jump line="22" column="71" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/dsef/admin/Admin.java" />
       <jump line="89" column="37" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/data/NdsCache.java" />
+      <jump line="107" column="0" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
+      <jump line="109" column="0" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
+      <jump line="96" column="40" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
+      <jump line="136" column="52" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/data/NdsCache.java" />
+      <jump line="15" column="0" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/util/DataProducer.java" />
+      <jump line="17" column="0" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/util/DataProducer.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -406,7 +416,7 @@
         <text>term</text>
       </register>
       <register name="-" type="4">
-        <text>dataSerializePath</text>
+        <text>Maker</text>
       </register>
       <register name="/" type="4">
         <text>seri</text>
