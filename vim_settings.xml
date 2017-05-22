@@ -73,8 +73,10 @@
         <mark key="^" line="16" column="98" />
         <mark key="." line="16" column="98" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/resources/poi.proto" timestamp="1495069121481">
-        <mark key="'" line="297" column="0" />
+      <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/resources/poi.proto" timestamp="1495417433804">
+        <mark key="'" line="208" column="0" />
+        <mark key="[" line="177" column="8" />
+        <mark key="]" line="177" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/CacheManager.java" timestamp="1495156739008">
         <mark key="'" line="50" column="0" />
@@ -106,6 +108,9 @@
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/test/java/search_core/PosSorterTest.java" timestamp="1495069204160">
         <mark key="'" line="159" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/doc/GridInfo.java" timestamp="1495418215377">
+        <mark key="'" line="55" column="43" />
       </file>
       <file name="$USER_HOME$/workspace/search_tool/src/main/java/com/mx/server/search/tool/service/impl/DataInfoServiceImpl.java" timestamp="1495010604261">
         <mark key="'" line="493" column="12" />
@@ -186,16 +191,17 @@
       <file name="$USER_HOME$/workspace/search/search_core/src/main/resources/entity.proto" timestamp="1495010253226">
         <mark key="'" line="25" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/Test.java" timestamp="1495416125544">
-        <mark key="[" line="10" column="129" />
-        <mark key="]" line="11" column="48" />
-        <mark key="." line="11" column="48" />
-        <mark key="^" line="11" column="48" />
+      <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/Test.java" timestamp="1495417642289">
+        <mark key="[" line="13" column="142" />
+        <mark key="]" line="14" column="49" />
+        <mark key="." line="14" column="49" />
+        <mark key="^" line="14" column="49" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/LabelRechecker.java" timestamp="1495087647760">
         <mark key="'" line="140" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495171573050">
+      <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/resources/entity.proto" timestamp="1495417828281" />
+      <file name="/Dummy.txt" timestamp="1495417179340">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/dsef/common/Common.java" timestamp="1495021572117">
@@ -244,8 +250,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="0" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
-      <jump line="83" column="21" filename="$USER_HOME$/workspace/search/pom.xml" />
       <jump line="27" column="2" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/dsef/poi/Poi.java" />
       <jump line="170" column="23" filename="$USER_HOME$/workspace/search/pom.xml" />
       <jump line="244" column="18" filename="$USER_HOME$/workspace/search/pom.xml" />
@@ -344,6 +348,8 @@
       <jump line="157" column="29" filename="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/net/HttpURLConnection.java" />
       <jump line="188" column="23" filename="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/net/HttpURLConnection.java" />
       <jump line="199" column="29" filename="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/net/HttpURLConnection.java" />
+      <jump line="208" column="0" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/resources/poi.proto" />
+      <jump line="55" column="43" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/doc/GridInfo.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -359,7 +365,7 @@
         <text>state code</text>
       </register>
       <register name="0" type="4">
-        <text>conn.getResponseCode();</text>
+        <text>PoiGrideData</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBjb25uLmdlCg==</text>
