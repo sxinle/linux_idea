@@ -33,7 +33,8 @@
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" timestamp="1495179652173">
         <mark key="'" line="244" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" timestamp="1495444906996">
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" timestamp="1495501412245">
+        <mark key="'" line="40" column="39" />
         <mark key="[" line="153" column="0" />
         <mark key="]" line="185" column="20" />
       </file>
@@ -126,11 +127,15 @@
         <mark key="." line="26" column="43" />
         <mark key="^" line="26" column="43" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" timestamp="1495085642423">
-        <mark key="'" line="147" column="0" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" timestamp="1495503237412">
+        <mark key="'" line="167" column="0" />
+        <mark key="[" line="22" column="27" />
+        <mark key="]" line="22" column="55" />
+        <mark key="^" line="22" column="26" />
+        <mark key="." line="22" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/ServerConfig.java" timestamp="1495445083495">
-        <mark key="'" line="134" column="0" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/ServerConfig.java" timestamp="1495503148934">
+        <mark key="'" line="15" column="0" />
         <mark key="[" line="248" column="14" />
         <mark key="]" line="248" column="21" />
         <mark key="." line="248" column="21" />
@@ -223,14 +228,14 @@
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/LabelRechecker.java" timestamp="1495087647760">
         <mark key="'" line="140" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/search/pom.xml" timestamp="1495454950155">
-        <mark key="'" line="320" column="0" />
-        <mark key="[" line="189" column="38" />
-        <mark key="]" line="189" column="38" />
-        <mark key="." line="189" column="38" />
-        <mark key="^" line="189" column="38" />
+      <file name="$USER_HOME$/workspace/search/pom.xml" timestamp="1495502242011">
+        <mark key="'" line="292" column="58" />
+        <mark key="[" line="296" column="35" />
+        <mark key="]" line="296" column="39" />
+        <mark key="." line="296" column="39" />
+        <mark key="^" line="296" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495457225833">
+      <file name="/Dummy.txt" timestamp="1495503217818">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/dsef/common/Common.java" timestamp="1495445464021">
@@ -280,14 +285,14 @@
         <mark key="." line="31" column="3" />
         <mark key="^" line="31" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/search/common-conf/search.properties" timestamp="1495451190836">
-        <mark key="'" line="96" column="40" />
-        <mark key="[" line="109" column="0" />
-        <mark key="]" line="109" column="17" />
-        <mark key="^" line="109" column="32" />
-        <mark key="." line="109" column="32" />
+      <file name="$USER_HOME$/workspace/search/common-conf/search.properties" timestamp="1495503127193">
+        <mark key="'" line="12" column="36" />
+        <mark key="[" line="18" column="7" />
+        <mark key="]" line="18" column="7" />
+        <mark key="^" line="18" column="7" />
+        <mark key="." line="18" column="7" />
       </file>
-      <file name="/fragment.java" timestamp="1495454588140">
+      <file name="/fragment.java" timestamp="1495502305770">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="36" />
         <mark key="." line="0" column="36" />
@@ -298,52 +303,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="215" column="12" filename="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/net/HttpURLConnection.java" />
-      <jump line="236" column="23" filename="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/net/HttpURLConnection.java" />
-      <jump line="244" column="29" filename="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/net/HttpURLConnection.java" />
-      <jump line="247" column="29" filename="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/net/HttpURLConnection.java" />
-      <jump line="143" column="23" filename="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/net/HttpURLConnection.java" />
-      <jump line="154" column="29" filename="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/net/HttpURLConnection.java" />
-      <jump line="157" column="29" filename="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/net/HttpURLConnection.java" />
-      <jump line="188" column="23" filename="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/net/HttpURLConnection.java" />
-      <jump line="199" column="29" filename="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/net/HttpURLConnection.java" />
-      <jump line="208" column="0" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/resources/poi.proto" />
-      <jump line="55" column="43" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/doc/GridInfo.java" />
-      <jump line="4353" column="61" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/dsef/poi/Poi.java" />
-      <jump line="9625" column="45" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/dsef/poi/Poi.java" />
-      <jump line="9673" column="93" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/dsef/poi/Poi.java" />
-      <jump line="19" column="3" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/resources/poi.proto" />
-      <jump line="141" column="10" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/resources/poi.proto" />
-      <jump line="78" column="0" filename="$USER_HOME$/workspace/search/search_nds_protobuf/pom.xml" />
-      <jump line="415" column="24" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/RouteSearcher.java" />
-      <jump line="10" column="13" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/models/Poi.java" />
-      <jump line="73" column="0" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/models/Poi.java" />
-      <jump line="12" column="28" filename="$USER_HOME$/workspace/zest/src/main/java/com/CacheManager.java" />
-      <jump line="75" column="8" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/doc/GridInfo.java" />
-      <jump line="28" column="0" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/doc/GridInfo.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/search/pom.xml" />
-      <jump line="298" column="0" filename="$USER_HOME$/workspace/search/pom.xml" />
-      <jump line="108" column="16" filename="$USER_HOME$/workspace/search/pom.xml" />
-      <jump line="113" column="23" filename="$USER_HOME$/workspace/search/pom.xml" />
-      <jump line="117" column="35" filename="$USER_HOME$/workspace/search/pom.xml" />
-      <jump line="119" column="23" filename="$USER_HOME$/workspace/search/pom.xml" />
-      <jump line="125" column="23" filename="$USER_HOME$/workspace/search/pom.xml" />
-      <jump line="131" column="23" filename="$USER_HOME$/workspace/search/pom.xml" />
-      <jump line="268" column="35" filename="$USER_HOME$/workspace/search/pom.xml" />
-      <jump line="15" column="34" filename="$USER_HOME$/workspace/search/pom.xml" />
-      <jump line="299" column="0" filename="$USER_HOME$/workspace/search/pom.xml" />
-      <jump line="18" column="39" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
-      <jump line="102" column="0" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
-      <jump line="100" column="23" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
-      <jump line="12" column="0" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/CacheManager.java" />
-      <jump line="12" column="36" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/data/NdsCache.java" />
-      <jump line="55" column="12" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/data/NdsCache.java" />
-      <jump line="82" column="51" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
-      <jump line="101" column="25" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
-      <jump line="85" column="33" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
-      <jump line="111" column="0" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
-      <jump line="74" column="37" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/data/NdsCache.java" />
       <jump line="94" column="0" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/data/NdsCache.java" />
       <jump line="103" column="0" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/data/NdsCache.java" />
       <jump line="55" column="27" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/data/NdsCache.java" />
@@ -358,10 +317,7 @@
       <jump line="44" column="8" filename="$USER_HOME$/workspace/search/pom.xml" />
       <jump line="240" column="53" filename="$USER_HOME$/workspace/search/pom.xml" />
       <jump line="108" column="14" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
-      <jump line="104" column="15" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
-      <jump line="88" column="19" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
       <jump line="17" column="0" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
-      <jump line="94" column="17" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
       <jump line="103" column="6" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
       <jump line="124" column="0" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/data/NdsCache.java" />
       <jump line="134" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/ServerConfig.java" />
@@ -376,9 +332,6 @@
       <jump line="22" column="71" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/dsef/admin/Admin.java" />
       <jump line="89" column="37" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/data/NdsCache.java" />
       <jump line="107" column="0" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
-      <jump line="109" column="0" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
-      <jump line="96" column="40" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
       <jump line="136" column="52" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/data/NdsCache.java" />
       <jump line="15" column="0" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/util/DataProducer.java" />
       <jump line="17" column="0" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/util/DataProducer.java" />
@@ -398,6 +351,58 @@
       <jump line="129" column="0" filename="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/GenericController.java" />
       <jump line="12" column="0" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/util/DataProducer.java" />
       <jump line="49" column="0" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/util/DataProducer.java" />
+      <jump line="16" column="34" filename="$USER_HOME$/workspace/search/pom.xml" />
+      <jump line="40" column="39" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
+      <jump line="13" column="17" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/ServerConfig.java" />
+      <jump line="16" column="11" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/ServerConfig.java" />
+      <jump line="18" column="15" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/ServerConfig.java" />
+      <jump line="19" column="11" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/ServerConfig.java" />
+      <jump line="292" column="58" filename="$USER_HOME$/workspace/search/pom.xml" />
+      <jump line="18" column="39" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
+      <jump line="109" column="0" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
+      <jump line="5" column="28" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
+      <jump line="6" column="57" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
+      <jump line="57" column="11" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
+      <jump line="69" column="0" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
+      <jump line="9" column="76" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
+      <jump line="60" column="11" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
+      <jump line="80" column="48" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
+      <jump line="81" column="52" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
+      <jump line="82" column="52" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
+      <jump line="102" column="23" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
+      <jump line="101" column="0" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
+      <jump line="13" column="0" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
+      <jump line="64" column="11" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
+      <jump line="83" column="48" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
+      <jump line="84" column="52" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
+      <jump line="85" column="52" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
+      <jump line="91" column="71" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
+      <jump line="92" column="77" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
+      <jump line="93" column="83" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
+      <jump line="104" column="0" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
+      <jump line="16" column="0" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
+      <jump line="111" column="0" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
+      <jump line="3" column="26" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
+      <jump line="7" column="9" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
+      <jump line="110" column="0" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
+      <jump line="96" column="32" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
+      <jump line="95" column="34" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
+      <jump line="94" column="32" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
+      <jump line="90" column="46" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
+      <jump line="89" column="46" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
+      <jump line="88" column="46" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
+      <jump line="87" column="46" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
+      <jump line="86" column="30" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
+      <jump line="15" column="32" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
+      <jump line="66" column="11" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
+      <jump line="1" column="30" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
+      <jump line="12" column="36" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
+      <jump line="15" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/ServerConfig.java" />
+      <jump line="18" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
+      <jump line="171" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
+      <jump line="167" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -407,59 +412,56 @@
         <text>term</text>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text>dataseria</text>
       </register>
       <register name="/" type="4">
-        <text>seri</text>
+        <text>nds</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmdvb2dsZS5wcm90b2J1ZjwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+cHJvdG9idWYtamF2YTwvYXJ0aWZhY3RJZD4KICAgICAgICA8L2RlcGVuZGVuY3k+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPmNvbS52aXZpZHNvbHV0aW9uczwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+anRzPC9hcnRpZmFjdElkPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">Iy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLeOAkHNlYXJjaF9jb3Jl44CRLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLnZpdmlkc29sdXRpb25zPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5qdHM8L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">I214LnNlYXJjaC5kYXRhX3BhdGg9ZTovCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+JHtwcm90b2J1Zi52ZXJzaW9ufTwvdmVyc2lvbj4K</text>
+        <text encoding="base64">Iy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLeOAkHNlYXJjaF9kYXRh44CRLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Iy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLeOAkHNlYXJjaF9kYXRh44CRLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDwvcHJvcGVydGllcz4K</text>
+        <text encoding="base64">bmRzLmRhdGFzZXJpYS5wYXRoPS9tbnQvZGF0YS9uZHMvCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxwcm9wZXJ0aWVzPgogICAgICAgIDxwcm90b2J1Zi52ZXJzaW9uPjMuMy4wPC9wcm90b2J1Zi52ZXJzaW9uPgogICAgICAgIDxqdHMudmVyc2lvbj4xLjEzPC9qdHMudmVyc2lvbj4K</text>
+        <text encoding="base64">Iy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLeOAkHNlYXJjaF9kYXRh44CRLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiNkYXRhLnNlcmlhbGl6ZS5wYXRoPUQ6XFx3b3Jrc3BhY2VcXHNlYXJjaF90b29sXFxkYXRhSW5mb1xcc2VyaWFsaXplXFwKZGF0YS5zZXJpYWxpemUucGF0aD0vbW50L2RhdGEvCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+MS4xMzwvdmVyc2lvbj4K</text>
+        <text encoding="base64">I3BsYWNlQVBJ55SoCiNteC5zZWFyY2guZGF0YV9wYXRoPWU6LwpteC5zZWFyY2guZGF0YV9wYXRoPS9kYXRhLwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8a3J5by52ZXJzaW9uPjQuMC4wPC9rcnlvLnZlcnNpb24+Cg==</text>
+        <text encoding="base64">I+ihjOaUv+WMuuWQjeensOWQjue8gOaWh+S7tgojY29yZS5zZWFyY2guZGlzdHN1ZmZpeC5wYXRoICAgICA9IEQ6L3NvZnR3YXJlL3dzbmV3L3NlYXJjaC9jb21tb24tY29uZi9kaXN0U3VmZml4Lmpzb24KY29yZS5zZWFyY2guZGlzdHN1ZmZpeC5wYXRoICAgICA9IC9ob21lL2xua2R3amwvd29ya3NwYWNlL3NlYXJjaC9jb21tb24tY29uZi9kaXN0U3VmZml4Lmpzb24K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+JHtrcnlvLnZlcnNpb259PC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">IyBvc25hbWUgPSB3aW4vbGludXggIOWIh+aNouWIhuivjeivjeWFuOi3r+W+hApjb3JlLm9zbmFtZSAgICAgICAgPSBsaW51eApjb3JlLmpuaWxpYi5saW51eCAgPSAvaG9tZS9oc29uZy93b3Jrc3BhY2Uvc2VhcmNoL2NvbW1vbi1jb25mL2xpYlNlZy5zbwpjb3JlLmpuaWRpY3QubGludXggPSAvaG9tZS9oc29uZy93b3Jrc3BhY2Uvc2VhcmNoL2NvbW1vbi1jb25mLzAwNy5kYXQKY29yZS5qbmlsaWIud2luICAgID0gRDovc29mdHdhcmUvd3NuZXcvc2VhcmNoL2NvbW1vbi1jb25mL2xpYlNlZy5kbGwKY29yZS5qbmlkaWN0LndpbiAgID0gRDovc29mdHdhcmUvd3NuZXcvc2VhcmNoL2NvbW1vbi1jb25mLzAwNy5kYXQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>seri</last-search>
+      <last-search>nds</last-search>
       <last-offset />
-      <last-pattern>seri</last-pattern>
+      <last-pattern>nds</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>3</entry>
-        <entry>qq.com</entry>
-        <entry>Connecting</entry>
         <entry>log</entry>
         <entry>1.8</entry>
         <entry>protobuf</entry>
@@ -474,12 +476,14 @@
         <entry>geom</entry>
         <entry>likk</entry>
         <entry>test</entry>
-        <entry>skip</entry>
         <entry>long</entry>
         <entry>seri</entry>
+        <entry>skip</entry>
+        <entry>jni</entry>
+        <entry>\/</entry>
+        <entry>nds</entry>
       </history-search>
       <history-cmd>
-        <entry>action CollapseBlock</entry>
         <entry>se list</entry>
         <entry>action AceAction</entry>
         <entry>action</entry>
@@ -498,6 +502,7 @@
         <entry encoding="base64">JzwsJz5zLyIvXFwiL2c=</entry>
         <entry>nohl</entry>
         <entry>action $Redo</entry>
+        <entry>noh</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
