@@ -119,25 +119,27 @@
         <mark key="." line="26" column="43" />
         <mark key="^" line="26" column="43" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" timestamp="1495508202932">
-        <mark key="'" line="167" column="0" />
-        <mark key="[" line="30" column="58" />
-        <mark key="]" line="30" column="59" />
-        <mark key="^" line="30" column="59" />
-        <mark key="." line="30" column="59" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" timestamp="1495511800229">
+        <mark key="'" line="27" column="43" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="27" column="36" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/ServerConfig.java" timestamp="1495508091587">
-        <mark key="'" line="18" column="0" />
-        <mark key="[" line="16" column="23" />
-        <mark key="]" line="17" column="19" />
-        <mark key="." line="17" column="19" />
-        <mark key="^" line="17" column="19" />
+        <mark key="'" line="15" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/test/java/search_core/PosSorterTest.java" timestamp="1495069204160">
         <mark key="'" line="159" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/doc/GridInfo.java" timestamp="1495434497073">
         <mark key="'" line="28" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/query/semantic/SemanticsBaseSearcherTest.java" timestamp="1495511201204">
+        <mark key="'" line="227" column="39" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/internal/builders/AnnotatedBuilder.java" timestamp="1495511476270">
+        <mark key="'" line="83" column="12" />
       </file>
       <file name="$USER_HOME$/workspace/search_tool/src/main/java/com/mx/server/search/tool/service/impl/DataInfoServiceImpl.java" timestamp="1495010604261">
         <mark key="'" line="493" column="12" />
@@ -155,7 +157,7 @@
         <mark key="'" line="49" column="41" />
       </file>
       <file name="$USER_HOME$/workspace/yh_svr/src/main/webapp/WEB-INF/view/index.jsp" timestamp="1495453448884" />
-      <file name="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/lang/ClassLoader.java" timestamp="1495507437772">
+      <file name="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/lang/ClassLoader.java" timestamp="1495509450685">
         <mark key="'" line="1743" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/business/poi/action/PoiController.java" timestamp="1495006901600">
@@ -255,6 +257,11 @@
       <file name="$USER_HOME$/workspace/zest/src/main/java/com/HttpUtil.java" timestamp="1495179921091">
         <mark key="'" line="66" column="65" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/powermock/powermock-core/1.6.2/powermock-core-1.6.2-sources.jar!/org/powermock/core/classloader/MockClassLoader.java" timestamp="1495510619818">
+        <mark key="'" line="61" column="27" />
+        <mark key="[" line="42" column="19" />
+        <mark key="]" line="42" column="33" />
+      </file>
       <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/controller/RouteController.java" timestamp="1495445288177">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="9" column="11" />
@@ -284,6 +291,9 @@
         <mark key="^" line="18" column="28" />
         <mark key="." line="6" column="71" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/powermock/powermock-core/1.6.2/powermock-core-1.6.2-sources.jar!/org/powermock/mockpolicies/MockPolicyClassLoadingSettings.java" timestamp="1495510940197">
+        <mark key="'" line="74" column="0" />
+      </file>
       <file name="/fragment.java" timestamp="1495507851870">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="36" />
@@ -295,11 +305,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="0" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
-      <jump line="103" column="6" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
-      <jump line="124" column="0" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/data/NdsCache.java" />
-      <jump line="134" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/ServerConfig.java" />
-      <jump line="105" column="0" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
       <jump line="131" column="30" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/data/NdsCache.java" />
       <jump line="24" column="49" filename="$USER_HOME$/workspace/search/search_nds_protobuf/pom.xml" />
       <jump line="22" column="49" filename="$USER_HOME$/workspace/search/search_nds_protobuf/pom.xml" />
@@ -395,6 +400,11 @@
       <jump line="1740" column="31" filename="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/lang/ClassLoader.java" />
       <jump line="1742" column="40" filename="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/lang/ClassLoader.java" />
       <jump line="1743" column="28" filename="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/lang/ClassLoader.java" />
+      <jump line="61" column="27" filename="$MAVEN_REPOSITORY$/org/powermock/powermock-core/1.6.2/powermock-core-1.6.2-sources.jar!/org/powermock/core/classloader/MockClassLoader.java" />
+      <jump line="74" column="0" filename="$MAVEN_REPOSITORY$/org/powermock/powermock-core/1.6.2/powermock-core-1.6.2-sources.jar!/org/powermock/mockpolicies/MockPolicyClassLoadingSettings.java" />
+      <jump line="227" column="39" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/query/semantic/SemanticsBaseSearcherTest.java" />
+      <jump line="83" column="12" filename="$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/internal/builders/AnnotatedBuilder.java" />
+      <jump line="27" column="43" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -404,40 +414,40 @@
         <text>term</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2FkZWRMaWJyYXJ5TmFtZXNcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>System.getProperty(&quot;java.library.path&quot;) + &quot;;&quot; + soPath</text>
+        <text>MockClassLoader</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLnNldFByb3BlcnR5KCJqYXZhLmxpYnJhcnkucGF0aCIsIFN5c3RlbS5nZXRQcm9wZXJ0eSgiamF2YS5saWJyYXJ5LnBhdGgiKSArIHNlcGVyYXRvciArIHNvUGF0aCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ubG9hZChTZXJ2ZXJDb25maWcuY2ZnLmpuaWxpYmRpcigpKTsKICAgICAgICBpbml0RGljdChTZXJ2ZXJDb25maWcuY2ZnLmpuaWRpY3RwYXRoKCkpOwogICAgICAgIFJ1bnRpbWUuZ2V0UnVudGltZSgpLmFkZFNodXRkb3duSG9vayhuZXcgVGhyZWFkKCgpIC0+IEpOSVNlZ21lbnRlci5leGl0KCkpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoUykK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ubG9hZExpYnJhcnkoU2VydmVyQ29uZmlnLmNmZy5qbmlsaWJkaXIoKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLnNldFByb3BlcnR5KCJqYXZhLmxpYnJhcnkucGF0aCIsIFN5c3RlbS5nZXRQcm9wZXJ0eSgiamF2YS5saWJyYXJ5LnBhdGgiKSArIHNlcGVyYXRvciArIHNvUGF0aCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGxpYnBhdGggPSBTeXN0ZW0uZ2V0UHJvcGVydHkoImphdmEubGlicmFyeS5wYXRoIikgKyAiOyIgKyBzb1BhdGg7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoUykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGlicGF0aCA9IGxpYnBhdGggKyAiOyIgKyBzb1BhdGg7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGxpYnBhdGggPSBTeXN0ZW0uZ2V0UHJvcGVydHkoImphdmEubGlicmFyeS5wYXRoIikgKyAiOyIgKyBzb1BhdGg7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
