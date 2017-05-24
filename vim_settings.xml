@@ -56,10 +56,10 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/util/DataProducer.java" timestamp="1495505114964">
-        <mark key="'" line="49" column="0" />
-        <mark key="[" line="18" column="32" />
-        <mark key="]" line="19" column="29" />
+      <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/util/DataProducer.java" timestamp="1495603556988">
+        <mark key="'" line="32" column="28" />
+        <mark key="[" line="49" column="59" />
+        <mark key="]" line="49" column="67" />
         <mark key="." line="19" column="29" />
         <mark key="^" line="19" column="29" />
       </file>
@@ -354,7 +354,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="0" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/util/DataProducer.java" />
       <jump line="16" column="34" filename="$USER_HOME$/workspace/search/pom.xml" />
       <jump line="40" column="39" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
       <jump line="13" column="17" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/ServerConfig.java" />
@@ -454,6 +453,7 @@
       <jump line="320" column="0" filename="$USER_HOME$/workspace/search/pom.xml" />
       <jump line="20" column="15" filename="$USER_HOME$/workspace/search/pom.xml" />
       <jump line="285" column="38" filename="$USER_HOME$/alertmanager/template/template.go" />
+      <jump line="32" column="28" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/util/DataProducer.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -468,8 +468,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxtYWtlXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">QFJ1bldpdGgoUG93ZXJNb2NrUnVubmVyLmNsYXNzKQo=</text>
+      <register name="0" type="4">
+        <text>getParent</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -508,7 +508,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action AceAction</text>
       </register>
     </registers>
     <search>
@@ -518,7 +518,7 @@
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -544,7 +544,6 @@
         <entry encoding="base64">XDxtYWtlXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>action AceAction</entry>
         <entry>action</entry>
         <entry>actionlist</entry>
         <entry>action TranslateTextComponent</entry>
@@ -564,6 +563,7 @@
         <entry>hoh</entry>
         <entry>noh</entry>
         <entry>w</entry>
+        <entry>action AceAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
