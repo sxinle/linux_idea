@@ -272,7 +272,7 @@
         <mark key="." line="296" column="39" />
         <mark key="^" line="296" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495608857403">
+      <file name="/Dummy.txt" timestamp="1495614516602">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/dsef/common/Common.java" timestamp="1495445464021">
@@ -287,11 +287,11 @@
         <mark key="." line="23" column="28" />
         <mark key="^" line="23" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/data/NdsCache.java" timestamp="1495611870536">
+      <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/data/NdsCache.java" timestamp="1495614510800">
         <mark key="'" line="30" column="0" />
-        <mark key="[" line="184" column="0" />
-        <mark key="]" line="184" column="34" />
-        <mark key="." line="22" column="60" />
+        <mark key="[" line="212" column="9" />
+        <mark key="]" line="212" column="9" />
+        <mark key="." line="212" column="9" />
         <mark key="^" line="22" column="60" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/data/build/nds/INdsCacheBuild.java" timestamp="1495604491500">
@@ -465,13 +465,13 @@
         <text>term</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYWtlXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBsb2FkRGF0YSgpIHsK</text>
+      <register name="0" type="4">
+        <text>getDeclaredFields</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">QFJ1bldpdGgoUG93ZXJNb2NrUnVubmVyLmNsYXNzKQo=</text>
