@@ -118,6 +118,13 @@
         <mark key="^" line="16" column="98" />
         <mark key="." line="16" column="98" />
       </file>
+      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/query/semantic/SemanticsAAASearcherTest.java" timestamp="1495617649747">
+        <mark key="'" line="59" column="37" />
+        <mark key="[" line="38" column="37" />
+        <mark key="]" line="38" column="53" />
+        <mark key="^" line="38" column="53" />
+        <mark key="." line="38" column="53" />
+      </file>
       <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/CacheManager.java" timestamp="1495604755195">
         <mark key="'" line="50" column="0" />
         <mark key="[" line="20" column="0" />
@@ -162,8 +169,12 @@
       <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/doc/GridInfo.java" timestamp="1495434497073">
         <mark key="'" line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/query/semantic/SemanticsBaseSearcherTest.java" timestamp="1495511201204">
-        <mark key="'" line="227" column="39" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/query/semantic/SemanticsBaseSearcherTest.java" timestamp="1495617667683">
+        <mark key="'" line="421" column="16" />
+        <mark key="[" line="51" column="38" />
+        <mark key="]" line="51" column="54" />
+        <mark key="^" line="51" column="54" />
+        <mark key="." line="51" column="54" />
       </file>
       <file name="$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/internal/builders/AnnotatedBuilder.java" timestamp="1495511476270">
         <mark key="'" line="83" column="12" />
@@ -356,8 +367,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="0" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
-      <jump line="64" column="11" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
       <jump line="83" column="48" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
       <jump line="84" column="52" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
       <jump line="85" column="52" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
@@ -456,6 +465,8 @@
       <jump line="23" column="6" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/data/build/nds/impl/NdsCacheBuildImp.java" />
       <jump line="95" column="0" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/data/build/nds/impl/NdsCacheBuildImp.java" />
       <jump line="30" column="0" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/data/NdsCache.java" />
+      <jump line="59" column="37" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/query/semantic/SemanticsAAASearcherTest.java" />
+      <jump line="420" column="16" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/query/semantic/SemanticsBaseSearcherTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
