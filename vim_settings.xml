@@ -139,7 +139,7 @@
         <mark key="." line="26" column="43" />
         <mark key="^" line="26" column="43" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" timestamp="1495622048789">
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" timestamp="1495623920455">
         <mark key="'" line="69" column="8" />
         <mark key="[" line="166" column="65" />
         <mark key="]" line="166" column="83" />
@@ -201,6 +201,12 @@
       <file name="$USER_HOME$/workspace/yh_svr/src/main/java/com/yh/zhgp/util/config/JpaConfig.java" timestamp="1494841329981">
         <mark key="'" line="49" column="41" />
       </file>
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SegmentRet.java" timestamp="1495623951902">
+        <mark key="[" line="15" column="5" />
+        <mark key="]" line="18" column="7" />
+        <mark key="." line="18" column="7" />
+        <mark key="^" line="18" column="7" />
+      </file>
       <file name="$USER_HOME$/workspace/yh_svr/src/main/webapp/WEB-INF/view/index.jsp" timestamp="1495607825018" />
       <file name="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/lang/ClassLoader.java" timestamp="1495509450685">
         <mark key="'" line="1743" column="28" />
@@ -214,11 +220,10 @@
       <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/data/build/nds/impl/NdsCacheBuildImp.java" timestamp="1495604758712">
         <mark key="'" line="95" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/MockUtil.java" timestamp="1495621970773">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="^" line="60" column="19" />
-        <mark key="." line="61" column="0" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/MockUtil.java" timestamp="1495623971640">
+        <mark key="[" line="66" column="23" />
+        <mark key="]" line="66" column="41" />
+        <mark key="." line="66" column="23" />
       </file>
       <file name="$USER_HOME$/search_proto/com/mx/dsef/root/Root.java" timestamp="1494992454488">
         <mark key="[" line="7" column="33" />
@@ -241,11 +246,11 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="14" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/semantic/LabelRecheckerTest.java" timestamp="1495622046685">
-        <mark key="[" line="43" column="27" />
-        <mark key="]" line="43" column="44" />
-        <mark key="." line="43" column="0" />
-        <mark key="^" line="41" column="7" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/semantic/LabelRecheckerTest.java" timestamp="1495623969542">
+        <mark key="[" line="44" column="27" />
+        <mark key="]" line="44" column="44" />
+        <mark key="." line="43" column="51" />
+        <mark key="^" line="43" column="51" />
       </file>
       <file name="$USER_HOME$/workspace/zest/src/main/java/moud/Sec.java" timestamp="1495084152443">
         <mark key="[" line="13" column="35" />
@@ -474,7 +479,7 @@
         <text>term</text>
       </register>
       <register name="-" type="4">
-        <text>１</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYWtlXD4=</text>
@@ -492,22 +497,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgU2VtYW50aWNSZXQgZ2V0U2VnbWVudFJldChTdHJpbmcgdGVtcnMpIHsKICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAiY29tLm14LnNlcnZlci5zZWFyY2guY29yZS5xdWVyeS5LZXl3b3JkU2VhcmNoZXIkRGlzdHJpY3RTZWFyY2hlciIsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QFBvd2VyTW9ja0lnbm9yZSgiIikK</text>
+        <text encoding="base64">ICAgIHB1YmxpYwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICBAQWZ0ZXIKICAgIHB1YmxpYyB2b2lkIHJlbGVhc2UoKSB7CiAgICAgICAgdW5sb2FkTGliU2VnKCk7CiAgICB9CgogICAgcHVibGljIHN0YXRpYyBzeW5jaHJvbml6ZWQgdm9pZCB1bmxvYWRMaWJTZWcoKSB7CiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgQ2xhc3NMb2FkZXIgY2xhc3NMb2FkZXIgPSBMYWJlbFJlY2hlY2tlci5jbGFzcy5nZXRDbGFzc0xvYWRlcigpOwogICAgICAgICAgICBGaWVsZCBmaWVsZCA9IENsYXNzTG9hZGVyLmNsYXNzLmdldERlY2xhcmVkRmllbGQoIm5hdGl2ZUxpYnJhcmllcyIpOwogICAgICAgICAgICBmaWVsZC5zZXRBY2Nlc3NpYmxlKHRydWUpOwogICAgICAgICAgICBWZWN0b3I8T2JqZWN0PiBsaWJzID0gKFZlY3RvcjxPYmplY3Q+KSBmaWVsZC5nZXQoY2xhc3NMb2FkZXIpOwogICAgICAgICAgICBJdGVyYXRvciBpdCA9IGxpYnMuaXRlcmF0b3IoKTsKICAgICAgICAgICAgd2hpbGUgKGl0Lmhhc05leHQoKSkgewoKICAgICAgICAgICAgICAgIE9iamVjdCBvYmplY3QgPSBpdC5uZXh0KCk7CiAgICAgICAgICAgICAgICBGaWVsZFtdIGZzID0gb2JqZWN0LmdldENsYXNzKCkuZ2V0RGVjbGFyZWRGaWVsZHMoKTsKICAgICAgICAgICAgICAgIGZvciAoaW50IGsgPSAwOyBrIDwgZnMubGVuZ3RoOyBrKyspIHsKICAgICAgICAgICAgICAgICAgICBpZiAoZnNba10uZ2V0TmFtZSgpLmVxdWFscygibmFtZSIpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGZzW2tdLnNldEFjY2Vzc2libGUodHJ1ZSk7CiAgICAgICAgICAgICAgICAgICAgICAgIFN0cmluZyBsaWJQYXRoID0gZnNba10uZ2V0KG9iamVjdCkudG9TdHJpbmcoKTsKICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGxpYlBhdGguY29udGFpbnMoImxpYlNlZy4iKSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgTWV0aG9kIGZpbmFsaXplID0gb2JqZWN0LmdldENsYXNzKCkuZ2V0RGVjbGFyZWRNZXRob2QoImZpbmFsaXplIik7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBmaW5hbGl6ZS5zZXRBY2Nlc3NpYmxlKHRydWUpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgZmluYWxpemUuaW52b2tlKG9iamVjdCk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfSBjYXRjaCAoVGhyb3dhYmxlIHRoKSB7CiAgICAgICAgICAgIHRoLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIH0KICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBub3RpY2VHQ1JlbGVhc2VSQU0oKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
