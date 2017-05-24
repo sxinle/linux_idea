@@ -41,12 +41,6 @@
         <mark key="." line="32" column="0" />
         <mark key="^" line="23" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/HzNumberConverterTest.java" timestamp="1495592303694">
-        <mark key="'" line="58" column="0" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="31" />
-        <mark key="." line="9" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/MeasureUtilTest.java" timestamp="1495591450045">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="30" />
@@ -157,8 +151,15 @@
         <mark key="." line="22" column="30" />
         <mark key="^" line="22" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/query/semantic/HotPoiSearcherTest.java" timestamp="1495589251542">
-        <mark key="'" line="45" column="35" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/query/semantic/HotPoiSearcherTest.java" timestamp="1495619230320">
+        <mark key="'" line="47" column="35" />
+        <mark key="[" line="30" column="31" />
+        <mark key="]" line="30" column="47" />
+        <mark key="^" line="30" column="47" />
+        <mark key="." line="30" column="47" />
+      </file>
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsBaseSearcher.java" timestamp="1495619571973">
+        <mark key="'" line="213" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/ServerConfig.java" timestamp="1495508091587">
         <mark key="'" line="15" column="0" />
@@ -166,11 +167,14 @@
       <file name="$USER_HOME$/workspace/search/search_core/src/test/java/search_core/PosSorterTest.java" timestamp="1495603902596">
         <mark key="'" line="31" column="25" />
       </file>
+      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" timestamp="1495619579196">
+        <mark key="'" line="465" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/doc/GridInfo.java" timestamp="1495434497073">
         <mark key="'" line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/query/semantic/SemanticsBaseSearcherTest.java" timestamp="1495617667683">
-        <mark key="'" line="421" column="16" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/query/semantic/SemanticsBaseSearcherTest.java" timestamp="1495619310678">
+        <mark key="'" line="221" column="42" />
         <mark key="[" line="51" column="38" />
         <mark key="]" line="51" column="54" />
         <mark key="^" line="51" column="54" />
@@ -367,9 +371,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="48" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
-      <jump line="84" column="52" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
-      <jump line="85" column="52" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
       <jump line="104" column="0" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
       <jump line="111" column="0" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
       <jump line="7" column="9" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
@@ -467,6 +468,9 @@
       <jump line="30" column="0" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/data/NdsCache.java" />
       <jump line="59" column="37" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/query/semantic/SemanticsAAASearcherTest.java" />
       <jump line="420" column="16" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/query/semantic/SemanticsBaseSearcherTest.java" />
+      <jump line="221" column="42" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/query/semantic/SemanticsBaseSearcherTest.java" />
+      <jump line="213" column="23" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsBaseSearcher.java" />
+      <jump line="465" column="0" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
