@@ -46,8 +46,8 @@
         <mark key="." line="32" column="0" />
         <mark key="^" line="23" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/HzNumberConverterTest.java" timestamp="1495591456100">
-        <mark key="'" line="10" column="0" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/HzNumberConverterTest.java" timestamp="1495592303694">
+        <mark key="'" line="58" column="0" />
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="31" />
         <mark key="." line="9" column="0" />
@@ -259,8 +259,8 @@
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/LabelRechecker.java" timestamp="1495087647760">
         <mark key="'" line="140" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/search/pom.xml" timestamp="1495502242011">
-        <mark key="'" line="292" column="58" />
+      <file name="$USER_HOME$/workspace/search/pom.xml" timestamp="1495592319531">
+        <mark key="'" line="17" column="0" />
         <mark key="[" line="296" column="35" />
         <mark key="]" line="296" column="39" />
         <mark key="." line="296" column="39" />
@@ -351,13 +351,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="0" filename="$USER_HOME$/workspace/search/search_nds_protobuf/pom.xml" />
-      <jump line="81" column="0" filename="$USER_HOME$/workspace/search/pom.xml" />
-      <jump line="174" column="24" filename="$USER_HOME$/workspace/search/pom.xml" />
-      <jump line="320" column="0" filename="$USER_HOME$/workspace/search/pom.xml" />
-      <jump line="20" column="0" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/CacheManager.java" />
-      <jump line="50" column="0" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/CacheManager.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/CacheManager.java" />
       <jump line="72" column="16" filename="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/GenericController.java" />
       <jump line="129" column="0" filename="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/GenericController.java" />
       <jump line="12" column="0" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/util/DataProducer.java" />
@@ -451,6 +444,13 @@
       <jump line="114" column="0" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
       <jump line="23" column="20" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/HzNumberConverterTest.java" />
       <jump line="10" column="0" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/HzNumberConverterTest.java" />
+      <jump line="3" column="0" filename="$USER_HOME$/workspace/search/pom.xml" />
+      <jump line="320" column="0" filename="$USER_HOME$/workspace/search/pom.xml" />
+      <jump line="318" column="0" filename="$USER_HOME$/workspace/search/pom.xml" />
+      <jump line="17" column="0" filename="$USER_HOME$/workspace/search/pom.xml" />
+      <jump line="37" column="21" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/HzNumberConverterTest.java" />
+      <jump line="9" column="30" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/HzNumberConverterTest.java" />
+      <jump line="58" column="0" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/HzNumberConverterTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -460,10 +460,10 @@
         <text>term</text>
       </register>
       <register name="-" type="4">
-        <text>so</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2FkZWRMaWJyYXJ5TmFtZXNcPg==</text>
+        <text>skip</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">QFJ1bldpdGgoUG93ZXJNb2NrUnVubmVyLmNsYXNzKQo=</text>
@@ -509,13 +509,13 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsb2FkZWRMaWJyYXJ5TmFtZXNcPg==</last-search>
+      <last-search>skip</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2FkZWRMaWJyYXJ5TmFtZXNcPg==</last-pattern>
+      <last-pattern>skip</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -534,11 +534,11 @@
         <entry>test</entry>
         <entry>long</entry>
         <entry>seri</entry>
-        <entry>skip</entry>
         <entry>jni</entry>
         <entry>nds</entry>
         <entry>\/</entry>
         <entry encoding="base64">XDxsb2FkZWRMaWJyYXJ5TmFtZXNcPg==</entry>
+        <entry>skip</entry>
       </history-search>
       <history-cmd>
         <entry>action AceAction</entry>
