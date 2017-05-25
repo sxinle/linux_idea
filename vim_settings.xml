@@ -215,11 +215,12 @@
         <mark key="." line="42" column="81" />
         <mark key="^" line="42" column="90" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/sort/possort_terms/PosSorterTest.java" timestamp="1495691108383">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="11" column="2" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="16" column="7" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/sort/possort_terms/PosSorterTest.java" timestamp="1495699914580">
+        <mark key="'" line="15" column="11" />
+        <mark key="[" line="15" column="40" />
+        <mark key="]" line="15" column="40" />
+        <mark key="." line="15" column="40" />
+        <mark key="^" line="15" column="40" />
       </file>
       <file name="$USER_HOME$/workspace/zest/src/main/java/moud/Sec.java" timestamp="1495084152443">
         <mark key="[" line="13" column="35" />
@@ -254,7 +255,7 @@
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/NiceCntSetter.java" timestamp="1495689242947">
         <mark key="'" line="47" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495682504439">
+      <file name="/Dummy.txt" timestamp="1495699472295">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/dsef/common/Common.java" timestamp="1495445464021">
@@ -328,8 +329,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="318" column="0" filename="$USER_HOME$/workspace/search/pom.xml" />
-      <jump line="17" column="0" filename="$USER_HOME$/workspace/search/pom.xml" />
       <jump line="37" column="21" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/HzNumberConverterTest.java" />
       <jump line="9" column="30" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/HzNumberConverterTest.java" />
       <jump line="58" column="0" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/HzNumberConverterTest.java" />
@@ -428,6 +427,8 @@
       <jump line="50" column="54" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/semantic/UserInputPreProcessTest.java" />
       <jump line="289" column="0" filename="$MAVEN_REPOSITORY$/org/mockito/mockito-all/1.10.19/mockito-all-1.10.19-sources.jar!/org/mockito/Matchers.java" />
       <jump line="62" column="63" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/semantic/UserInputPreProcessTest.java" />
+      <jump line="12" column="13" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/sort/possort_terms/PosSorterTest.java" />
+      <jump line="15" column="11" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/sort/possort_terms/PosSorterTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -437,13 +438,13 @@
         <text>term</text>
       </register>
       <register name="-" type="4">
-        <text>Utility</text>
+        <text>c class</text>
       </register>
       <register name="/" type="4">
-        <text>1</text>
+        <text encoding="base64">XDx2b2lkXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>Utility</text>
+        <text>public</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB0YWdNYXAKICAgICAgICAgICAgICAgIHRhZ01hcAo=</text>
@@ -477,9 +478,9 @@
       </register>
     </registers>
     <search>
-      <last-search>1</last-search>
+      <last-search encoding="base64">XDx2b2lkXD4=</last-search>
       <last-offset />
-      <last-pattern>1</last-pattern>
+      <last-pattern encoding="base64">XDx2b2lkXD4=</last-pattern>
       <last-replace>2</last-replace>
       <last-substitute>1</last-substitute>
       <last-dir>1</last-dir>
@@ -487,9 +488,6 @@
     </search>
     <history>
       <history-search>
-        <entry>plugins</entry>
-        <entry encoding="base64">XDxyZWxhYmVsVGVybXNcPg==</entry>
-        <entry>foreach</entry>
         <entry>stat</entry>
         <entry>state</entry>
         <entry>state code</entry>
@@ -507,17 +505,15 @@
         <entry encoding="base64">XDxKTklTZWdtZW50ZXJcPg==</entry>
         <entry>PoiService</entry>
         <entry>1</entry>
+        <entry encoding="base64">XDx7XD4=</entry>
+        <entry encoding="base64">XDxQb3NTb3J0ZXJUZXN0XD4=</entry>
+        <entry encoding="base64">XDx2b2lkXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>actionlist</entry>
-        <entry>action TranslateTextComponent</entry>
-        <entry>action EditorTranslateAction</entry>
-        <entry encoding="base64">JzwsJz5zLzsvLC9n</entry>
         <entry encoding="base64">JzwsJz5zLyIvL2c=</entry>
         <entry encoding="base64">JzwsJz5zL25ldyBMaW5rZWRIYXNoU2V0PD4oKS90ZXJtc1NldC9n</entry>
         <entry encoding="base64">JzwsJz5zL2Rpc3QvY29kZS9n</entry>
         <entry encoding="base64">JzwsJz5zL0wvL2c=</entry>
-        <entry>source ~/.ideavimrc</entry>
         <entry encoding="base64">JzwsJz5zLyIvXCIvZw==</entry>
         <entry encoding="base64">JzwsJz5zLyIvXFwiL2c=</entry>
         <entry>nohl</entry>
@@ -528,7 +524,12 @@
         <entry>action $Redo</entry>
         <entry>map</entry>
         <entry>reg</entry>
+        <entry>action Find</entry>
+        <entry>action FindPrevious</entry>
+        <entry>source ~/.ideavimrc</entry>
+        <entry>action FindNext</entry>
         <entry>w</entry>
+        <entry>action AceJumpAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
