@@ -41,12 +41,12 @@
         <mark key="." line="32" column="0" />
         <mark key="^" line="23" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/util/DataProducer.java" timestamp="1495603729500">
+      <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/util/DataProducer.java" timestamp="1495675388413">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="49" column="59" />
-        <mark key="]" line="49" column="67" />
-        <mark key="." line="19" column="29" />
-        <mark key="^" line="19" column="29" />
+        <mark key="[" line="17" column="60" />
+        <mark key="]" line="17" column="60" />
+        <mark key="." line="17" column="60" />
+        <mark key="^" line="16" column="59" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/semantic/UserInputSpecialCaseTest.java" timestamp="1495626590468">
         <mark key="[" line="67" column="0" />
@@ -142,7 +142,7 @@
         <mark key="." line="26" column="43" />
         <mark key="^" line="26" column="43" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" timestamp="1495623920455">
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" timestamp="1495676147247">
         <mark key="'" line="69" column="8" />
         <mark key="[" line="166" column="65" />
         <mark key="]" line="166" column="83" />
@@ -297,8 +297,14 @@
       <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/dsef/common/Common.java" timestamp="1495445464021">
         <mark key="'" line="4136" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/UserInputPreProcess.java" timestamp="1495083833026">
-        <mark key="'" line="367" column="0" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/UserInputPreProcess.java" timestamp="1495676221644">
+        <mark key="'" line="74" column="4" />
+      </file>
+      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/semantic/UserInputPreProcessTest.java" timestamp="1495676378003">
+        <mark key="[" line="7" column="71" />
+        <mark key="]" line="7" column="71" />
+        <mark key="^" line="7" column="71" />
+        <mark key="." line="7" column="71" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/resources/proto/root.proto" timestamp="1495674696522" />
       <file name="$USER_HOME$/workspace/search/search_web/src/main/java/com/mx/server/search/web/AppInitializer.java" timestamp="1495444130043">
@@ -326,8 +332,8 @@
         <mark key="^" line="11" column="3" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/resources/proto/common.proto" timestamp="1495674647203">
-        <mark key="'" line="218" column="0" />
+      <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/resources/proto/common.proto" timestamp="1495675454529">
+        <mark key="'" line="14" column="6" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/CacheCheckerTest.java" timestamp="1495621475393">
         <mark key="'" line="29" column="34" />
@@ -364,7 +370,7 @@
         <mark key="]" line="26" column="34" />
         <mark key="." line="77" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1495624245496">
+      <file name="/fragment.java" timestamp="1495676235008">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="36" />
         <mark key="." line="0" column="82" />
@@ -375,9 +381,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="46" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
-      <jump line="92" column="46" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
-      <jump line="91" column="46" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
       <jump line="90" column="46" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
       <jump line="89" column="30" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
       <jump line="69" column="11" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
@@ -471,10 +474,13 @@
       <jump line="74" column="61" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/MockUtil.java" />
       <jump line="117" column="0" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/MockUtil.java" />
       <jump line="64" column="2" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/resources/proto/common.proto" />
-      <jump line="218" column="0" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/resources/proto/common.proto" />
       <jump line="172" column="0" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/resources/proto/poi.proto" />
       <jump line="28" column="8" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/resources/proto/entity.proto" />
       <jump line="56" column="0" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/resources/proto/entity.proto" />
+      <jump line="176" column="10" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/resources/proto/common.proto" />
+      <jump line="218" column="0" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/resources/proto/common.proto" />
+      <jump line="14" column="6" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/resources/proto/common.proto" />
+      <jump line="74" column="4" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/UserInputPreProcess.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -484,7 +490,7 @@
         <text>term</text>
       </register>
       <register name="-" type="4">
-        <text>沈阳大学</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxKTklTZWdtZW50ZXJcPg==</text>
@@ -520,7 +526,7 @@
         <text encoding="base64">ICAgICAgICBQb3dlck1vY2tpdG8ud2hlbihKTklTZWdtZW50ZXIuZ2V0SW5zdGFuY2UoKS5zZWdtZW50KCLmsojpmLPlpKflraYiLCB0cnVlKSkKICAgICAgICAgICAgICAgIC50aGVuUmV0dXJuKG5ldyBTZWdtZW50UmV0KCLmsojpmLMg5aSn5a2mIiwgbmV3IFN0cmluZ1tdeyLmsojpmLMiLCAi5aSn5a2mIn0sIG5ldyBTdHJpbmdbXXsi5rKI6ZizIiwgIuWkp+WtpiJ9KSk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>noh</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -574,8 +580,8 @@
         <entry>action $Redo</entry>
         <entry>hoh</entry>
         <entry>action AceAction</entry>
-        <entry>w</entry>
         <entry>noh</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
