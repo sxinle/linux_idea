@@ -35,10 +35,6 @@
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" timestamp="1495689851890">
         <mark key="'" line="82" column="57" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" timestamp="1495681231746">
-        <mark key="[" line="303" column="106" />
-        <mark key="]" line="303" column="118" />
-      </file>
       <file name="$USER_HOME$/workspace/yh_svr/src/main/java/com/yh/zhgp/util/ScheduledTasks.java" timestamp="1495092919780">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
@@ -213,11 +209,11 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="14" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/semantic/LabelRecheckerTest.java" timestamp="1495626778359">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="39" column="75" />
-        <mark key="." line="39" column="0" />
-        <mark key="^" line="54" column="7" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/semantic/LabelRecheckerTest.java" timestamp="1495695270384">
+        <mark key="[" line="42" column="81" />
+        <mark key="]" line="42" column="81" />
+        <mark key="." line="42" column="81" />
+        <mark key="^" line="42" column="90" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/sort/possort_terms/PosSorterTest.java" timestamp="1495691108383">
         <mark key="[" line="8" column="0" />
@@ -286,6 +282,7 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.3.RELEASE/spring-context-4.3.3.RELEASE-sources.jar!/org/springframework/scheduling/annotation/ScheduledAnnotationBeanPostProcessor.java" timestamp="1494864003725">
         <mark key="'" line="333" column="16" />
       </file>
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" timestamp="1495694792989" />
       <file name="$USER_HOME$/workspace/zest/src/main/java/com/HttpUtil.java" timestamp="1495179921091">
         <mark key="'" line="66" column="65" />
       </file>
@@ -440,7 +437,7 @@
         <text>term</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;沈阳美行科技&quot;</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>1</text>
@@ -526,11 +523,11 @@
         <entry encoding="base64">JzwsJz5zLyIvXCIvZw==</entry>
         <entry encoding="base64">JzwsJz5zLyIvXFwiL2c=</entry>
         <entry>nohl</entry>
-        <entry>action $Redo</entry>
         <entry>hoh</entry>
         <entry>noh</entry>
         <entry>action AceAction</entry>
         <entry encoding="base64">JzwsJz5zLzEvMi9n</entry>
+        <entry>action $Redo</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
