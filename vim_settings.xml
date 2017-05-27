@@ -111,6 +111,9 @@
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsBaseSearcher.java" timestamp="1495703823436">
         <mark key="'" line="213" column="23" />
       </file>
+      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/query/semantic/HotPoiSearcherTest.java" timestamp="1495870727385">
+        <mark key="'" line="108" column="35" />
+      </file>
       <file name="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/common/util/Trans2PinYin.java" timestamp="1495775174848">
         <mark key="'" line="205" column="12" />
       </file>
@@ -200,7 +203,7 @@
       <file name="$USER_HOME$/workspace/search/pom.xml" timestamp="1495846950215">
         <mark key="'" line="295" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495862140517">
+      <file name="/Dummy.txt" timestamp="1495871163831">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/dsef/common/Common.java" timestamp="1495445464021">
@@ -255,7 +258,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="37" filename="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/common/util/Configuration.java" />
       <jump line="14" column="21" filename="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/common/util/Configuration.java" />
       <jump line="200" column="4" filename="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/business/poi/action/PoiController.java" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/business/poi/action/PoiController.java" />
@@ -355,6 +357,7 @@
       <jump line="112" column="16" filename="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/business/poi/action/PoiController.java" />
       <jump line="100" column="8" filename="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/business/poi/action/PoiController.java" />
       <jump line="105" column="38" filename="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/business/poi/action/PoiController.java" />
+      <jump line="108" column="35" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/query/semantic/HotPoiSearcherTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
