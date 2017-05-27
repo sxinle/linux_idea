@@ -37,30 +37,17 @@
         <mark key="^" line="9" column="28" />
         <mark key="." line="9" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/business/poi/data/QueryParamBean.java" timestamp="1495852820902">
-        <mark key="'" line="55" column="19" />
-        <mark key="[" line="288" column="15" />
-        <mark key="]" line="288" column="28" />
-        <mark key="." line="85" column="43" />
-        <mark key="^" line="85" column="43" />
-      </file>
-      <file name="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/common/util/Constants.java" timestamp="1495783269285">
-        <mark key="'" line="35" column="54" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/business/poi/data/QueryParamBean.java" timestamp="1495856199475">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="^" line="86" column="43" />
+        <mark key="." line="70" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/business/poi/data/CountryPoiRet.java" timestamp="1495775964539">
         <mark key="'" line="105" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zest/src/main/java/com/Mcode2Lon.java" timestamp="1495177768653">
         <mark key="'" line="15" column="43" />
-      </file>
-      <file name="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/common/util/StringFilter.java" timestamp="1495777322194">
-        <mark key="'" line="97" column="0" />
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="0" />
-        <mark key="." line="98" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/usepos/RevAndMatchSetter.java" timestamp="1495689087964">
         <mark key="'" line="140" column="0" />
@@ -71,27 +58,15 @@
       <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/models/Poi.java" timestamp="1495423001795">
         <mark key="'" line="73" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_old/pom.xml" timestamp="1495767374510">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="0" />
-        <mark key="." line="80" column="0" />
-      </file>
       <file name="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/net/HttpURLConnection.java" timestamp="1495183282108">
         <mark key="'" line="199" column="29" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_old/src/test/java/com/mx/server/search/old/business/poi/action/PoiControllerTest.java" timestamp="1495853967974">
-        <mark key="'" line="57" column="58" />
-        <mark key="[" line="21" column="35" />
-        <mark key="]" line="21" column="55" />
-        <mark key="^" line="21" column="34" />
-        <mark key="." line="21" column="35" />
-      </file>
-      <file name="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/business/address/searcher/AddressSearcher.java" timestamp="1495781609118">
-        <mark key="'" line="97" column="0" />
-        <mark key="[" line="69" column="59" />
-        <mark key="]" line="69" column="73" />
-        <mark key="." line="73" column="0" />
+      <file name="$USER_HOME$/workspace/search/search_old/src/test/java/com/mx/server/search/old/business/poi/action/PoiControllerTest.java" timestamp="1495856139240">
+        <mark key="'" line="60" column="36" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="312" />
+        <mark key="^" line="59" column="56" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.2.4/gson-2.2.4-sources.jar!/com/google/gson/internal/LinkedTreeMap.java" timestamp="1495782223926">
         <mark key="'" line="92" column="4" />
@@ -113,12 +88,6 @@
       <file name="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/business/city/CityIndex.java" timestamp="1495783438845">
         <mark key="'" line="229" column="0" />
         <mark key="[" line="9" column="22" />
-      </file>
-      <file name="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/common/util/Util.java" timestamp="1495778477029">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsBaseSearcher.java" timestamp="1495703823436">
         <mark key="'" line="213" column="23" />
@@ -188,10 +157,10 @@
         <mark key="." line="219" column="32" />
         <mark key="^" line="219" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/business/poi/action/PoiController.java" timestamp="1495853714262">
+      <file name="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/business/poi/action/PoiController.java" timestamp="1495856031316">
         <mark key="'" line="63" column="54" />
-        <mark key="[" line="52" column="23" />
-        <mark key="]" line="53" column="7" />
+        <mark key="[" line="36" column="10" />
+        <mark key="]" line="36" column="15" />
         <mark key="." line="53" column="7" />
         <mark key="^" line="53" column="7" />
       </file>
@@ -217,6 +186,9 @@
         <mark key="]" line="104" column="75" />
         <mark key="." line="104" column="75" />
         <mark key="^" line="104" column="75" />
+      </file>
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsSPECIALSearcher.java" timestamp="1495854444383">
+        <mark key="'" line="16" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/resources/entity.proto" timestamp="1495010253226">
         <mark key="'" line="25" column="31" />
@@ -299,15 +271,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="42" filename="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/common/util/Constants.java" />
-      <jump line="66" column="0" filename="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/common/util/Constants.java" />
-      <jump line="19" column="18" filename="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/common/util/StringFilter.java" />
-      <jump line="122" column="0" filename="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/common/util/StringFilter.java" />
-      <jump line="54" column="22" filename="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/common/base/BaseParam.java" />
-      <jump line="45" column="12" filename="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/business/address/data/AddressQueryParam.java" />
-      <jump line="21" column="22" filename="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/common/baidu/data/BaiduPlaceResp.java" />
-      <jump line="22" column="41" filename="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/common/baidu/data/CityCountRet.java" />
-      <jump line="35" column="0" filename="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/common/baidu/data/BaiduPlaceResp.java" />
       <jump line="110" column="0" filename="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/common/baidu/data/BaiduPlaceResp.java" />
       <jump line="30" column="51" filename="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/common/baidu/data/CityCountRet.java" />
       <jump line="76" column="0" filename="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/common/baidu/data/CityCountRet.java" />
@@ -397,8 +360,17 @@
       <jump line="55" column="19" filename="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/business/poi/data/QueryParamBean.java" />
       <jump line="48" column="41" filename="$USER_HOME$/workspace/search/search_old/src/test/java/com/mx/server/search/old/business/poi/action/PoiControllerTest.java" />
       <jump line="64" column="45" filename="$USER_HOME$/workspace/search/search_old/src/test/java/com/mx/server/search/old/business/poi/action/PoiControllerTest.java" />
-      <jump line="57" column="58" filename="$USER_HOME$/workspace/search/search_old/src/test/java/com/mx/server/search/old/business/poi/action/PoiControllerTest.java" />
       <jump line="19" column="13" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" />
+      <jump line="16" column="13" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsSPECIALSearcher.java" />
+      <jump line="63" column="33" filename="$USER_HOME$/workspace/search/search_old/src/test/java/com/mx/server/search/old/business/poi/action/PoiControllerTest.java" />
+      <jump line="57" column="0" filename="$USER_HOME$/workspace/search/search_old/src/test/java/com/mx/server/search/old/business/poi/action/PoiControllerTest.java" />
+      <jump line="58" column="37" filename="$USER_HOME$/workspace/search/search_old/src/test/java/com/mx/server/search/old/business/poi/action/PoiControllerTest.java" />
+      <jump line="30" column="0" filename="$USER_HOME$/workspace/search/search_old/src/test/java/com/mx/server/search/old/business/poi/action/PoiControllerTest.java" />
+      <jump line="62" column="31" filename="$USER_HOME$/workspace/search/search_old/src/test/java/com/mx/server/search/old/business/poi/action/PoiControllerTest.java" />
+      <jump line="157" column="45" filename="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/business/poi/data/QueryParamBean.java" />
+      <jump line="70" column="39" filename="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/business/poi/data/QueryParamBean.java" />
+      <jump line="73" column="16" filename="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/business/poi/data/QueryParamBean.java" />
+      <jump line="60" column="36" filename="$USER_HOME$/workspace/search/search_old/src/test/java/com/mx/server/search/old/business/poi/action/PoiControllerTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -411,49 +383,49 @@
         <text>initSingleMapForJunitTest</text>
       </register>
       <register name="-" type="4">
-        <text>(expected = Exception.class)</text>
+        <text>GBK</text>
       </register>
       <register name="/" type="4">
-        <text>country</text>
+        <text>return false;</text>
       </register>
-      <register name="0" type="4">
-        <text>QueryParamBean.class</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBpbnB1dFN0ciA9ICJ7XCJjb3VudHJ5X3NlYXJjaFwiOlwieWVzXCIsXCJhZG1pbl9jb2RlXCI6MCxcInByb2R1Y3RfaWRcIjpcIjExMDEwMFwiLFwia2V5d29yZHNcIjpcIuayiOmYsyDmsojpmLPnvo7ooYznp5HmioDmnInpmZDlhazlj7hcIixcImtleXdvcmRfa2luZFwiOlwibmFtZSxmaXJzdF9sZXR0ZXJzXCIsXCJkaXN0X2xldmVsXCI6XCJjaXR5XCIsXCJkYXRhX3R5cGVcIjpcInBvaSxyb2FkLGNyb3NzXCIsXCJvZmZzZXRcIjowLFwibGltaXRcIjoyMDAsXCJvcmRlcl9ieVwiOlwibmFtZVwiLFwic291cmNlXCI6XCJteFwiLFwiZnV6enlfc2VhcmNoXCI6XCJub1wifSI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvL+WPguaVsOaYr+WQpuato+ehrgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgcmlnaHRfcGFyYW07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoVW5zdXBwb3J0ZWRFbmNvZGluZ0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">ICAgICAgICBpbnB1dFN0ciA9ICIiOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZXgpIHsKICAgICAgICAgICAgZXgucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgIHJpZ2h0X3BhcmFtID0gZmFsc2U7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIEBNb2NrCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIExvZ2dlciBsb2dnZXIgPSBMb2dnZXJGYWN0b3J5LmdldExvZ2dlcihQb2lDb250cm9sbGVyLmNsYXNzKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBRdWVyeVBhcmFtQmVhbiBxdWVyeVBhcmFtQmVhbiA9IFBvd2VyTW9ja2l0by5tb2NrKFF1ZXJ5UGFyYW1CZWFuLmNsYXNzKTsKICAgICAgICBQb3dlck1vY2tpdG8ud2hlbk5ldyhRdWVyeVBhcmFtQmVhbi5jbGFzcykud2l0aE5vQXJndW1lbnRzKCkudGhlblJldHVybihxdWVyeVBhcmFtQmVhbik7CiAgICAgICAgUG93ZXJNb2NraXRvLndoZW4ocXVlcnlQYXJhbUJlYW4ucGFyc2UoYW55KFN0cmluZy5jbGFzcyksIGFueShTdHJpbmcuY2xhc3MpLCBhbnkoU3RyaW5nLmNsYXNzKSkpLnRoZW5SZXR1cm4oZmFsc2UpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBQb3dlck1vY2tpdG8ud2hlbk5ldyhRdWVyeVBhcmFtQmVhbi5jbGFzcykud2l0aEFueUFyZ3VtZW50cygpLnRoZW5SZXR1cm4ocXVlcnlQYXJhbUJlYW4pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBQb3dlck1vY2tpdG8ud2hlbihyZXF1ZXN0LmdldE1ldGhvZCgpKS50aGVuUmV0dXJuKCJHRVQiKTsK</text>
+        <text encoding="base64">ICAgICAgICAvL+WPguaVsOaYr+WQpuato+ehrgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgcmlnaHRfcGFyYW07Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>country</last-search>
+      <last-search>return false;</last-search>
       <last-offset />
-      <last-pattern>country</last-pattern>
+      <last-pattern>return false;</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -461,7 +433,6 @@
     </search>
     <history>
       <history-search>
-        <entry>id1</entry>
         <entry>id3</entry>
         <entry encoding="base64">XDxkb2NTaGFyZUluZm9NYXBcPg==</entry>
         <entry>indexInfomap</entry>
@@ -481,6 +452,7 @@
         <entry>pos</entry>
         <entry encoding="base64">XDxjb3VudHJ5X3NlYXJjaFw+</entry>
         <entry>country</entry>
+        <entry>return false;</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0wvL2c=</entry>
