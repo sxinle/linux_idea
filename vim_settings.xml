@@ -259,6 +259,10 @@
       <file name="/fragment.java" timestamp="1496220810115">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.2.5.RELEASE/spring-web-4.2.5.RELEASE-sources.jar!/org/springframework/http/HttpHeaders.java" timestamp="1496222217425">
+        <mark key="[" line="1019" column="25" />
+        <mark key="]" line="1019" column="30" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="118" column="57" filename="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/business/poi/searcher/PoiSearcher.java" />
@@ -379,7 +383,7 @@
         <text>ms-</text>
       </register>
       <register name="0" type="4">
-        <text>ResponseEntity</text>
+        <text>String</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
