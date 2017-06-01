@@ -74,6 +74,10 @@
       <file name="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/common/util/TypeCode.java" timestamp="1495775133456">
         <mark key="'" line="45" column="23" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.2.5.RELEASE/spring-webmvc-4.2.5.RELEASE-sources.jar!/org/springframework/web/servlet/config/annotation/EnableWebMvc.java" timestamp="1496282061175">
+        <mark key="[" line="86" column="58" />
+        <mark key="]" line="86" column="80" />
+      </file>
       <file name="$USER_HOME$/workspace/search/search_old/src/test/java/com/mx/server/search/old/business/poi/searcher/PoiSearcherTest.java" timestamp="1496217967566">
         <mark key="'" line="256" column="166" />
         <mark key="[" line="229" column="59" />
@@ -95,6 +99,11 @@
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/ServerConfig.java" timestamp="1496279359342">
         <mark key="'" line="251" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/3.2.9.RELEASE/spring-webmvc-3.2.9.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/annotation/AnnotationMethodHandlerAdapter.java" timestamp="1496282386834">
+        <mark key="'" line="145" column="13" />
+        <mark key="[" line="145" column="13" />
+        <mark key="]" line="145" column="42" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/test/java/search_core/PosSorterTest.java" timestamp="1495689634786">
         <mark key="'" line="159" column="0" />
@@ -120,11 +129,11 @@
       <file name="/JSON Fragment (PoiControllerTest.java:4953).json" timestamp="1495875136163">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/.share/PEUSystem(华阳吉利KP2)/src/main/resources/applicationContext.xml" timestamp="1496281693360">
-        <mark key="'" line="85" column="49" />
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="87" column="42" />
-        <mark key="." line="94" column="97" />
+      <file name="$USER_HOME$/.share/PEUSystem(华阳吉利KP2)/src/main/resources/applicationContext.xml" timestamp="1496282664389">
+        <mark key="'" line="84" column="5" />
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="97" column="10" />
+        <mark key="." line="96" column="62" />
         <mark key="^" line="83" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/search_tool/src/main/java/com/mx/server/search/tool/service/impl/DataInfoServiceImpl.java" timestamp="1495010604261">
@@ -224,9 +233,9 @@
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/TermsSetter.java" timestamp="1495689261333">
         <mark key="'" line="104" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_web/src/main/resources/spring-mvc.xml" timestamp="1496281285450">
-        <mark key="[" line="30" column="17" />
-        <mark key="]" line="30" column="98" />
+      <file name="$USER_HOME$/workspace/search/search_web/src/main/resources/spring-mvc.xml" timestamp="1496282682146">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="100" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.3.RELEASE/spring-context-4.3.3.RELEASE-sources.jar!/org/springframework/scheduling/annotation/ScheduledAnnotationBeanPostProcessor.java" timestamp="1494864003725">
         <mark key="'" line="333" column="16" />
@@ -277,7 +286,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="26" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/semantic/SemanticAnalyzerTest.java" />
       <jump line="109" column="0" filename="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/business/poi/searcher/PoiSearcher.java" />
       <jump line="68" column="54" filename="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/business/poi/action/PoiController.java" />
       <jump line="30" column="45" filename="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/business/poi/data/QueryParamBean.java" />
@@ -375,8 +383,9 @@
       <jump line="8" column="0" filename="$USER_HOME$/.share/PEUSystem(华阳吉利KP2)/src/main/resources/applicationContext.xml" />
       <jump line="12" column="197" filename="$USER_HOME$/.share/PEUSystem(华阳吉利KP2)/src/main/resources/applicationContext.xml" />
       <jump line="83" column="5" filename="$USER_HOME$/.share/PEUSystem(华阳吉利KP2)/src/main/resources/applicationContext.xml" />
-      <jump line="84" column="16" filename="$USER_HOME$/.share/PEUSystem(华阳吉利KP2)/src/main/resources/applicationContext.xml" />
-      <jump line="85" column="49" filename="$USER_HOME$/.share/PEUSystem(华阳吉利KP2)/src/main/resources/applicationContext.xml" />
+      <jump line="145" column="13" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/3.2.9.RELEASE/spring-webmvc-3.2.9.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/annotation/AnnotationMethodHandlerAdapter.java" />
+      <jump line="85" column="3" filename="$USER_HOME$/.share/PEUSystem(华阳吉利KP2)/src/main/resources/applicationContext.xml" />
+      <jump line="84" column="5" filename="$USER_HOME$/.share/PEUSystem(华阳吉利KP2)/src/main/resources/applicationContext.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -389,13 +398,13 @@
         <text>initSingleMapForJunitTest</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>DefaultAnnotationHandlerMapping</text>
       </register>
       <register name="/" type="4">
         <text>mvc</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CTxiZWFuCgkJY2xhc3M9Im9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLnNlcnZsZXQubXZjLmFubm90YXRpb24uQW5ub3RhdGlvbk1ldGhvZEhhbmRsZXJBZGFwdGVyIj4KCQk8cHJvcGVydHkgbmFtZT0ibWVzc2FnZUNvbnZlcnRlcnMiPgo=</text>
+        <text encoding="base64">ICAgIDxiZWFuIGNsYXNzPSJvcmcuc3ByaW5nZnJhbWV3b3JrLndlYi5zZXJ2bGV0Lm12Yy5tZXRob2QuYW5ub3RhdGlvbi5SZXF1ZXN0TWFwcGluZ0hhbmRsZXJBZGFwdGVyIj4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
