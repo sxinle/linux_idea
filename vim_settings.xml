@@ -141,11 +141,11 @@
       <file name="/JSON Fragment (PoiControllerTest.java:4953).json" timestamp="1495875136163">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/.share/PEUSystem(华阳吉利KP2)/src/main/resources/applicationContext.xml" timestamp="1496288031614">
-        <mark key="[" line="86" column="42" />
-        <mark key="]" line="86" column="42" />
-        <mark key="." line="86" column="42" />
-        <mark key="^" line="86" column="47" />
+      <file name="$USER_HOME$/.share/PEUSystem(华阳吉利KP2)/src/main/resources/applicationContext.xml" timestamp="1496288692267">
+        <mark key="[" line="92" column="108" />
+        <mark key="]" line="93" column="3" />
+        <mark key="." line="93" column="3" />
+        <mark key="^" line="93" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/search_tool/src/main/java/com/mx/server/search/tool/service/impl/DataInfoServiceImpl.java" timestamp="1495010604261">
         <mark key="'" line="493" column="12" />
@@ -278,12 +278,12 @@
       <file name="$USER_HOME$/workspace/search/search_core/src/main/resources/common.proto" timestamp="1495009706329">
         <mark key="'" line="166" column="0" />
       </file>
-      <file name="$USER_HOME$/.share/PEUSystem(华阳吉利KP2)/src/main/java/com/mansion/peus/currencywebsite/web/controller/CurrencyActiveController.java" timestamp="1496285545134">
-        <mark key="'" line="299" column="52" />
-        <mark key="[" line="403" column="53" />
-        <mark key="]" line="403" column="52" />
-        <mark key="^" line="403" column="52" />
-        <mark key="." line="403" column="52" />
+      <file name="$USER_HOME$/.share/PEUSystem(华阳吉利KP2)/src/main/java/com/mansion/peus/currencywebsite/web/controller/CurrencyActiveController.java" timestamp="1496288713246">
+        <mark key="'" line="300" column="44" />
+        <mark key="[" line="303" column="36" />
+        <mark key="]" line="304" column="27" />
+        <mark key="^" line="304" column="27" />
+        <mark key="." line="304" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/dsef/common/Common.java" timestamp="1495009166822">
         <mark key="'" line="4388" column="0" />
@@ -399,7 +399,6 @@
       <jump line="386" column="0" filename="$USER_HOME$/.share/PEUSystem(华阳吉利KP2)/src/main/resources/applicationContext.xml" />
       <jump line="14" column="24" filename="$USER_HOME$/.share/PEUSystem(华阳吉利KP2)/src/main/resources/applicationContext.xml" />
       <jump line="99" column="17" filename="$USER_HOME$/.share/PEUSystem(华阳吉利KP2)/src/main/resources/applicationContext.xml" />
-      <jump line="299" column="52" filename="$USER_HOME$/.share/PEUSystem(华阳吉利KP2)/src/main/java/com/mansion/peus/currencywebsite/web/controller/CurrencyActiveController.java" />
       <jump line="146" column="18" filename="$USER_HOME$/.share/PEUSystem(华阳吉利KP2)/src/main/resources/applicationContext.xml" />
       <jump line="52" column="13" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/3.2.9.RELEASE/spring-web-3.2.9.RELEASE-sources.jar!/org/springframework/http/converter/json/MappingJacksonHttpMessageConverter.java" />
       <jump line="60" column="19" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/3.2.9.RELEASE/spring-web-3.2.9.RELEASE-sources.jar!/org/springframework/http/converter/json/MappingJacksonHttpMessageConverter.java" />
@@ -415,6 +414,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/.share/PEUSystem(华阳吉利KP2)/pom.xml" />
       <jump line="82" column="24" filename="$USER_HOME$/.share/PEUSystem(华阳吉利KP2)/pom.xml" />
       <jump line="92" column="61" filename="$USER_HOME$/.share/PEUSystem(华阳吉利KP2)/src/main/resources/applicationContext.xml" />
+      <jump line="299" column="44" filename="$USER_HOME$/.share/PEUSystem(华阳吉利KP2)/src/main/java/com/mansion/peus/currencywebsite/web/controller/CurrencyActiveController.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -427,7 +427,7 @@
         <text>initSingleMapForJunitTest</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">dGhyb3dzIElPRXhjZXB0aW9uIA==</text>
       </register>
       <register name="/" type="4">
         <text>json</text>
@@ -436,31 +436,31 @@
         <text>getJsonEncoding(outputMessage.getHeaders().getContentType())</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgY2FsbGJhY2sgPSByZXF1ZXN0LmdldFBhcmFtZXRlcigiY2FsbGJhY2siKTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIAo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgIDwhLS1jbGFzcz0ib3JnLnNwcmluZ2ZyYW1ld29yay53ZWIuc2VydmxldC5tdmMuYW5ub3RhdGlvbi5EZWZhdWx0QW5ub3RhdGlvbkhhbmRsZXJNYXBwaW5nIj4tLT4K</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgY2FsbGJhY2sgPSByZXF1ZXN0LmdldFBhcmFtZXRlcigiY2FsbGJhY2siKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIAo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoY2FsbGJhY2sgIT0gbnVsbCkgewogICAgICAgICAgICBicmVhazsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIDwhLS1jbGFzcz0ib3JnLnNwcmluZ2ZyYW1ld29yay53ZWIuc2VydmxldC5tdmMuYW5ub3RhdGlvbi5EZWZhdWx0QW5ub3RhdGlvbkhhbmRsZXJNYXBwaW5nIj4tLT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgY2FsbGJhY2sgPSBudWxsOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoY2FsbGJhY2sgIT0gbnVsbCkgewogICAgICAgICAgICBicmVhazsKICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgY2FsbGJhY2sgPSBudWxsOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IGpzb25wUGFyYW1ldGVyTmFtZXMubGVuZ3RoOyBpKyspIHsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBnZXRPYmplY3RNYXBwZXIoKS53Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IGpzb25wUGFyYW1ldGVyTmFtZXMubGVuZ3RoOyBpKyspIHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
