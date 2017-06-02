@@ -252,6 +252,9 @@
       <file name="$MAVEN_REPOSITORY$/org/powermock/powermock-core/1.6.2/powermock-core-1.6.2-sources.jar!/org/powermock/mockpolicies/MockPolicyClassLoadingSettings.java" timestamp="1495510940197">
         <mark key="'" line="74" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/search/common-conf/search.properties" timestamp="1496373150511">
+        <mark key="'" line="114" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/dsef/admin/Admin.java" timestamp="1495445468899">
         <mark key="'" line="22" column="71" />
       </file>
@@ -263,9 +266,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="24" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/BaseSearcher.java" />
-      <jump line="214" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/BaseSearcher.java" />
-      <jump line="40" column="32" filename="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/GenericController.java" />
       <jump line="155" column="0" filename="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/GenericController.java" />
       <jump line="229" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/ServerConfig.java" />
       <jump line="251" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/ServerConfig.java" />
@@ -363,6 +363,9 @@
       <jump line="123" column="0" filename="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/GenericController.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/GenericController.java" />
       <jump line="83" column="28" filename="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/GenericController.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
+      <jump line="104" column="0" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
+      <jump line="114" column="0" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
     </jumps>
     <registers>
       <register name="a" type="4">
