@@ -60,6 +60,9 @@
       <file name="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/common/util/TypeCode.java" timestamp="1495775133456">
         <mark key="'" line="45" column="23" />
       </file>
+      <file name="$USER_HOME$/workspace/search/search_old/src/test/java/com/mx/server/search/old/business/poi/searcher/PoiSearcherTest.java" timestamp="1496367095029">
+        <mark key="'" line="83" column="32" />
+      </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsBaseSearcher.java" timestamp="1496210218101">
         <mark key="'" line="213" column="23" />
       </file>
@@ -257,7 +260,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="312" column="27" filename="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/business/poi/searcher/PoiSearcher.java" />
       <jump line="87" column="27" filename="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/business/poi/action/PoiController.java" />
       <jump line="106" column="51" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.2.5.RELEASE/spring-web-4.2.5.RELEASE-sources.jar!/org/springframework/http/MediaType.java" />
       <jump line="53" column="45" filename="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/GenericController.java" />
@@ -357,6 +359,7 @@
       <jump line="90" column="62" filename="$USER_HOME$/.share/PEUSystem(华阳吉利KP2)/src/main/resources/applicationContext.xml" />
       <jump line="92" column="18" filename="$USER_HOME$/.share/PEUSystem(华阳吉利KP2)/src/main/resources/applicationContext.xml" />
       <jump line="385" column="0" filename="$USER_HOME$/.share/PEUSystem(华阳吉利KP2)/src/main/resources/applicationContext.xml" />
+      <jump line="83" column="32" filename="$USER_HOME$/workspace/search/search_old/src/test/java/com/mx/server/search/old/business/poi/searcher/PoiSearcherTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
