@@ -86,6 +86,10 @@
         <mark key="[" line="188" column="32" />
         <mark key="]" line="188" column="91" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.4.1/httpclient-4.4.1-sources.jar!/org/apache/http/impl/client/HttpClientBuilder.java" timestamp="1496373802149">
+        <mark key="[" line="911" column="51" />
+        <mark key="]" line="911" column="76" />
+      </file>
       <file name="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/lang/String.java" timestamp="1495785734815">
         <mark key="'" line="2132" column="19" />
       </file>
@@ -156,6 +160,13 @@
       <file name="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/lang/ClassLoader.java" timestamp="1495509450685">
         <mark key="'" line="1743" column="28" />
       </file>
+      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/autonavi/AmapKeywordSearcherTest.java" timestamp="1496374187788">
+        <mark key="'" line="52" column="8" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="54" />
+        <mark key="^" line="22" column="51" />
+        <mark key="." line="22" column="51" />
+      </file>
       <file name="$USER_HOME$/workspace/yh_svr/src/main/java/shadowsocks/nio/tcp/Session.java" timestamp="1494919841956">
         <mark key="'" line="8" column="0" />
       </file>
@@ -197,6 +208,7 @@
         <mark key="[" line="21" column="24" />
         <mark key="]" line="21" column="36" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/mx/server/common/mx_common_utils/1.1.8-RELEASE/mx_common_utils-1.1.8-RELEASE.jar!/com/mx/server/common/utils/HttpSender.class" timestamp="1496373632895" />
       <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/dsef/common/Common.java" timestamp="1495445464021">
         <mark key="'" line="4136" column="0" />
       </file>
@@ -222,6 +234,7 @@
       <file name="$USER_HOME$/workspace/zest/src/main/java/com/HttpUtil.java" timestamp="1495179921091">
         <mark key="'" line="66" column="65" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/powermock/powermock-module-junit4/1.6.2/powermock-module-junit4-1.6.2-sources.jar!/org/powermock/modules/junit4/internal/impl/PowerMockJUnit44RunnerDelegateImpl.java" timestamp="1496373364081" />
       <file name="$USER_HOME$/.share/PEUSystem(华阳吉利KP2)/src/main/java/com/mansion/peus/JsonpAdvice.java" timestamp="1496286631914">
         <mark key="[" line="5" column="7" />
         <mark key="]" line="5" column="7" />
@@ -246,6 +259,11 @@
       <file name="$USER_HOME$/workspace/yh_svr/src/main/java/com/yh/zhgp/util/ZbjSpider.java" timestamp="1495173289643">
         <mark key="'" line="45" column="35" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.1/httpcore-4.4.1-sources.jar!/org/apache/http/ssl/SSLContexts.java" timestamp="1496374209259">
+        <mark key="'" line="54" column="45" />
+        <mark key="[" line="37" column="10" />
+        <mark key="]" line="37" column="33" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/net/sf/json-lib/json-lib/2.4/json-lib-2.4-jdk15.jar!/net/sf/json/JSONException.class" timestamp="1496193260310">
         <mark key="'" line="9" column="13" />
       </file>
@@ -258,7 +276,7 @@
       <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/dsef/admin/Admin.java" timestamp="1495445468899">
         <mark key="'" line="22" column="71" />
       </file>
-      <file name="/fragment.java" timestamp="1496293789307">
+      <file name="/fragment.java" timestamp="1496373569473">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="56" />
         <mark key="^" line="0" column="56" />
@@ -266,8 +284,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="155" column="0" filename="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/GenericController.java" />
-      <jump line="229" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/ServerConfig.java" />
       <jump line="251" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/ServerConfig.java" />
       <jump line="49" column="55" filename="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/GenericController.java" />
       <jump line="289" column="25" filename="$USER_HOME$/.share/PEUSystem(华阳吉利KP2)/src/main/resources/applicationContext.xml" />
@@ -366,6 +382,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
       <jump line="104" column="0" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
       <jump line="114" column="0" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
+      <jump line="52" column="8" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/autonavi/AmapKeywordSearcherTest.java" />
+      <jump line="54" column="45" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.1/httpcore-4.4.1-sources.jar!/org/apache/http/ssl/SSLContexts.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -378,13 +396,13 @@
         <text>initSingleMapForJunitTest</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IDwvYmVhbj4=</text>
+        <text>org.apache.http.ssl.*</text>
       </register>
       <register name="/" type="4">
         <text>detail</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CTwhLS0gU3ByaW5nLU1WQyAtLT4KCTxiZWFuCgkJY2xhc3M9Im9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLnNlcnZsZXQubXZjLmFubm90YXRpb24uQW5ub3RhdGlvbk1ldGhvZEhhbmRsZXJBZGFwdGVyIj4KCQk8cHJvcGVydHkgbmFtZT0ibWVzc2FnZUNvbnZlcnRlcnMiPgoJCQk8bGlzdD4KICAgICAgICAgICAgICAgIDxiZWFuIGNsYXNzPSJvcmcuc3ByaW5nZnJhbWV3b3JrLmh0dHAuY29udmVydGVyLkJ5dGVBcnJheUh0dHBNZXNzYWdlQ29udmVydGVyIiAvPgoJCQkJPGJlYW4gY2xhc3M9Im9yZy5zcHJpbmdmcmFtZXdvcmsuaHR0cC5jb252ZXJ0ZXIuanNvbi5NYXBwaW5nSmFja3Nvbkh0dHBNZXNzYWdlQ29udmVydGVyIiAvPgoJCQk8L2xpc3Q+CgkJPC9wcm9wZXJ0eT4KCTwvYmVhbj4KCTxiZWFuIGNsYXNzPSJvcmcuc3ByaW5nZnJhbWV3b3JrLndlYi5zZXJ2bGV0Lm12Yy5hbm5vdGF0aW9uLkRlZmF1bHRBbm5vdGF0aW9uSGFuZGxlck1hcHBpbmciPiA8L2JlYW4+Cg==</text>
+      <register name="0" type="4">
+        <text>javax.net.ssl.SSLContext</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHhtbD1hcHBsaWNhdGlvbi94bWwK</text>
