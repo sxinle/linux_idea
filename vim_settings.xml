@@ -168,6 +168,9 @@
       <file name="$USER_HOME$/workspace/zest/src/main/java/moud/Sec.java" timestamp="1496278724375">
         <mark key="'" line="48" column="59" />
       </file>
+      <file name="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/GenericController.java" timestamp="1496370894713">
+        <mark key="'" line="83" column="28" />
+      </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsSPECIALSearcher.java" timestamp="1495854444383">
         <mark key="'" line="16" column="13" />
       </file>
@@ -260,10 +263,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="27" filename="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/business/poi/action/PoiController.java" />
-      <jump line="106" column="51" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.2.5.RELEASE/spring-web-4.2.5.RELEASE-sources.jar!/org/springframework/http/MediaType.java" />
-      <jump line="53" column="45" filename="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/GenericController.java" />
-      <jump line="48" column="59" filename="$USER_HOME$/workspace/zest/src/main/java/moud/Sec.java" />
       <jump line="13" column="24" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/BaseSearcher.java" />
       <jump line="214" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/BaseSearcher.java" />
       <jump line="40" column="32" filename="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/GenericController.java" />
@@ -360,6 +359,10 @@
       <jump line="92" column="18" filename="$USER_HOME$/.share/PEUSystem(华阳吉利KP2)/src/main/resources/applicationContext.xml" />
       <jump line="385" column="0" filename="$USER_HOME$/.share/PEUSystem(华阳吉利KP2)/src/main/resources/applicationContext.xml" />
       <jump line="83" column="32" filename="$USER_HOME$/workspace/search/search_old/src/test/java/com/mx/server/search/old/business/poi/searcher/PoiSearcherTest.java" />
+      <jump line="44" column="4" filename="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/GenericController.java" />
+      <jump line="123" column="0" filename="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/GenericController.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/GenericController.java" />
+      <jump line="83" column="28" filename="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/GenericController.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -375,7 +378,7 @@
         <text encoding="base64">IDwvYmVhbj4=</text>
       </register>
       <register name="/" type="4">
-        <text>json</text>
+        <text>detail</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CTwhLS0gU3ByaW5nLU1WQyAtLT4KCTxiZWFuCgkJY2xhc3M9Im9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLnNlcnZsZXQubXZjLmFubm90YXRpb24uQW5ub3RhdGlvbk1ldGhvZEhhbmRsZXJBZGFwdGVyIj4KCQk8cHJvcGVydHkgbmFtZT0ibWVzc2FnZUNvbnZlcnRlcnMiPgoJCQk8bGlzdD4KICAgICAgICAgICAgICAgIDxiZWFuIGNsYXNzPSJvcmcuc3ByaW5nZnJhbWV3b3JrLmh0dHAuY29udmVydGVyLkJ5dGVBcnJheUh0dHBNZXNzYWdlQ29udmVydGVyIiAvPgoJCQkJPGJlYW4gY2xhc3M9Im9yZy5zcHJpbmdmcmFtZXdvcmsuaHR0cC5jb252ZXJ0ZXIuanNvbi5NYXBwaW5nSmFja3Nvbkh0dHBNZXNzYWdlQ29udmVydGVyIiAvPgoJCQk8L2xpc3Q+CgkJPC9wcm9wZXJ0eT4KCTwvYmVhbj4KCTxiZWFuIGNsYXNzPSJvcmcuc3ByaW5nZnJhbWV3b3JrLndlYi5zZXJ2bGV0Lm12Yy5hbm5vdGF0aW9uLkRlZmF1bHRBbm5vdGF0aW9uSGFuZGxlck1hcHBpbmciPiA8L2JlYW4+Cg==</text>
@@ -412,17 +415,16 @@
       </register>
     </registers>
     <search>
-      <last-search>json</last-search>
+      <last-search>detail</last-search>
       <last-offset />
-      <last-pattern>json</last-pattern>
+      <last-pattern>detail</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxrZXl3b3JkX2tpbmRcPg==</entry>
         <entry encoding="base64">XDx0eXBlXD4=</entry>
         <entry encoding="base64">XDxlbmNvZGluZ1w+</entry>
         <entry>adminCodeMap</entry>
@@ -442,6 +444,7 @@
         <entry>jackson</entry>
         <entry encoding="base64">XDxtZXNzYWdlQ29udmVydGVyc1w+</entry>
         <entry>json</entry>
+        <entry>detail</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0wvL2c=</entry>
