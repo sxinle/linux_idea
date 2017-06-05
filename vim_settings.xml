@@ -93,6 +93,12 @@
       <file name="$USER_HOME$/workspace/search_tool/src/main/java/com/mx/server/search/tool/service/impl/DataInfoServiceImpl.java" timestamp="1495010604261">
         <mark key="'" line="493" column="12" />
       </file>
+      <file name="$USER_HOME$/workspace/zest/pom.xml" timestamp="1496639193998">
+        <mark key="'" line="16" column="33" />
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/dsef/poi/Poi.java" timestamp="1495008847096">
         <mark key="'" line="27" column="2" />
       </file>
@@ -185,12 +191,12 @@
         <mark key="^" line="13" column="3" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zest/src/main/java/com/MDict.java" timestamp="1496397742616">
-        <mark key="'" line="31" column="34" />
-        <mark key="[" line="26" column="54" />
-        <mark key="]" line="26" column="53" />
-        <mark key="." line="26" column="53" />
-        <mark key="^" line="26" column="53" />
+      <file name="$USER_HOME$/workspace/zest/src/main/java/com/MDict.java" timestamp="1496640371683">
+        <mark key="'" line="35" column="34" />
+        <mark key="[" line="27" column="64" />
+        <mark key="]" line="27" column="64" />
+        <mark key="." line="27" column="64" />
+        <mark key="^" line="27" column="64" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/business/poi/data/CountryPoiRet.java" timestamp="1495775964539">
         <mark key="'" line="105" column="0" />
@@ -200,6 +206,12 @@
       </file>
       <file name="$USER_HOME$/workspace/search/search_old/pom.xml" timestamp="1496633281803">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/.share/PEUSystem(华阳吉利KP2)/pom.xml" timestamp="1496308570482">
+        <mark key="'" line="224" column="19" />
+        <mark key="[" line="13" column="24" />
+        <mark key="]" line="13" column="37" />
+        <mark key="." line="13" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_old/src/test/java/com/mx/server/search/old/business/poi/action/PoiControllerTest.java" timestamp="1496632740707">
         <mark key="'" line="113" column="0" />
@@ -248,6 +260,12 @@
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/BaseSearcher.java" timestamp="1496278764837">
         <mark key="'" line="214" column="0" />
+      </file>
+      <file name="$USER_HOME$/.share/PEUSystem(华阳吉利KP2)/src/main/java/com/mansion/peus/MappingJackson2JsonpHttpMessageConverter.java" timestamp="1496295056421">
+        <mark key="'" line="76" column="6" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/autonavi/AmapKeywordSearcherTest.java" timestamp="1496374187788">
         <mark key="'" line="52" column="8" />
@@ -344,15 +362,14 @@
       <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/dsef/admin/Admin.java" timestamp="1495445468899">
         <mark key="'" line="22" column="71" />
       </file>
-      <file name="/fragment.java" timestamp="1496629236301">
+      <file name="/fragment.java" timestamp="1496640235899">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="56" />
+        <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="56" />
-        <mark key="." line="0" column="56" />
+        <mark key="." line="0" column="4" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="490" column="86" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/3.2.9.RELEASE/spring-webmvc-3.2.9.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/RequestMappingHandlerAdapter.java" />
       <jump line="503" column="18" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/3.2.9.RELEASE/spring-webmvc-3.2.9.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/RequestMappingHandlerAdapter.java" />
       <jump line="504" column="18" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/3.2.9.RELEASE/spring-webmvc-3.2.9.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/RequestMappingHandlerAdapter.java" />
       <jump line="505" column="18" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/3.2.9.RELEASE/spring-webmvc-3.2.9.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/RequestMappingHandlerAdapter.java" />
@@ -452,6 +469,7 @@
       <jump line="62" column="34" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/doc/GridInfo.java" />
       <jump line="17" column="26" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/doc/GridInfo.java" />
       <jump line="11" column="36" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/doc/GridInfo.java" />
+      <jump line="16" column="33" filename="$USER_HOME$/workspace/zest/pom.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -464,40 +482,40 @@
         <text>initSingleMapForJunitTest</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>.trim();</text>
       </register>
       <register name="/" type="4">
         <text>skip</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBVdGlsaXR5LmluaXRTaW5nbGVNYXBGb3JKdW5pdFRlc3QoImdyaWRNYXAiKTsK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgaGVhZGVyU3RyID0gbmV3IFN0cmluZyhoZWFkZXIpLnRyaW0oKS5yZXBsYWNlQWxsKCImbHQ7IiwgIjwiKS5yZXBsYWNlQWxsKCImZ3Q7IiwgIj4iKS5yZXBsYWNlQWxsKCImYW1wOyIsICImIikucmVwbGFjZUFsbCgiJnF1b3Q7IiwgIlwiIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oU3RyaW5nRXNjYXBlVXRpbHMudW5lc2NhcGVIdG1sNChuZXcgU3RyaW5nKGhlYWRlcikpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocmV0KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgaW5wdXRTdHIgPSAie1wicHJvZHVjdF9pZFwiOlwiMTEwMTAwXCIsXCJkaXN0X2xvblwiOjEwNTExNTc5NjQsXCJkaXN0X2xhdFwiOjIwNzc2MTE0MyxcImRpc3RfbGV2ZWxcIjpcImNpdHlcIixcIm1pbl90eXBlXCI6XCIxMjU0NFwiLFwib2Zmc2V0XCI6MCxcImxpbWl0XCI6MjAwLFwicG9zX2xhdFwiOjIwNzkxNDU2MCxcInBvc19sb25cIjoxMDQ5NzMxNTIwLFwib3JkZXJfYnlcIjpcImRpc3RhbmNlXCJ9IjsKICAgICAgICBCYXNlUGFyYW0gcGFyYW0gPSBuZXcgQmFzZVBhcmFtKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8IS0tIGh0dHBzOi8vbXZucmVwb3NpdG9yeS5jb20vYXJ0aWZhY3Qvb3JnLmFwYWNoZS5jb21tb25zL2NvbW1vbnMtbGFuZzMgLS0+Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRlYXJkb3duCg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocmV0KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFmdGVybWF0aAo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgaW5wdXRTdHIgPSAie1wicHJvZHVjdF9pZFwiOlwiMTEwMTAwXCIsXCJkaXN0X2xvblwiOjEwNTExNTc5NjQsXCJkaXN0X2xhdFwiOjIwNzc2MTE0MyxcImRpc3RfbGV2ZWxcIjpcImNpdHlcIixcIm1pbl90eXBlXCI6XCIxMjU0NFwiLFwib2Zmc2V0XCI6MCxcImxpbWl0XCI6MjAwLFwicG9zX2xhdFwiOjIwNzkxNDU2MCxcInBvc19sb25cIjoxMDQ5NzMxNTIwLFwib3JkZXJfYnlcIjpcImRpc3RhbmNlXCJ9IjsKICAgICAgICBCYXNlUGFyYW0gcGFyYW0gPSBuZXcgQmFzZVBhcmFtKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHRlYXJkb3duCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBVdGlsaXR5LmluaXRTaW5nbGVNYXBGb3JKdW5pdFRlc3QoImdyaWRNYXAiKTsK</text>
+        <text encoding="base64">ICAgIGFmdGVybWF0aAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
