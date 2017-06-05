@@ -38,12 +38,11 @@
         <mark key="^" line="13" column="3" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zest/src/main/java/com/MDict.java" timestamp="1496659551323">
-        <mark key="'" line="39" column="0" />
-        <mark key="[" line="35" column="88" />
-        <mark key="]" line="35" column="90" />
-        <mark key="." line="35" column="90" />
-        <mark key="^" line="35" column="90" />
+      <file name="$USER_HOME$/workspace/zest/src/main/java/com/MDict.java" timestamp="1496662697787">
+        <mark key="[" line="9" column="18" />
+        <mark key="]" line="9" column="17" />
+        <mark key="^" line="9" column="17" />
+        <mark key="." line="9" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/semantic/UserInputSpecialCaseTest.java" timestamp="1496631375877">
         <mark key="[" line="29" column="4" />
@@ -155,6 +154,13 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/internal/builders/AnnotatedBuilder.java" timestamp="1495511476270">
         <mark key="'" line="83" column="12" />
+      </file>
+      <file name="$USER_HOME$/workspace/zest/src/main/java/com/MDXReader.java" timestamp="1496664811272">
+        <mark key="'" line="58" column="19" />
+        <mark key="[" line="62" column="9" />
+        <mark key="]" line="64" column="7" />
+        <mark key="." line="64" column="7" />
+        <mark key="^" line="64" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/search_tool/src/main/java/com/mx/server/search/tool/service/impl/DataInfoServiceImpl.java" timestamp="1495010604261">
         <mark key="'" line="493" column="12" />
@@ -334,7 +340,7 @@
       <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/dsef/admin/Admin.java" timestamp="1495445468899">
         <mark key="'" line="22" column="71" />
       </file>
-      <file name="/fragment.java" timestamp="1496650153918">
+      <file name="/fragment.java" timestamp="1496663136960">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="56" />
@@ -342,14 +348,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="24" filename="$USER_HOME$/.share/PEUSystem(华阳吉利KP2)/src/main/resources/applicationContext.xml" />
-      <jump line="90" column="62" filename="$USER_HOME$/.share/PEUSystem(华阳吉利KP2)/src/main/resources/applicationContext.xml" />
-      <jump line="92" column="18" filename="$USER_HOME$/.share/PEUSystem(华阳吉利KP2)/src/main/resources/applicationContext.xml" />
-      <jump line="385" column="0" filename="$USER_HOME$/.share/PEUSystem(华阳吉利KP2)/src/main/resources/applicationContext.xml" />
-      <jump line="83" column="32" filename="$USER_HOME$/workspace/search/search_old/src/test/java/com/mx/server/search/old/business/poi/searcher/PoiSearcherTest.java" />
-      <jump line="44" column="4" filename="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/GenericController.java" />
-      <jump line="123" column="0" filename="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/GenericController.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/GenericController.java" />
       <jump line="83" column="28" filename="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/GenericController.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
       <jump line="104" column="0" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
@@ -439,9 +437,17 @@
       <jump line="495" column="14" filename="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/lang/Character.java" />
       <jump line="506" column="14" filename="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/lang/Character.java" />
       <jump line="7230" column="0" filename="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/lang/Character.java" />
-      <jump line="40" column="34" filename="$USER_HOME$/workspace/zest/src/main/java/com/MDict.java" />
       <jump line="12" column="0" filename="$USER_HOME$/workspace/zest/src/main/java/com/MDict.java" />
       <jump line="39" column="0" filename="$USER_HOME$/workspace/zest/src/main/java/com/MDict.java" />
+      <jump line="40" column="48" filename="$USER_HOME$/workspace/zest/src/main/java/com/MDict.java" />
+      <jump line="19" column="25" filename="$USER_HOME$/workspace/zest/src/main/java/com/MDict.java" />
+      <jump line="12" column="3" filename="$USER_HOME$/workspace/zest/src/main/java/com/MDXReader.java" />
+      <jump line="63" column="117" filename="$USER_HOME$/workspace/zest/src/main/java/com/MDXReader.java" />
+      <jump line="45" column="63" filename="$USER_HOME$/workspace/zest/src/main/java/com/MDXReader.java" />
+      <jump line="13" column="16" filename="$USER_HOME$/workspace/zest/src/main/java/com/MDXReader.java" />
+      <jump line="28" column="122" filename="$USER_HOME$/workspace/zest/src/main/java/com/MDXReader.java" />
+      <jump line="44" column="12" filename="$USER_HOME$/workspace/zest/src/main/java/com/MDXReader.java" />
+      <jump line="58" column="19" filename="$USER_HOME$/workspace/zest/src/main/java/com/MDXReader.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -454,40 +460,40 @@
         <text>initSingleMapForJunitTest</text>
       </register>
       <register name="-" type="4">
-        <text>e.getValue()</text>
+        <text>码</text>
       </register>
       <register name="/" type="4">
         <text>UTF-16</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgaGVhZGVyU3RyID0gbmV3IFN0cmluZyhoZWFkZXIpLnRyaW0oKS5yZXBsYWNlQWxsKCImbHQ7IiwgIjwiKS5yZXBsYWNlQWxsKCImZ3Q7IiwgIj4iKS5yZXBsYWNlQWxsKCImYW1wOyIsICImIikucmVwbGFjZUFsbCgiJnF1b3Q7IiwgIlwiIik7Cg==</text>
+      <register name="0" type="4">
+        <text>header.get(&quot;Encrypted&quot;)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oaGVhZGVyU3RyKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmlsZS5nZXRGaWxlUG9pbnRlcigpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHRoaXMudmVyc2lvbiA8IDIuMCkgewoKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vCg==</text>
+        <text encoding="base64">ICAgIHByaWF2dGUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oaGVhZGVyU3RyKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5lbmNyeXB0ID0gaGVhZGVyLmdldCgiRW5jcnlwdGVkIikuZXF1YWxzKCJZZXMiKSA/IDEgOiBoZWFkZXIuZ2V0KCIiKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwYXIK</text>
+        <text encoding="base64">ICAgICAgICBSYW5kb21BY2Nlc3NGaWxlIGZpbGU7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdmFsOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
