@@ -160,12 +160,12 @@
       <file name="$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/internal/builders/AnnotatedBuilder.java" timestamp="1495511476270">
         <mark key="'" line="83" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/zest/src/main/java/com/MDXReader.java" timestamp="1496726289080">
-        <mark key="'" line="139" column="0" />
-        <mark key="[" line="132" column="64" />
-        <mark key="]" line="130" column="22" />
-        <mark key="." line="130" column="22" />
-        <mark key="^" line="130" column="22" />
+      <file name="$USER_HOME$/workspace/zest/src/main/java/com/MDXReader.java" timestamp="1496733703943">
+        <mark key="'" line="155" column="89" />
+        <mark key="[" line="147" column="12" />
+        <mark key="]" line="147" column="15" />
+        <mark key="." line="147" column="15" />
+        <mark key="^" line="147" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/search_tool/src/main/java/com/mx/server/search/tool/service/impl/DataInfoServiceImpl.java" timestamp="1495010604261">
         <mark key="'" line="493" column="12" />
@@ -348,7 +348,7 @@
       <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/dsef/admin/Admin.java" timestamp="1495445468899">
         <mark key="'" line="22" column="71" />
       </file>
-      <file name="/fragment.java" timestamp="1496726252701">
+      <file name="/fragment.java" timestamp="1496733669754">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="56" />
@@ -356,9 +356,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="0" filename="$USER_HOME$/workspace/zest/src/main/java/com/MDict.java" />
-      <jump line="30" column="49" filename="$USER_HOME$/workspace/zest/src/main/java/com/MDict.java" />
-      <jump line="31" column="35" filename="$USER_HOME$/workspace/zest/src/main/java/com/MDict.java" />
       <jump line="32" column="34" filename="$USER_HOME$/workspace/zest/src/main/java/com/MDict.java" />
       <jump line="33" column="34" filename="$USER_HOME$/workspace/zest/src/main/java/com/MDict.java" />
       <jump line="34" column="34" filename="$USER_HOME$/workspace/zest/src/main/java/com/MDict.java" />
@@ -456,6 +453,9 @@
       <jump line="102" column="31" filename="$MAVEN_REPOSITORY$/org/gnu/gnu-crypto/2.0.1/gnu-crypto-2.0.1-sources.jar!/gnu/crypto/hash/RipeMD128.java" />
       <jump line="128" column="4" filename="$USER_HOME$/workspace/zest/src/main/java/com/MDXReader.java" />
       <jump line="123" column="0" filename="$USER_HOME$/workspace/zest/src/main/java/com/MDXReader.java" />
+      <jump line="154" column="70" filename="$USER_HOME$/workspace/zest/src/main/java/com/MDXReader.java" />
+      <jump line="156" column="39" filename="$USER_HOME$/workspace/zest/src/main/java/com/MDXReader.java" />
+      <jump line="155" column="89" filename="$USER_HOME$/workspace/zest/src/main/java/com/MDXReader.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -468,7 +468,7 @@
         <text>initSingleMapForJunitTest</text>
       </register>
       <register name="-" type="4">
-        <text>亚索过</text>
+        <text>short</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBZGxlcjMyXD4=</text>
@@ -477,31 +477,31 @@
         <text>compressed_key_block_info</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBmb3IgaSBpbiByYW5nZShsZW4oYikpOgogICAgICAgIC8vIHQgPSAoYltpXSA+PiA0IHwgYltpXSA8PCA0KSAmIDB4ZmYKICAgICAgICAvLyB0ID0gdCBeIHByZXZpb3VzIF4gKGkgJiAweGZmKSBeIGtleVtpICUgbGVuKGtleSldCiAgICAgICAgLy8gcHJldmlvdXMgPSBiW2ldCiAgICAgICAgLy8gYltpXSA9IHQKICAgICAgICAvLyByZXR1cm4gYnl0ZXMoYikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29tcHJlc3NlZF9rZXlfYmxvY2tfaW5mby4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHQpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJldmlvdXMgPSAoYnl0ZSkoZGF0YVtpXSAmIDB4ZmYpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gYnl0ZXMoYikK</text>
+        <text encoding="base64">ICAgICAgICAvLyBiID0gYnl0ZWFycmF5KGRhdGEpCiAgICAgICAgLy8ga2V5ID0gYnl0ZWFycmF5KGtleSkKICAgICAgICAvLyBwcmV2aW91cyA9IDB4MzYK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBiW2ldID0gdAo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBmb3IgaSBpbiByYW5nZShsZW4oYikpOgogICAgICAgIHQgPSB0IF4gcHJldmlvdXMgXiAoaSAmIDB4ZmYpIF4ga2V5W2kgJSBsZW4oa2V5KV0KICAgICAgICBwcmV2aW91cyA9IGJbaV0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29tcHJlc3NlZF9rZXlfYmxvY2tfaW5mby4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0ID0gKGJbaV0gPj4gNCB8IGJbaV0gPDwgNCkgJiAweGZmCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
