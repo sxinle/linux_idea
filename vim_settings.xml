@@ -160,12 +160,12 @@
       <file name="$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/internal/builders/AnnotatedBuilder.java" timestamp="1495511476270">
         <mark key="'" line="83" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/zest/src/main/java/com/MDXReader.java" timestamp="1496741770878">
-        <mark key="'" line="115" column="0" />
-        <mark key="[" line="115" column="40" />
-        <mark key="]" line="117" column="46" />
-        <mark key="." line="117" column="46" />
-        <mark key="^" line="117" column="46" />
+      <file name="$USER_HOME$/workspace/zest/src/main/java/com/MDXReader.java" timestamp="1496744514852">
+        <mark key="'" line="88" column="15" />
+        <mark key="[" line="93" column="53" />
+        <mark key="]" line="94" column="7" />
+        <mark key="." line="94" column="7" />
+        <mark key="^" line="94" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/search_tool/src/main/java/com/mx/server/search/tool/service/impl/DataInfoServiceImpl.java" timestamp="1495010604261">
         <mark key="'" line="493" column="12" />
@@ -356,7 +356,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="44" filename="$USER_HOME$/workspace/search/search_old/src/test/java/com/mx/server/search/old/business/poi/searcher/PoiSearcherTest.java" />
       <jump line="260" column="229" filename="$USER_HOME$/workspace/search/search_old/src/test/java/com/mx/server/search/old/business/poi/searcher/PoiSearcherTest.java" />
       <jump line="259" column="47" filename="$USER_HOME$/workspace/search/search_old/src/test/java/com/mx/server/search/old/business/poi/searcher/PoiSearcherTest.java" />
       <jump line="253" column="25" filename="$USER_HOME$/workspace/search/search_old/src/test/java/com/mx/server/search/old/business/poi/searcher/PoiSearcherTest.java" />
@@ -456,6 +455,7 @@
       <jump line="23" column="19" filename="$USER_HOME$/workspace/zest/src/main/java/com/MDXReader.java" />
       <jump line="48" column="94" filename="$USER_HOME$/workspace/zest/src/main/java/com/MDXReader.java" />
       <jump line="115" column="0" filename="$USER_HOME$/workspace/zest/src/main/java/com/MDXReader.java" />
+      <jump line="88" column="15" filename="$USER_HOME$/workspace/zest/src/main/java/com/MDXReader.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -468,40 +468,40 @@
         <text>initSingleMapForJunitTest</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmNvZGluZ1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb25lUmV0WzBdID0gKGludCkgdGV4dF9jb21wcmVzc2VkX3NpemU7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxpbnRbXT4ga2V5TGlzdCA9IG5ldyBBcnJheUxpc3Q8PigpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gYXNzZXJ0KHNpemVfY291bnRlciA9PSByZWNvcmRfYmxvY2tfaW5mb19zaXplKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gc2l6ZV9jb3VudGVyICs9IHNlbGYuX251bWJlcl93aWR0aCAqIDIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgIC8vIHJlY29yZF9ibG9ja19pbmZvX2xpc3QgKz0gWyhjb21wcmVzc2VkX3NpemUsIGRlY29tcHJlc3NlZF9zaXplKV0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbnVtX2VudHJpZXMgKz0gYnl0ZTJOdW1CaWdFbmRpYW4obnVtKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByaWF0ZSBqawo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CiAgICAgICAgICAgIC8vIGNvbXByZXNzZWRfc2l6ZSA9IHNlbGYuX3JlYWRfbnVtYmVyKGYpCiAgICAgICAgICAgIC8vIGRlY29tcHJlc3NlZF9zaXplID0gc2VsZi5fcmVhZF9udW1iZXIoZikK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIGlmIHNlbGYuX2VuY29kaW5nICE9ICdVVEYtMTYnOgogICAgICAgICAgICBpICs9IHRleHRfaGVhZF9zaXplICsgdGV4dF90ZXJtCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgIGkgKz0gKHRleHRfaGVhZF9zaXplICsgdGV4dF90ZXJtKSAqIDIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbnVtID0gbmV3IGJ5dGVbbnVtV2lkdGhdOwogICAgICAgICAgICBmaWxlLnJlYWQobnVtKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbnVtID0gbmV3IGJ5dGVbbnVtV2lkdGhdOwogICAgICAgICAgICBmaWxlLnJlYWQobnVtKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGkgKz0gdGV4dF9zaXplICsgdGV4dF90ZXJtOwo=</text>
+        <text encoding="base64">ICAgICAgICBudW0gPSBuZXcgYnl0ZVtudW1XaWR0aF07CiAgICAgICAgZmlsZS5yZWFkKG51bSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
