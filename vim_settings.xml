@@ -160,12 +160,12 @@
       <file name="$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/internal/builders/AnnotatedBuilder.java" timestamp="1495511476270">
         <mark key="'" line="83" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/zest/src/main/java/com/MDXReader.java" timestamp="1496735080888">
-        <mark key="'" line="155" column="89" />
-        <mark key="[" line="138" column="0" />
-        <mark key="]" line="138" column="0" />
-        <mark key="." line="138" column="0" />
-        <mark key="^" line="137" column="11" />
+      <file name="$USER_HOME$/workspace/zest/src/main/java/com/MDXReader.java" timestamp="1496741770878">
+        <mark key="'" line="115" column="0" />
+        <mark key="[" line="115" column="40" />
+        <mark key="]" line="117" column="46" />
+        <mark key="." line="117" column="46" />
+        <mark key="^" line="117" column="46" />
       </file>
       <file name="$USER_HOME$/workspace/search_tool/src/main/java/com/mx/server/search/tool/service/impl/DataInfoServiceImpl.java" timestamp="1495010604261">
         <mark key="'" line="493" column="12" />
@@ -348,36 +348,14 @@
       <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/dsef/admin/Admin.java" timestamp="1495445468899">
         <mark key="'" line="22" column="71" />
       </file>
-      <file name="/fragment.java" timestamp="1496735083100">
+      <file name="/fragment.java" timestamp="1496741772558">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4" />
+        <mark key="]" line="0" column="22" />
         <mark key="^" line="0" column="56" />
-        <mark key="." line="0" column="4" />
+        <mark key="." line="0" column="22" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="34" filename="$USER_HOME$/workspace/zest/src/main/java/com/MDict.java" />
-      <jump line="33" column="34" filename="$USER_HOME$/workspace/zest/src/main/java/com/MDict.java" />
-      <jump line="34" column="34" filename="$USER_HOME$/workspace/zest/src/main/java/com/MDict.java" />
-      <jump line="138" column="46" filename="$USER_HOME$/workspace/search/search_old/src/test/java/com/mx/server/search/old/business/poi/searcher/PoiSearcherTest.java" />
-      <jump line="43" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/RouteSearcher.java" />
-      <jump line="150" column="18" filename="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/business/poi/action/PoiController.java" />
-      <jump line="547" column="26" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/RouteSearcher.java" />
-      <jump line="453" column="30" filename="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/business/poi/searcher/PoiSearcher.java" />
-      <jump line="531" column="65" filename="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/business/poi/searcher/PoiSearcher.java" />
-      <jump line="46" column="45" filename="$USER_HOME$/workspace/search/search_old/src/test/java/com/mx/server/search/old/business/poi/searcher/PoiSearcherTest.java" />
-      <jump line="225" column="41" filename="$USER_HOME$/workspace/search/search_old/src/test/java/com/mx/server/search/old/business/poi/searcher/PoiSearcherTest.java" />
-      <jump line="380" column="11" filename="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/business/poi/searcher/PoiSearcher.java" />
-      <jump line="429" column="30" filename="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/business/poi/searcher/PoiSearcher.java" />
-      <jump line="165" column="39" filename="$USER_HOME$/workspace/search/search_old/src/test/java/com/mx/server/search/old/business/poi/action/PoiControllerTest.java" />
-      <jump line="237" column="0" filename="$USER_HOME$/workspace/search/search_old/src/test/java/com/mx/server/search/old/business/poi/action/PoiControllerTest.java" />
-      <jump line="231" column="24" filename="$USER_HOME$/workspace/search/search_old/src/test/java/com/mx/server/search/old/business/poi/searcher/PoiSearcherTest.java" />
-      <jump line="187" column="55" filename="$USER_HOME$/workspace/search/search_old/src/test/java/com/mx/server/search/old/business/poi/searcher/PoiSearcherTest.java" />
-      <jump line="113" column="0" filename="$USER_HOME$/workspace/search/search_old/src/test/java/com/mx/server/search/old/business/poi/action/PoiControllerTest.java" />
-      <jump line="250" column="0" filename="$USER_HOME$/workspace/search/search_old/src/test/java/com/mx/server/search/old/business/poi/searcher/PoiSearcherTest.java" />
-      <jump line="38" column="0" filename="$USER_HOME$/workspace/search/search_old/src/test/java/com/mx/server/search/old/business/poi/searcher/PoiSearcherTest.java" />
-      <jump line="32" column="0" filename="$USER_HOME$/workspace/search/search_old/src/test/java/com/mx/server/search/old/business/poi/searcher/PoiSearcherTest.java" />
-      <jump line="34" column="0" filename="$USER_HOME$/workspace/search/search_old/src/test/java/com/mx/server/search/old/business/poi/searcher/PoiSearcherTest.java" />
       <jump line="35" column="44" filename="$USER_HOME$/workspace/search/search_old/src/test/java/com/mx/server/search/old/business/poi/searcher/PoiSearcherTest.java" />
       <jump line="260" column="229" filename="$USER_HOME$/workspace/search/search_old/src/test/java/com/mx/server/search/old/business/poi/searcher/PoiSearcherTest.java" />
       <jump line="259" column="47" filename="$USER_HOME$/workspace/search/search_old/src/test/java/com/mx/server/search/old/business/poi/searcher/PoiSearcherTest.java" />
@@ -434,17 +412,13 @@
       <jump line="13" column="16" filename="$USER_HOME$/workspace/zest/src/main/java/com/MDXReader.java" />
       <jump line="28" column="122" filename="$USER_HOME$/workspace/zest/src/main/java/com/MDXReader.java" />
       <jump line="44" column="12" filename="$USER_HOME$/workspace/zest/src/main/java/com/MDXReader.java" />
-      <jump line="58" column="19" filename="$USER_HOME$/workspace/zest/src/main/java/com/MDXReader.java" />
       <jump line="82" column="37" filename="$USER_HOME$/workspace/zest/src/main/java/com/MDXReader.java" />
       <jump line="92" column="33" filename="$USER_HOME$/workspace/zest/src/main/java/com/MDXReader.java" />
       <jump line="86" column="30" filename="$USER_HOME$/workspace/zest/src/main/java/com/MDXReader.java" />
-      <jump line="87" column="8" filename="$USER_HOME$/workspace/zest/src/main/java/com/MDXReader.java" />
       <jump line="89" column="12" filename="$USER_HOME$/workspace/zest/src/main/java/com/MDXReader.java" />
       <jump line="113" column="30" filename="$USER_HOME$/workspace/zest/src/main/java/com/MDXReader.java" />
       <jump line="114" column="8" filename="$USER_HOME$/workspace/zest/src/main/java/com/MDXReader.java" />
-      <jump line="115" column="12" filename="$USER_HOME$/workspace/zest/src/main/java/com/MDXReader.java" />
       <jump line="8" column="21" filename="$USER_HOME$/workspace/zest/src/main/java/com/MDXReader.java" />
-      <jump line="71" column="27" filename="$USER_HOME$/workspace/zest/src/main/java/com/MDXReader.java" />
       <jump line="2" column="0" filename="$USER_HOME$/workspace/zest/src/main/java/com/RipeMD128.java" />
       <jump line="41" column="0" filename="$USER_HOME$/workspace/zest/src/main/java/com/RipeMD128.java" />
       <jump line="246" column="0" filename="$USER_HOME$/workspace/zest/src/main/java/com/RipeMD128.java" />
@@ -456,6 +430,32 @@
       <jump line="154" column="70" filename="$USER_HOME$/workspace/zest/src/main/java/com/MDXReader.java" />
       <jump line="156" column="39" filename="$USER_HOME$/workspace/zest/src/main/java/com/MDXReader.java" />
       <jump line="155" column="89" filename="$USER_HOME$/workspace/zest/src/main/java/com/MDXReader.java" />
+      <jump line="139" column="16" filename="$USER_HOME$/workspace/zest/src/main/java/com/MDXReader.java" />
+      <jump line="142" column="42" filename="$USER_HOME$/workspace/zest/src/main/java/com/MDXReader.java" />
+      <jump line="246" column="0" filename="$USER_HOME$/workspace/zest/src/main/java/com/MDXReader.java" />
+      <jump line="127" column="45" filename="$USER_HOME$/workspace/zest/src/main/java/com/MDXReader.java" />
+      <jump line="58" column="17" filename="$USER_HOME$/workspace/zest/src/main/java/com/MDXReader.java" />
+      <jump line="107" column="23" filename="$USER_HOME$/workspace/zest/src/main/java/com/MDXReader.java" />
+      <jump line="72" column="0" filename="$USER_HOME$/workspace/zest/src/main/java/com/MDXReader.java" />
+      <jump line="111" column="23" filename="$USER_HOME$/workspace/zest/src/main/java/com/MDXReader.java" />
+      <jump line="135" column="19" filename="$USER_HOME$/workspace/zest/src/main/java/com/MDXReader.java" />
+      <jump line="271" column="35" filename="$USER_HOME$/workspace/zest/src/main/java/com/MDXReader.java" />
+      <jump line="272" column="29" filename="$USER_HOME$/workspace/zest/src/main/java/com/MDXReader.java" />
+      <jump line="133" column="4" filename="$USER_HOME$/workspace/zest/src/main/java/com/MDXReader.java" />
+      <jump line="42" column="31" filename="$USER_HOME$/workspace/zest/src/main/java/com/MDXReader.java" />
+      <jump line="71" column="35" filename="$USER_HOME$/workspace/zest/src/main/java/com/MDXReader.java" />
+      <jump line="87" column="24" filename="$USER_HOME$/workspace/zest/src/main/java/com/MDXReader.java" />
+      <jump line="60" column="33" filename="$USER_HOME$/workspace/zest/src/main/java/com/MDXReader.java" />
+      <jump line="59" column="12" filename="$USER_HOME$/workspace/zest/src/main/java/com/MDXReader.java" />
+      <jump line="32" column="19" filename="$USER_HOME$/workspace/zest/src/main/java/com/MDXReader.java" />
+      <jump line="61" column="17" filename="$USER_HOME$/workspace/zest/src/main/java/com/MDXReader.java" />
+      <jump line="281" column="63" filename="$USER_HOME$/workspace/zest/src/main/java/com/MDXReader.java" />
+      <jump line="134" column="68" filename="$USER_HOME$/workspace/zest/src/main/java/com/MDXReader.java" />
+      <jump line="138" column="8" filename="$USER_HOME$/workspace/zest/src/main/java/com/MDXReader.java" />
+      <jump line="141" column="0" filename="$USER_HOME$/workspace/zest/src/main/java/com/MDXReader.java" />
+      <jump line="23" column="19" filename="$USER_HOME$/workspace/zest/src/main/java/com/MDXReader.java" />
+      <jump line="48" column="94" filename="$USER_HOME$/workspace/zest/src/main/java/com/MDXReader.java" />
+      <jump line="115" column="0" filename="$USER_HOME$/workspace/zest/src/main/java/com/MDXReader.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -468,61 +468,56 @@
         <text>initSingleMapForJunitTest</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxBZGxlcjMyXD4=</text>
+        <text encoding="base64">XDxlbmNvZGluZ1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnl0ZVtdIHJldCA9IF9mYXN0X2RlY3J5cHQoc2tpcDgsIGtleSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb25lUmV0WzBdID0gKGludCkgdGV4dF9jb21wcmVzc2VkX3NpemU7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGtleSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnl0ZVtdIHJldCA9IGRlY29tcHJlc3Moc2tpcDgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbnVtX2VudHJpZXMgKz0gYnl0ZTJOdW1CaWdFbmRpYW4obnVtKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBmb3IgaSBpbiByYW5nZShsZW4oYikpOgogICAgICAgIC8vIHQgPSAoYltpXSA+PiA0IHwgYltpXSA8PCA0KSAmIDB4ZmYKICAgICAgICAvLyB0ID0gdCBeIHByZXZpb3VzIF4gKGkgJiAweGZmKSBeIGtleVtpICUgbGVuKGtleSldCiAgICAgICAgLy8gcHJldmlvdXMgPSBiW2ldCiAgICAgICAgLy8gYltpXSA9IHQKICAgICAgICAvLyByZXR1cm4gYnl0ZXMoYikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJldmlvdXMgPSAoYnl0ZSkoZGF0YVtpXSAmIDB4ZmYpOwo=</text>
+        <text encoding="base64">CiAgICAgICAgICAgIGlmIHNlbGYuX2VuY29kaW5nICE9ICdVVEYtMTYnOgogICAgICAgICAgICBpICs9IHRleHRfaGVhZF9zaXplICsgdGV4dF90ZXJtCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgIGkgKz0gKHRleHRfaGVhZF9zaXplICsgdGV4dF90ZXJtKSAqIDIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBiID0gYnl0ZWFycmF5KGRhdGEpCiAgICAgICAgLy8ga2V5ID0gYnl0ZWFycmF5KGtleSkKICAgICAgICAvLyBwcmV2aW91cyA9IDB4MzYK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGkgKz0gdGV4dF9zaXplICsgdGV4dF90ZXJtOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxBZGxlcjMyXD4=</last-search>
+      <last-search encoding="base64">XDxlbmNvZGluZ1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxBZGxlcjMyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxlbmNvZGluZ1w+</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>jsonp</entry>
-        <entry>spring-web</entry>
-        <entry>add</entry>
-        <entry>converters.add</entry>
-        <entry>convert</entry>
         <entry>jackson</entry>
         <entry encoding="base64">XDxtZXNzYWdlQ29udmVydGVyc1w+</entry>
         <entry>json</entry>
@@ -534,10 +529,15 @@
         <entry>radiu</entry>
         <entry>skit</entry>
         <entry>skip</entry>
-        <entry>encoding</entry>
         <entry>UTF-16</entry>
         <entry>adl</entry>
         <entry encoding="base64">XDxBZGxlcjMyXD4=</entry>
+        <entry encoding="base64">XDxnZXRGaWxlUG9pbnRlclw+</entry>
+        <entry>this.version</entry>
+        <entry encoding="base64">XDxudW1XaWR0aFw+</entry>
+        <entry encoding="base64">XDxieXRlMk51bUJpZ0VuZGlhblw+</entry>
+        <entry>encoding</entry>
+        <entry encoding="base64">XDxlbmNvZGluZ1w+</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
@@ -555,10 +555,10 @@
         <entry>source ~/.ideavimrc</entry>
         <entry encoding="base64">JzwsJz5zLyIvXCIvZw==</entry>
         <entry>reg</entry>
-        <entry>action $Redo</entry>
         <entry>.,.+2w</entry>
         <entry encoding="base64">JzwsJz5zLyIvXFwiL2c=</entry>
         <entry>action AceAction</entry>
+        <entry>action $Redo</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
