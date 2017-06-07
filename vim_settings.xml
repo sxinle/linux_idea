@@ -266,8 +266,8 @@
       <file name="$USER_HOME$/workspace/zest/src/main/java/moud/Sec.java" timestamp="1496278724375">
         <mark key="'" line="48" column="59" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/GenericController.java" timestamp="1496628026006">
-        <mark key="'" line="83" column="28" />
+      <file name="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/GenericController.java" timestamp="1496825677146">
+        <mark key="'" line="129" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsSPECIALSearcher.java" timestamp="1495854444383">
         <mark key="'" line="16" column="13" />
@@ -318,7 +318,7 @@
       <file name="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/common/baidu/data/CityCountRet.java" timestamp="1495775534725">
         <mark key="'" line="76" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1496650750860">
+      <file name="/Dummy.txt" timestamp="1496825791789">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/TermsSetter.java" timestamp="1495689261333">
@@ -369,7 +369,7 @@
       <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/dsef/admin/Admin.java" timestamp="1495445468899">
         <mark key="'" line="22" column="71" />
       </file>
-      <file name="/fragment.java" timestamp="1496756725825">
+      <file name="/fragment.java" timestamp="1496825791822">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="22" />
         <mark key="^" line="0" column="56" />
@@ -380,8 +380,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5068" column="33" filename="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/lang/Character.java" />
-      <jump line="5083" column="26" filename="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/lang/Character.java" />
       <jump line="5097" column="33" filename="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/lang/Character.java" />
       <jump line="5106" column="7" filename="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/lang/Character.java" />
       <jump line="5116" column="27" filename="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/lang/Character.java" />
@@ -480,6 +478,8 @@
       <jump line="58" column="12" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/doc/GridInfo.java" />
       <jump line="71" column="64" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/doc/GridInfo.java" />
       <jump line="20" column="0" filename="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/BaseController.java" />
+      <jump line="58" column="58" filename="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/GenericController.java" />
+      <jump line="129" column="0" filename="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/GenericController.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
