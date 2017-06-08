@@ -150,12 +150,11 @@
       <file name="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/GenericController.java" timestamp="1496825677146">
         <mark key="'" line="129" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/KeywordSearcher.java" timestamp="1496904216711">
-        <mark key="'" line="109" column="38" />
-        <mark key="[" line="104" column="0" />
-        <mark key="]" line="104" column="0" />
-        <mark key="." line="104" column="0" />
-        <mark key="^" line="97" column="11" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/KeywordSearcher.java" timestamp="1496906132635">
+        <mark key="'" line="100" column="38" />
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="95" column="0" />
+        <mark key="." line="95" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsSPECIALSearcher.java" timestamp="1495854444383">
         <mark key="'" line="16" column="13" />
@@ -285,6 +284,9 @@
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/ScoreAlgorithm.java" timestamp="1495689097876">
         <mark key="'" line="228" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/powermock/powermock-core/1.6.2/powermock-core-1.6.2-sources.jar!/org/powermock/core/ListMap.java" timestamp="1496906436972">
+        <mark key="'" line="65" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/uauth/src/main/web/WEB-INF/view/jsp/admin/log/reqlog.jsp" timestamp="1496827174165">
         <mark key="[" line="56" column="26" />
         <mark key="]" line="56" column="27" />
@@ -308,6 +310,9 @@
       </file>
       <file name="$USER_HOME$/.share/PEUSystem(华阳吉利KP2)/src/main/java/com/mansion/peus/admin/daoimpl/data/MapDLLDAOImpl.java" timestamp="1496293236447">
         <mark key="'" line="492" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/powermock/powermock-core/1.6.2/powermock-core-1.6.2-sources.jar!/org/powermock/core/MockGateway.java" timestamp="1496906670364">
+        <mark key="'" line="67" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/internal/builders/AnnotatedBuilder.java" timestamp="1495511476270">
         <mark key="'" line="83" column="12" />
@@ -403,12 +408,12 @@
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/TermsSetter.java" timestamp="1495689261333">
         <mark key="'" line="104" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/query/KeywordSearcherTest.java" timestamp="1496903862960">
-        <mark key="'" line="40" column="51" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="47" />
-        <mark key="." line="49" column="0" />
-        <mark key="^" line="49" column="7" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/query/KeywordSearcherTest.java" timestamp="1496906100558">
+        <mark key="'" line="48" column="9" />
+        <mark key="[" line="28" column="36" />
+        <mark key="]" line="28" column="36" />
+        <mark key="." line="28" column="36" />
+        <mark key="^" line="28" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/zest/src/main/java/com/HttpUtil.java" timestamp="1495179921091">
         <mark key="'" line="66" column="65" />
@@ -452,7 +457,7 @@
       <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/dsef/admin/Admin.java" timestamp="1495445468899">
         <mark key="'" line="22" column="71" />
       </file>
-      <file name="/fragment.java" timestamp="1496901413461">
+      <file name="/fragment.java" timestamp="1496906587835">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="22" />
         <mark key="^" line="0" column="56" />
@@ -463,10 +468,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="31" filename="$MAVEN_REPOSITORY$/org/gnu/gnu-crypto/2.0.1/gnu-crypto-2.0.1-sources.jar!/gnu/crypto/hash/RipeMD128.java" />
-      <jump line="128" column="4" filename="$USER_HOME$/workspace/zest/src/main/java/com/MDXReader.java" />
-      <jump line="123" column="0" filename="$USER_HOME$/workspace/zest/src/main/java/com/MDXReader.java" />
-      <jump line="154" column="70" filename="$USER_HOME$/workspace/zest/src/main/java/com/MDXReader.java" />
       <jump line="156" column="39" filename="$USER_HOME$/workspace/zest/src/main/java/com/MDXReader.java" />
       <jump line="155" column="89" filename="$USER_HOME$/workspace/zest/src/main/java/com/MDXReader.java" />
       <jump line="139" column="16" filename="$USER_HOME$/workspace/zest/src/main/java/com/MDXReader.java" />
@@ -563,6 +564,10 @@
       <jump line="52" column="17" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/KeywordSearcher.java" />
       <jump line="100" column="38" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/KeywordSearcher.java" />
       <jump line="25" column="26" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/BaseSearcher.java" />
+      <jump line="67" column="0" filename="$MAVEN_REPOSITORY$/org/powermock/powermock-core/1.6.2/powermock-core-1.6.2-sources.jar!/org/powermock/core/MockGateway.java" />
+      <jump line="61" column="44" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/query/KeywordSearcherTest.java" />
+      <jump line="48" column="9" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/query/KeywordSearcherTest.java" />
+      <jump line="65" column="0" filename="$MAVEN_REPOSITORY$/org/powermock/powermock-core/1.6.2/powermock-core-1.6.2-sources.jar!/org/powermock/core/ListMap.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -575,7 +580,7 @@
         <text>initSingleMapForJunitTest</text>
       </register>
       <register name="-" type="4">
-        <text>forEach();</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZW1hbnRpY1JldFw+</text>
@@ -584,7 +589,7 @@
         <text encoding="base64">ICAgICAgICAgICAgaWYgKGlkV2l0aFRlcm1zLmdldERvY0lkKCkgPCAwKSB7CiAgICAgICAgICAgICAgICBkb2NzLmFkZChkTGlzdC5nZXQoKGludCkgKC1pZFdpdGhUZXJtcy5nZXREb2NJZCgpIC0gMSkpKTsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIGRvY3MuYWRkKFV0aWxpdHkuZ2V0RG9jKGNvdW50cnksIGxhbmcsIGlkV2l0aFRlcm1zLmdldERvY0lkKCksCiAgICAgICAgICAgICAgICAgICAgICAgIHBhcmFtLmdldFNvdXJjZSgpLCB0cnVlLAogICAgICAgICAgICAgICAgICAgICAgICBwYXJhbS5nZXRQb3NfbG9uKCksIHBhcmFtLmdldFBvc19sYXQoKSkpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PEtleXdvcmRSZXNwLkRvYz4gZG9jcyA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgIGZvciAoSWRXaXRoVGVybXMgaWRXaXRoVGVybXMgOiB1c2VkTGlzdCkgewogICAgICAgICAgICBpZiAoaWRXaXRoVGVybXMuZ2V0RG9jSWQoKSA8IDApIHsKICAgICAgICAgICAgICAgIGRvY3MuYWRkKGRMaXN0LmdldCgoaW50KSAoLWlkV2l0aFRlcm1zLmdldERvY0lkKCkgLSAxKSkpOwogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgZG9jcy5hZGQoVXRpbGl0eS5nZXREb2MoY291bnRyeSwgbGFuZywgaWRXaXRoVGVybXMuZ2V0RG9jSWQoKSwKICAgICAgICAgICAgICAgICAgICAgICAgcGFyYW0uZ2V0U291cmNlKCksIHRydWUsCiAgICAgICAgICAgICAgICAgICAgICAgIHBhcmFtLmdldFBvc19sb24oKSwgcGFyYW0uZ2V0UG9zX2xhdCgpKSk7CiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -593,22 +598,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTZW1hbnRpY3NYU2VhcmNoZXIgc2VtYW50aWNzWFNlYXJjaGVyID0gUG93ZXJNb2NraXRvLm1vY2soU2VtYW50aWNzWFNlYXJjaGVyLmNsYXNzKTsKICAgICAgICBQb3dlck1vY2tpdG8ud2hlbihzZW1hbnRpY3NYU2VhcmNoZXIuc2VhcmNoKGFueShTZW1hbnRpY1JldC5jbGFzcyksYW55KFNlbWFudGljc1BhcmFtLmNsYXNzKSkpLnRoZW5SZXR1cm4obmV3IEFycmF5TGlzdDxJZFdpdGhUZXJtcz4oKSk7CiAgICAgICAgS2V5d29yZFBhcmFtIHBhcmFtID0gbmV3IEtleXdvcmRQYXJhbSgpOwogICAgICAgIHBhcmFtLnNldENvdW50cnkoIkNITiIpOwogICAgICAgIHBhcmFtLnNldExhbmd1YWdlKCJ6aCIpOwogICAgICAgIHBhcmFtLnNldE9mZnNldCgwKTsKICAgICAgICBwYXJhbS5zZXRMaW1pdCgxMCk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBLZXl3b3JkU2VhcmNoZXIgc2VhcmNoZXIgPSBQb3dlck1vY2tpdG8ubW9jayhLZXl3b3JkU2VhcmNoZXIuY2xhc3MpOwogICAgICAgIFBvd2VyTW9ja2l0by53aGVuKHNlYXJjaGVyLmNvbnZlcnRUb1Jlc3AobGlzdCkpLnRoZW5DYWxsUmVhbE1ldGhvZCgpOwoKCiAgICAgICAgV2hpdGVib3guc2V0SW50ZXJuYWxTdGF0ZShzZWFyY2hlciwicGFyYW0iLHBhcmFtKTsKICAgICAgICBXaGl0ZWJveC5zZXRJbnRlcm5hbFN0YXRlKHNlYXJjaGVyLCJzZWFyY2hlciIsc2VtYW50aWNzWFNlYXJjaGVyKTsKICAgICAgICBzZWFyY2hlci5jb252ZXJ0VG9SZXNwKGxpc3QpOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBTZW1hbnRpY3NYU2VhcmNoZXIgc2VtYW50aWNzWFNlYXJjaGVyID0gUG93ZXJNb2NraXRvLm1vY2soU2VtYW50aWNzWFNlYXJjaGVyLmNsYXNzKTsKICAgICAgICBQb3dlck1vY2tpdG8ud2hlbihzZW1hbnRpY3NYU2VhcmNoZXIuc2VhcmNoKGFueShTZW1hbnRpY1JldC5jbGFzcyksYW55KFNlbWFudGljc1BhcmFtLmNsYXNzKSkpLnRoZW5SZXR1cm4obmV3IEFycmF5TGlzdDxJZFdpdGhUZXJtcz4oKSk7CiAgICAgICAgS2V5d29yZFBhcmFtIHBhcmFtID0gbmV3IEtleXdvcmRQYXJhbSgpOwogICAgICAgIHBhcmFtLnNldENvdW50cnkoIkNITiIpOwogICAgICAgIHBhcmFtLnNldExhbmd1YWdlKCJ6aCIpOwogICAgICAgIHBhcmFtLnNldE9mZnNldCgwKTsKICAgICAgICBwYXJhbS5zZXRMaW1pdCgxMCk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBLZXl3b3JkU2VhcmNoZXIgc2VhcmNoZXIgPSBQb3dlck1vY2tpdG8ubW9jayhLZXl3b3JkU2VhcmNoZXIuY2xhc3MpOwogICAgICAgIFBvd2VyTW9ja2l0by53aGVuKHNlYXJjaGVyLmNvbnZlcnRUb1Jlc3AobGlzdCkpLnRoZW5DYWxsUmVhbE1ldGhvZCgpOwoKCiAgICAgICAgV2hpdGVib3guc2V0SW50ZXJuYWxTdGF0ZShzZWFyY2hlciwicGFyYW0iLHBhcmFtKTsKICAgICAgICBXaGl0ZWJveC5zZXRJbnRlcm5hbFN0YXRlKHNlYXJjaGVyLCJzZWFyY2hlciIsc2VtYW50aWNzWFNlYXJjaGVyKTsKICAgICAgICBzZWFyY2hlci5jb252ZXJ0VG9SZXNwKGxpc3QpOwo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PElkV2l0aFRlcm1zPiBsaXN0ID0gUG93ZXJNb2NraXRvLm1vY2soQXJyYXlMaXN0LmNsYXNzKTsKICAgICAgICBQb3dlck1vY2tpdG8uZG9DYWxsUmVhbE1ldGhvZCgpLndoZW4obGlzdCkuYWRkKGFueU9iamVjdCgpKTsKICAgICAgICBQb3dlck1vY2tpdG8uZG9DYWxsUmVhbE1ldGhvZCgpLndoZW4obGlzdCkuZm9yRWFjaChhbnlPYmplY3QoKSk7CiAgICAgICAgbGlzdC5hZGQobmV3IElkV2l0aFRlcm1zKDEyMykpOwogICAgICAgIGxpc3QuYWRkKG5ldyBJZFdpdGhUZXJtcygxMjYpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTZW1hbnRpY3NYU2VhcmNoZXIgc2VtYW50aWNzWFNlYXJjaGVyID0gUG93ZXJNb2NraXRvLm1vY2soU2VtYW50aWNzWFNlYXJjaGVyLmNsYXNzKTsKICAgICAgICBQb3dlck1vY2tpdG8ud2hlbihzZW1hbnRpY3NYU2VhcmNoZXIuc2VhcmNoKGFueShTZW1hbnRpY1JldC5jbGFzcyksYW55KFNlbWFudGljc1BhcmFtLmNsYXNzKSkpLnRoZW5SZXR1cm4obmV3IEFycmF5TGlzdDxJZFdpdGhUZXJtcz4oKSk7CiAgICAgICAgS2V5d29yZFBhcmFtIHBhcmFtID0gbmV3IEtleXdvcmRQYXJhbSgpOwogICAgICAgIHBhcmFtLnNldENvdW50cnkoIkNITiIpOwogICAgICAgIHBhcmFtLnNldExhbmd1YWdlKCJ6aCIpOwogICAgICAgIHBhcmFtLnNldE9mZnNldCgwKTsKICAgICAgICBwYXJhbS5zZXRMaW1pdCgxMCk7CgoKCgogICAgICAgIFdoaXRlYm94LnNldEludGVybmFsU3RhdGUoc2VhcmNoZXIsInBhcmFtIixwYXJhbSk7CiAgICAgICAgV2hpdGVib3guc2V0SW50ZXJuYWxTdGF0ZShzZWFyY2hlciwic2VhcmNoZXIiLHNlbWFudGljc1hTZWFyY2hlcik7CiAgICAgICAgc2VhcmNoZXIuY29udmVydFRvUmVzcChsaXN0KTsK</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PElkV2l0aFRlcm1zPiBsaXN0ID0gUG93ZXJNb2NraXRvLm1vY2soQXJyYXlMaXN0LmNsYXNzKTsKICAgICAgICBQb3dlck1vY2tpdG8uZG9DYWxsUmVhbE1ldGhvZCgpLndoZW4obGlzdCkuYWRkKGFueU9iamVjdCgpKTsKICAgICAgICBQb3dlck1vY2tpdG8uZG9DYWxsUmVhbE1ldGhvZCgpLndoZW4obGlzdCkuZm9yRWFjaChhbnlPYmplY3QoKSk7CiAgICAgICAgbGlzdC5hZGQobmV3IElkV2l0aFRlcm1zKDEyMykpOwogICAgICAgIGxpc3QuYWRkKG5ldyBJZFdpdGhUZXJtcygxMjYpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
