@@ -107,6 +107,9 @@
       <file name="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/lang/ClassLoader.java" timestamp="1495509450685">
         <mark key="'" line="1743" column="28" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/mockito/mockito-all/1.10.19/mockito-all-1.10.19-sources.jar!/org/mockito/Matchers.java" timestamp="1496999798300">
+        <mark key="'" line="306" column="24" />
+      </file>
       <file name="$USER_HOME$/workspace/yh_svr/src/main/java/shadowsocks/nio/tcp/Session.java" timestamp="1494919841956">
         <mark key="'" line="8" column="0" />
       </file>
@@ -186,12 +189,12 @@
         <mark key="^" line="17" column="52" />
         <mark key="." line="17" column="52" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/query/NearbySearcherTest.java" timestamp="1496996817608">
+      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/query/NearbySearcherTest.java" timestamp="1497000074531">
         <mark key="'" line="259" column="44" />
-        <mark key="[" line="214" column="16" />
-        <mark key="]" line="214" column="27" />
-        <mark key="." line="260" column="73" />
-        <mark key="^" line="251" column="64" />
+        <mark key="[" line="258" column="80" />
+        <mark key="]" line="258" column="93" />
+        <mark key="." line="258" column="93" />
+        <mark key="^" line="258" column="93" />
       </file>
       <file name="$USER_HOME$/workspace/uauth/src/main/java/com/mx/server/core/misc/IndexController.java" timestamp="1496972998746">
         <mark key="'" line="175" column="0" />
@@ -381,7 +384,7 @@
       <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/dsef/admin/Admin.java" timestamp="1495445468899">
         <mark key="'" line="22" column="71" />
       </file>
-      <file name="/fragment.java" timestamp="1496995916390">
+      <file name="/fragment.java" timestamp="1496997300674">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="22" />
         <mark key="^" line="0" column="56" />
@@ -395,9 +398,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="111" column="23" filename="$USER_HOME$/workspace/zest/src/main/java/com/MDXReader.java" />
-      <jump line="135" column="19" filename="$USER_HOME$/workspace/zest/src/main/java/com/MDXReader.java" />
-      <jump line="271" column="35" filename="$USER_HOME$/workspace/zest/src/main/java/com/MDXReader.java" />
       <jump line="272" column="29" filename="$USER_HOME$/workspace/zest/src/main/java/com/MDXReader.java" />
       <jump line="133" column="4" filename="$USER_HOME$/workspace/zest/src/main/java/com/MDXReader.java" />
       <jump line="42" column="31" filename="$USER_HOME$/workspace/zest/src/main/java/com/MDXReader.java" />
@@ -495,6 +495,9 @@
       <jump line="195" column="41" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/query/NearbySearcherTest.java" />
       <jump line="214" column="16" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/query/NearbySearcherTest.java" />
       <jump line="259" column="44" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/query/NearbySearcherTest.java" />
+      <jump line="182" column="0" filename="$MAVEN_REPOSITORY$/org/mockito/mockito-all/1.10.19/mockito-all-1.10.19-sources.jar!/org/mockito/Matchers.java" />
+      <jump line="104" column="17" filename="$MAVEN_REPOSITORY$/org/mockito/mockito-all/1.10.19/mockito-all-1.10.19-sources.jar!/org/mockito/Matchers.java" />
+      <jump line="306" column="24" filename="$MAVEN_REPOSITORY$/org/mockito/mockito-all/1.10.19/mockito-all-1.10.19-sources.jar!/org/mockito/Matchers.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -507,13 +510,13 @@
         <text>initSingleMapForJunitTest</text>
       </register>
       <register name="-" type="4">
-        <text>SemanticsParam.class</text>
+        <text>BaseParam</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZWFyY2hCeU5hbWVcPg==</text>
+        <text>subClass</text>
       </register>
       <register name="0" type="4">
-        <text>searchByName</text>
+        <text encoding="base64">TWF0Y2hlcnMuPENsYXNzPEJhc2VQYXJhbT4+YW55KCk=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
@@ -547,9 +550,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZWFyY2hCeU5hbWVcPg==</last-search>
+      <last-search>subClass</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZWFyY2hCeU5hbWVcPg==</last-pattern>
+      <last-pattern>subClass</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -557,7 +560,6 @@
     </search>
     <history>
       <history-search>
-        <entry>skit</entry>
         <entry>skip</entry>
         <entry>UTF-16</entry>
         <entry>adl</entry>
@@ -577,6 +579,7 @@
         <entry encoding="base64">XDxzZW1hbnRpY1JldFw+</entry>
         <entry>jackson</entry>
         <entry encoding="base64">XDxzZWFyY2hCeU5hbWVcPg==</entry>
+        <entry>subClass</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
