@@ -304,6 +304,9 @@
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/BaseSearcher.java" timestamp="1496903887376">
         <mark key="'" line="25" column="26" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/powermock/powermock-reflect/1.6.2/powermock-reflect-1.6.2-sources.jar!/org/powermock/reflect/internal/WhiteboxImpl.java" timestamp="1497015071443">
+        <mark key="'" line="2514" column="21" />
+      </file>
       <file name="$USER_HOME$/workspace/uauth/src/main/java/com/mx/server/buss/log/entity/OperationLog.java" timestamp="1496827613573">
         <mark key="'" line="49" column="12" />
         <mark key="[" line="30" column="25" />
@@ -393,7 +396,7 @@
       <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/dsef/admin/Admin.java" timestamp="1495445468899">
         <mark key="'" line="22" column="71" />
       </file>
-      <file name="/fragment.java" timestamp="1497010248286">
+      <file name="/fragment.java" timestamp="1497014858986">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="64" />
         <mark key="^" line="0" column="56" />
@@ -401,7 +404,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="12" filename="$USER_HOME$/workspace/zest/src/main/java/com/Test.java" />
       <jump line="50" column="37" filename="$USER_HOME$/workspace/zest/src/main/java/com/Test.java" />
       <jump line="35" column="0" filename="$USER_HOME$/workspace/zest/src/main/java/com/Test.java" />
       <jump line="12" column="0" filename="$USER_HOME$/workspace/zest/src/main/java/com/Test.java" />
@@ -501,6 +503,7 @@
       <jump line="10" column="18" filename="$USER_HOME$/workspace/search/search_api/src/test/java/com/mx/server/search/api/Test.java" />
       <jump line="2" column="6" filename="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/Child.java" />
       <jump line="21" column="0" filename="$USER_HOME$/workspace/search/search_api/src/test/java/com/mx/server/search/api/Test.java" />
+      <jump line="2514" column="21" filename="$MAVEN_REPOSITORY$/org/powermock/powermock-reflect/1.6.2/powermock-reflect-1.6.2-sources.jar!/org/powermock/reflect/internal/WhiteboxImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
