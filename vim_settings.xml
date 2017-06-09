@@ -186,10 +186,10 @@
         <mark key="^" line="17" column="52" />
         <mark key="." line="17" column="52" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/query/NearbySearcherTest.java" timestamp="1496996596231">
+      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/query/NearbySearcherTest.java" timestamp="1496996817608">
         <mark key="'" line="259" column="44" />
-        <mark key="[" line="260" column="0" />
-        <mark key="]" line="260" column="144" />
+        <mark key="[" line="214" column="16" />
+        <mark key="]" line="214" column="27" />
         <mark key="." line="260" column="73" />
         <mark key="^" line="251" column="64" />
       </file>
@@ -512,8 +512,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxzZWFyY2hCeU5hbWVcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBQb3dlck1vY2tpdG8ud2hlbihTZWFyY2hlclByb3ZpZGVyLmdldFNlbWFudGljU2VhcmNoZXIoYW55KFNlbWFudGljUmV0LmNsYXNzKSxhbnkoU2VtYW50aWNzUGFyYW0uY2xhc3MpKSkudGhlblJldHVybihzZW1hbnRpY3NYU2VhcmNoZXIpOwo=</text>
+      <register name="0" type="4">
+        <text>searchByName</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
