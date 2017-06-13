@@ -11,9 +11,6 @@
       <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/semantic/JNISegmenterTest.java" timestamp="1497338476488">
         <mark key="'" line="39" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1496886304669">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/search/search_web/src/main/resources/logback.xml" timestamp="1497257683056">
         <mark key="'" line="0" column="0" />
       </file>
@@ -255,6 +252,13 @@
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/ScoreRet.java" timestamp="1495689111571">
         <mark key="'" line="46" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/data/OnlineRouteResp.java" timestamp="1497343760542">
+        <mark key="'" line="17" column="41" />
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="." line="83" column="0" />
+        <mark key="^" line="80" column="61" />
+      </file>
       <file name="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/business/address/data/AddressInfo.java" timestamp="1495778553415">
         <mark key="'" line="116" column="0" />
       </file>
@@ -307,9 +311,6 @@
       </file>
       <file name="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/common/baidu/data/CityCountRet.java" timestamp="1495775534725">
         <mark key="'" line="76" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1497338723593">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/TermsSetter.java" timestamp="1495689261333">
         <mark key="'" line="104" column="0" />
@@ -371,8 +372,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="228" column="0" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/util/SEnums.java" />
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/search/search_api/pom.xml" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/search/search_nds_protobuf/pom.xml" />
       <jump line="48" column="30" filename="$USER_HOME$/workspace/search/search_nds_protobuf/pom.xml" />
       <jump line="92" column="0" filename="$USER_HOME$/workspace/search/search_nds_protobuf/pom.xml" />
@@ -471,6 +470,8 @@
       <jump line="344" column="0" filename="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/business/poi/action/PoiController.java" />
       <jump line="23" column="70" filename="$USER_HOME$/workspace/search/search_web/src/main/resources/spring-mvc.xml" />
       <jump line="38" column="0" filename="$USER_HOME$/workspace/search/search_web/src/main/resources/spring-mvc.xml" />
+      <jump line="68" column="0" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/data/OnlineRouteResp.java" />
+      <jump line="17" column="41" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/data/OnlineRouteResp.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
