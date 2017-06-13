@@ -358,8 +358,8 @@
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/ScoreRet.java" timestamp="1495689111571">
         <mark key="'" line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/data/OnlineRouteResp.java" timestamp="1497259734420">
-        <mark key="'" line="26" column="54" />
+      <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/data/OnlineRouteResp.java" timestamp="1497320030018">
+        <mark key="'" line="72" column="41" />
         <mark key="[" line="83" column="0" />
         <mark key="]" line="83" column="0" />
         <mark key="." line="83" column="0" />
@@ -504,7 +504,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="51" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/query/KeywordSearcherTest.java" />
       <jump line="45" column="29" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/KeywordSearcher.java" />
       <jump line="681" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/KeywordSearcher.java" />
       <jump line="42" column="25" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/KeywordSearcher.java" />
@@ -604,6 +603,7 @@
       <jump line="165" column="0" filename="$USER_HOME$/workspace/uauth/src/main/java/com/mx/server/core/util/AuthCodeUtil.java" />
       <jump line="175" column="45" filename="$USER_HOME$/workspace/uauth/src/main/java/com/mx/server/buss/log/controller/ExportController.java" />
       <jump line="50" column="15" filename="$USER_HOME$/workspace/uauth/src/main/java/com/mx/server/core/util/SysConfig.java" />
+      <jump line="72" column="41" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/data/OnlineRouteResp.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
