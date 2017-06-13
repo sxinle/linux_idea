@@ -26,10 +26,6 @@
       <file name="$USER_HOME$/workspace/search/search_web/src/main/resources/logback.xml" timestamp="1497257683056">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/uauth/src/main/java/com/mx/server/buss/log/service/IMiddleWareLogService.java" timestamp="1497319506254">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="32" />
-      </file>
       <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/util/DataProducer.java" timestamp="1497249417790">
         <mark key="'" line="73" column="0" />
       </file>
@@ -65,16 +61,12 @@
       <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/util/SEnums.java" timestamp="1497249423231">
         <mark key="'" line="228" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_old/src/test/java/com/mx/server/search/old/business/poi/searcher/PoiSearcherTest.java" timestamp="1496633344171">
-        <mark key="'" line="268" column="0" />
+      <file name="$USER_HOME$/workspace/search/search_old/src/test/java/com/mx/server/search/old/business/poi/searcher/PoiSearcherTest.java" timestamp="1497334663752">
+        <mark key="'" line="192" column="0" />
         <mark key="[" line="267" column="27" />
         <mark key="]" line="267" column="33" />
         <mark key="." line="267" column="33" />
         <mark key="^" line="267" column="33" />
-      </file>
-      <file name="$USER_HOME$/workspace/uauth/src/main/java/com/mx/server/buss/admin/service/ITMCCityService.java" timestamp="1497318822783">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="46" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/Parent.java" timestamp="1497013415731">
         <mark key="'" line="2" column="6" />
@@ -177,12 +169,12 @@
       <file name="$USER_HOME$/workspace/uauth/src/main/java/com/mx/server/core/util/AuthCodeUtil.java" timestamp="1497318228548">
         <mark key="'" line="165" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/pom.xml" timestamp="1497324712243">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="296" column="51" />
-        <mark key="]" line="296" column="38" />
-        <mark key="." line="296" column="38" />
-        <mark key="^" line="296" column="38" />
+      <file name="$USER_HOME$/workspace/search/pom.xml" timestamp="1497334279757">
+        <mark key="'" line="285" column="34" />
+        <mark key="[" line="296" column="35" />
+        <mark key="]" line="296" column="39" />
+        <mark key="." line="296" column="39" />
+        <mark key="^" line="296" column="39" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/NearbySearcher.java" timestamp="1497009704225">
         <mark key="'" line="165" column="29" />
@@ -227,9 +219,8 @@
       <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/transfer/req/BaseParam.java" timestamp="1497330741421">
         <mark key="'" line="13" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/uauth/src/main/java/com/mx/server/buss/log/service/ISysLogService.java" timestamp="1497319483486">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="55" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/query/CitySearcherTest.java" timestamp="1497335463848">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" timestamp="1496901126904">
         <mark key="'" line="410" column="25" />
@@ -244,10 +235,6 @@
         <mark key="]" line="16" column="57" />
         <mark key="." line="17" column="47" />
         <mark key="^" line="17" column="47" />
-      </file>
-      <file name="$USER_HOME$/workspace/uauth/src/main/java/com/mx/server/buss/log/service/IOPLogService.java" timestamp="1497319076262">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="38" />
       </file>
       <file name="$USER_HOME$/workspace/uauth/src/main/java/com/mx/server/buss/admin/controller/AdminController.java" timestamp="1496885935985">
         <mark key="'" line="113" column="15" />
@@ -269,14 +256,6 @@
       <file name="$USER_HOME$/workspace/search/search_old/pom.xml" timestamp="1496633281803">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/uauth/src/main/java/com/mx/server/buss/admin/service/ICustomerService.java" timestamp="1497317402805">
-        <mark key="[" line="16" column="4" />
-        <mark key="]" line="16" column="41" />
-      </file>
-      <file name="$USER_HOME$/workspace/uauth/src/main/java/com/mx/server/buss/log/controller/MonitorController.java" timestamp="1497319282011">
-        <mark key="[" line="46" column="11" />
-        <mark key="]" line="46" column="52" />
-      </file>
       <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/resources/proto/poi.proto" timestamp="1495674238496">
         <mark key="'" line="172" column="0" />
       </file>
@@ -292,6 +271,9 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/powermock/powermock-core/1.6.2/powermock-core-1.6.2-sources.jar!/org/powermock/core/ListMap.java" timestamp="1496906436972">
         <mark key="'" line="65" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" timestamp="1497335211499">
+        <mark key="'" line="37" column="0" />
       </file>
       <file name="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/lang/Character.java" timestamp="1496650742122">
         <mark key="'" line="7230" column="0" />
@@ -324,10 +306,6 @@
         <mark key="." line="94" column="7" />
         <mark key="^" line="94" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/uauth/src/main/java/com/mx/server/buss/log/service/IReqLogService.java" timestamp="1497318980066">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="79" />
-      </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/ScoreRet.java" timestamp="1495689111571">
         <mark key="'" line="46" column="0" />
       </file>
@@ -353,10 +331,6 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/org/mockito/mockito-all/1.10.19/mockito-all-1.10.19-sources.jar!/org/mockito/Mockito.java" timestamp="1497003771958">
         <mark key="'" line="1512" column="52" />
-      </file>
-      <file name="$USER_HOME$/workspace/uauth/src/main/java/com/mx/server/core/util/MailSender.java" timestamp="1497319552195">
-        <mark key="[" line="15" column="18" />
-        <mark key="]" line="15" column="59" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/BaseSearcher.java" timestamp="1497330574536">
         <mark key="'" line="25" column="26" />
@@ -450,10 +424,6 @@
       <file name="$USER_HOME$/workspace/yh_svr/src/main/java/com/yh/zhgp/util/ZbjSpider.java" timestamp="1495173289643">
         <mark key="'" line="45" column="35" />
       </file>
-      <file name="$USER_HOME$/workspace/uauth/src/main/java/com/mx/server/buss/log/entity/MiddleWareLog.java" timestamp="1497319712361">
-        <mark key="[" line="45" column="11" />
-        <mark key="]" line="45" column="100" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/powermock/powermock-core/1.6.2/powermock-core-1.6.2-sources.jar!/org/powermock/mockpolicies/MockPolicyClassLoadingSettings.java" timestamp="1495510940197">
         <mark key="'" line="74" column="0" />
       </file>
@@ -465,12 +435,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="95" column="19" filename="$MAVEN_REPOSITORY$/org/mockito/mockito-all/1.10.19/mockito-all-1.10.19-sources.jar!/org/mockito/internal/invocation/InvocationMatcher.java" />
-      <jump line="10" column="22" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/transfer/req/BaseParam.java" />
-      <jump line="182" column="30" filename="$MAVEN_REPOSITORY$/org/powermock/powermock-core/1.6.2/powermock-core-1.6.2-sources.jar!/org/powermock/core/MockGateway.java" />
-      <jump line="1512" column="52" filename="$MAVEN_REPOSITORY$/org/mockito/mockito-all/1.10.19/mockito-all-1.10.19-sources.jar!/org/mockito/Mockito.java" />
-      <jump line="66" column="40" filename="$MAVEN_REPOSITORY$/org/powermock/powermock-core/1.6.2/powermock-core-1.6.2-sources.jar!/org/powermock/core/MockGateway.java" />
-      <jump line="261" column="23" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/query/NearbySearcherTest.java" />
       <jump line="165" column="29" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/NearbySearcher.java" />
       <jump line="79" column="16" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsXSearcher.java" />
       <jump line="37" column="49" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/dispatch/SearcherProvider.java" />
@@ -555,7 +519,6 @@
       <jump line="45" column="35" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/transfer/req/BaseParam.java" />
       <jump line="46" column="24" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/transfer/req/BaseParam.java" />
       <jump line="13" column="21" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/transfer/req/BaseParam.java" />
-      <jump line="37" column="51" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
       <jump line="164" column="58" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
       <jump line="40" column="35" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
       <jump line="44" column="29" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
@@ -565,6 +528,13 @@
       <jump line="166" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
       <jump line="295" column="26" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" />
       <jump line="143" column="33" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/KeywordSearcher.java" />
+      <jump line="285" column="34" filename="$USER_HOME$/workspace/search/pom.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/search/search_old/src/test/java/com/mx/server/search/old/business/poi/searcher/PoiSearcherTest.java" />
+      <jump line="192" column="0" filename="$USER_HOME$/workspace/search/search_old/src/test/java/com/mx/server/search/old/business/poi/searcher/PoiSearcherTest.java" />
+      <jump line="37" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
+      <jump line="46" column="8" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/query/CitySearcherTest.java" />
+      <jump line="59" column="0" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/query/CitySearcherTest.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/query/CitySearcherTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -577,10 +547,10 @@
         <text>initSingleMapForJunitTest</text>
       </register>
       <register name="-" type="4">
-        <text>toLowerCase().equals</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxrZXl3b3Jkc1w+</text>
+        <text>skip</text>
       </register>
       <register name="0" type="4">
         <text>new String[]{&quot;村&quot;, &quot;美行升级网点&quot;, &quot;其他&quot;, &quot;其他保险公司&quot;, &quot;其他便利店&quot;, &quot;其他餐厅&quot;,
@@ -619,9 +589,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxrZXl3b3Jkc1w+</last-search>
+      <last-search>skip</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxrZXl3b3Jkc1w+</last-pattern>
+      <last-pattern>skip</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -645,10 +615,10 @@
         <entry encoding="base64">XDxyZXF1aXJlZEZpZWxkc1w+</entry>
         <entry>mail</entry>
         <entry>cut</entry>
-        <entry>skip</entry>
         <entry encoding="base64">XDxzZW1hbnRpY1JldFw+</entry>
         <entry>Ana</entry>
         <entry encoding="base64">XDxrZXl3b3Jkc1w+</entry>
+        <entry>skip</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
