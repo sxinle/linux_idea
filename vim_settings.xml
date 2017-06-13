@@ -8,11 +8,6 @@
       <file name="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/business/poi/searcher/PoiSearcher.java" timestamp="1496633152480">
         <mark key="'" line="429" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/uauth/src/main/java/com/mx/server/core/util/AESCodec.java" timestamp="1497318271376">
-        <mark key="'" line="139" column="0" />
-        <mark key="[" line="104" column="18" />
-        <mark key="]" line="104" column="57" />
-      </file>
       <file name="$USER_HOME$/workspace/uauth/src/main/java/com/mx/server/buss/log/aop/pointcut/SystemLogAspect.java" timestamp="1496827465682">
         <mark key="'" line="201" column="24" />
         <mark key="[" line="27" column="30" />
@@ -29,6 +24,7 @@
       <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/util/DataProducer.java" timestamp="1497249417790">
         <mark key="'" line="73" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/autonavi/AmapNearBySearcherTest.java" timestamp="1497337300002" />
       <file name="$USER_HOME$/workspace/zest/src/main/java/com/Mcode2Lon.java" timestamp="1495177768653">
         <mark key="'" line="15" column="43" />
       </file>
@@ -84,11 +80,7 @@
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/ServerConfig.java" timestamp="1496279359342">
         <mark key="'" line="251" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/query/semantic/SemanticsXSearcherTest.java" timestamp="1497321611728">
-        <mark key="'" line="41" column="65" />
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="86" />
-      </file>
+      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" timestamp="1497336996884" />
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/RevAndMatchSetter.java" timestamp="1495689251516">
         <mark key="'" line="140" column="0" />
       </file>
@@ -98,6 +90,7 @@
       <file name="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/business/address/data/AddressQueryParam.java" timestamp="1495778556974">
         <mark key="'" line="81" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/query/semantic/SemanticsBaseSearcherTest.java" timestamp="1497337022488" />
       <file name="$USER_HOME$/workspace/search_tool/src/main/java/com/mx/server/search/tool/service/impl/DataInfoServiceImpl.java" timestamp="1495010604261">
         <mark key="'" line="493" column="12" />
       </file>
@@ -141,18 +134,8 @@
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/dispatch/SearcherProvider.java" timestamp="1497010362868">
         <mark key="'" line="58" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/uauth/src/main/java/com/mx/server/buss/log/controller/ExportController.java" timestamp="1497319871309">
-        <mark key="'" line="175" column="45" />
-        <mark key="[" line="207" column="12" />
-        <mark key="]" line="207" column="46" />
-      </file>
       <file name="$USER_HOME$/workspace/zest/src/main/java/moud/Sec.java" timestamp="1496278724375">
         <mark key="'" line="48" column="59" />
-      </file>
-      <file name="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/GenericController.java" timestamp="1497324565924">
-        <mark key="'" line="30" column="35" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="19" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/KeywordSearcher.java" timestamp="1497332457637">
         <mark key="'" line="143" column="33" />
@@ -183,16 +166,12 @@
         <mark key="." line="174" column="59" />
         <mark key="^" line="174" column="59" />
       </file>
+      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/gdautonavi/AutonaviDeepinfoSearcherTest.java" timestamp="1497337260232" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.5.RELEASE/spring-context-4.2.5.RELEASE-sources.jar!/org/springframework/validation/DataBinder.java" timestamp="1497258183542">
         <mark key="'" line="467" column="14" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.3.RELEASE/spring-context-4.3.3.RELEASE-sources.jar!/org/springframework/scheduling/annotation/ScheduledAnnotationBeanPostProcessor.java" timestamp="1494864003725">
         <mark key="'" line="333" column="16" />
-      </file>
-      <file name="$USER_HOME$/workspace/uauth/src/main/java/com/mx/server/core/util/SysConfig.java" timestamp="1497319623737">
-        <mark key="'" line="50" column="15" />
-        <mark key="[" line="52" column="24" />
-        <mark key="]" line="52" column="64" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/4.2.5.RELEASE/spring-web-4.2.5.RELEASE-sources.jar!/org/springframework/http/MediaType.java" timestamp="1496220258752">
         <mark key="'" line="106" column="51" />
@@ -200,6 +179,7 @@
       <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/query/NearbySearcherTest.java" timestamp="1497014027004">
         <mark key="'" line="246" column="36" />
       </file>
+      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/gdautonavi/AutonaviSuggestSearcherTest.java" timestamp="1497337247371" />
       <file name="$USER_HOME$/workspace/uauth/src/main/resources/app.properties" timestamp="1496886778607">
         <mark key="'" line="45" column="0" />
         <mark key="[" line="20" column="35" />
@@ -272,6 +252,7 @@
       <file name="$MAVEN_REPOSITORY$/org/powermock/powermock-core/1.6.2/powermock-core-1.6.2-sources.jar!/org/powermock/core/ListMap.java" timestamp="1496906436972">
         <mark key="'" line="65" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/autonavi/AmapSuggestSearcherTest.java" timestamp="1497337272736" />
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" timestamp="1497335211499">
         <mark key="'" line="37" column="0" />
       </file>
@@ -345,6 +326,7 @@
         <mark key="^" line="30" column="30" />
         <mark key="." line="30" column="30" />
       </file>
+      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/autonavi/AmapKeywordSearcherTest.java" timestamp="1497337291312" />
       <file name="$USER_HOME$/alertmanager/template/template.go" timestamp="1495602783375">
         <mark key="'" line="285" column="38" />
       </file>
@@ -361,6 +343,9 @@
         <mark key="]" line="19" column="0" />
         <mark key="^" line="39" column="19" />
         <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/gdautonavi/AutonaviDetailSearcherTest.java" timestamp="1497337237608">
+        <mark key="'" line="15" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/transfer/resp/CityDetailResp.java" timestamp="1496211882439">
         <mark key="'" line="164" column="4" />
@@ -403,6 +388,7 @@
         <mark key="." line="124" column="43" />
         <mark key="^" line="124" column="43" />
       </file>
+      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/query/KeywordSearcherTest.java" timestamp="1497337195863" />
       <file name="$USER_HOME$/workspace/zest/src/main/java/com/HttpUtil.java" timestamp="1495179921091">
         <mark key="'" line="66" column="65" />
       </file>
@@ -424,6 +410,7 @@
       <file name="$USER_HOME$/workspace/yh_svr/src/main/java/com/yh/zhgp/util/ZbjSpider.java" timestamp="1495173289643">
         <mark key="'" line="45" column="35" />
       </file>
+      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/gdautonavi/AutonaviKeywordSearcherTest.java" timestamp="1497337224433" />
       <file name="$MAVEN_REPOSITORY$/org/powermock/powermock-core/1.6.2/powermock-core-1.6.2-sources.jar!/org/powermock/mockpolicies/MockPolicyClassLoadingSettings.java" timestamp="1495510940197">
         <mark key="'" line="74" column="0" />
       </file>
@@ -435,7 +422,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="165" column="29" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/NearbySearcher.java" />
       <jump line="79" column="16" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsXSearcher.java" />
       <jump line="37" column="49" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/dispatch/SearcherProvider.java" />
       <jump line="58" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/dispatch/SearcherProvider.java" />
@@ -535,6 +521,7 @@
       <jump line="46" column="8" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/query/CitySearcherTest.java" />
       <jump line="59" column="0" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/query/CitySearcherTest.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/query/CitySearcherTest.java" />
+      <jump line="15" column="13" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/gdautonavi/AutonaviDetailSearcherTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
