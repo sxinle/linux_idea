@@ -15,6 +15,9 @@
         <mark key="^" line="27" column="3" />
         <mark key="." line="27" column="3" />
       </file>
+      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/semantic/JNISegmenterTest.java" timestamp="1497338476488">
+        <mark key="'" line="39" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1496886304669">
         <mark key="[" line="0" column="0" />
       </file>
@@ -94,6 +97,12 @@
       <file name="$USER_HOME$/workspace/search_tool/src/main/java/com/mx/server/search/tool/service/impl/DataInfoServiceImpl.java" timestamp="1495010604261">
         <mark key="'" line="493" column="12" />
       </file>
+      <file name="$USER_HOME$/workspace/zest/pom.xml" timestamp="1496984507908">
+        <mark key="[" line="87" column="21" />
+        <mark key="]" line="87" column="25" />
+        <mark key="." line="87" column="25" />
+        <mark key="^" line="87" column="25" />
+      </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/dsef/poi/Poi.java" timestamp="1495008847096">
         <mark key="'" line="27" column="2" />
       </file>
@@ -170,6 +179,12 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.5.RELEASE/spring-context-4.2.5.RELEASE-sources.jar!/org/springframework/validation/DataBinder.java" timestamp="1497258183542">
         <mark key="'" line="467" column="14" />
       </file>
+      <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/query/RouteSearcher.java" timestamp="1497257111882">
+        <mark key="[" line="5" column="12" />
+        <mark key="]" line="5" column="28" />
+        <mark key="." line="5" column="28" />
+        <mark key="^" line="5" column="28" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.3.RELEASE/spring-context-4.3.3.RELEASE-sources.jar!/org/springframework/scheduling/annotation/ScheduledAnnotationBeanPostProcessor.java" timestamp="1494864003725">
         <mark key="'" line="333" column="16" />
       </file>
@@ -187,14 +202,29 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/controller/RouteController.java" timestamp="1497259399690">
+        <mark key="[" line="23" column="40" />
+        <mark key="]" line="23" column="50" />
+        <mark key="." line="23" column="40" />
+        <mark key="^" line="21" column="70" />
+      </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Constants.java" timestamp="1497255604529">
         <mark key="'" line="97" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/search_tool/src/main/java/com/mx/server/search/tool/service/impl/SerializeServiceImpl.java" timestamp="1497338960545">
+        <mark key="'" line="45" column="24" />
       </file>
       <file name="$MAVEN_REPOSITORY$/net/sf/json-lib/json-lib/2.4/json-lib-2.4-jdk15.jar!/net/sf/json/JSONException.class" timestamp="1496193260310">
         <mark key="'" line="9" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_api/pom.xml" timestamp="1497249472526">
         <mark key="'" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/zest/src/main/java/moud/Test.java" timestamp="1496984882841">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="8931" />
+        <mark key="." line="10" column="33" />
+        <mark key="^" line="10" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/transfer/req/BaseParam.java" timestamp="1497330741421">
         <mark key="'" line="13" column="21" />
@@ -375,7 +405,7 @@
       <file name="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/common/baidu/data/CityCountRet.java" timestamp="1495775534725">
         <mark key="'" line="76" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1497332937729">
+      <file name="/Dummy.txt" timestamp="1497338723593">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/TermsSetter.java" timestamp="1495689261333">
@@ -420,12 +450,20 @@
       <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/dsef/admin/Admin.java" timestamp="1495445468899">
         <mark key="'" line="22" column="71" />
       </file>
+      <file name="/fragment.java" timestamp="1497338726317">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="64" />
+        <mark key="^" line="0" column="56" />
+        <mark key="." line="0" column="64" />
+      </file>
+      <file name="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/BaseController.java" timestamp="1497249700507">
+        <mark key="[" line="36" column="9" />
+        <mark key="]" line="36" column="9" />
+        <mark key="^" line="36" column="9" />
+        <mark key="." line="36" column="9" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="16" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsXSearcher.java" />
-      <jump line="37" column="49" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/dispatch/SearcherProvider.java" />
-      <jump line="58" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/dispatch/SearcherProvider.java" />
-      <jump line="78" column="38" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsBaseSearcher.java" />
       <jump line="17" column="0" filename="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/ForT.java" />
       <jump line="246" column="36" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/query/NearbySearcherTest.java" />
       <jump line="2" column="6" filename="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/Parent.java" />
@@ -522,6 +560,10 @@
       <jump line="59" column="0" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/query/CitySearcherTest.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/query/CitySearcherTest.java" />
       <jump line="15" column="13" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/gdautonavi/AutonaviDetailSearcherTest.java" />
+      <jump line="8" column="13" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/semantic/JNISegmenterTest.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/semantic/JNISegmenterTest.java" />
+      <jump line="39" column="0" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/semantic/JNISegmenterTest.java" />
+      <jump line="45" column="24" filename="$USER_HOME$/workspace/search_tool/src/main/java/com/mx/server/search/tool/service/impl/SerializeServiceImpl.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -537,7 +579,7 @@
         <text>true</text>
       </register>
       <register name="/" type="4">
-        <text>skip</text>
+        <text encoding="base64">XDxjTWVudVBhdGhcPg==</text>
       </register>
       <register name="0" type="4">
         <text>new String[]{&quot;村&quot;, &quot;美行升级网点&quot;, &quot;其他&quot;, &quot;其他保险公司&quot;, &quot;其他便利店&quot;, &quot;其他餐厅&quot;,
@@ -576,9 +618,9 @@
       </register>
     </registers>
     <search>
-      <last-search>skip</last-search>
+      <last-search encoding="base64">XDxjTWVudVBhdGhcPg==</last-search>
       <last-offset />
-      <last-pattern>skip</last-pattern>
+      <last-pattern encoding="base64">XDxjTWVudVBhdGhcPg==</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -586,7 +628,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwYXJhbVw+</entry>
         <entry>jackson</entry>
         <entry>subClass</entry>
         <entry encoding="base64">XDxzZWFyY2hCeU5hbWVcPg==</entry>
@@ -606,6 +647,7 @@
         <entry>Ana</entry>
         <entry encoding="base64">XDxrZXl3b3Jkc1w+</entry>
         <entry>skip</entry>
+        <entry encoding="base64">XDxjTWVudVBhdGhcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
