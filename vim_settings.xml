@@ -143,8 +143,12 @@
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/dispatch/SearcherProvider.java" timestamp="1497010362868">
         <mark key="'" line="58" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zest/src/main/java/moud/Sec.java" timestamp="1496278724375">
+      <file name="$USER_HOME$/workspace/zest/src/main/java/moud/Sec.java" timestamp="1497340794691">
         <mark key="'" line="48" column="59" />
+        <mark key="[" line="13" column="34" />
+        <mark key="]" line="13" column="37" />
+        <mark key="." line="13" column="37" />
+        <mark key="^" line="13" column="37" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/KeywordSearcher.java" timestamp="1497332457637">
         <mark key="'" line="143" column="33" />
@@ -229,8 +233,8 @@
       <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/transfer/req/BaseParam.java" timestamp="1497330741421">
         <mark key="'" line="13" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/query/CitySearcherTest.java" timestamp="1497335463848">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/query/CitySearcherTest.java" timestamp="1497340397791">
+        <mark key="'" line="33" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" timestamp="1496901126904">
         <mark key="'" line="410" column="25" />
@@ -294,6 +298,9 @@
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/ScoreRetComparator.java" timestamp="1495689103932">
         <mark key="'" line="52" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/query/BaseSearcherTest.java" timestamp="1497340464660">
+        <mark key="'" line="116" column="8" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/test/java/search_core/PosSorterTest.java" timestamp="1495689634786">
         <mark key="'" line="159" column="0" />
@@ -467,8 +474,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="18" filename="$USER_HOME$/workspace/search/search_api/src/test/java/com/mx/server/search/api/Test.java" />
-      <jump line="2" column="6" filename="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/Child.java" />
       <jump line="21" column="0" filename="$USER_HOME$/workspace/search/search_api/src/test/java/com/mx/server/search/api/Test.java" />
       <jump line="2514" column="21" filename="$MAVEN_REPOSITORY$/org/powermock/powermock-reflect/1.6.2/powermock-reflect-1.6.2-sources.jar!/org/powermock/reflect/internal/WhiteboxImpl.java" />
       <jump line="31" column="55" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/data/build/nds/impl/NdsCacheBuildImp.java" />
@@ -567,6 +572,8 @@
       <jump line="76" column="8" filename="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/business/poi/action/PoiController.java" />
       <jump line="39" column="35" filename="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/business/poi/action/PoiController.java" />
       <jump line="344" column="0" filename="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/business/poi/action/PoiController.java" />
+      <jump line="33" column="36" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/query/CitySearcherTest.java" />
+      <jump line="116" column="8" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/query/BaseSearcherTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -579,7 +586,7 @@
         <text>initSingleMapForJunitTest</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjTWVudVBhdGhcPg==</text>
