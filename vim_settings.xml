@@ -20,9 +20,6 @@
         <mark key="^" line="27" column="3" />
         <mark key="." line="27" column="3" />
       </file>
-      <file name="/a.dummy" timestamp="1496886304669">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/search/search_web/src/main/resources/logback.xml" timestamp="1497257683056">
         <mark key="'" line="0" column="0" />
       </file>
@@ -90,6 +87,11 @@
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/ServerConfig.java" timestamp="1496279359342">
         <mark key="'" line="251" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/query/semantic/SemanticsXSearcherTest.java" timestamp="1497321611728">
+        <mark key="'" line="41" column="65" />
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="86" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/RevAndMatchSetter.java" timestamp="1495689251516">
         <mark key="'" line="140" column="0" />
@@ -402,9 +404,6 @@
       <file name="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/common/baidu/data/CityCountRet.java" timestamp="1495775534725">
         <mark key="'" line="76" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1497259905516">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/TermsSetter.java" timestamp="1495689261333">
         <mark key="'" line="104" column="0" />
       </file>
@@ -444,7 +443,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="48" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/KeywordSearcher.java" />
       <jump line="52" column="17" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/KeywordSearcher.java" />
       <jump line="100" column="38" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/KeywordSearcher.java" />
       <jump line="25" column="26" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/BaseSearcher.java" />
@@ -544,6 +542,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
       <jump line="78" column="11" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
       <jump line="63" column="24" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/transfer/req/RouteParam.java" />
+      <jump line="41" column="65" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/query/semantic/SemanticsXSearcherTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -561,8 +560,8 @@
       <register name="/" type="4">
         <text>cut</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">TGlzdDxTdHJpbmc+IGdldEhlYWRlcnMoT2JqZWN0IG9iaik=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBTZW1hbnRpY3NYU2VhcmNoZXIgc2VtYW50aWNzWFNlYXJjaGVyID0gbmV3IFNlbWFudGljc1hTZWFyY2hlcig1NTM3MTM2NjQsdHJ1ZSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
