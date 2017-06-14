@@ -20,7 +20,6 @@
       <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/util/DataProducer.java" timestamp="1497249417790">
         <mark key="'" line="73" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/autonavi/AmapNearBySearcherTest.java" timestamp="1497337300002" />
       <file name="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/business/poi/data/QueryParamBean.java" timestamp="1497344793669">
         <mark key="'" line="174" column="0" />
         <mark key="[" line="176" column="0" />
@@ -37,27 +36,40 @@
       <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/models/Poi.java" timestamp="1495423001795">
         <mark key="'" line="73" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/data/RoutePojo.java" timestamp="1497420368757">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="23" column="10" />
+        <mark key="]" line="23" column="16" />
+        <mark key="." line="23" column="16" />
+        <mark key="^" line="23" column="16" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/3.2.9.RELEASE/spring-webmvc-3.2.9.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/RequestMappingHandlerAdapter.java" timestamp="1496293988478">
         <mark key="'" line="180" column="20" />
       </file>
       <file name="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/net/HttpURLConnection.java" timestamp="1495183282108">
         <mark key="'" line="199" column="29" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsTSearcher.java" timestamp="1497332597116" />
       <file name="$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.2.4/gson-2.2.4-sources.jar!/com/google/gson/internal/LinkedTreeMap.java" timestamp="1495782223926">
         <mark key="'" line="92" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/data/OnlineRouteParam.java" timestamp="1497342428182">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="22" column="31" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/data/OnlineRouteParam.java" timestamp="1497417529887">
+        <mark key="'" line="7" column="55" />
+        <mark key="[" line="31" column="23" />
+        <mark key="]" line="31" column="30" />
+        <mark key="." line="31" column="30" />
+        <mark key="^" line="31" column="30" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/common/util/TypeCode.java" timestamp="1495775133456">
         <mark key="'" line="45" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/util/SEnums.java" timestamp="1497249423231">
         <mark key="'" line="228" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/data/PoiWithLen.java" timestamp="1497417263620">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="11" column="5" />
+        <mark key="^" line="3" column="3" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/query/semantic/HotPoiSearcherTest.java" timestamp="1496631541745">
         <mark key="'" line="108" column="35" />
@@ -68,7 +80,6 @@
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/ServerConfig.java" timestamp="1496279359342">
         <mark key="'" line="251" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/util/UtilityTest.java" timestamp="1497336996884" />
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/RevAndMatchSetter.java" timestamp="1495689251516">
         <mark key="'" line="140" column="0" />
       </file>
@@ -78,7 +89,6 @@
       <file name="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/business/address/data/AddressQueryParam.java" timestamp="1495778556974">
         <mark key="'" line="81" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/query/semantic/SemanticsBaseSearcherTest.java" timestamp="1497337022488" />
       <file name="$USER_HOME$/workspace/search_tool/src/main/java/com/mx/server/search/tool/service/impl/DataInfoServiceImpl.java" timestamp="1495010604261">
         <mark key="'" line="493" column="12" />
       </file>
@@ -153,15 +163,19 @@
         <mark key="." line="296" column="39" />
         <mark key="^" line="296" column="39" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/gdautonavi/AutonaviDeepinfoSearcherTest.java" timestamp="1497337260232" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.5.RELEASE/spring-context-4.2.5.RELEASE-sources.jar!/org/springframework/validation/DataBinder.java" timestamp="1497258183542">
         <mark key="'" line="467" column="14" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/query/RouteSearcher.java" timestamp="1497257111882">
-        <mark key="[" line="5" column="12" />
-        <mark key="]" line="5" column="28" />
-        <mark key="." line="5" column="28" />
-        <mark key="^" line="5" column="28" />
+      <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/query/RouteSearcher.java" timestamp="1497420380017">
+        <mark key="'" line="53" column="12" />
+        <mark key="[" line="56" column="42" />
+        <mark key="]" line="56" column="42" />
+        <mark key="." line="56" column="42" />
+        <mark key="^" line="56" column="32" />
+      </file>
+      <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/transfer/resp/RouteResp.java" timestamp="1497417188346">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="75" column="20" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.3.RELEASE/spring-context-4.3.3.RELEASE-sources.jar!/org/springframework/scheduling/annotation/ScheduledAnnotationBeanPostProcessor.java" timestamp="1494864003725">
         <mark key="'" line="333" column="16" />
@@ -172,7 +186,6 @@
       <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/query/NearbySearcherTest.java" timestamp="1497014027004">
         <mark key="'" line="246" column="36" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/gdautonavi/AutonaviSuggestSearcherTest.java" timestamp="1497337247371" />
       <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/controller/RouteController.java" timestamp="1497342346646">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="26" column="0" />
@@ -235,7 +248,6 @@
       <file name="$MAVEN_REPOSITORY$/org/powermock/powermock-core/1.6.2/powermock-core-1.6.2-sources.jar!/org/powermock/core/ListMap.java" timestamp="1496906436972">
         <mark key="'" line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/autonavi/AmapSuggestSearcherTest.java" timestamp="1497337272736" />
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" timestamp="1497335211499">
         <mark key="'" line="37" column="0" />
       </file>
@@ -263,6 +275,11 @@
       <file name="$MAVEN_REPOSITORY$/org/powermock/powermock-core/1.6.2/powermock-core-1.6.2-sources.jar!/org/powermock/core/MockGateway.java" timestamp="1497012013094">
         <mark key="'" line="66" column="40" />
       </file>
+      <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/models/RoadPois.java" timestamp="1497419531318">
+        <mark key="'" line="8" column="13" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="56" column="0" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/internal/builders/AnnotatedBuilder.java" timestamp="1495511476270">
         <mark key="'" line="83" column="12" />
       </file>
@@ -285,6 +302,7 @@
       <file name="$MAVEN_REPOSITORY$/org/mockito/mockito-all/1.10.19/mockito-all-1.10.19-sources.jar!/org/mockito/Mockito.java" timestamp="1497003771958">
         <mark key="'" line="1512" column="52" />
       </file>
+      <file name="$USER_HOME$/workspace/yh_svr/src/main/webapp/WEB-INF/view/index.jsp" timestamp="1497401038674" />
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/BaseSearcher.java" timestamp="1497330574536">
         <mark key="'" line="25" column="26" />
       </file>
@@ -298,7 +316,6 @@
         <mark key="^" line="30" column="30" />
         <mark key="." line="30" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/autonavi/AmapKeywordSearcherTest.java" timestamp="1497337291312" />
       <file name="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/business/poi/action/PoiController.java" timestamp="1497344839996">
         <mark key="'" line="333" column="0" />
         <mark key="[" line="79" column="86" />
@@ -350,15 +367,17 @@
         <mark key="." line="124" column="43" />
         <mark key="^" line="124" column="43" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/query/KeywordSearcherTest.java" timestamp="1497337195863" />
       <file name="$USER_HOME$/workspace/zest/src/main/java/com/HttpUtil.java" timestamp="1495179921091">
         <mark key="'" line="66" column="65" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/resources/proto/common.proto" timestamp="1495675454529">
         <mark key="'" line="14" column="6" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/RouteSearcher.java" timestamp="1497325145496">
-        <mark key="'" line="78" column="32" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/RouteSearcher.java" timestamp="1497419623205">
+        <mark key="'" line="236" column="0" />
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="126" column="4" />
+        <mark key="." line="519" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/resources/common.proto" timestamp="1495009706329">
         <mark key="'" line="166" column="0" />
@@ -372,7 +391,6 @@
       <file name="$USER_HOME$/workspace/yh_svr/src/main/java/com/yh/zhgp/util/ZbjSpider.java" timestamp="1495173289643">
         <mark key="'" line="45" column="35" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/gdautonavi/AutonaviKeywordSearcherTest.java" timestamp="1497337224433" />
       <file name="$MAVEN_REPOSITORY$/org/powermock/powermock-core/1.6.2/powermock-core-1.6.2-sources.jar!/org/powermock/mockpolicies/MockPolicyClassLoadingSettings.java" timestamp="1495510940197">
         <mark key="'" line="74" column="0" />
       </file>
@@ -396,50 +414,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="42" filename="$USER_HOME$/workspace/search/pom.xml" />
-      <jump line="242" column="28" filename="$USER_HOME$/workspace/search/pom.xml" />
-      <jump line="243" column="27" filename="$USER_HOME$/workspace/search/pom.xml" />
-      <jump line="15" column="16" filename="$USER_HOME$/workspace/search/pom.xml" />
-      <jump line="10" column="43" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/controller/RouteController.java" />
-      <jump line="4" column="0" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/data/OnlineRouteParam.java" />
-      <jump line="2" column="13" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Constants.java" />
-      <jump line="101" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Constants.java" />
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Constants.java" />
-      <jump line="112" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Constants.java" />
-      <jump line="38" column="35" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/controller/RouteController.java" />
-      <jump line="20" column="23" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/controller/RouteController.java" />
-      <jump line="43" column="0" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/controller/RouteController.java" />
-      <jump line="17" column="93" filename="$USER_HOME$/workspace/search/search_web/src/main/resources/spring-mvc.xml" />
-      <jump line="15" column="13" filename="$USER_HOME$/workspace/search/search_web/src/main/resources/spring-mvc.xml" />
-      <jump line="25" column="23" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/controller/RouteController.java" />
-      <jump line="42" column="13" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/RouteSearcher.java" />
-      <jump line="38" column="13" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/KeywordSearcher.java" />
-      <jump line="3" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Constants.java" />
-      <jump line="105" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Constants.java" />
-      <jump line="97" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Constants.java" />
-      <jump line="66" column="30" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/data/OnlineRouteResp.java" />
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/data/OnlineRouteResp.java" />
-      <jump line="82" column="4" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/data/OnlineRouteResp.java" />
-      <jump line="11" column="0" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/data/OnlineRouteResp.java" />
-      <jump line="55" column="46" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/data/OnlineRouteResp.java" />
-      <jump line="54" column="46" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/data/OnlineRouteResp.java" />
-      <jump line="23" column="28" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/data/OnlineRouteResp.java" />
-      <jump line="69" column="64" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/data/OnlineRouteResp.java" />
-      <jump line="30" column="35" filename="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/GenericController.java" />
-      <jump line="78" column="32" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/RouteSearcher.java" />
-      <jump line="113" column="13" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.5.RELEASE/spring-context-4.2.5.RELEASE-sources.jar!/org/springframework/validation/DataBinder.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/search/search_web/src/main/resources/logback.xml" />
-      <jump line="160" column="21" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.5.RELEASE/spring-context-4.2.5.RELEASE-sources.jar!/org/springframework/validation/DataBinder.java" />
-      <jump line="467" column="14" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.5.RELEASE/spring-context-4.2.5.RELEASE-sources.jar!/org/springframework/validation/DataBinder.java" />
-      <jump line="100" column="19" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/transfer/req/RouteParam.java" />
-      <jump line="14" column="0" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/data/OnlineRouteParam.java" />
-      <jump line="11" column="13" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/data/OnlineRouteParam.java" />
-      <jump line="29" column="0" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/data/OnlineRouteParam.java" />
-      <jump line="26" column="54" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/data/OnlineRouteResp.java" />
-      <jump line="165" column="0" filename="$USER_HOME$/workspace/uauth/src/main/java/com/mx/server/core/util/AuthCodeUtil.java" />
-      <jump line="175" column="45" filename="$USER_HOME$/workspace/uauth/src/main/java/com/mx/server/buss/log/controller/ExportController.java" />
-      <jump line="50" column="15" filename="$USER_HOME$/workspace/uauth/src/main/java/com/mx/server/core/util/SysConfig.java" />
-      <jump line="72" column="41" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/data/OnlineRouteResp.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
       <jump line="78" column="11" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
       <jump line="63" column="24" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/transfer/req/RouteParam.java" />
@@ -496,6 +470,50 @@
       <jump line="1" column="0" filename="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/business/poi/action/PoiController.java" />
       <jump line="333" column="0" filename="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/business/poi/action/PoiController.java" />
       <jump line="185" column="36" filename="$USER_HOME$/workspace/search/search_old/src/test/java/com/mx/server/search/old/business/poi/action/PoiControllerTest.java" />
+      <jump line="29" column="16" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/data/OnlineRouteParam.java" />
+      <jump line="7" column="55" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/data/OnlineRouteParam.java" />
+      <jump line="145" column="0" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/query/RouteSearcher.java" />
+      <jump line="151" column="0" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/query/RouteSearcher.java" />
+      <jump line="146" column="0" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/query/RouteSearcher.java" />
+      <jump line="498" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/RouteSearcher.java" />
+      <jump line="20" column="41" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/query/RouteSearcher.java" />
+      <jump line="93" column="56" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/query/RouteSearcher.java" />
+      <jump line="50" column="1" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/query/RouteSearcher.java" />
+      <jump line="29" column="29" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/query/RouteSearcher.java" />
+      <jump line="401" column="39" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/RouteSearcher.java" />
+      <jump line="131" column="24" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/query/RouteSearcher.java" />
+      <jump line="354" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/RouteSearcher.java" />
+      <jump line="370" column="25" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/RouteSearcher.java" />
+      <jump line="371" column="25" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/RouteSearcher.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/RouteSearcher.java" />
+      <jump line="65" column="19" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/RouteSearcher.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/RouteSearcher.java" />
+      <jump line="49" column="45" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/RouteSearcher.java" />
+      <jump line="511" column="77" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/RouteSearcher.java" />
+      <jump line="521" column="35" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/RouteSearcher.java" />
+      <jump line="547" column="34" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/RouteSearcher.java" />
+      <jump line="110" column="165" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/query/RouteSearcher.java" />
+      <jump line="148" column="24" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/query/RouteSearcher.java" />
+      <jump line="112" column="60" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/query/RouteSearcher.java" />
+      <jump line="33" column="16" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/query/RouteSearcher.java" />
+      <jump line="42" column="44" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/query/RouteSearcher.java" />
+      <jump line="236" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/RouteSearcher.java" />
+      <jump line="206" column="17" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/query/RouteSearcher.java" />
+      <jump line="18" column="54" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/query/RouteSearcher.java" />
+      <jump line="213" column="0" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/query/RouteSearcher.java" />
+      <jump line="205" column="6" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/query/RouteSearcher.java" />
+      <jump line="2" column="7" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/query/RouteSearcher.java" />
+      <jump line="73" column="39" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/query/RouteSearcher.java" />
+      <jump line="30" column="86" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/query/RouteSearcher.java" />
+      <jump line="52" column="0" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/query/RouteSearcher.java" />
+      <jump line="216" column="0" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/query/RouteSearcher.java" />
+      <jump line="47" column="26" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/query/RouteSearcher.java" />
+      <jump line="8" column="13" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/models/RoadPois.java" />
+      <jump line="10" column="8" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/data/RoutePojo.java" />
+      <jump line="27" column="0" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/data/RoutePojo.java" />
+      <jump line="95" column="40" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/query/RouteSearcher.java" />
+      <jump line="89" column="0" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/query/RouteSearcher.java" />
+      <jump line="56" column="12" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/query/RouteSearcher.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -508,63 +526,56 @@
         <text>initSingleMapForJunitTest</text>
       </register>
       <register name="-" type="4">
-        <text>yes</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjTWVudVBhdGhcPg==</text>
+        <text>private</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpbnB1dFN0ciA9ICJ7XCJwb3NfbG9uXCI6XCIwXCIsXCJwb3NfbGF0XCI6XCIwXCIsXCJjYWxfZGlzdGFuY2VcIjpcInllc1wiLFwiYWRtaW5fY29kZVwiOlwiMTIzXCJ9IjsKICAgICAgICBwYXJhbS5zZXRQYXJhbShuZXcgU3RyaW5nKGlucHV0U3RyLmdldEJ5dGVzKCJHQksiKSwgIklTTzg4NTktMSIpKTsKICAgICAgICBQb3dlck1vY2tpdG8ud2hlbihQb2lTZXJ2aWNlLmdldERpc3RyaWN0Q29kZUJ5QWRtaW5Db2RlKGFueVN0cmluZygpKSkudGhlblJldHVybihpbmZvKTsKICAgICAgICByZXQgPSBwb2lDb250cm9sbGVyLmdldERpc3RyaWN0Q29kZUJ5UG9pbnQocGFyYW0pLnRvU3RyaW5nKCk7CiAgICAgICAgQXNzZXJ0LmFzc2VydFRydWUocmV0LmNvbnRhaW5zKCLljJfkuqwiKSk7Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICog55So5oi36L6T5YWl6ZW/6Lev57q/77yM5q+P5aSn5q615YiH5oiQ5bCP5q61CiAgICAgKi8KICAgIHByaXZhdGUgc3RhdGljIExpc3Q8Q29vcmRzPiBjdXRSb2FkKENvb3JkcyBzdGFydCwgQ29vcmRzIGVuZCkgewogICAgICAgIGludCBzdGFydExvbiA9IEludGVnZXIudmFsdWVPZihzdGFydC5nZXRMb24oKSk7CiAgICAgICAgaW50IHN0YXJ0TGF0ID0gSW50ZWdlci52YWx1ZU9mKHN0YXJ0LmdldExhdCgpKTsKICAgICAgICBpbnQgZW5kTG9uID0gSW50ZWdlci52YWx1ZU9mKGVuZC5nZXRMb24oKSk7CiAgICAgICAgaW50IGVuZExhdCA9IEludGVnZXIudmFsdWVPZihlbmQuZ2V0TGF0KCkpOwogICAgICAgIGludCBkZWxMb24gPSBlbmRMb24gLSBzdGFydExvbjsKICAgICAgICBpbnQgZGVsTGF0ID0gZW5kTGF0IC0gc3RhcnRMYXQ7CiAgICAgICAgR2VvTG9jYXRpb24gcDEgPSBuZXcgR2VvTG9jYXRpb24oc3RhcnRMb24sIHN0YXJ0TGF0KTsKICAgICAgICBHZW9Mb2NhdGlvbiBwMiA9IG5ldyBHZW9Mb2NhdGlvbihlbmRMb24sIGVuZExhdCk7CiAgICAgICAgZG91YmxlIGxlbiA9IEdlb0xpYi5jYWxjX2Rpc3Rfb25lYXJ0aChwMSwgcDIpOwogICAgICAgIGludCBuID0gKGludCkgbGVuIC8gY3V0TWV0ZXI7CiAgICAgICAgTGlzdDxDb29yZHM+IHJlc3VsdCA9IG5ldyBBcnJheUxpc3Q8Q29vcmRzPigpOwogICAgICAgIGlmIChuID09IDApIHsKICAgICAgICAgICAgcmVzdWx0LmFkZChzdGFydCk7CiAgICAgICAgICAgIHJlc3VsdC5hZGQoZW5kKTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBpbnQgc3RlcExvbiA9IGRlbExvbiAvIG47CiAgICAgICAgICAgIGludCBzdGVwTGF0ID0gZGVsTGF0IC8gbjsKICAgICAgICAgICAgcmVzdWx0LmFkZChzdGFydCk7CiAgICAgICAgICAgIGZvciAoaW50IGkgPSAxOyBpIDw9IG47IGkrKykgewogICAgICAgICAgICAgICAgQ29vcmRzIHRlbXAgPSBuZXcgQ29vcmRzKCk7CiAgICAgICAgICAgICAgICB0ZW1wLnNldExvbihTdHJpbmcudmFsdWVPZihJbnRlZ2VyLnBhcnNlSW50KHN0YXJ0LmdldExvbigpKSArIHN0ZXBMb24gKiBpKSk7CiAgICAgICAgICAgICAgICB0ZW1wLnNldExhdChTdHJpbmcudmFsdWVPZihJbnRlZ2VyLnBhcnNlSW50KHN0YXJ0LmdldExhdCgpKSArIHN0ZXBMYXQgKiBpKSk7CiAgICAgICAgICAgICAgICByZXN1bHQuYWRkKHRlbXApOwogICAgICAgICAgICB9CiAgICAgICAgICAgIHJlc3VsdC5hZGQoZW5kKTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIHJlc3VsdDsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFJlc3BFbnVtLlBBUkFNX0lOVkFMSUQ7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5teC5zZXJ2ZXIuc2VhcmNoLm5kcy5kYXRhLlJvdXRlUG9qby5Db29yZHM7CmltcG9ydCBjb20ubXguc2VydmVyLnNlYXJjaC5uZHMuZGF0YS5Sb3V0ZVBvam8uUG9pV2l0aExlbjsKaW1wb3J0IGNvbS5teC5zZXJ2ZXIuc2VhcmNoLm5kcy5kYXRhLlJvdXRlUG9qby5Sb2FkUG9pczsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2UgewogICAgICAgICAgICByZXQucHV0KCJyZXNwQ29kZSIsIENvbnN0YW50cy5SRVNQX1BBUkFNX0VSUk9SKTsKICAgICAgICAgICAgcmV0SnNvbiA9IHJldC50b1N0cmluZygpOwogICAgICAgIH0K</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5teC5zZXJ2ZXIuc2VhcmNoLmRhdGEubW9kZWxzLlJvYWRQb2lzOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocmlnaHRfcGFyYW0pIHsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2UgewogICAgICAgICAgICByZXQucHV0KCJyZXNwQ29kZSIsIENvbnN0YW50cy5SRVNQX1BBUkFNX0VSUk9SKTsKICAgICAgICB9Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocmlnaHRfcGFyYW0pIHsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPIDEwMDAg5o+Q5Y+W6YWN572uCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CiAgICAgICAgTGlzdDxDb29yZHM+IHJlc3VsdCA9IG5ldyBBcnJheUxpc3Q8PigpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPIDEwMDAg5o+Q5Y+W6YWN572uCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
+        <text encoding="base64">ICAgICAgICBpbnQgbiA9IChpbnQpIGxlbiAvIDEwMDA7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoVW5zdXBwb3J0ZWRFbmNvZGluZ0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICDooaUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjTWVudVBhdGhcPg==</last-search>
+      <last-search>private</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjTWVudVBhdGhcPg==</last-pattern>
-      <last-replace>\\&quot;</last-replace>
-      <last-substitute>&quot;</last-substitute>
+      <last-pattern>private</last-pattern>
+      <last-replace>public</last-replace>
+      <last-substitute>private</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>jackson</entry>
-        <entry>subClass</entry>
-        <entry encoding="base64">XDxzZWFyY2hCeU5hbWVcPg==</entry>
-        <entry encoding="base64">XDxoYXNTYW1lTWV0aG9kXD4=</entry>
-        <entry>search_apoi</entry>
-        <entry>search_api</entry>
-        <entry>country</entry>
         <entry>controll</entry>
         <entry>need_sub</entry>
         <entry>need</entry>
@@ -578,9 +589,15 @@
         <entry encoding="base64">XDxrZXl3b3Jkc1w+</entry>
         <entry>skip</entry>
         <entry encoding="base64">XDxjTWVudVBhdGhcPg==</entry>
+        <entry>dictCode</entry>
+        <entry>dist</entry>
+        <entry encoding="base64">XDxkaXN0Q29kZU1hcFw+</entry>
+        <entry encoding="base64">XDxkaXN0Q29kZVNldFw+</entry>
+        <entry encoding="base64">XDxmbGFnXD4=</entry>
+        <entry encoding="base64">XDxnZXRQb2lMZW5MaXN0XD4=</entry>
+        <entry>private</entry>
       </history-search>
       <history-cmd>
-        <entry>nohl</entry>
         <entry>hoh</entry>
         <entry>noh</entry>
         <entry encoding="base64">JzwsJz5zLzEvMi9n</entry>
@@ -599,6 +616,7 @@
         <entry encoding="base64">JzwsJz5zLyIvXFwiL2c=</entry>
         <entry>action AceAction</entry>
         <entry>action $Redo</entry>
+        <entry encoding="base64">JzwsJz5zL3ByaXZhdGUvcHVibGljL2c=</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
