@@ -36,12 +36,12 @@
       <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/models/Poi.java" timestamp="1495423001795">
         <mark key="'" line="73" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/data/RoutePojo.java" timestamp="1497494975678">
-        <mark key="'" line="23" column="0" />
-        <mark key="[" line="21" column="32" />
-        <mark key="]" line="21" column="39" />
-        <mark key="." line="21" column="39" />
-        <mark key="^" line="21" column="39" />
+      <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/data/RoutePojo.java" timestamp="1497498061288">
+        <mark key="'" line="20" column="22" />
+        <mark key="[" line="47" column="29" />
+        <mark key="]" line="47" column="32" />
+        <mark key="." line="47" column="32" />
+        <mark key="^" line="47" column="32" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/3.2.9.RELEASE/spring-webmvc-3.2.9.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/RequestMappingHandlerAdapter.java" timestamp="1496293988478">
         <mark key="'" line="180" column="20" />
@@ -170,12 +170,12 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.5.RELEASE/spring-context-4.2.5.RELEASE-sources.jar!/org/springframework/validation/DataBinder.java" timestamp="1497258183542">
         <mark key="'" line="467" column="14" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/query/RouteSearcher.java" timestamp="1497497443437">
-        <mark key="'" line="84" column="42" />
-        <mark key="[" line="60" column="4" />
-        <mark key="]" line="83" column="5" />
-        <mark key="." line="60" column="0" />
-        <mark key="^" line="59" column="3" />
+      <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/query/RouteSearcher.java" timestamp="1497498044763">
+        <mark key="'" line="144" column="23" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="61" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="134" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/transfer/resp/RouteResp.java" timestamp="1497417188346">
         <mark key="[" line="74" column="0" />
@@ -426,8 +426,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
-      <jump line="166" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" />
       <jump line="295" column="26" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" />
       <jump line="143" column="33" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/KeywordSearcher.java" />
       <jump line="285" column="34" filename="$USER_HOME$/workspace/search/pom.xml" />
@@ -526,6 +524,8 @@
       <jump line="83" column="25" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/query/RouteSearcher.java" />
       <jump line="84" column="42" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/query/RouteSearcher.java" />
       <jump line="218" column="6" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/RouteSearcher.java" />
+      <jump line="144" column="23" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/query/RouteSearcher.java" />
+      <jump line="20" column="22" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/data/RoutePojo.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -538,7 +538,7 @@
         <text>initSingleMapForJunitTest</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>道路全长</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvYmpcPg==</text>
@@ -547,31 +547,31 @@
         <text>LibGeoUtil.getInstance()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog55So5oi36L6T5YWl6ZW/6Lev57q/77yM5q+P5aSn5q615YiH5oiQ5bCP5q61CiAgICAgKi8KICAgIHByaXZhdGUgc3RhdGljIExpc3Q8R2VvUG9pbnQ+IGZpbGxGb3JMb25nU3BhbihHZW9Qb2ludCBzdGFydCwgR2VvUG9pbnQgZW5kLCBpbnQgbGVuSW5NZXRlcikgewogICAgICAgIGludCBsb25EaWZmID0gZW5kLmxvbiAtIHN0YXJ0LmxvbjsKICAgICAgICBpbnQgbGF0RGlmZiA9IGVuZC5sYXQgLSBzdGFydC5sYXQ7CiAgICAgICAgLy8gVE9ETyAxMDAwIOaPkOWPlumFjee9rgogICAgICAgIGludCBuID0gKGludCkgbGVuSW5NZXRlciAvIDEwMDA7CgogICAgICAgIExpc3Q8R2VvUG9pbnQ+IHJlc3VsdCA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgIHJlc3VsdC5hZGQoc3RhcnQpOwogICAgICAgIGlmIChuID4gMCkgewogICAgICAgICAgICBpbnQgc3RlcExvbiA9IGxvbkRpZmYgLyBuOwogICAgICAgICAgICBpbnQgc3RlcExhdCA9IGxhdERpZmYgLyBuOwogICAgICAgICAgICBmb3IgKGludCBpID0gMTsgaSA8PSBuOyBpKyspIHsKICAgICAgICAgICAgICAgIEdlb1BvaW50IG1pZGRsZVBvaW50ID0gbmV3IEdlb1BvaW50KCk7CiAgICAgICAgICAgICAgICBtaWRkbGVQb2ludC5sb24gPSBzdGFydC5sb24gKyBzdGVwTG9uICogaTsKICAgICAgICAgICAgICAgIG1pZGRsZVBvaW50LmxhdCA9IHN0YXJ0LmxhdCArIHN0ZXBMYXQgKiBpOwogICAgICAgICAgICAgICAgcmVzdWx0LmFkZChtaWRkbGVQb2ludCk7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgcmVzdWx0LmFkZChlbmQpOwogICAgICAgIHJldHVybiByZXN1bHQ7CiAgICB9Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAqCiAgICAgKiBAcGFyYW0gdG93UG9pbnRNb3J0b25zTGlzdAogICAgICogQHJldHVybgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBzdGFydAogICAgICogQHBhcmFtIGVuZAogICAgICogQHBhcmFtIHBvaQogICAgICogQHBhcmFtIGxpYkdlb1V0aWwKICAgICAqIEBwYXJhbSByYWRpdXMKICAgICAqIEByZXR1cm4K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICDplb/lrr3pq5gK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICDnjJbni4Lpq5gK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgKiAgICAgICAgcG9pCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBNYXA8TG9uZywgT2JqZWN0W10+IHBvaUxlbk1hcCA9IG5ldyBIYXNoTWFwPD4oMTAwMDApOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAqCiAgICAgKiBAcGFyYW0gcG9pbnRzCiAgICAgKiBAcmV0dXJuCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICog55So5oi36L6T5YWl6ZW/6Lev57q/77yM5q+P5aSn5q615YiH5oiQ5bCP5q61CiAgICAgKi8KICAgIHByaXZhdGUgc3RhdGljIExpc3Q8R2VvUG9pbnQ+IGZpbGxGb3JMb25nU3BhbihHZW9Qb2ludCBzdGFydCwgR2VvUG9pbnQgZW5kLCBpbnQgbGVuSW5NZXRlcikgewogICAgICAgIGludCBsb25EaWZmID0gZW5kLmxvbiAtIHN0YXJ0LmxvbjsKICAgICAgICBpbnQgbGF0RGlmZiA9IGVuZC5sYXQgLSBzdGFydC5sYXQ7CiAgICAgICAgLy8gVE9ETyAxMDAwIOaPkOWPlumFjee9rgogICAgICAgIGludCBuID0gKGludCkgbGVuSW5NZXRlciAvIDEwMDA7CgogICAgICAgIExpc3Q8R2VvUG9pbnQ+IHJlc3VsdCA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgIHJlc3VsdC5hZGQoc3RhcnQpOwogICAgICAgIGlmIChuID4gMCkgewogICAgICAgICAgICBpbnQgc3RlcExvbiA9IGxvbkRpZmYgLyBuOwogICAgICAgICAgICBpbnQgc3RlcExhdCA9IGxhdERpZmYgLyBuOwogICAgICAgICAgICBmb3IgKGludCBpID0gMTsgaSA8PSBuOyBpKyspIHsKICAgICAgICAgICAgICAgIEdlb1BvaW50IG1pZGRsZVBvaW50ID0gbmV3IEdlb1BvaW50KCk7CiAgICAgICAgICAgICAgICBtaWRkbGVQb2ludC5sb24gPSBzdGFydC5sb24gKyBzdGVwTG9uICogaTsKICAgICAgICAgICAgICAgIG1pZGRsZVBvaW50LmxhdCA9IHN0YXJ0LmxhdCArIHN0ZXBMYXQgKiBpOwogICAgICAgICAgICAgICAgcmVzdWx0LmFkZChtaWRkbGVQb2ludCk7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgcmVzdWx0LmFkZChlbmQpOwogICAgICAgIHJldHVybiByZXN1bHQ7CiAgICB9Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAqCiAgICAgKiBAcGFyYW0gdG93UG9pbnRNb3J0b25zTGlzdAogICAgICogQHJldHVybgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAqCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBzdGFydAogICAgICogQHBhcmFtIGVuZAogICAgICogQHBhcmFtIHBvaQogICAgICogQHBhcmFtIGxpYkdlb1V0aWwKICAgICAqIEBwYXJhbSByYWRpdXMKICAgICAqIEByZXR1cm4K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICDplb/lrr3pq5gK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgKiAgICAvXyBfIF9cCiAgICAgICAgICpzdGFydCAgIGMgICBlbmQK</text>
+        <text encoding="base64">ICAgICAgICDnjJbni4Lpq5gK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
