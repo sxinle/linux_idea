@@ -59,12 +59,12 @@
         <mark key="." line="296" column="39" />
         <mark key="^" line="296" column="39" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/query/RouteSearcher.java" timestamp="1497432331379">
-        <mark key="'" line="155" column="19" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="157" column="19" />
+      <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/query/RouteSearcher.java" timestamp="1497490041147">
+        <mark key="'" line="81" column="84" />
+        <mark key="[" line="22" column="22" />
+        <mark key="]" line="22" column="22" />
+        <mark key="." line="22" column="22" />
+        <mark key="^" line="22" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/transfer/resp/RouteResp.java" timestamp="1497417188346">
         <mark key="[" line="74" column="0" />
@@ -169,8 +169,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="312" column="13" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/UserInputPreProcess.java" />
-      <jump line="367" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/UserInputPreProcess.java" />
       <jump line="112" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/KeywordSearcher.java" />
       <jump line="25" column="26" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/BaseSearcher.java" />
       <jump line="41" column="63" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" />
@@ -269,6 +267,8 @@
       <jump line="1" column="0" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/query/RouteSearcher.java" />
       <jump line="237" column="0" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/query/RouteSearcher.java" />
       <jump line="156" column="19" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/query/RouteSearcher.java" />
+      <jump line="104" column="24" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/query/RouteSearcher.java" />
+      <jump line="75" column="84" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/query/RouteSearcher.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -281,7 +281,7 @@
         <text>initSingleMapForJunitTest</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>(2);</text>
       </register>
       <register name="/" type="4">
         <text>private</text>
@@ -290,31 +290,31 @@
         <text>IdWithTerms</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTaWRlKGludCB2YWwpIHsKICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSB4MAogICAgICogQHBhcmFtIHkwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb20ubXguZ2VvLkxpYkdlb1V0aWwuUG9pbnQgcG9pbnQwID0gbmV3IGNvbS5teC5nZW8uTGliR2VvVXRpbC5Qb2ludCh4MCwgeTApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDosIPnlKjpq5jnuqzluqborqHnrpfot53nprvmlrnms5UK</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICBpbnQgc2lkZVR5cGUgPSAwOy8vIOm7mOiupOW3puWPs+mDveimgQogICAgICAgIHN3aXRjaCAoc2lkZS50b0xvd2VyQ2FzZSgpKSB7CiAgICAgICAgICAgIGNhc2UgImxlZnQiOgogICAgICAgICAgICAgICAgc2lkZVR5cGUgPSAxOwogICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgIGNhc2UgInJpZ2h0IjoKICAgICAgICAgICAgICAgIHNpZGVUeXBlID0gMjsKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIOi3neemuwo=</text>
+        <text encoding="base64">ICAgICAgICBzd2l0Y2ggKHNpZGUudG9Mb3dlckNhc2UoKSkgewogICAgICAgICAgICBjYXNlICJsZWZ0IjoKICAgICAgICAgICAgICAgIHNpZGVUeXBlID0gMTsKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICBjYXNlICJyaWdodCI6CiAgICAgICAgICAgICAgICBzaWRlVHlwZSA9IDI7CiAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5teC5zZXJ2ZXIuc2VhcmNoLm5kcy5kYXRhLlJvdXRlUG9qby5Db29yZHM7CmltcG9ydCBjb20ubXguc2VydmVyLnNlYXJjaC5uZHMuZGF0YS5Sb3V0ZVBvam8uUG9pV2l0aExlbjsKaW1wb3J0IGNvbS5teC5zZXJ2ZXIuc2VhcmNoLm5kcy5kYXRhLlJvdXRlUG9qby5Sb2FkUG9pczsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5teC5zZXJ2ZXIuc2VhcmNoLmRhdGEubW9kZWxzLlJvYWRQb2lzOwo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgc2lkZSA9ICIiOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPIDEwMDAg5o+Q5Y+W6YWN572uCg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSB4MAogICAgICogQHBhcmFtIHkwCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
