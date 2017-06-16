@@ -120,8 +120,8 @@
       <file name="$USER_HOME$/workspace/yh_svr/src/main/java/shadowsocks/nio/tcp/Session.java" timestamp="1494919841956">
         <mark key="'" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/data/build/nds/impl/NdsCacheBuildImp.java" timestamp="1497599570644">
-        <mark key="'" line="184" column="0" />
+      <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/data/build/nds/impl/NdsCacheBuildImp.java" timestamp="1497600118447">
+        <mark key="'" line="198" column="0" />
         <mark key="[" line="98" column="0" />
         <mark key="]" line="98" column="55" />
         <mark key="." line="6" column="60" />
@@ -346,11 +346,11 @@
       <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/resources/proto/common.proto" timestamp="1495675454529">
         <mark key="'" line="14" column="6" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/RouteSearcher.java" timestamp="1497597519333">
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/RouteSearcher.java" timestamp="1497600495514">
         <mark key="'" line="636" column="0" />
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/resources/common.proto" timestamp="1495009706329">
         <mark key="'" line="166" column="0" />
@@ -371,7 +371,7 @@
       <file name="$USER_HOME$/workspace/search/common-conf/search.properties" timestamp="1497320963051">
         <mark key="'" line="78" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/dsef/admin/Admin.java" timestamp="1497599379316">
+      <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/dsef/admin/Admin.java" timestamp="1497600129696">
         <mark key="'" line="3444" column="0" />
         <mark key="[" line="18" column="58" />
         <mark key="]" line="19" column="5" />
@@ -392,10 +392,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="102" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/util/CommonRouteSearch.java" />
-      <jump line="129" column="153" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/util/CommonRouteSearch.java" />
-      <jump line="31" column="19" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/data/OnlineRouteParam.java" />
-      <jump line="13" column="31" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/util/CommonRouteSearch.java" />
       <jump line="164" column="0" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/util/CommonRouteSearch.java" />
       <jump line="30" column="16" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/data/OnlineRouteParam.java" />
       <jump line="2" column="0" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/data/OnlineRouteParam.java" />
@@ -489,9 +485,13 @@
       <jump line="3475" column="0" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/dsef/entity/Entity.java" />
       <jump line="343" column="10" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/dsef/admin/Admin.java" />
       <jump line="18" column="5" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/dsef/admin/Admin.java" />
-      <jump line="3444" column="0" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/dsef/admin/Admin.java" />
       <jump line="103" column="57" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/data/build/nds/impl/NdsCacheBuildImp.java" />
       <jump line="184" column="0" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/data/build/nds/impl/NdsCacheBuildImp.java" />
+      <jump line="110" column="60" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/data/build/nds/impl/NdsCacheBuildImp.java" />
+      <jump line="198" column="0" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/data/build/nds/impl/NdsCacheBuildImp.java" />
+      <jump line="19" column="22" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/dsef/admin/Admin.java" />
+      <jump line="97" column="10" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/dsef/admin/Admin.java" />
+      <jump line="3444" column="0" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/dsef/admin/Admin.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -513,13 +513,13 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHBvaS5zZXRHdWlkZV9sYXQoci5nZXRBY2Nlc3NMYXRpdHVkZSgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogPHByZT4KICAgICAqCiAgICAgKiDvv73vv73vv73vv70KICAgICAqIDwvcHJlPgogICAgICoKICAgICAqIDxjb2RlPk5PTl9KID0gMDs8L2NvZGU+CiAgICAgKi8K</text>
+        <text encoding="base64">ICAgIGNvbXBhbnkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvKioKICAgKiA8cHJlPgogICAqKioKICAgKiDvv73vv73msb7vv73vv73vv73euMS477+9yr3Kse+/ve+/ve+/ve+/vc2s77+977+977+977+977+9wrjDtu+/ve+/ve+/vQogICAqIDwvcHJlPgogICAqCiAgICogUHJvdG9idWYgZW51bSB7QGNvZGUgY29tLm14LmRzZWYuYWRtaW4uQWRtaW5EYXRhRm9ybWF0VmVyc2lvbkpham9yfQogICAqLwo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogPHByZT4KICAgICAqCiAgICAgKiDvv73vv73vv73vv70KICAgICAqIDwvcHJlPgogICAgICoKICAgICAqIDxjb2RlPk5PTl9KID0gMDs8L2NvZGU+CiAgICAgKi8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvKioKICAgKiA8cHJlPgogICAqKioKICAgKiDvv73vv73msb7vv73vv73vv73euMS477+9yr3Kse+/ve+/ve+/ve+/vc2s77+977+977+977+977+9wrjDtu+/ve+/ve+/vQogICAqIDwvcHJlPgogICAqCiAgICogUHJvdG9idWYgZW51bSB7QGNvZGUgY29tLm14LmRzZWYuYWRtaW4uQWRtaW5EYXRhRm9ybWF0VmVyc2lvbkpham9yfQogICAqLwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -531,13 +531,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgRGlzdGFuY2UgZGlzdGFuY2UgPSBuZXcgRGlzdGFuY2UoKTsKICAgICAgICBwdWJsaWMgUmVnaW9uRGVzYyByZWdpb25EZXNjID0gbmV3IFJlZ2lvbkRlc2MoKTsKICAgICAgICBwdWJsaWMgTGlzdDxFbnRyeVBvaW50PiBlbnRyeVBvaW50cyA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgIHB1YmxpYyBMaXN0PENhdGVnb3J5PiBjYXRlZ29yaWVzID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgICAgcHVibGljIExpc3Q8TUlCUG9pPiBwYXJlbnRzICAgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgICAgICBwdWJsaWMgTGlzdDxNSUJQb2k+IGNoaWxkcmVucyA9IG5ldyBBcnJheUxpc3Q8PigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgRGlzdGFuY2UgZGlzdGFuY2UgPSBuZXcgRGlzdGFuY2UoKTsKICAgICAgICBwdWJsaWMgUmVnaW9uRGVzYyByZWdpb25EZXNjID0gbmV3IFJlZ2lvbkRlc2MoKTsKICAgICAgICBwdWJsaWMgTGlzdDxFbnRyeVBvaW50PiBlbnRyeVBvaW50cyA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgIHB1YmxpYyBMaXN0PENhdGVnb3J5PiBjYXRlZ29yaWVzID0gbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgRGlzdGFuY2UgZGlzdGFuY2UgPSBuZXcgRGlzdGFuY2UoKTsKICAgICAgICBwdWJsaWMgUmVnaW9uRGVzYyByZWdpb25EZXNjID0gbmV3IFJlZ2lvbkRlc2MoKTsKICAgICAgICBwdWJsaWMgTGlzdDxFbnRyeVBvaW50PiBlbnRyeVBvaW50cyA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgIHB1YmxpYyBMaXN0PENhdGVnb3J5PiBjYXRlZ29yaWVzID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgICAgcHVibGljIExpc3Q8TUlCUG9pPiBwYXJlbnRzICAgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgICAgICBwdWJsaWMgTGlzdDxNSUJQb2k+IGNoaWxkcmVucyA9IG5ldyBBcnJheUxpc3Q8PigpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgRGlzdGFuY2UgZGlzdGFuY2UgPSBuZXcgRGlzdGFuY2UoKTsKICAgICAgICBwdWJsaWMgUmVnaW9uRGVzYyByZWdpb25EZXNjID0gbmV3IFJlZ2lvbkRlc2MoKTsKICAgICAgICBwdWJsaWMgTGlzdDxFbnRyeVBvaW50PiBlbnRyeVBvaW50cyA9IG5ldyBBcnJheUxpc3Q8PigpOwo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgRGlzdGFuY2UgZGlzdGFuY2UgPSBuZXcgRGlzdGFuY2UoKTsKICAgICAgICBwdWJsaWMgUmVnaW9uRGVzYyByZWdpb25EZXNjID0gbmV3IFJlZ2lvbkRlc2MoKTsKICAgICAgICBwdWJsaWMgTGlzdDxFbnRyeVBvaW50PiBlbnRyeVBvaW50cyA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgIHB1YmxpYyBMaXN0PENhdGVnb3J5PiBjYXRlZ29yaWVzID0gbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
