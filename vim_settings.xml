@@ -316,8 +316,8 @@
       <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/transfer/resp/CityDetailResp.java" timestamp="1496211882439">
         <mark key="'" line="164" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/Sorter.java" timestamp="1497603331270">
-        <mark key="'" line="79" column="0" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/Sorter.java" timestamp="1497605841884">
+        <mark key="'" line="38" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/LabelRechecker.java" timestamp="1495087647760">
         <mark key="'" line="140" column="24" />
@@ -398,7 +398,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="151" column="13" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/util/CommonRouteSearch.java" />
       <jump line="186" column="12" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/util/CommonRouteSearch.java" />
       <jump line="60" column="26" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/util/CommonRouteSearch.java" />
       <jump line="53" column="12" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/util/CommonRouteSearch.java" />
@@ -498,6 +497,7 @@
       <jump line="35" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" />
       <jump line="57" column="13" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/Sorter.java" />
       <jump line="79" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/Sorter.java" />
+      <jump line="38" column="25" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/Sorter.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
