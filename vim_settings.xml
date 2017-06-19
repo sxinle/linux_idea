@@ -54,8 +54,8 @@
       <file name="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/common/util/TypeCode.java" timestamp="1495775133456">
         <mark key="'" line="45" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/util/SEnums.java" timestamp="1497860769351">
-        <mark key="'" line="134" column="8" />
+      <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/util/SEnums.java" timestamp="1497862718456">
+        <mark key="'" line="77" column="42" />
         <mark key="[" line="10" column="19" />
         <mark key="]" line="10" column="18" />
         <mark key="." line="10" column="18" />
@@ -292,12 +292,12 @@
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/ScoreRet.java" timestamp="1495689111571">
         <mark key="'" line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/data/OnlineRouteResp.java" timestamp="1497861772412">
+      <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/data/OnlineRouteResp.java" timestamp="1497862702026">
         <mark key="'" line="14" column="4" />
-        <mark key="[" line="116" column="0" />
-        <mark key="]" line="116" column="0" />
-        <mark key="." line="116" column="0" />
-        <mark key="^" line="112" column="111" />
+        <mark key="[" line="113" column="25" />
+        <mark key="]" line="113" column="25" />
+        <mark key="." line="113" column="25" />
+        <mark key="^" line="113" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/business/address/data/AddressInfo.java" timestamp="1495778553415">
         <mark key="'" line="116" column="0" />
@@ -404,7 +404,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="98" column="68" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/util/BaseRouteSearcher.java" />
       <jump line="112" column="118" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/util/BaseRouteSearcher.java" />
       <jump line="114" column="22" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/util/BaseRouteSearcher.java" />
       <jump line="513" column="48" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/RouteSearcher.java" />
@@ -504,6 +503,7 @@
       <jump line="114" column="16" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/data/OnlineRouteResp.java" />
       <jump line="112" column="26" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/data/OnlineRouteResp.java" />
       <jump line="14" column="4" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/data/OnlineRouteResp.java" />
+      <jump line="77" column="42" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/util/SEnums.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -516,19 +516,19 @@
         <text>()</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>去</text>
       </register>
       <register name="/" type="4">
         <text>web</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWRkKG5ldyBNSUJQb2kuTG9jYWxMYW5ncyhuYW1lc1tsb2NMYW5nSWR4XVtOYW1lVHlwZS5OQU1FX1RZUEVfT0ZGSUNFX05BTUVfRU5HLmdldFZhbHVlKCldLCJwb2ktbmFtZSIpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWRkKG5ldyBNSUJQb2kuTG9jYWxMYW5ncyhuYW1lc1tsb2NMYW5nSWR4XVtOYW1lVHlwZS5OQU1FX1RZUEVfQ0lUWS5nZXRWYWx1ZSgpXSwiY2l0eSIpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhZGQobmV3IE1JQlBvaS5Mb2NhbExhbmdzKG5hbWVzW2xvY0xhbmdJZHhdW05hbWVUeXBlLk5BTUVfVFlQRV9PRkZJQ0VfTkFNRV9FTkcuZ2V0VmFsdWUoKV0sInBvaS1uYW1lIikpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWRkKG5ldyBNSUJQb2kuTG9jYWxMYW5ncyhuYW1lc1tsb2NMYW5nSWR4XVtOYW1lVHlwZS5OQU1FX1RZUEVfT0ZGSUNFX05BTUVfRU5HLmdldFZhbHVlKCldLCJjb3VudHJ5IikpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhZGQobmV3IE1JQlBvaS5Mb2NhbExhbmdzKG5hbWVzW2xvY0xhbmdJZHhdW05hbWVUeXBlLk5BTUVfVFlQRV9PRkZJQ0VfTkFNRV9FTkcuZ2V0VmFsdWUoKV0sInBvaS1uYW1lIikpOwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -537,19 +537,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY2dsaWIuY29yZS5Mb2NhbDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9jYWxMYW5ncyBsMSA9IG5ldyBNSUJQb2kuTG9jYWxMYW5ncygpOwo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY2dsaWIuY29yZS5Mb2NhbDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHVibGljIExvY2FsTGFuZ3MoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9jYWxMYW5ncyBsMSA9IG5ldyBNSUJQb2kuTG9jYWxMYW5ncygpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWRkKG5ldyBMb2NhbGxhbikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHVibGljIExvY2FsTGFuZ3MoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBMb2NhbGxhbmdzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWRkKG5ldyBMb2NhbGxhbikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
