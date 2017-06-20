@@ -6,16 +6,14 @@
   <action id="$Undo">
     <keyboard-shortcut first-keystroke="ctrl z" />
   </action>
+  <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateMavenProjectsToolWindow">
     <keyboard-shortcut first-keystroke="alt 0" />
   </action>
   <action id="ActivateMessagesToolWindow" />
-  <action id="ActivateProblemsToolWindow">
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="alt 3" />
-  </action>
-  <action id="ActivateStructureToolWindow">
-    <keyboard-shortcut first-keystroke="alt 7" />
-    <keyboard-shortcut first-keystroke="alt 2" />
   </action>
   <action id="Back">
     <keyboard-shortcut first-keystroke="shift alt left" />
@@ -169,6 +167,9 @@
   <action id="HideAllWindows">
     <keyboard-shortcut first-keystroke="shift ctrl f12" />
     <keyboard-shortcut first-keystroke="alt m" />
+  </action>
+  <action id="InclusiveTranslateAction">
+    <keyboard-shortcut first-keystroke="alt numpad2" />
   </action>
   <action id="ManageRecentProjects">
     <keyboard-shortcut first-keystroke="alt f" />
