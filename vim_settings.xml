@@ -231,8 +231,10 @@
         <mark key="." line="95" column="99" />
         <mark key="^" line="99" column="58" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" timestamp="1497603173746">
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" timestamp="1498361279673">
         <mark key="'" line="35" column="0" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="96" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/mx/server/gis/mx_geo_lib/1.0.1-RELEASE/mx_geo_lib-1.0.1-RELEASE.jar!/com/mx/geo/LibGeoUtil.class" timestamp="1497494934846">
         <mark key="'" line="75" column="15" />
@@ -552,8 +554,8 @@
       <register name="/" type="4">
         <text>web</text>
       </register>
-      <register name="0" type="4">
-        <text>Argument</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBQb3NTb3J0ZXIoU3RyaW5nIGNvdW50cnksIFNlbWFudGljUmV0IHNlbWFudGljUmV0LCBMaXN0PElkV2l0aFRlcm1zPiBpZFdpdGhUZXJtTGlzdCkgewo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICDmgrLmgIYK</text>
