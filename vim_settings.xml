@@ -235,8 +235,8 @@
         <mark key="." line="95" column="99" />
         <mark key="^" line="99" column="58" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" timestamp="1498371084204">
-        <mark key="'" line="33" column="0" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" timestamp="1498372137536">
+        <mark key="'" line="244" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/mx/server/gis/mx_geo_lib/1.0.1-RELEASE/mx_geo_lib-1.0.1-RELEASE.jar!/com/mx/geo/LibGeoUtil.class" timestamp="1497494934846">
         <mark key="'" line="75" column="15" />
@@ -444,8 +444,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="374" column="0" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/data/NdsCache.java" />
-      <jump line="161" column="28" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/util/CommonRouteSearch.java" />
       <jump line="84" column="44" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/data/OnlineRouteResp.java" />
       <jump line="10" column="0" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/data/OnlineRouteResp.java" />
       <jump line="134" column="8" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/util/SEnums.java" />
@@ -544,6 +542,8 @@
       <jump line="62" column="19" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" />
       <jump line="72" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/Sorter.java" />
       <jump line="33" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" />
+      <jump line="198" column="35" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" />
+      <jump line="244" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
