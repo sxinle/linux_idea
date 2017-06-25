@@ -390,8 +390,8 @@
       <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/resources/proto/common.proto" timestamp="1495675454529">
         <mark key="'" line="14" column="6" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/RouteSearcher.java" timestamp="1497600495514">
-        <mark key="'" line="636" column="0" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/RouteSearcher.java" timestamp="1498359790277">
+        <mark key="'" line="84" column="0" />
         <mark key="[" line="80" column="0" />
         <mark key="]" line="80" column="0" />
         <mark key="." line="80" column="0" />
@@ -435,7 +435,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" />
       <jump line="57" column="13" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/Sorter.java" />
       <jump line="79" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/Sorter.java" />
       <jump line="38" column="25" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/Sorter.java" />
@@ -535,6 +534,7 @@
       <jump line="4" column="13" filename="$USER_HOME$/workspace/yh_svr/src/main/java/com/yh/zhgp/data/Resp.java" />
       <jump line="42" column="0" filename="$USER_HOME$/workspace/yh_svr/src/main/java/com/yh/zhgp/data/Resp.java" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/yh_svr/src/main/java/com/yh/zhgp/data/Resp.java" />
+      <jump line="84" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/RouteSearcher.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
