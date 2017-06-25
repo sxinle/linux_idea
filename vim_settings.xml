@@ -134,8 +134,8 @@
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/dispatch/SearcherProvider.java" timestamp="1497010362868">
         <mark key="'" line="58" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/zest/src/main/java/moud/Sec.java" timestamp="1498013284905">
-        <mark key="'" line="89" column="0" />
+      <file name="$USER_HOME$/workspace/zest/src/main/java/moud/Sec.java" timestamp="1498356757783">
+        <mark key="'" line="33" column="41" />
         <mark key="[" line="14" column="30" />
         <mark key="]" line="14" column="30" />
         <mark key="." line="14" column="30" />
@@ -314,6 +314,9 @@
       <file name="$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/internal/builders/AnnotatedBuilder.java" timestamp="1495511476270">
         <mark key="'" line="83" column="12" />
       </file>
+      <file name="$USER_HOME$/workspace/zest/src/main/java/com/MDXReader.java" timestamp="1498356769239">
+        <mark key="'" line="85" column="25" />
+      </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/ScoreRet.java" timestamp="1495689111571">
         <mark key="'" line="46" column="0" />
       </file>
@@ -429,8 +432,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4293" column="0" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/dsef/common/Common.java" />
-      <jump line="14" column="42" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/dsef/entity/Entity.java" />
       <jump line="3475" column="0" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/dsef/entity/Entity.java" />
       <jump line="343" column="10" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/dsef/admin/Admin.java" />
       <jump line="18" column="5" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/dsef/admin/Admin.java" />
@@ -529,6 +530,8 @@
       <jump line="418" column="0" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/data/NdsCache.java" />
       <jump line="59" column="12" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/query/RouteSearcher.java" />
       <jump line="128" column="0" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/query/RouteSearcher.java" />
+      <jump line="33" column="41" filename="$USER_HOME$/workspace/zest/src/main/java/moud/Sec.java" />
+      <jump line="85" column="25" filename="$USER_HOME$/workspace/zest/src/main/java/com/MDXReader.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
