@@ -411,8 +411,8 @@
       <file name="$MAVEN_REPOSITORY$/org/powermock/powermock-core/1.6.2/powermock-core-1.6.2-sources.jar!/org/powermock/mockpolicies/MockPolicyClassLoadingSettings.java" timestamp="1495510940197">
         <mark key="'" line="74" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/common-conf/search.properties" timestamp="1498384187458">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/workspace/search/common-conf/search.properties" timestamp="1498384366130">
+        <mark key="'" line="115" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="115" column="18" />
         <mark key="." line="16" column="37" />
@@ -439,8 +439,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="92" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/util/CommonRouteSearch.java" />
-      <jump line="103" column="97" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/util/CommonRouteSearch.java" />
       <jump line="17" column="0" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/util/CommonRouteSearch.java" />
       <jump line="162" column="0" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/util/CommonRouteSearch.java" />
       <jump line="56" column="23" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/query/RouteSearcher.java" />
@@ -536,9 +534,11 @@
       <jump line="21" column="0" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
       <jump line="91" column="0" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
       <jump line="105" column="0" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
-      <jump line="115" column="0" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
       <jump line="16" column="30" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
+      <jump line="90" column="56" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
+      <jump line="3" column="0" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
+      <jump line="115" column="0" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
     </jumps>
     <registers>
       <register name="a" type="4">
