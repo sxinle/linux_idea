@@ -235,8 +235,10 @@
         <mark key="." line="95" column="99" />
         <mark key="^" line="99" column="58" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" timestamp="1498372137536">
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" timestamp="1498373497422">
         <mark key="'" line="244" column="0" />
+        <mark key="[" line="37" column="16" />
+        <mark key="]" line="37" column="31" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/mx/server/gis/mx_geo_lib/1.0.1-RELEASE/mx_geo_lib-1.0.1-RELEASE.jar!/com/mx/geo/LibGeoUtil.class" timestamp="1497494934846">
         <mark key="'" line="75" column="15" />
@@ -562,7 +564,7 @@
         <text>web</text>
       </register>
       <register name="0" type="4">
-        <text>Config.Sources</text>
+        <text>mockDataForDebug</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBjbGV2ZXIK</text>
