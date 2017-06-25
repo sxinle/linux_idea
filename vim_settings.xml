@@ -159,6 +159,9 @@
       <file name="$USER_HOME$/workspace/uauth/src/main/java/com/mx/server/core/util/AuthCodeUtil.java" timestamp="1497318228548">
         <mark key="'" line="165" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/yh_svr/src/main/java/com/yh/zhgp/data/Resp.java" timestamp="1498358870469">
+        <mark key="'" line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/business/poi/data/ClientFormatPoi.java" timestamp="1498011857963">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -402,8 +405,8 @@
       <file name="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/common/util/JsonChecker.java" timestamp="1495778105562">
         <mark key="'" line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/yh_svr/src/main/java/com/yh/zhgp/util/ZbjSpider.java" timestamp="1498356834384">
-        <mark key="'" line="57" column="22" />
+      <file name="$USER_HOME$/workspace/yh_svr/src/main/java/com/yh/zhgp/util/ZbjSpider.java" timestamp="1498358838756">
+        <mark key="'" line="23" column="38" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/powermock/powermock-core/1.6.2/powermock-core-1.6.2-sources.jar!/org/powermock/mockpolicies/MockPolicyClassLoadingSettings.java" timestamp="1495510940197">
         <mark key="'" line="74" column="0" />
@@ -432,10 +435,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="198" column="0" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/data/build/nds/impl/NdsCacheBuildImp.java" />
-      <jump line="19" column="22" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/dsef/admin/Admin.java" />
-      <jump line="97" column="10" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/dsef/admin/Admin.java" />
-      <jump line="3444" column="0" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/dsef/admin/Admin.java" />
       <jump line="35" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" />
       <jump line="57" column="13" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/Sorter.java" />
       <jump line="79" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/Sorter.java" />
@@ -532,6 +531,10 @@
       <jump line="183" column="0" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/util/CommonRouteSearch.java" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/util/CommonRouteSearch.java" />
       <jump line="210" column="0" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/util/CommonRouteSearch.java" />
+      <jump line="23" column="38" filename="$USER_HOME$/workspace/yh_svr/src/main/java/com/yh/zhgp/util/ZbjSpider.java" />
+      <jump line="4" column="13" filename="$USER_HOME$/workspace/yh_svr/src/main/java/com/yh/zhgp/data/Resp.java" />
+      <jump line="42" column="0" filename="$USER_HOME$/workspace/yh_svr/src/main/java/com/yh/zhgp/data/Resp.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/yh_svr/src/main/java/com/yh/zhgp/data/Resp.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
