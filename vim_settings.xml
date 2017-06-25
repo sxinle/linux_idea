@@ -167,8 +167,8 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.2.5.RELEASE/spring-context-4.2.5.RELEASE-sources.jar!/org/springframework/validation/DataBinder.java" timestamp="1497258183542">
         <mark key="'" line="467" column="14" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/query/RouteSearcher.java" timestamp="1498353560634">
-        <mark key="'" line="128" column="0" />
+      <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/query/RouteSearcher.java" timestamp="1498357914905">
+        <mark key="'" line="108" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -284,8 +284,8 @@
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsBaseSearcher.java" timestamp="1497012791324">
         <mark key="'" line="78" column="38" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/util/CommonRouteSearch.java" timestamp="1497943421456">
-        <mark key="'" line="184" column="0" />
+      <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/util/CommonRouteSearch.java" timestamp="1498357930906">
+        <mark key="'" line="210" column="0" />
         <mark key="[" line="124" column="13" />
         <mark key="]" line="125" column="11" />
         <mark key="." line="125" column="11" />
@@ -432,11 +432,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="343" column="10" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/dsef/admin/Admin.java" />
-      <jump line="18" column="5" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/dsef/admin/Admin.java" />
-      <jump line="103" column="57" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/data/build/nds/impl/NdsCacheBuildImp.java" />
-      <jump line="184" column="0" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/data/build/nds/impl/NdsCacheBuildImp.java" />
-      <jump line="110" column="60" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/data/build/nds/impl/NdsCacheBuildImp.java" />
       <jump line="198" column="0" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/data/build/nds/impl/NdsCacheBuildImp.java" />
       <jump line="19" column="22" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/dsef/admin/Admin.java" />
       <jump line="97" column="10" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/dsef/admin/Admin.java" />
@@ -532,6 +527,11 @@
       <jump line="33" column="41" filename="$USER_HOME$/workspace/zest/src/main/java/moud/Sec.java" />
       <jump line="85" column="25" filename="$USER_HOME$/workspace/zest/src/main/java/com/MDXReader.java" />
       <jump line="57" column="22" filename="$USER_HOME$/workspace/yh_svr/src/main/java/com/yh/zhgp/util/ZbjSpider.java" />
+      <jump line="31" column="47" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/query/RouteSearcher.java" />
+      <jump line="108" column="0" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/query/RouteSearcher.java" />
+      <jump line="183" column="0" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/util/CommonRouteSearch.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/util/CommonRouteSearch.java" />
+      <jump line="210" column="0" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/util/CommonRouteSearch.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
