@@ -218,6 +218,9 @@
       <file name="$MAVEN_REPOSITORY$/com/esotericsoftware/kryo/4.0.0/kryo-4.0.0-sources.jar!/com/esotericsoftware/kryo/Kryo.java" timestamp="1498380688117">
         <mark key="'" line="1249" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsAAASearcher.java" timestamp="1498438285261">
+        <mark key="'" line="344" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/search/search_api/pom.xml" timestamp="1497249472526">
         <mark key="'" line="1" column="0" />
       </file>
@@ -245,7 +248,6 @@
         <mark key="[" line="37" column="16" />
         <mark key="]" line="37" column="31" />
       </file>
-      <file name="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/util/stream/AbstractPipeline.java" timestamp="1498383634498" />
       <file name="$MAVEN_REPOSITORY$/com/mx/server/gis/mx_geo_lib/1.0.1-RELEASE/mx_geo_lib-1.0.1-RELEASE.jar!/com/mx/geo/LibGeoUtil.class" timestamp="1497494934846">
         <mark key="'" line="75" column="15" />
       </file>
@@ -411,8 +413,8 @@
       <file name="$MAVEN_REPOSITORY$/org/powermock/powermock-core/1.6.2/powermock-core-1.6.2-sources.jar!/org/powermock/mockpolicies/MockPolicyClassLoadingSettings.java" timestamp="1495510940197">
         <mark key="'" line="74" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/common-conf/search.properties" timestamp="1498384366130">
-        <mark key="'" line="115" column="0" />
+      <file name="$USER_HOME$/workspace/search/common-conf/search.properties" timestamp="1498438515131">
+        <mark key="'" line="23" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="115" column="18" />
         <mark key="." line="16" column="37" />
@@ -439,8 +441,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="0" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/util/CommonRouteSearch.java" />
-      <jump line="162" column="0" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/util/CommonRouteSearch.java" />
       <jump line="56" column="23" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/query/RouteSearcher.java" />
       <jump line="179" column="0" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/data/OnlineRouteResp.java" />
       <jump line="32" column="0" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/data/NdsCache.java" />
@@ -539,6 +539,8 @@
       <jump line="90" column="56" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
       <jump line="3" column="0" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
       <jump line="115" column="0" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
+      <jump line="344" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsAAASearcher.java" />
+      <jump line="23" column="0" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -597,7 +599,7 @@
       <last-replace>public</last-replace>
       <last-substitute>private</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
