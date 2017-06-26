@@ -41,6 +41,9 @@
       <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/resources/proto/admin.proto" timestamp="1497598136207">
         <mark key="'" line="122" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/CacheManager.java" timestamp="1498469838488">
+        <mark key="'" line="12" column="13" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.2.4/gson-2.2.4-sources.jar!/com/google/gson/internal/LinkedTreeMap.java" timestamp="1495782223926">
         <mark key="'" line="92" column="4" />
       </file>
@@ -442,7 +445,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="114" column="23" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/query/RouteSearcher.java" />
       <jump line="35" column="19" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/query/RouteSearcher.java" />
       <jump line="64" column="52" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/query/RouteSearcher.java" />
       <jump line="25" column="56" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/query/RouteSearcher.java" />
@@ -542,6 +544,7 @@
       <jump line="36" column="4" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/data/build/BuildSearchObj.java" />
       <jump line="79" column="0" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/data/build/BuildSearchObj.java" />
       <jump line="64" column="55" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" />
+      <jump line="12" column="13" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/CacheManager.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
