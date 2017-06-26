@@ -17,6 +17,12 @@
       <file name="$USER_HOME$/workspace/search/search_web/src/main/resources/logback.xml" timestamp="1497257683056">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/search/search_old/src/test/java/com/mx/server/search/old/business/city/CityIndexServiceTest.java" timestamp="1498473620510">
+        <mark key="[" line="12" column="26" />
+        <mark key="]" line="10" column="26" />
+        <mark key="." line="10" column="26" />
+        <mark key="^" line="10" column="26" />
+      </file>
       <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/util/DataProducer.java" timestamp="1497249417790">
         <mark key="'" line="73" column="0" />
       </file>
@@ -256,15 +262,20 @@
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" timestamp="1498464545910">
         <mark key="'" line="64" column="55" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_old/src/test/java/com/mx/server/search/old/business/address/searcher/AddressSearcherTest.java" timestamp="1498465589784">
-        <mark key="'" line="49" column="0" />
-        <mark key="[" line="45" column="26" />
-        <mark key="]" line="45" column="28" />
-        <mark key="^" line="45" column="28" />
-        <mark key="." line="45" column="28" />
+      <file name="$USER_HOME$/workspace/search/search_old/src/test/java/com/mx/server/search/old/business/address/searcher/AddressSearcherTest.java" timestamp="1498473446489">
+        <mark key="'" line="64" column="0" />
+        <mark key="[" line="53" column="44" />
+        <mark key="]" line="53" column="46" />
+        <mark key="." line="53" column="46" />
+        <mark key="^" line="53" column="46" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_old/pom.xml" timestamp="1496633281803">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/search/search_old/src/test/java/com/mx/server/search/old/business/poi/action/PoiControllerTest.java" timestamp="1498473894632">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/dsef/entity/Entity.java" timestamp="1497599371650">
         <mark key="'" line="3475" column="0" />
@@ -431,7 +442,7 @@
         <mark key="." line="19" column="5" />
         <mark key="^" line="19" column="5" />
       </file>
-      <file name="/fragment.java" timestamp="1498445129726">
+      <file name="/fragment.java" timestamp="1498473511784">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="64" />
         <mark key="^" line="0" column="56" />
@@ -557,40 +568,44 @@
         <text>()</text>
       </register>
       <register name="-" type="4">
-        <text>new AddressSearcher().searchAddress(param)</text>
+        <text>100</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYXRlZ29yeVw+</text>
       </register>
-      <register name="0" type="4">
-        <text>Utility.half2full(sParam.getKeywords().toLowerCase())</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0VHJ1ZShyZXQuY29udGFpbnMoIjEwMCIpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXQgPSBuZXcgQWRkcmVzc1NlYXJjaGVyKCkuc2VhcmNoQWRkcmVzcyhwYXJhbSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cmV0ID0gbmV3IEFkZHJlc3NTZWFyY2hlcigpLnNlYXJjaEFkZHJlc3MocGFyYW0pOwo=</text>
+        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0VHJ1ZShyZXQuY29udGFpbnMoInJlc3BDb2RlIikpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0VHJ1ZShyZXQuY29udGFpbnMoIjEwMCIpKTsKICAgICAgICBBc3NlcnQuYXNzZXJ0VHJ1ZShyZXQuY29udGFpbnMoIjEwMCIpKTsKICAgICAgICBBc3NlcnQuYXNzZXJ0VHJ1ZShyZXQuY29udGFpbnMoIjEwMCIpKTsKICAgICAgICBBc3NlcnQuYXNzZXJ0VHJ1ZShyZXQuY29udGFpbnMoIjEwMCIpKTsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRlbXBQb2ludHM7Cg==</text>
+      <register name="4" type="8">
+        <text>((CityIndexService.Bottle) CityIndexService.search(&quot;沈阳%&quot;)).getData()
+((CityIndexService.Bottle) CityIndexService.search(&quot;沈阳%&quot;)).getData()
+((CityIndexService.Bottle) CityIndexService.search(&quot;沈阳%&quot;)).getData()
+((CityIndexService.Bottle) CityIndexService.search(&quot;沈阳%&quot;)).getData()
+((CityIndexService.Bottle) CityIndexService.search(&quot;沈阳%&quot;)).getData()</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRlbXBQb2ludHM7Cg==</text>
+        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0VHJ1ZSgoKENpdHlJbmRleFNlcnZpY2UuQm90dGxlKSBDaXR5SW5kZXhTZXJ2aWNlLnNlYXJjaCgi5rKI6ZizJSIpKS5nZXREYXRhKCkuY29udGFpbnMoIjIxMDEwMDAwIikpOwogICAgICAgIEFzc2VydC5hc3NlcnRUcnVlKCgoQ2l0eUluZGV4U2VydmljZS5Cb3R0bGUpIENpdHlJbmRleFNlcnZpY2Uuc2VhcmNoKCLmsojpmLMlIikpLmdldERhdGEoKS5jb250YWlucygiMjEwMTAwMDAiKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZWVsc2UgewogICAgICAgICAgICByZXR1cm4gdGVtcFBvaW50czsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRlbXBQb2ludHMucmVtb3ZlKGkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0VHJ1ZShyZXQuZ2V0QWRkcmVzc2VzKCkuZ2V0KDApLmdldEFkZHIoKS5lcXVhbHMoIuW4guW6nOWkp+i3r+i0qOWunuW3tyIpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRlbXBQb2ludHMucmVtb3ZlKGkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0VHJ1ZShyZXQuZ2V0QWRkcmVzc2VzKCkuZ2V0KDApLmdldExvbigpID09IDApOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXQgPSBuZXcgQWRkcmVzc1NlYXJjaGVyKCkuc2VhcmNoQWRkcmVzcyhwYXJhbSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
