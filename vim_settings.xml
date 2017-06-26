@@ -253,8 +253,12 @@
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" timestamp="1498464545910">
         <mark key="'" line="64" column="55" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_old/src/test/java/com/mx/server/search/old/business/address/searcher/AddressSearcherTest.java" timestamp="1497342106064">
-        <mark key="'" line="45" column="0" />
+      <file name="$USER_HOME$/workspace/search/search_old/src/test/java/com/mx/server/search/old/business/address/searcher/AddressSearcherTest.java" timestamp="1498465589784">
+        <mark key="'" line="49" column="0" />
+        <mark key="[" line="45" column="26" />
+        <mark key="]" line="45" column="28" />
+        <mark key="^" line="45" column="28" />
+        <mark key="." line="45" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_old/pom.xml" timestamp="1496633281803">
         <mark key="'" line="0" column="0" />
@@ -550,7 +554,7 @@
         <text>()</text>
       </register>
       <register name="-" type="4">
-        <text>Test</text>
+        <text>new AddressSearcher().searchAddress(param)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYXRlZ29yeVw+</text>
@@ -559,31 +563,31 @@
         <text>Utility.half2full(sParam.getKeywords().toLowerCase())</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXQgPSBuZXcgQWRkcmVzc1NlYXJjaGVyKCkuc2VhcmNoQWRkcmVzcyhwYXJhbSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRlbXBQb2ludHM7Cg==</text>
+        <text encoding="base64">cmV0ID0gbmV3IEFkZHJlc3NTZWFyY2hlcigpLnNlYXJjaEFkZHJlc3MocGFyYW0pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRlbXBQb2ludHM7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZWVsc2UgewogICAgICAgICAgICByZXR1cm4gdGVtcFBvaW50czsKICAgICAgICB9Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRlbXBQb2ludHMucmVtb3ZlKGkpOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRlbXBQb2ludHMucmVtb3ZlKGkpOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRlbXBQb2ludHM7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRlbXBQb2ludHM7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICByZWVsc2UgewogICAgICAgICAgICByZXR1cm4gdGVtcFBvaW50czsKICAgICAgICB9Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRlbXBQb2ludHMucmVtb3ZlKGkpOwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgcmV0dXJuIChzeXNMYW5nID09IG51bGwgfHwgbG9jTGFuZyA9PSBudWxsKQogICAgICAgICAgICAgICAgPyBSZXNwRW51bS5QQVJBTV9JTlZBTElECiAgICAgICAgICAgICAgICA6IG5ldyBPbmxpbmVSb3V0ZVJlc3AobmVlZENudCA+IHBvaXMuc2l6ZSgpID8gcG9pcyA6IHBvaXMuc3ViTGlzdChwYXJhbS5vZmZzZXQsIG5lZWRDbnQpLCBzeXNMYW5nLCBsb2NMYW5nKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRlbXBQb2ludHMucmVtb3ZlKGkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdHJlYW0uZmlsdGVyKGNvZGUgLT4gY29kZS5uYW1lKCkuZXF1YWxzSWdub3JlQ2FzZShwYXJhbS5zeXNfbGFuZykpLmZpbmRGaXJzdCgpLmdldCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
