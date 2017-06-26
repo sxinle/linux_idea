@@ -148,6 +148,12 @@
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/KeywordSearcher.java" timestamp="1497332457637">
         <mark key="'" line="143" column="33" />
       </file>
+      <file name="$USER_HOME$/workspace/search/search_api/src/main/java/com/mx/server/search/api/GenericController.java" timestamp="1498461881937">
+        <mark key="[" line="68" column="45" />
+        <mark key="]" line="68" column="46" />
+        <mark key="^" line="68" column="26" />
+        <mark key="." line="68" column="46" />
+      </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsSPECIALSearcher.java" timestamp="1495854444383">
         <mark key="'" line="16" column="13" />
       </file>
@@ -185,11 +191,6 @@
         <mark key="]" line="997" column="45" />
         <mark key="^" line="997" column="45" />
         <mark key="." line="997" column="45" />
-      </file>
-      <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/data/NdsCache.java" timestamp="1498382745378">
-        <mark key="[" line="118" column="0" />
-        <mark key="]" line="118" column="0" />
-        <mark key="." line="118" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/data/build/nds/INdsCacheBuild.java" timestamp="1498368602179">
         <mark key="'" line="29" column="6" />
@@ -261,7 +262,9 @@
       <file name="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/business/poi/data/CountryPoiRet.java" timestamp="1495775964539">
         <mark key="'" line="105" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" timestamp="1498459952551" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" timestamp="1498462197754">
+        <mark key="'" line="30" column="96" />
+      </file>
       <file name="$USER_HOME$/workspace/search/search_old/src/test/java/com/mx/server/search/old/business/address/searcher/AddressSearcherTest.java" timestamp="1497342106064">
         <mark key="'" line="45" column="0" />
       </file>
@@ -339,8 +342,8 @@
       <file name="$MAVEN_REPOSITORY$/org/mockito/mockito-all/1.10.19/mockito-all-1.10.19-sources.jar!/org/mockito/Mockito.java" timestamp="1497003771958">
         <mark key="'" line="1512" column="52" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/BaseSearcher.java" timestamp="1497330574536">
-        <mark key="'" line="25" column="26" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/BaseSearcher.java" timestamp="1498461910915">
+        <mark key="'" line="67" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/powermock/powermock-reflect/1.6.2/powermock-reflect-1.6.2-sources.jar!/org/powermock/reflect/internal/WhiteboxImpl.java" timestamp="1497015071443">
         <mark key="'" line="2514" column="21" />
@@ -381,7 +384,7 @@
       <file name="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/common/baidu/data/CityCountRet.java" timestamp="1495775534725">
         <mark key="'" line="76" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498445906732">
+      <file name="/Dummy.txt" timestamp="1498461597421">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/TermsSetter.java" timestamp="1495689261333">
@@ -448,8 +451,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="17" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/query/RouteSearcher.java" />
-      <jump line="7" column="67" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/query/RouteSearcher.java" />
       <jump line="76" column="88" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/query/RouteSearcher.java" />
       <jump line="118" column="71" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/query/RouteSearcher.java" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/query/RouteSearcher.java" />
@@ -548,6 +549,8 @@
       <jump line="64" column="25" filename="$USER_HOME$/workspace/yh_svr/src/main/java/shadowsocks/crypto/Utils.java" />
       <jump line="234" column="65" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/util/CommonRouteSearch.java" />
       <jump line="29" column="24" filename="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/business/poi/data/SearchParamBean.java" />
+      <jump line="67" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/BaseSearcher.java" />
+      <jump line="30" column="96" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -565,8 +568,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxjYXRlZ29yeVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPICDmlbDmja7kuI3lr7kK</text>
+      <register name="0" type="4">
+        <text>Utility.half2full(sParam.getKeywords().toLowerCase())</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
