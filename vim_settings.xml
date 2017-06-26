@@ -75,6 +75,10 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/search/search_old/src/test/java/com/mx/server/search/old/business/poi/searcher/PoiSearcherTest.java" timestamp="1498475112783">
+        <mark key="[" line="121" column="30" />
+        <mark key="]" line="121" column="32" />
+      </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/query/semantic/HotPoiSearcherTest.java" timestamp="1496631541745">
         <mark key="'" line="108" column="35" />
       </file>
@@ -272,7 +276,7 @@
       <file name="$USER_HOME$/workspace/search/search_old/pom.xml" timestamp="1496633281803">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_old/src/test/java/com/mx/server/search/old/business/poi/action/PoiControllerTest.java" timestamp="1498473894632">
+      <file name="$USER_HOME$/workspace/search/search_old/src/test/java/com/mx/server/search/old/business/poi/action/PoiControllerTest.java" timestamp="1498474567296">
         <mark key="[" line="54" column="0" />
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
@@ -573,8 +577,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxjYXRlZ29yeVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0VHJ1ZShyZXQuY29udGFpbnMoIjEwMCIpKTsK</text>
+      <register name="0" type="4">
+        <text>北京市</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
