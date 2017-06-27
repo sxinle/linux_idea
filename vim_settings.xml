@@ -82,12 +82,12 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_old/src/test/java/com/mx/server/search/old/business/poi/searcher/PoiSearcherTest.java" timestamp="1498546213060">
-        <mark key="'" line="71" column="59" />
-        <mark key="[" line="102" column="75" />
-        <mark key="]" line="103" column="7" />
-        <mark key="." line="103" column="7" />
-        <mark key="^" line="103" column="7" />
+      <file name="$USER_HOME$/workspace/search/search_old/src/test/java/com/mx/server/search/old/business/poi/searcher/PoiSearcherTest.java" timestamp="1498546981353">
+        <mark key="'" line="278" column="0" />
+        <mark key="[" line="106" column="9" />
+        <mark key="]" line="106" column="14" />
+        <mark key="." line="106" column="14" />
+        <mark key="^" line="106" column="14" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/powermock/powermock-reflect/1.6.2/powermock-reflect-1.6.2-sources.jar!/org/powermock/reflect/Whitebox.java" timestamp="1498536359817" />
       <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/query/semantic/HotPoiSearcherTest.java" timestamp="1496631541745">
@@ -440,8 +440,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="98" column="22" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" />
-      <jump line="234" column="49" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" />
       <jump line="247" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" />
       <jump line="137" column="72" filename="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/util/LinkedHashSet.java" />
       <jump line="29" column="6" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/data/build/nds/INdsCacheBuild.java" />
@@ -540,6 +538,8 @@
       <jump line="42" column="52" filename="$USER_HOME$/workspace/search/search_old/src/test/java/com/mx/server/search/old/business/poi/action/PoiControllerTest.java" />
       <jump line="41" column="8" filename="$USER_HOME$/workspace/search/search_old/src/test/java/com/mx/server/search/old/business/poi/action/PoiControllerTest.java" />
       <jump line="187" column="13" filename="$USER_HOME$/workspace/uauth/src/main/java/com/mx/server/buss/admin/controller/AdminController.java" />
+      <jump line="115" column="49" filename="$USER_HOME$/workspace/search/search_old/src/test/java/com/mx/server/search/old/business/poi/searcher/PoiSearcherTest.java" />
+      <jump line="278" column="0" filename="$USER_HOME$/workspace/search/search_old/src/test/java/com/mx/server/search/old/business/poi/searcher/PoiSearcherTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
