@@ -69,8 +69,8 @@
       <file name="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/common/util/TypeCode.java" timestamp="1495775133456">
         <mark key="'" line="45" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/mx_device_shop/cam_mazda/src/test/java/com/mx/cam/mazda/controller/forward/ForwardActiveCtrlTest.java" timestamp="1498545665251">
-        <mark key="'" line="60" column="0" />
+      <file name="$USER_HOME$/workspace/mx_device_shop/cam_mazda/src/test/java/com/mx/cam/mazda/controller/forward/ForwardActiveCtrlTest.java" timestamp="1498552486703">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="52" column="47" />
         <mark key="]" line="52" column="55" />
         <mark key="." line="52" column="55" />
@@ -82,12 +82,12 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_old/src/test/java/com/mx/server/search/old/business/poi/searcher/PoiSearcherTest.java" timestamp="1498546981353">
-        <mark key="'" line="278" column="0" />
-        <mark key="[" line="106" column="9" />
-        <mark key="]" line="106" column="14" />
-        <mark key="." line="106" column="14" />
-        <mark key="^" line="106" column="14" />
+      <file name="$USER_HOME$/workspace/search/search_old/src/test/java/com/mx/server/search/old/business/poi/searcher/PoiSearcherTest.java" timestamp="1498551947561">
+        <mark key="'" line="360" column="53" />
+        <mark key="[" line="317" column="0" />
+        <mark key="]" line="317" column="0" />
+        <mark key="." line="317" column="0" />
+        <mark key="^" line="363" column="55" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/powermock/powermock-reflect/1.6.2/powermock-reflect-1.6.2-sources.jar!/org/powermock/reflect/Whitebox.java" timestamp="1498536359817" />
       <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/query/semantic/HotPoiSearcherTest.java" timestamp="1496631541745">
@@ -138,6 +138,9 @@
       <file name="$USER_HOME$/workspace/uauth/src/main/web/WEB-INF/view/jsp/admin/login.jsp" timestamp="1496826434733">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="/usr/lib/jvm/jdk1.7.0_21/src.zip!/java/lang/Exception.java" timestamp="1498552492043">
+        <mark key="'" line="44" column="13" />
+      </file>
       <file name="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/lang/ClassLoader.java" timestamp="1495509450685">
         <mark key="'" line="1743" column="28" />
       </file>
@@ -146,6 +149,11 @@
       </file>
       <file name="$USER_HOME$/workspace/yh_svr/src/main/java/shadowsocks/nio/tcp/Session.java" timestamp="1494919841956">
         <mark key="'" line="8" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/mx/server/gis/mx_place_api_new/1.0.17-RELEASE/mx_place_api_new-1.0.17-RELEASE.jar!/com/mx/placeapi/data/RespBean.class" timestamp="1498550902755">
+        <mark key="'" line="67" column="0" />
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="210" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/dispatch/SearcherProvider.java" timestamp="1497010362868">
         <mark key="'" line="58" column="0" />
@@ -385,7 +393,7 @@
       <file name="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/common/baidu/data/CityCountRet.java" timestamp="1495775534725">
         <mark key="'" line="76" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498545349638">
+      <file name="/Dummy.txt" timestamp="1498551950710">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/TermsSetter.java" timestamp="1495689261333">
@@ -426,7 +434,7 @@
       <file name="$MAVEN_REPOSITORY$/org/powermock/powermock-core/1.6.2/powermock-core-1.6.2-sources.jar!/org/powermock/mockpolicies/MockPolicyClassLoadingSettings.java" timestamp="1495510940197">
         <mark key="'" line="74" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1498546093392">
+      <file name="/fragment.java" timestamp="1498551369392">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="64" />
         <mark key="^" line="0" column="56" />
@@ -440,18 +448,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="247" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" />
-      <jump line="137" column="72" filename="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/util/LinkedHashSet.java" />
-      <jump line="29" column="6" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/data/build/nds/INdsCacheBuild.java" />
-      <jump line="25" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" />
-      <jump line="221" column="60" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" />
-      <jump line="62" column="19" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" />
-      <jump line="72" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/Sorter.java" />
-      <jump line="33" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" />
-      <jump line="198" column="35" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" />
-      <jump line="244" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" />
-      <jump line="404" column="29" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
-      <jump line="40" column="46" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" />
       <jump line="92" column="70" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" />
       <jump line="23" column="66" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/query/RouteSearcher.java" />
       <jump line="128" column="0" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/query/RouteSearcher.java" />
@@ -531,7 +527,6 @@
       <jump line="18" column="13" filename="$USER_HOME$/workspace/mx_device_shop/cam_common/src/main/java/com/mx/cam/common/common/base/BaseController.java" />
       <jump line="67" column="0" filename="$USER_HOME$/workspace/mx_device_shop/cam_mazda/src/test/java/com/mx/cam/mazda/controller/forward/ForwardActiveCtrlTest.java" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/mx_device_shop/cam_mazda/src/test/java/com/mx/cam/mazda/controller/forward/ForwardActiveCtrlTest.java" />
-      <jump line="76" column="0" filename="$USER_HOME$/workspace/mx_device_shop/cam_mazda/src/test/java/com/mx/cam/mazda/controller/forward/ForwardActiveCtrlTest.java" />
       <jump line="60" column="0" filename="$USER_HOME$/workspace/mx_device_shop/cam_mazda/src/test/java/com/mx/cam/mazda/controller/forward/ForwardActiveCtrlTest.java" />
       <jump line="28" column="58" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/autonavi/AmapDeepinfoSearcherTest.java" />
       <jump line="45" column="0" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/autonavi/AmapDeepinfoSearcherTest.java" />
@@ -540,6 +535,19 @@
       <jump line="187" column="13" filename="$USER_HOME$/workspace/uauth/src/main/java/com/mx/server/buss/admin/controller/AdminController.java" />
       <jump line="115" column="49" filename="$USER_HOME$/workspace/search/search_old/src/test/java/com/mx/server/search/old/business/poi/searcher/PoiSearcherTest.java" />
       <jump line="278" column="0" filename="$USER_HOME$/workspace/search/search_old/src/test/java/com/mx/server/search/old/business/poi/searcher/PoiSearcherTest.java" />
+      <jump line="298" column="58" filename="$USER_HOME$/workspace/search/search_old/src/test/java/com/mx/server/search/old/business/poi/searcher/PoiSearcherTest.java" />
+      <jump line="318" column="48" filename="$USER_HOME$/workspace/search/search_old/src/test/java/com/mx/server/search/old/business/poi/searcher/PoiSearcherTest.java" />
+      <jump line="321" column="46" filename="$USER_HOME$/workspace/search/search_old/src/test/java/com/mx/server/search/old/business/poi/searcher/PoiSearcherTest.java" />
+      <jump line="9" column="13" filename="$MAVEN_REPOSITORY$/com/mx/server/gis/mx_place_api_new/1.0.17-RELEASE/mx_place_api_new-1.0.17-RELEASE.jar!/com/mx/placeapi/data/RespBean.class" />
+      <jump line="18" column="0" filename="$MAVEN_REPOSITORY$/com/mx/server/gis/mx_place_api_new/1.0.17-RELEASE/mx_place_api_new-1.0.17-RELEASE.jar!/com/mx/placeapi/data/RespBean.class" />
+      <jump line="67" column="0" filename="$MAVEN_REPOSITORY$/com/mx/server/gis/mx_place_api_new/1.0.17-RELEASE/mx_place_api_new-1.0.17-RELEASE.jar!/com/mx/placeapi/data/RespBean.class" />
+      <jump line="359" column="56" filename="$USER_HOME$/workspace/search/search_old/src/test/java/com/mx/server/search/old/business/poi/searcher/PoiSearcherTest.java" />
+      <jump line="360" column="53" filename="$USER_HOME$/workspace/search/search_old/src/test/java/com/mx/server/search/old/business/poi/searcher/PoiSearcherTest.java" />
+      <jump line="71" column="44" filename="$USER_HOME$/workspace/mx_device_shop/cam_mazda/src/test/java/com/mx/cam/mazda/controller/forward/ForwardActiveCtrlTest.java" />
+      <jump line="49" column="38" filename="$USER_HOME$/workspace/mx_device_shop/cam_mazda/src/test/java/com/mx/cam/mazda/controller/forward/ForwardActiveCtrlTest.java" />
+      <jump line="76" column="0" filename="$USER_HOME$/workspace/mx_device_shop/cam_mazda/src/test/java/com/mx/cam/mazda/controller/forward/ForwardActiveCtrlTest.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/mx_device_shop/cam_mazda/src/test/java/com/mx/cam/mazda/controller/forward/ForwardActiveCtrlTest.java" />
+      <jump line="44" column="13" filename="/usr/lib/jvm/jdk1.7.0_21/src.zip!/java/lang/Exception.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -552,57 +560,56 @@
         <text>()</text>
       </register>
       <register name="-" type="4">
-        <text>机</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>powermock</text>
+        <text>equales</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0VHJ1ZSghcmV0LmdldCgwKS5nZXRIb3RQb2koKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0VHJ1ZSgoSW50ZWdlcikgcmV0LmdldCgidG90YWwiKSA9PSAwKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKEludGVnZXIpIHJlc3VsdFswXSA9PSA4Nyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0VHJ1ZSgocmV0LmdldCgicG9pcyIpKS5zaXplKCkgPT0gMCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0VHJ1ZShyZXQuZ2V0KDApLmdldERvY0lkKCkgPT0gMjM3ODE4MjE1NTU1Mzg1MDk5NUwpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIG1ldGhvZENhbGwg5pa55rOV6LCD55SoCiAgICAgKiBAcGFyYW0gd2FudFZhbCBIdHRw6LCD55So77yM5oOz5qih5ouf6L+U5Zue55qE57uT5p6cCiAgICAgKiBAdGhyb3dzIEV4Y2VwdGlvbgogICAgICovCiAgICB2b2lkIG1vY2tFeGVjdXRlKE9iamVjdCBtZXRob2RDYWxsLCBPYmplY3Qgd2FudFZhbCkgdGhyb3dzIEV4Y2VwdGlvbiB7CiAgICAgICAgQ2FsbDxNYXA+IGNhbGwgPSBQb3dlck1vY2tpdG8ubW9jayhDYWxsLmNsYXNzKTsKICAgICAgICB3aGVuKG1ldGhvZENhbGwpLnRoZW5SZXR1cm4oY2FsbCk7CiAgICAgICAgUG93ZXJNb2NraXRvLm1vY2tTdGF0aWMoUmVzcG9uc2UuY2xhc3MpOwogICAgICAgIFJlc3BvbnNlIHJlc3AgPSBQb3dlck1vY2tpdG8ubW9jayhSZXNwb25zZS5jbGFzcyk7CiAgICAgICAgd2hlbihjYWxsLmV4ZWN1dGUoKSkudGhlblJldHVybihyZXNwKTsKICAgICAgICB3aGVuKHJlc3AuYm9keSgpKS50aGVuUmV0dXJuKHdhbnRWYWwpOwogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBNYXpkYUF1dGguYXBpLnJldHJpZXZlQWN0Q29kZShhbnlTdHJpbmcoKSwgYW55TWFwKCkpOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0VHJ1ZShyZXN1bHQuZ2V0LmVxdWFscygiIikpOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0VHJ1ZShyZXN1bHQuZ2V0UHJvdigpLmVxdWFscygiIikpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>powermock</last-search>
+      <last-search>equales</last-search>
       <last-offset />
-      <last-pattern>powermock</last-pattern>
-      <last-replace>public</last-replace>
-      <last-substitute>private</last-substitute>
+      <last-pattern>equales</last-pattern>
+      <last-replace>equals</last-replace>
+      <last-substitute>equales</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwcmVSb2FkTGVuXD4=</entry>
         <entry encoding="base64">XDxsaWJHZW9cPg==</entry>
         <entry encoding="base64">XDxvYmpcPg==</entry>
         <entry encoding="base64">XDxkaXN0YW5jZVw+</entry>
@@ -622,9 +629,9 @@
         <entry>search_db</entry>
         <entry encoding="base64">XDxjYXRlZ29yeVw+</entry>
         <entry>powermock</entry>
+        <entry>equales</entry>
       </history-search>
       <history-cmd>
-        <entry>hoh</entry>
         <entry>noh</entry>
         <entry encoding="base64">JzwsJz5zLzEvMi9n</entry>
         <entry>map</entry>
@@ -642,6 +649,7 @@
         <entry encoding="base64">JzwsJz5zLyIvXFwiL2c=</entry>
         <entry>action AceAction</entry>
         <entry encoding="base64">JzwsJz5zL3ByaXZhdGUvcHVibGljL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL2VxdWFsZXMvZXF1YWxzL2c=</entry>
         <entry>action $Redo</entry>
         <entry>w</entry>
       </history-cmd>
