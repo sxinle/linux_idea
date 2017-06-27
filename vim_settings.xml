@@ -39,6 +39,12 @@
       <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/models/Poi.java" timestamp="1495423001795">
         <mark key="'" line="73" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/mx_device_shop/cam_mazda/pom.xml" timestamp="1498533898703">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/autonavi/AmapDeepinfoSearcherTest.java" timestamp="1498545703091">
         <mark key="'" line="45" column="0" />
       </file>
@@ -82,10 +88,10 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_old/src/test/java/com/mx/server/search/old/business/poi/searcher/PoiSearcherTest.java" timestamp="1498551947561">
+      <file name="$USER_HOME$/workspace/search/search_old/src/test/java/com/mx/server/search/old/business/poi/searcher/PoiSearcherTest.java" timestamp="1498553342061">
         <mark key="'" line="360" column="53" />
-        <mark key="[" line="317" column="0" />
-        <mark key="]" line="317" column="0" />
+        <mark key="[" line="305" column="43" />
+        <mark key="]" line="305" column="57" />
         <mark key="." line="317" column="0" />
         <mark key="^" line="363" column="55" />
       </file>
@@ -157,6 +163,13 @@
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/dispatch/SearcherProvider.java" timestamp="1497010362868">
         <mark key="'" line="58" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/semantic/LabelRecheckerTest.java" timestamp="1498554038886">
+        <mark key="'" line="41" column="0" />
+        <mark key="[" line="87" column="65" />
+        <mark key="]" line="87" column="66" />
+        <mark key="." line="87" column="66" />
+        <mark key="^" line="87" column="66" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/KeywordSearcher.java" timestamp="1497332457637">
         <mark key="'" line="143" column="33" />
@@ -309,6 +322,12 @@
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/ScoreRetComparator.java" timestamp="1495689103932">
         <mark key="'" line="52" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/query/BaseSearcherTest.java" timestamp="1498553492954">
+        <mark key="'" line="80" column="17" />
+        <mark key="[" line="38" column="20" />
+        <mark key="]" line="38" column="20" />
+        <mark key="." line="38" column="20" />
+      </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/test/java/search_core/PosSorterTest.java" timestamp="1495689634786">
         <mark key="'" line="159" column="0" />
       </file>
@@ -393,7 +412,7 @@
       <file name="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/common/baidu/data/CityCountRet.java" timestamp="1495775534725">
         <mark key="'" line="76" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498551950710">
+      <file name="/Dummy.txt" timestamp="1498554319240">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/TermsSetter.java" timestamp="1495689261333">
@@ -448,9 +467,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="70" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" />
-      <jump line="23" column="66" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/query/RouteSearcher.java" />
-      <jump line="128" column="0" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/query/RouteSearcher.java" />
       <jump line="8" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/SpecialHandler.java" />
       <jump line="86" column="15" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/query/RouteSearcher.java" />
       <jump line="33" column="35" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/data/NdsCache.java" />
@@ -548,6 +564,9 @@
       <jump line="76" column="0" filename="$USER_HOME$/workspace/mx_device_shop/cam_mazda/src/test/java/com/mx/cam/mazda/controller/forward/ForwardActiveCtrlTest.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/mx_device_shop/cam_mazda/src/test/java/com/mx/cam/mazda/controller/forward/ForwardActiveCtrlTest.java" />
       <jump line="44" column="13" filename="/usr/lib/jvm/jdk1.7.0_21/src.zip!/java/lang/Exception.java" />
+      <jump line="38" column="46" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/query/BaseSearcherTest.java" />
+      <jump line="80" column="17" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/query/BaseSearcherTest.java" />
+      <jump line="41" column="0" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/semantic/LabelRecheckerTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -560,40 +579,40 @@
         <text>()</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>沈阳</text>
       </register>
       <register name="/" type="4">
         <text>equales</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0VHJ1ZSgoSW50ZWdlcikgcmV0LmdldCgidG90YWwiKSA9PSAwKTsK</text>
+      <register name="0" type="4">
+        <text>沈阳</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKEludGVnZXIpIHJlc3VsdFswXSA9PSA4Nyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0VHJ1ZShyZXQuZ2V0U2VnV29yZHMoKVsxXS5lcXVhbHNJZ25vcmVDYXNlKCLmsojpmLMiKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0VHJ1ZSgocmV0LmdldCgicG9pcyIpKS5zaXplKCkgPT0gMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXQgPSBuZXcgU2VtYW50aWNBbmFseXplcigpLmFuYWx5emUocGFyYW0pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0VHJ1ZShuZXcgU2VtYW50aWNBbmFseXplcigpLmFuYWx5emUocGFyYW0pLmdldGVMYWJlbHMoKS5lcXVhbHMoIlJYIikpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0VHJ1ZShyZXQuZ2V0U2VnV29yZHMoKVs0XS5lcXVhbHNJZ25vcmVDYXNlKCLkupTph4zmsrMiKSk7CiAgICAgICAgQXNzZXJ0LmFzc2VydFRydWUocmV0LmdldFNlZ1dvcmRzKClbNV0uZXF1YWxzSWdub3JlQ2FzZSgi5bCP5ZCDIikpOwogICAgICAgIEFzc2VydC5hc3NlcnRUcnVlKHJldC5nZXRTZWdXb3JkcygpWzZdLmVxdWFsc0lnbm9yZUNhc2UoIuS4gOadoeihlyIpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0VHJ1ZShuZXcgU2VtYW50aWNBbmFseXplcigpLmFuYWx5emUocGFyYW0pLmdldGVMYWJlbHMoKS5lcXVhbHMoIlRYIikpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0VHJ1ZShyZXQuZ2V0U2VnV29yZHMoKVszXS5lcXVhbHNJZ25vcmVDYXNlKCLooZciKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0VHJ1ZShyZXQuZ2V0U2VnV29yZHMoKVswXS5lcXVhbHNJZ25vcmVDYXNlKCLmsojpmLMiKSk7CiAgICAgICAgQXNzZXJ0LmFzc2VydFRydWUocmV0LmdldFNlZ1dvcmRzKClbMF0uZXF1YWxzSWdub3JlQ2FzZSgi5rKI6ZizIikpOwogICAgICAgIEFzc2VydC5hc3NlcnRUcnVlKHJldC5nZXRTZWdXb3JkcygpWzBdLmVxdWFsc0lnbm9yZUNhc2UoIuayiOmYsyIpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0VHJ1ZShyZXN1bHQuZ2V0LmVxdWFscygiIikpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKEludGVnZXIpIHJlc3VsdFswXSA9PSA4Nyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0VHJ1ZShyZXN1bHQuZ2V0UHJvdigpLmVxdWFscygiIikpOwo=</text>
+        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0VHJ1ZSgocmV0LmdldCgicG9pcyIpKS5zaXplKCkgPT0gMCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
