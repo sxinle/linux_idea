@@ -198,8 +198,8 @@
       <file name="$USER_HOME$/workspace/yh_svr/src/main/java/com/yh/zhgp/data/Resp.java" timestamp="1498358870469">
         <mark key="'" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/pom.xml" timestamp="1498533863758">
-        <mark key="'" line="1" column="0" />
+      <file name="$USER_HOME$/workspace/search/pom.xml" timestamp="1498559879286">
+        <mark key="'" line="28" column="0" />
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="51" />
       </file>
@@ -524,7 +524,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/search/pom.xml" />
       <jump line="313" column="0" filename="$USER_HOME$/workspace/search/pom.xml" />
       <jump line="139" column="53" filename="$USER_HOME$/workspace/search/pom.xml" />
-      <jump line="28" column="34" filename="$USER_HOME$/workspace/search/pom.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/mx_device_shop/pom.xml" />
       <jump line="126" column="0" filename="$USER_HOME$/workspace/search/pom.xml" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/search/pom.xml" />
@@ -567,6 +566,7 @@
       <jump line="38" column="46" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/query/BaseSearcherTest.java" />
       <jump line="80" column="17" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/query/BaseSearcherTest.java" />
       <jump line="41" column="0" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/semantic/LabelRecheckerTest.java" />
+      <jump line="28" column="0" filename="$USER_HOME$/workspace/search/pom.xml" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -582,7 +582,7 @@
         <text>沈阳</text>
       </register>
       <register name="/" type="4">
-        <text>equales</text>
+        <text>kryo</text>
       </register>
       <register name="0" type="4">
         <text>沈阳</text>
@@ -619,9 +619,9 @@
       </register>
     </registers>
     <search>
-      <last-search>equales</last-search>
+      <last-search>kryo</last-search>
       <last-offset />
-      <last-pattern>equales</last-pattern>
+      <last-pattern>kryo</last-pattern>
       <last-replace>equals</last-replace>
       <last-substitute>equales</last-substitute>
       <last-dir>1</last-dir>
@@ -629,7 +629,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsaWJHZW9cPg==</entry>
         <entry encoding="base64">XDxvYmpcPg==</entry>
         <entry encoding="base64">XDxkaXN0YW5jZVw+</entry>
         <entry encoding="base64">XDxkaXN0Q29kZVNldFw+</entry>
@@ -649,6 +648,7 @@
         <entry encoding="base64">XDxjYXRlZ29yeVw+</entry>
         <entry>powermock</entry>
         <entry>equales</entry>
+        <entry>kryo</entry>
       </history-search>
       <history-cmd>
         <entry>noh</entry>
