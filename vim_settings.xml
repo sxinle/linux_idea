@@ -45,6 +45,9 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/autonavi/AmapDeepinfoSearcherTest.java" timestamp="1498545703091">
+        <mark key="'" line="45" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/search/search_web/pom.xml" timestamp="1497858999015">
         <mark key="'" line="13" column="12" />
       </file>
@@ -269,8 +272,8 @@
       <file name="$USER_HOME$/workspace/search/search_old/pom.xml" timestamp="1496633281803">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_old/src/test/java/com/mx/server/search/old/business/poi/action/PoiControllerTest.java" timestamp="1498534101774">
-        <mark key="'" line="215" column="0" />
+      <file name="$USER_HOME$/workspace/search/search_old/src/test/java/com/mx/server/search/old/business/poi/action/PoiControllerTest.java" timestamp="1498545806307">
+        <mark key="'" line="42" column="52" />
         <mark key="[" line="29" column="0" />
         <mark key="]" line="30" column="34" />
         <mark key="." line="409" column="51" />
@@ -443,9 +446,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="13" filename="$USER_HOME$/workspace/yh_svr/src/main/java/com/yh/zhgp/data/Resp.java" />
-      <jump line="42" column="0" filename="$USER_HOME$/workspace/yh_svr/src/main/java/com/yh/zhgp/data/Resp.java" />
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/yh_svr/src/main/java/com/yh/zhgp/data/Resp.java" />
       <jump line="84" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/RouteSearcher.java" />
       <jump line="205" column="6" filename="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/util/HashSet.java" />
       <jump line="98" column="22" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" />
@@ -543,6 +543,9 @@
       <jump line="1" column="0" filename="$USER_HOME$/workspace/mx_device_shop/cam_mazda/src/test/java/com/mx/cam/mazda/controller/forward/ForwardActiveCtrlTest.java" />
       <jump line="76" column="0" filename="$USER_HOME$/workspace/mx_device_shop/cam_mazda/src/test/java/com/mx/cam/mazda/controller/forward/ForwardActiveCtrlTest.java" />
       <jump line="60" column="0" filename="$USER_HOME$/workspace/mx_device_shop/cam_mazda/src/test/java/com/mx/cam/mazda/controller/forward/ForwardActiveCtrlTest.java" />
+      <jump line="28" column="58" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/autonavi/AmapDeepinfoSearcherTest.java" />
+      <jump line="45" column="0" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/autonavi/AmapDeepinfoSearcherTest.java" />
+      <jump line="42" column="52" filename="$USER_HOME$/workspace/search/search_old/src/test/java/com/mx/server/search/old/business/poi/action/PoiControllerTest.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
