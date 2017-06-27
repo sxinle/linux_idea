@@ -26,10 +26,6 @@
       <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/util/DataProducer.java" timestamp="1497249417790">
         <mark key="'" line="73" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/semantic/UserInputSpecialCaseTest.java" timestamp="1498535790012">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="23" column="1" />
-      </file>
       <file name="$USER_HOME$/workspace/zest/src/main/java/com/Mcode2Lon.java" timestamp="1495177768653">
         <mark key="'" line="15" column="43" />
       </file>
@@ -297,6 +293,9 @@
       <file name="$MAVEN_REPOSITORY$/com/mx/server/gis/mx_place_api_new/1.0.17-RELEASE/mx_place_api_new-1.0.17-RELEASE.jar!/com/mx/placeapi/data/Point.class" timestamp="1498530309873">
         <mark key="'" line="7" column="13" />
       </file>
+      <file name="$USER_HOME$/.share/search_maven/pom.xml" timestamp="1498561601055">
+        <mark key="'" line="396" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/dsef/entity/Entity.java" timestamp="1497599371650">
         <mark key="'" line="3475" column="0" />
       </file>
@@ -375,12 +374,11 @@
         <mark key="[" line="146" column="15" />
         <mark key="]" line="146" column="87" />
       </file>
+      <file name="$USER_HOME$/.share/search_maven/src/main/java/com/mx/business/poi/action/PoiController.java" timestamp="1498562130927">
+        <mark key="'" line="1101" column="0" />
+      </file>
       <file name="$USER_HOME$/alertmanager/template/template.go" timestamp="1495602783375">
         <mark key="'" line="285" column="38" />
-      </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/autonavi/AmapDetailSearcherTest.java" timestamp="1498535882074">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="54" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/gdautonavi/AutonaviDetailSearcherTest.java" timestamp="1497337237608">
         <mark key="'" line="15" column="13" />
@@ -467,11 +465,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/SpecialHandler.java" />
-      <jump line="86" column="15" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/query/RouteSearcher.java" />
-      <jump line="33" column="35" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/data/NdsCache.java" />
-      <jump line="14" column="12" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
-      <jump line="2" column="0" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
       <jump line="386" column="0" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/data/NdsCache.java" />
       <jump line="1249" column="0" filename="$MAVEN_REPOSITORY$/com/esotericsoftware/kryo/4.0.0/kryo-4.0.0-sources.jar!/com/esotericsoftware/kryo/Kryo.java" />
       <jump line="26" column="39" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
@@ -567,6 +560,11 @@
       <jump line="80" column="17" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/query/BaseSearcherTest.java" />
       <jump line="41" column="0" filename="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/semantic/LabelRecheckerTest.java" />
       <jump line="28" column="0" filename="$USER_HOME$/workspace/search/pom.xml" />
+      <jump line="8" column="29" filename="$USER_HOME$/.share/search_maven/pom.xml" />
+      <jump line="396" column="0" filename="$USER_HOME$/.share/search_maven/pom.xml" />
+      <jump line="267" column="50" filename="$USER_HOME$/.share/search_maven/src/main/java/com/mx/business/poi/action/PoiController.java" />
+      <jump line="256" column="4" filename="$USER_HOME$/.share/search_maven/src/main/java/com/mx/business/poi/action/PoiController.java" />
+      <jump line="1101" column="0" filename="$USER_HOME$/.share/search_maven/src/main/java/com/mx/business/poi/action/PoiController.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
