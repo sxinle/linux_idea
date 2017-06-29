@@ -284,8 +284,12 @@
         <mark key="[" line="20" column="0" />
         <mark key="]" line="25" column="52" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" timestamp="1498643660962">
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" timestamp="1498719916196">
         <mark key="'" line="64" column="55" />
+        <mark key="[" line="217" column="23" />
+        <mark key="]" line="217" column="39" />
+        <mark key="^" line="217" column="39" />
+        <mark key="." line="217" column="39" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_old/pom.xml" timestamp="1496633281803">
         <mark key="'" line="0" column="0" />
@@ -420,7 +424,7 @@
       <file name="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/common/baidu/data/CityCountRet.java" timestamp="1495775534725">
         <mark key="'" line="76" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498554319240">
+      <file name="/Dummy.txt" timestamp="1498719924898">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/TermsSetter.java" timestamp="1495689261333">
@@ -461,7 +465,7 @@
       <file name="$MAVEN_REPOSITORY$/org/powermock/powermock-core/1.6.2/powermock-core-1.6.2-sources.jar!/org/powermock/mockpolicies/MockPolicyClassLoadingSettings.java" timestamp="1495510940197">
         <mark key="'" line="74" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1498636424120">
+      <file name="/fragment.java" timestamp="1498719663641">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="64" />
         <mark key="^" line="0" column="56" />
@@ -587,22 +591,22 @@
         <text>()</text>
       </register>
       <register name="-" type="4">
-        <text>$USER_HOME$/</text>
+        <text>Double.valueOf(d1).compareTo(Double.valueOf(d2));</text>
       </register>
       <register name="/" type="4">
         <text>kryo</text>
       </register>
-      <register name="0" type="4">
-        <text>沈阳</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEFtZW51RGV0YWlsIGRldGFpbDEgPSBkaXN0Q29kZTJOYW1lTWFwLmdldChjMSksIGRldGFpbDIgPSBkaXN0Q29kZTJOYW1lTWFwLmdldChjMik7CiAgICAgICAgICAgICAgICBkb3VibGUgZDEgPSBMaWJHZW9VdGlsLmdldEluc3RhbmNlKCkuY2FsRGlzdF9wMnAoCiAgICAgICAgICAgICAgICAgICAgICAgIG5ldyBMaWJHZW9VdGlsLlBvaW50KGxvbiwgbGF0KSwKICAgICAgICAgICAgICAgICAgICAgICAgbmV3IExpYkdlb1V0aWwuUG9pbnQoZGV0YWlsMS5nZXREaXNwX3goKSwgZGV0YWlsMS5nZXREaXNwX3koKSkpOwogICAgICAgICAgICAgICAgZG91YmxlIGQyID0gTGliR2VvVXRpbC5nZXRJbnN0YW5jZSgpLmNhbERpc3RfcDJwKAogICAgICAgICAgICAgICAgICAgICAgICBuZXcgTGliR2VvVXRpbC5Qb2ludChsb24sIGxhdCksCiAgICAgICAgICAgICAgICAgICAgICAgIG5ldyBMaWJHZW9VdGlsLlBvaW50KGRldGFpbDIuZ2V0RGlzcF94KCksIGRldGFpbDIuZ2V0RGlzcF95KCkpKTsKICAgICAgICAgICAgICAgIHJldHVybiBEb3VibGUudmFsdWVPZihkMSkuY29tcGFyZVRvKERvdWJsZS52YWx1ZU9mKGQyKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgd29yZCA9ICJqdXJ5IjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgd29yZCA9ICJqdXJ5IjsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -611,16 +615,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHRvbmUgPSB0WzBdOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHRvbmUgPSB0WzBdOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHYgPSB0cmFuczsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
