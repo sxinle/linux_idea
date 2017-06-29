@@ -325,6 +325,7 @@
       <file name="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/lang/Character.java" timestamp="1496650742122">
         <mark key="'" line="7230" column="0" />
       </file>
+      <file name="/search.properties" timestamp="1498726532143" />
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsBaseSearcher.java" timestamp="1497012791324">
         <mark key="'" line="78" column="38" />
       </file>
@@ -424,7 +425,7 @@
       <file name="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/common/baidu/data/CityCountRet.java" timestamp="1495775534725">
         <mark key="'" line="76" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498719924898">
+      <file name="/Dummy.txt" timestamp="1498725926698">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/TermsSetter.java" timestamp="1495689261333">
@@ -436,7 +437,7 @@
       <file name="$USER_HOME$/workspace/zest/src/main/java/com/HttpUtil.java" timestamp="1495179921091">
         <mark key="'" line="66" column="65" />
       </file>
-      <file name="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/util/HashSet.java" timestamp="1498362938684">
+      <file name="/usr/lib/jvm/oracle-jdk-8.111/src.zip!/java/util/HashSet.java" timestamp="1498726609911">
         <mark key="'" line="205" column="6" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/resources/proto/common.proto" timestamp="1495675454529">
@@ -465,6 +466,13 @@
       <file name="$MAVEN_REPOSITORY$/org/powermock/powermock-core/1.6.2/powermock-core-1.6.2-sources.jar!/org/powermock/mockpolicies/MockPolicyClassLoadingSettings.java" timestamp="1495510940197">
         <mark key="'" line="74" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/search/common-conf/search.properties" timestamp="1498726026860">
+        <mark key="'" line="15" column="28" />
+        <mark key="[" line="20" column="28" />
+        <mark key="]" line="16" column="28" />
+        <mark key="." line="20" column="28" />
+        <mark key="^" line="16" column="28" />
+      </file>
       <file name="/fragment.java" timestamp="1498719663641">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="64" />
@@ -479,20 +487,11 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="287" column="80" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/data/build/nds/impl/NdsCacheBuildImp.java" />
-      <jump line="21" column="0" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
-      <jump line="91" column="0" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
-      <jump line="105" column="0" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
-      <jump line="16" column="30" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
-      <jump line="90" column="56" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
       <jump line="3" column="0" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
-      <jump line="115" column="0" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
       <jump line="344" column="0" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/semantic/SemanticsAAASearcher.java" />
       <jump line="23" column="0" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
       <jump line="10" column="0" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
       <jump line="114" column="18" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
-      <jump line="20" column="0" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
       <jump line="157" column="41" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" />
       <jump line="49" column="62" filename="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/query/RouteSearcher.java" />
       <jump line="64" column="25" filename="$USER_HOME$/workspace/yh_svr/src/main/java/shadowsocks/crypto/Utils.java" />
@@ -579,6 +578,15 @@
       <jump line="16" column="27" filename="$USER_HOME$/workspace/zest/src/main/java/com/Translator.java" />
       <jump line="24" column="24" filename="$USER_HOME$/workspace/zest/src/main/java/com/Translator.java" />
       <jump line="30" column="65" filename="$USER_HOME$/workspace/zest/src/main/java/moud/Sec.java" />
+      <jump line="55" column="0" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
+      <jump line="113" column="18" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
+      <jump line="14" column="0" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
+      <jump line="20" column="37" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
+      <jump line="96" column="19" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
+      <jump line="2" column="0" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
+      <jump line="115" column="0" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
+      <jump line="15" column="28" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -591,7 +599,7 @@
         <text>()</text>
       </register>
       <register name="-" type="4">
-        <text>Double.valueOf(d1).compareTo(Double.valueOf(d2));</text>
+        <text>mnt</text>
       </register>
       <register name="/" type="4">
         <text>kryo</text>
@@ -600,16 +608,16 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIEFtZW51RGV0YWlsIGRldGFpbDEgPSBkaXN0Q29kZTJOYW1lTWFwLmdldChjMSksIGRldGFpbDIgPSBkaXN0Q29kZTJOYW1lTWFwLmdldChjMik7CiAgICAgICAgICAgICAgICBkb3VibGUgZDEgPSBMaWJHZW9VdGlsLmdldEluc3RhbmNlKCkuY2FsRGlzdF9wMnAoCiAgICAgICAgICAgICAgICAgICAgICAgIG5ldyBMaWJHZW9VdGlsLlBvaW50KGxvbiwgbGF0KSwKICAgICAgICAgICAgICAgICAgICAgICAgbmV3IExpYkdlb1V0aWwuUG9pbnQoZGV0YWlsMS5nZXREaXNwX3goKSwgZGV0YWlsMS5nZXREaXNwX3koKSkpOwogICAgICAgICAgICAgICAgZG91YmxlIGQyID0gTGliR2VvVXRpbC5nZXRJbnN0YW5jZSgpLmNhbERpc3RfcDJwKAogICAgICAgICAgICAgICAgICAgICAgICBuZXcgTGliR2VvVXRpbC5Qb2ludChsb24sIGxhdCksCiAgICAgICAgICAgICAgICAgICAgICAgIG5ldyBMaWJHZW9VdGlsLlBvaW50KGRldGFpbDIuZ2V0RGlzcF94KCksIGRldGFpbDIuZ2V0RGlzcF95KCkpKTsKICAgICAgICAgICAgICAgIHJldHVybiBEb3VibGUudmFsdWVPZihkMSkuY29tcGFyZVRvKERvdWJsZS52YWx1ZU9mKGQyKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bmRzLnJvb3QucHJvdG8uZGF0YS5wYXRoPSAvbW50L2RhdGEvbmRzL3Byb3RvLwpuZHMuYnVpbGQuZGF0YS5vdXQucGF0aCA9IC9tbnQvZGF0YS9uZHMvCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgd29yZCA9ICJqdXJ5IjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgd29yZCA9ICJqdXJ5IjsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -621,10 +629,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHRvbmUgPSB0WzBdOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHRvbmUgPSB0WzBdOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
