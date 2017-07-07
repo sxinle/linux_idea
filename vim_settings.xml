@@ -96,6 +96,9 @@
       <file name="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/common/baidu/data/BaiduPlaceResp.java" timestamp="1495775530837">
         <mark key="'" line="110" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/vertx-blueprint-microservice/microservice-blueprint-common/src/main/java/io/vertx/blueprint/microservice/common/RestAPIVerticle.java" timestamp="1499399569870">
+        <mark key="'" line="180" column="40" />
+      </file>
       <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/transfer/req/RouteParam.java" timestamp="1497511657164">
         <mark key="'" line="63" column="24" />
       </file>
@@ -374,7 +377,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="13" filename="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/CacheManager.java" />
       <jump line="213" column="42" filename="$USER_HOME$/workspace/search/search_old/src/test/java/com/mx/server/search/old/business/poi/searcher/PoiSearcherTest.java" />
       <jump line="103" column="0" filename="$USER_HOME$/workspace/search/search_old/src/test/java/com/mx/server/search/old/business/poi/action/PoiControllerTest.java" />
       <jump line="217" column="62" filename="$USER_HOME$/workspace/search/search_old/src/test/java/com/mx/server/search/old/business/poi/action/PoiControllerTest.java" />
@@ -474,6 +476,7 @@
       <jump line="11" column="0" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
       <jump line="114" column="0" filename="$USER_HOME$/workspace/search/common-conf/search.properties" />
       <jump line="128" column="32" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" />
+      <jump line="180" column="40" filename="$USER_HOME$/workspace/vertx-blueprint-microservice/microservice-blueprint-common/src/main/java/io/vertx/blueprint/microservice/common/RestAPIVerticle.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
