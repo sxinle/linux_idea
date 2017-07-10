@@ -95,6 +95,9 @@
       <file name="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/business/address/data/AddressQueryParam.java" timestamp="1495778556974">
         <mark key="'" line="81" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/order-producer/conf/application.conf" timestamp="1499661706513">
+        <mark key="'" line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/search_tool/src/main/java/com/mx/server/search/tool/service/impl/DataInfoServiceImpl.java" timestamp="1495010604261">
         <mark key="'" line="493" column="12" />
       </file>
@@ -327,7 +330,6 @@
       <file name="$MAVEN_REPOSITORY$/org/mockito/mockito-all/1.10.19/mockito-all-1.10.19-sources.jar!/org/mockito/Mockito.java" timestamp="1497003771958">
         <mark key="'" line="1512" column="52" />
       </file>
-      <file name="$USER_HOME$/workspace/yh_svr/src/main/webapp/WEB-INF/view/index.jsp" timestamp="1499389506356" />
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/BaseSearcher.java" timestamp="1499657985666">
         <mark key="'" line="28" column="26" />
       </file>
@@ -351,6 +353,13 @@
       </file>
       <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/transfer/resp/CityDetailResp.java" timestamp="1496211882439">
         <mark key="'" line="164" column="4" />
+      </file>
+      <file name="$USER_HOME$/workspace/order-producer/conf/config.properties" timestamp="1499661860546">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="1" column="9" />
+        <mark key="]" line="1" column="17" />
+        <mark key="." line="1" column="17" />
+        <mark key="^" line="1" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/Sorter.java" timestamp="1498442149805">
         <mark key="'" line="72" column="0" />
@@ -452,8 +461,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/search/pom.xml" />
-      <jump line="307" column="0" filename="$USER_HOME$/workspace/mx_device_shop/pom.xml" />
       <jump line="17" column="14" filename="$USER_HOME$/workspace/mx_device_shop/pom.xml" />
       <jump line="23" column="34" filename="$USER_HOME$/workspace/mx_device_shop/pom.xml" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/mx_device_shop/cam_mazda/pom.xml" />
@@ -552,6 +559,8 @@
       <jump line="49" column="36" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/dispatch/SearcherProvider.java" />
       <jump line="28" column="26" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/BaseSearcher.java" />
       <jump line="21" column="31" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/order-producer/conf/application.conf" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/order-producer/conf/config.properties" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -564,7 +573,7 @@
         <text>()</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>localhost</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzeW1ib2xSZWdleFw+</text>
