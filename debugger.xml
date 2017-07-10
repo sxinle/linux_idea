@@ -63,7 +63,7 @@
       <option name="ENABLED" value="true" />
     </filter>
     <filter>
-      <option name="PATTERN" value="org.springframework.aop.framework.CglibAopProxy" />
+      <option name="PATTERN" value="org.springframework.aop.*" />
       <option name="ENABLED" value="true" />
     </filter>
   </component>
