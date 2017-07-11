@@ -248,8 +248,8 @@
       <file name="$USER_HOME$/workspace/zest/src/main/java/com/RipeMD128.java" timestamp="1496667721465">
         <mark key="'" line="246" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/order-dealer/conf/routes" timestamp="1499666825105">
-        <mark key="'" line="43" column="115" />
+      <file name="$USER_HOME$/workspace/order-dealer/conf/routes" timestamp="1499737104162">
+        <mark key="'" line="158" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/uauth/src/main/java/com/mx/server/core/util/AuthCodeUtil.java" timestamp="1497318228548">
         <mark key="'" line="165" column="0" />
@@ -642,8 +642,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="$USER_HOME$/workspace/demo/pom.xml" />
-      <jump line="174" column="9" filename="$USER_HOME$/workspace/demo/pom.xml" />
       <jump line="12" column="0" filename="$USER_HOME$/workspace/demo/pom.xml" />
       <jump line="163" column="0" filename="$USER_HOME$/workspace/demo/pom.xml" />
       <jump line="21" column="0" filename="$USER_HOME$/workspace/search/pom.xml" />
@@ -742,6 +740,8 @@
       <jump line="86" column="5" filename="$USER_HOME$/workspace/order-producer/app/service/impl/PaperNewServiceImpl.java" />
       <jump line="84" column="16" filename="$USER_HOME$/workspace/order-producer/app/service/impl/CommonServiceImpl.java" />
       <jump line="191" column="26" filename="$USER_HOME$/workspace/order-producer/app/controllers/finance/FinanceOrderController.java" />
+      <jump line="120" column="8" filename="$USER_HOME$/workspace/order-dealer/conf/routes" />
+      <jump line="158" column="0" filename="$USER_HOME$/workspace/order-dealer/conf/routes" />
     </jumps>
     <registers>
       <register name="a" type="4">
