@@ -111,18 +111,22 @@
       <file name="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/common/util/TypeCode.java" timestamp="1495775133456">
         <mark key="'" line="45" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/order-producer/app/controllers/paper/PaperNewController.java" timestamp="1499680384663">
-        <mark key="'" line="63" column="16" />
-        <mark key="[" line="120" column="28" />
-        <mark key="]" line="121" column="20" />
-        <mark key="." line="121" column="20" />
-        <mark key="^" line="121" column="20" />
+      <file name="$USER_HOME$/workspace/order-producer/app/controllers/paper/PaperNewController.java" timestamp="1499737888083">
+        <mark key="'" line="121" column="37" />
+        <mark key="[" line="121" column="34" />
+        <mark key="]" line="121" column="37" />
+        <mark key="." line="121" column="37" />
+        <mark key="^" line="121" column="37" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/data/PoiWithLen.java" timestamp="1497417263620">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="11" column="5" />
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/order-producer/app/controllers/regional/RegionalController.java" timestamp="1499737799459">
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="120" column="64" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/query/semantic/HotPoiSearcherTest.java" timestamp="1496631541745">
         <mark key="'" line="108" column="35" />
@@ -171,6 +175,11 @@
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/SpecialHandler.java" timestamp="1498378188537">
         <mark key="'" line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/order-producer/app/controllers/paper/PaperController.java" timestamp="1499737891384">
+        <mark key="'" line="117" column="0" />
+        <mark key="[" line="117" column="0" />
+        <mark key="]" line="143" column="4" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_old/src/main/java/com/mx/server/search/old/common/baidu/data/BaiduPlaceResp.java" timestamp="1495775530837">
         <mark key="'" line="110" column="0" />
@@ -378,8 +387,10 @@
         <mark key="^" line="13" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/order-producer/app/views/regionalOrderDetail.scala.html" timestamp="1499664647900">
-        <mark key="'" line="27" column="34" />
+      <file name="$USER_HOME$/workspace/order-producer/app/views/regionalOrderDetail.scala.html" timestamp="1499737756194">
+        <mark key="'" line="154" column="5" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="62" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/mx/server/gis/mx_place_api_new/1.0.17-RELEASE/mx_place_api_new-1.0.17-RELEASE.jar!/com/mx/placeapi/data/Point.class" timestamp="1498530309873">
         <mark key="'" line="7" column="13" />
@@ -423,10 +434,6 @@
       <file name="$USER_HOME$/workspace/search/search_core/src/test/java/search_core/PosSorterTest.java" timestamp="1495689634786">
         <mark key="'" line="159" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/order-producer/app/jbpm/impl/JbpmManagerImpl.java" timestamp="1499667713902">
-        <mark key="[" line="226" column="20" />
-        <mark key="]" line="226" column="31" />
-      </file>
       <file name="$USER_HOME$/workspace/order-producer/build.sbt" timestamp="1499672275078">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="55" />
@@ -450,6 +457,12 @@
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/ScoreRet.java" timestamp="1495689111571">
         <mark key="'" line="46" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/order-producer/app/views/paperOrderDetailNew.scala.html" timestamp="1499737666329">
+        <mark key="'" line="6" column="38" />
+        <mark key="[" line="201" column="0" />
+        <mark key="]" line="201" column="0" />
+        <mark key="." line="201" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/data/build/BuildSearchObj.java" timestamp="1498464495408">
         <mark key="'" line="79" column="0" />
@@ -498,10 +511,6 @@
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/sort/possort_terms/PosSorterTest.java" timestamp="1498562270922">
         <mark key="'" line="116" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/order-producer/app/views/regionalOrder.scala.html" timestamp="1499672921563">
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="152" column="9" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/test/java/com/mx/server/search/core/gdautonavi/AutonaviDetailSearcherTest.java" timestamp="1497337237608">
         <mark key="'" line="15" column="13" />
@@ -561,10 +570,6 @@
       </file>
       <file name="/CommonRouteSearch.java" timestamp="1497583627240">
         <mark key="'" line="234" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/order-dealer/conf/pwd.txt" timestamp="1499657862084">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="2" />
       </file>
       <file name="$USER_HOME$/workspace/order-producer/app/service/FinanceOrderService.java" timestamp="1499680123649">
         <mark key="'" line="180" column="60" />
@@ -636,15 +641,8 @@
         <mark key="^" line="36" column="9" />
         <mark key="." line="36" column="9" />
       </file>
-      <file name="$USER_HOME$/workspace/order-producer/conf/sql/Common.xml" timestamp="1499676669786">
-        <mark key="[" line="299" column="0" />
-        <mark key="]" line="313" column="28" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="0" filename="$USER_HOME$/workspace/demo/pom.xml" />
-      <jump line="163" column="0" filename="$USER_HOME$/workspace/demo/pom.xml" />
-      <jump line="21" column="0" filename="$USER_HOME$/workspace/search/pom.xml" />
       <jump line="320" column="0" filename="$USER_HOME$/workspace/search/pom.xml" />
       <jump line="22" column="19" filename="$USER_HOME$/workspace/demo/pom.xml" />
       <jump line="2" column="19" filename="$USER_HOME$/workspace/demo/src/main/java/com/Server.java" />
@@ -690,7 +688,6 @@
       <jump line="96" column="14" filename="$USER_HOME$/workspace/order-producer/app/form/FinanceOrderForm.java" />
       <jump line="43" column="115" filename="$USER_HOME$/workspace/order-dealer/conf/routes" />
       <jump line="63" column="131" filename="$USER_HOME$/workspace/order-producer/public/statics/financeOrder.js" />
-      <jump line="121" column="50" filename="$USER_HOME$/workspace/order-producer/app/controllers/paper/PaperNewController.java" />
       <jump line="43" column="13" filename="$USER_HOME$/workspace/order-producer/app/service/impl/PaperNewServiceImpl.java" />
       <jump line="212" column="0" filename="$USER_HOME$/workspace/order-producer/app/service/impl/PaperNewServiceImpl.java" />
       <jump line="147" column="12" filename="$USER_HOME$/workspace/order-producer/conf/routes" />
@@ -742,6 +739,10 @@
       <jump line="191" column="26" filename="$USER_HOME$/workspace/order-producer/app/controllers/finance/FinanceOrderController.java" />
       <jump line="120" column="8" filename="$USER_HOME$/workspace/order-dealer/conf/routes" />
       <jump line="158" column="0" filename="$USER_HOME$/workspace/order-dealer/conf/routes" />
+      <jump line="6" column="38" filename="$USER_HOME$/workspace/order-producer/app/views/paperOrderDetailNew.scala.html" />
+      <jump line="154" column="5" filename="$USER_HOME$/workspace/order-producer/app/views/regionalOrderDetail.scala.html" />
+      <jump line="121" column="37" filename="$USER_HOME$/workspace/order-producer/app/controllers/paper/PaperNewController.java" />
+      <jump line="117" column="0" filename="$USER_HOME$/workspace/order-producer/app/controllers/paper/PaperController.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -754,40 +755,40 @@
         <text>()</text>
       </register>
       <register name="-" type="4">
-        <text>销售票据</text>
+        <text>reginoalService</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxTYWxlc09yZGVyXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>commonService</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBPYmplY3Q+IG9yZGVyTWFwID1udWxsOwogICAgICAgIExpc3Q8TWFwPFN0cmluZywgT2JqZWN0Pj4gcHJvTGlzdCA9IG51bGw7CiAgICAgICAgU2V0PFN0cmluZz4gcGFyYW1TZXQgPSBuZXcgSGFzaFNldDxTdHJpbmc+KCk7CiAgICAJU3RyaW5nIGVhcmx5RW5kID0gIiI7CiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgb3JkZXJNYXAgPSByZWdpbm9hbFNlcnZpY2UuZ2V0T3JkZXJJbmZvKG9yZGVyaWQpOwogICAgICAgICAgICBwcm9MaXN0ID0gcmVnaW5vYWxTZXJ2aWNlLmdldE9yZGVyUHJvZHVjdHMob3JkZXJpZCk7CiAgICAgICAgICAgIG9yZGVyTWFwLnB1dCgidGFza2lkIiwgdGFza2lkKTsKICAgICAgICAgICAgCiAgICAgICAgICAgIC8vIuehruiupOaPkOWJjee7k+adnyLmoIfor4YKICAgICAgICAgICAgcGFyYW1TZXQuYWRkKCJpc0Vhcmx5RW5kIik7CQogICAgICAgICAgICBPYmplY3Qgb2JqRWFybHlFbmQgPSBjb21tU2VydmljZS5nZXRUYXNrUGFyYW0odGFza2lkLCBwYXJhbVNldCkuZ2V0KCJpc0Vhcmx5RW5kIik7CiAgICAJCWlmIChvYmpFYXJseUVuZCA9PSBudWxsKSB7CiAgICAJCQlvYmpFYXJseUVuZCA9IDE7IC8v5LiN5piv5o+Q5YmN57uT5p2f77yM5q2j5bi45rWB56iL44CCCiAgICAJCX0KICAgIAkJZWFybHlFbmQgPSBvYmpFYXJseUVuZC50b1N0cmluZygpOwogICAgCQkKICAgICAgICAgICAgb3JkZXJNYXAucHV0KCJpc0Vhcmx5RW5kIiwgZWFybHlFbmQpOy8vY29tbVNlcnZpY2UuZ2V0VGFza1BhcmFtKHRhc2tpZCwgcGFyYW1TZXQpCiAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgTG9nZ2VyLmVycm9yKCJSZWdpb25hbENvbnRyb2xsZXIucmV2aWV3T3JkZXLvvJrlpKfljLrnpajmja7lrqHmoLjojrflj5borqLljZXkv6Hmga/lvILluLgiLCBlKTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIG9rKHJlZ2lvbmFsT3JkZXJEZXRhaWwucmVuZGVyKHByb0xpc3QsIG9yZGVyTWFwKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBPYmplY3Q+IG9yZGVyTWFwID0gbmV3IEhhc2hNYXA8PigpOwogICAgICAgIHRyeSB7CiAgICAgICAgICAgIG9yZGVyTWFwID0gbG9naXN0aWNzU2VydmljZS5nZXRPcmRlckluZm8ob3JkZXJpZCk7CiAgICAgICAgICAgIG9yZGVyTWFwLnB1dCgidGFza2lkIiwgdGFza2lkKTsKICAgICAgICAgICAgb3JkZXJNYXAucHV0KCJsb2dpc3RpY3NpZCIsICIiKTsKICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgIH0KICAgICAgICByZXR1cm4gb2socGFwZXJPcmRlckRldGFpbE5ldy5yZW5kZXIob3JkZXJNYXApKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDnkIborrrlhpnms5UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nZ2VyLmVycm9yKCJSZWdpb25hbENvbnRyb2xsZXIucmV2aWV3T3JkZXLvvJrlpKfljLrnpajmja7lrqHmoLjojrflj5borqLljZXkv6Hmga/lvILluLgiLCBlKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nZ2VyLmVycm9yKCJQYXBlckNvbnRyb2xsZXIucmV2aWV3T3JkZXLvvJrplIDllK7npajmja7ojrflj5bphY3otKfljZXkv6Hmga/lvILluLgiLCBlKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RDdXN0QmFubGFuY2UoZm9ybS5nZXRDdXN0SWQoKSwgZm9ybS5nZXRPcmRlcklkKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8IS0tIDxhIGhyZWY9ImphdmFzY3JpcHQ6dm9pZCgwKTsiIGlkPSJiaWdfZmVuX2JhbiIgb25jbGljaz0ncmV2aWV3RmFpbChAb3JkZXIuZ2V0KCJsb2dpc3RpY3NpZCIpLEBvcmRlci5nZXQoInRhc2tpZCIpKSc+6amz5ZuePC9hPiAtLT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8IS0tIDxhIGhyZWY9ImphdmFzY3JpcHQ6dm9pZCgwKTsiIGlkPSJiaWdfZmVuX2JhbiIgb25jbGljaz0ncmV2aWV3RmFpbChAb3JkZXIuZ2V0KCJsb2dpc3RpY3NpZCIpLEBvcmRlci5nZXQoInRhc2tpZCIpKSc+6amz5ZuePC9hPiAtLT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PE1hcDxTdHJpbmcsIE9iamVjdD4+IHByb0xpc3QgPSBuZXcgQXJyYXlMaXN0PD4oKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGpicG1NYW5hZ2VyLmNvbXBsYXRlQnlSZXN1bHQoZm9ybS5nZXRUYXNrSWQoKSwi5om55YeGIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy/ojrflj5bmib/ov5Dlhazlj7jkv6Hmga8KICAgICAgICAgICAgaWYoRW1wdHlVdGlsLmlzTm90RW1wdHkocHJvTGlzdCkgJiYgcHJvTGlzdC5zaXplKCkgPiAwICl7CiAgICAgICAgICAgICAgICBNYXA8U3RyaW5nLCBPYmplY3Q+IG1hcCA9IHByb0xpc3QuZ2V0KDApOwogICAgICAgICAgICAgICAgb3JkZXJNYXAucHV0KCJjYXJjb2RlIiwgbWFwLmdldCgiY2FyY29kZSIpKTsKICAgICAgICAgICAgICAgIG9yZGVyTWFwLnB1dCgic2VuZGNvbXBhbnkiLCBtYXAuZ2V0KCJzZW5kY29tcGFueSIpKTsKICAgICAgICAgICAgICAgIG9yZGVyTWFwLnB1dCgic2VuZHBob25lIiwgbWFwLmdldCgic2VuZHBob25lIikpOwogICAgICAgICAgICAgICAgb3JkZXJNYXAucHV0KCJzZW5kbWFuIiwgbWFwLmdldCgic2VuZG1hbiIpKTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJvTGlzdCA9ICBwYXBlclNlcnZpY2UuZ2V0TG9naXN0aWNzUHJvZHVjdHMobG9naXN0aWNzaWQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
