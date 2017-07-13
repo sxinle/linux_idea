@@ -5,13 +5,14 @@
       <mark key="V" line="200" column="79" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/WEB-INF/view/index.jsp" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/transfer/req/BaseParam.java" timestamp="1499738599626">
-        <mark key="'" line="13" column="21" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" timestamp="1499918345671">
+        <mark key="'" line="83" column="20" />
+        <mark key="[" line="112" column="19" />
+        <mark key="]" line="112" column="19" />
+        <mark key="^" line="219" column="25" />
+        <mark key="." line="112" column="19" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" timestamp="1499915696196" />
-      <file name="$USER_HOME$/workspace/order-producer/app/controllers/interflow/InterFlowController.java" timestamp="1499767077388">
-        <mark key="'" line="273" column="8" />
-      </file>
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" timestamp="1499917340744" />
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" timestamp="1499915214885">
         <mark key="'" line="23" column="45" />
       </file>
@@ -19,9 +20,7 @@
       <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/CacheManager.java" timestamp="1499914797648" />
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SEnums.java" timestamp="1499913804299" />
       <file name="$USER_HOME$/workspace/order-producer/app/service/PaperService.java" timestamp="1499908787731" />
-      <file name="$USER_HOME$/workspace/order-producer/public/statics/orderHistory.js" timestamp="1499742562981">
-        <mark key="'" line="90" column="81" />
-      </file>
+      <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/doc/DocAttr.java" timestamp="1499917720770" />
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" timestamp="1499911094424">
         <mark key="'" line="40" column="42" />
         <mark key="[" line="138" column="53" />
@@ -32,46 +31,26 @@
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticRet.java" timestamp="1499914134398">
         <mark key="'" line="222" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/order-producer/app/views/orderDetail.scala.html" timestamp="1499743621018">
-        <mark key="'" line="34" column="6" />
-      </file>
+      <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/index/IndexInfoArr.java" timestamp="1499917283252" />
       <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/doc/AmenuDetail.java" timestamp="1499915001067" />
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SegmentRet.java" timestamp="1499913994795" />
-      <file name="$USER_HOME$/workspace/yh_svr/src/main/webapp/WEB-INF/view/index.jsp" timestamp="1499907564564" />
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/BaseSearcher.java" timestamp="1499739017238">
-        <mark key="'" line="28" column="26" />
-      </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/UserInputSpecialCase.java" timestamp="1499914395560" />
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/query/KeywordSearcher.java" timestamp="1499738498833">
-        <mark key="'" line="143" column="33" />
-      </file>
+      <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/models/IdWithTerms.java" timestamp="1499917768388" />
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/LabelRechecker.java" timestamp="1499914330385" />
-      <file name="$USER_HOME$/workspace/order-producer/app/service/impl/PaperServiceImpl.java" timestamp="1499908825678">
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="97" column="52" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1499908788248">
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/NiceCntSetter.java" timestamp="1499918354038" />
+      <file name="/Dummy.txt" timestamp="1499918478864">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/UserInputPreProcess.java" timestamp="1499914180020" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/TermsSetter.java" timestamp="1499918262979" />
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" timestamp="1499914363397">
         <mark key="'" line="115" column="26" />
         <mark key="[" line="57" column="23" />
         <mark key="]" line="57" column="23" />
         <mark key="." line="57" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/order-producer/app/views/interFlow.scala.html" timestamp="1499745141363">
-        <mark key="'" line="10" column="63" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/order-dealer/build.sbt" />
-      <jump line="65" column="32" filename="$USER_HOME$/workspace/order-producer/app/controllers/paper/PaperNewController.java" />
-      <jump line="48" column="0" filename="$USER_HOME$/workspace/order-producer/app/views/paperOrderNew.scala.html" />
-      <jump line="186" column="0" filename="$USER_HOME$/workspace/order-producer/app/views/paperOrderNew.scala.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/order-producer/public/statics/orderHistory.js" />
-      <jump line="86" column="81" filename="$USER_HOME$/workspace/order-producer/public/statics/orderHistory.js" />
-      <jump line="90" column="81" filename="$USER_HOME$/workspace/order-producer/public/statics/orderHistory.js" />
       <jump line="146" column="17" filename="$USER_HOME$/workspace/order-producer/conf/routes" />
       <jump line="198" column="117" filename="$USER_HOME$/workspace/order-producer/conf/routes" />
       <jump line="11" column="6" filename="$USER_HOME$/workspace/order-producer/conf/routes" />
@@ -165,6 +144,13 @@
       <jump line="300" column="53" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" />
       <jump line="25" column="45" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" />
       <jump line="23" column="45" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" />
+      <jump line="138" column="32" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" />
+      <jump line="37" column="24" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" />
+      <jump line="157" column="15" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" />
+      <jump line="201" column="32" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" />
+      <jump line="72" column="32" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" />
+      <jump line="96" column="78" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" />
+      <jump line="83" column="20" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -177,10 +163,10 @@
         <text>()</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkaXN0TmFtZTJDb2RlTWFwXD4=</text>
+        <text encoding="base64">XDxuYW1lVGVybUNudFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIAlNYXA8U3RyaW5nLCBPYmplY3Q+IG1hcCA9IG5ldyBIYXNoTWFwPD4oKTsKICAgIAkgbWFwLnB1dCgibG9naXN0aWNzaWQiLCBsb2dpc3RpY3NpZCk7CiAgICAgICAgLy8g5pu05paw6YWN6LSn5Y2VCiAgICAgICAgZGFvLnVwZGF0ZShQQVBFUl9VUERBVEVMT0dJU1RJQ1NTVEFUVVMsbWFwKTsKICAgIAlqYnBtTWFuYWdlci5jb21wbGF0ZUJ5UmVzdWx0KHRhc2tpZCwgIue7k+adn+iuouWNlSIpOwo=</text>
@@ -217,9 +203,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkaXN0TmFtZTJDb2RlTWFwXD4=</last-search>
+      <last-search encoding="base64">XDxuYW1lVGVybUNudFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkaXN0TmFtZTJDb2RlTWFwXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxuYW1lVGVybUNudFw+</last-pattern>
       <last-replace>equals</last-replace>
       <last-substitute>equales</last-substitute>
       <last-dir>1</last-dir>
@@ -227,8 +213,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZW1hbnRpY1JldFw+</entry>
-        <entry>修改</entry>
         <entry>修改订单</entry>
         <entry>modify</entry>
         <entry>审核通过</entry>
@@ -247,6 +231,8 @@
         <entry encoding="base64">XDxlbnRpdHlMYWJlbHNcPg==</entry>
         <entry encoding="base64">XDxkaXN0U3VmZml4c1w+</entry>
         <entry encoding="base64">XDxkaXN0TmFtZTJDb2RlTWFwXD4=</entry>
+        <entry encoding="base64">XDxzaG91cGluU2VhcmNoXD4=</entry>
+        <entry encoding="base64">XDxuYW1lVGVybUNudFw+</entry>
       </history-search>
       <history-cmd>
         <entry>noh</entry>
