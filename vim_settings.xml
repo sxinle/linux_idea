@@ -37,6 +37,9 @@
       <file name="$USER_HOME$/workspace/order-producer/app/controllers/interflow/InterFlowController.java" timestamp="1499767077388">
         <mark key="'" line="273" column="8" />
       </file>
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" timestamp="1499909640239">
+        <mark key="'" line="30" column="37" />
+      </file>
       <file name="$USER_HOME$/workspace/order-producer/conf/routes" timestamp="1499744279569">
         <mark key="'" line="45" column="115" />
         <mark key="[" line="150" column="138" />
@@ -67,6 +70,7 @@
         <mark key="." line="31" column="46" />
         <mark key="^" line="31" column="46" />
       </file>
+      <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/CacheManager.java" timestamp="1499909816850" />
       <file name="$USER_HOME$/workspace/order-dealer/app/service/impl/CartServiceImpl.java" timestamp="1499663681807">
         <mark key="[" line="385" column="34" />
         <mark key="]" line="385" column="36" />
@@ -103,15 +107,14 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="29" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" timestamp="1499907833337">
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/JNISegmenter.java" timestamp="1499910068028">
         <mark key="'" line="43" column="42" />
+        <mark key="[" line="120" column="0" />
+        <mark key="]" line="120" column="0" />
+        <mark key="." line="120" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticRet.java" timestamp="1499739147118">
         <mark key="'" line="226" column="22" />
-      </file>
-      <file name="$USER_HOME$/workspace/order-producer/app/service/impl/DispatchOrderServiceImpl.java" timestamp="1499750466917">
-        <mark key="[" line="213" column="0" />
-        <mark key="]" line="215" column="81" />
       </file>
       <file name="$USER_HOME$/workspace/order-producer/build.sbt" timestamp="1499672275078">
         <mark key="[" line="12" column="0" />
@@ -280,7 +283,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="115" filename="$USER_HOME$/workspace/order-dealer/conf/routes" />
       <jump line="63" column="131" filename="$USER_HOME$/workspace/order-producer/public/statics/financeOrder.js" />
       <jump line="43" column="13" filename="$USER_HOME$/workspace/order-producer/app/service/impl/PaperNewServiceImpl.java" />
       <jump line="212" column="0" filename="$USER_HOME$/workspace/order-producer/app/service/impl/PaperNewServiceImpl.java" />
@@ -380,6 +382,7 @@
       <jump line="16" column="17" filename="$USER_HOME$/workspace/order-producer/app/service/PaperNewService.java" />
       <jump line="171" column="15" filename="$USER_HOME$/workspace/order-producer/app/service/impl/PaperNewServiceImpl.java" />
       <jump line="273" column="8" filename="$USER_HOME$/workspace/order-producer/app/controllers/interflow/InterFlowController.java" />
+      <jump line="30" column="37" filename="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/WordTypeJudger.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -395,7 +398,7 @@
         <text>管</text>
       </register>
       <register name="/" type="4">
-        <text>nextDep</text>
+        <text encoding="base64">XDx0YWdTdHJzXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIAlNYXA8U3RyaW5nLCBPYmplY3Q+IG1hcCA9IG5ldyBIYXNoTWFwPD4oKTsKICAgIAkgbWFwLnB1dCgibG9naXN0aWNzaWQiLCBsb2dpc3RpY3NpZCk7CiAgICAgICAgLy8g5pu05paw6YWN6LSn5Y2VCiAgICAgICAgZGFvLnVwZGF0ZShQQVBFUl9VUERBVEVMT0dJU1RJQ1NTVEFUVVMsbWFwKTsKICAgIAlqYnBtTWFuYWdlci5jb21wbGF0ZUJ5UmVzdWx0KHRhc2tpZCwgIue7k+adn+iuouWNlSIpOwo=</text>
@@ -404,45 +407,44 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZvaWQgY2hlY2soRmluYW5jZU9yZGVyRm9ybSBmb3JtLCBVc2VySW5mb0VudGl0eSB1c2VyLCBSZXF1ZXN0IHJlcXVlc3QpIHRocm93cyBFeGNlcHRpb247Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFwLmtleVNldCgpLmZvckVhY2goKTsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsKGlzb2xhdGlvbiA9IElzb2xhdGlvbi5SRVBFQVRBQkxFX1JFQUQsIHByb3BhZ2F0aW9uID0gUHJvcGFnYXRpb24uUkVRVUlSRUQsIHJvbGxiYWNrRm9yID0gRXhjZXB0aW9uLmNsYXNzKQogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgdm9pZCBjaGVjayhGaW5hbmNlT3JkZXJGb3JtIGZvcm0sIFVzZXJJbmZvRW50aXR5IHVzZXIsIEh0dHAuUmVxdWVzdCByZXF1ZXN0KSB0aHJvd3MgRXhjZXB0aW9uIHsKICAgICAgICBjb21tb25TZXJ2aWNlLm1vZE9yZGVyU3RhdHVzKGZvcm0uZ2V0T3JkZXJJZCgpLCBmb3JtLmdldFJrbSgpLCBmb3JtLmdldFJlbWFya3MoKSwgcmVxdWVzdCk7CiAgICAgICAgLy/ovazoh7PnianmtYHosIPluqYKICAgICAgICAvLyBUT0RPCiAgICAgICAgTWFwPFN0cmluZywgT2JqZWN0PiBqYnBtTWFwID0gbmV3IEhhc2hNYXA8PigpOwogICAgICAgIEludGVnZXIgZGVwdElkID0gY29tbW9uU2VydmljZS5nZXREZXB0SWQodXNlci5nZXREZXB0SWQoKSwgSUNvbnRlbnRzLkRFUFRfQ09ERV9TQUxFUyk7CiAgICAgICAgamJwbU1hcC5wdXQoSUNvbnRlbnRzLlBBUEVSLCBJQ29udGVudHMuUk9MRV9JTlNUUlVNRU5UICsgIi0iICsgZGVwdElkKTsKICAgICAgICBqYnBtTWFuYWdlci5jb21wbGF0ZUJ5VmFyQW5kUmVzKGZvcm0uZ2V0VGFza0lkKCksICLmibnlh4YiLCBqYnBtTWFwKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgIHZvaWQgY2hlY2soRmluYW5jZU9yZGVyRm9ybSBmb3JtLCBVc2VySW5mb0VudGl0eSB1c2VyLCBSZXF1ZXN0IHJlcXVlc3QpIHRocm93cyBFeGNlcHRpb247Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHJvbGUgPSBJQ29udGVudHMuUk9MRV9MT0dJU1RJQ1M7Cg==</text>
+        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsKGlzb2xhdGlvbiA9IElzb2xhdGlvbi5SRVBFQVRBQkxFX1JFQUQsIHByb3BhZ2F0aW9uID0gUHJvcGFnYXRpb24uUkVRVUlSRUQsIHJvbGxiYWNrRm9yID0gRXhjZXB0aW9uLmNsYXNzKQogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgdm9pZCBjaGVjayhGaW5hbmNlT3JkZXJGb3JtIGZvcm0sIFVzZXJJbmZvRW50aXR5IHVzZXIsIEh0dHAuUmVxdWVzdCByZXF1ZXN0KSB0aHJvd3MgRXhjZXB0aW9uIHsKICAgICAgICBjb21tb25TZXJ2aWNlLm1vZE9yZGVyU3RhdHVzKGZvcm0uZ2V0T3JkZXJJZCgpLCBmb3JtLmdldFJrbSgpLCBmb3JtLmdldFJlbWFya3MoKSwgcmVxdWVzdCk7CiAgICAgICAgLy/ovazoh7PnianmtYHosIPluqYKICAgICAgICAvLyBUT0RPCiAgICAgICAgTWFwPFN0cmluZywgT2JqZWN0PiBqYnBtTWFwID0gbmV3IEhhc2hNYXA8PigpOwogICAgICAgIEludGVnZXIgZGVwdElkID0gY29tbW9uU2VydmljZS5nZXREZXB0SWQodXNlci5nZXREZXB0SWQoKSwgSUNvbnRlbnRzLkRFUFRfQ09ERV9TQUxFUyk7CiAgICAgICAgamJwbU1hcC5wdXQoSUNvbnRlbnRzLlBBUEVSLCBJQ29udGVudHMuUk9MRV9JTlNUUlVNRU5UICsgIi0iICsgZGVwdElkKTsKICAgICAgICBqYnBtTWFuYWdlci5jb21wbGF0ZUJ5VmFyQW5kUmVzKGZvcm0uZ2V0VGFza0lkKCksICLmibnlh4YiLCBqYnBtTWFwKTsKICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFwLnB1dCgibG9naXN0aWNzbWFuIiwgcm9sZVN0cmluZyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy/ovazoh7PotKLliqEKICAgICAgICAgICAgU3RyaW5nIHJvbGVTdHJpbmcgPSBjb21tb25TZXJ2aWNlLmdldE5leHRSb2xlTmFtZVVQKEludGVnZXIucGFyc2VJbnQodXNlcklkKSwgcm9sZSwgImxvZ2lzdGljcyIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHJvbGUgPSBJQ29udGVudHMuUk9MRV9MT0dJU1RJQ1M7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFwLnB1dCgibG9naXN0aWNzbWFuIiwgSUNvbnRlbnRzLlJPTEVfTE9HSVNUSUNTICsgIi0iICsgZGVwdElkKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFwLnB1dCgibG9naXN0aWNzbWFuIiwgcm9sZVN0cmluZyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>nextDep</last-search>
+      <last-search encoding="base64">XDx0YWdTdHJzXD4=</last-search>
       <last-offset />
-      <last-pattern>nextDep</last-pattern>
+      <last-pattern encoding="base64">XDx0YWdTdHJzXD4=</last-pattern>
       <last-replace>equals</last-replace>
       <last-substitute>equales</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>ByPaper</entry>
         <entry>orderid</entry>
         <entry>orderno</entry>
         <entry encoding="base64">XDxzZWxTYWxlc09yZGVyXD4=</entry>
@@ -462,6 +464,7 @@
         <entry encoding="base64">XDzotKLliqHpg6jlrqHmoLhcPg==</entry>
         <entry>check</entry>
         <entry>nextDep</entry>
+        <entry encoding="base64">XDx0YWdTdHJzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>noh</entry>
