@@ -57,16 +57,6 @@
         <mark key="^" line="13" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/order-producer/app/views/regionalOrderDetail.scala.html" timestamp="1499737756194">
-        <mark key="'" line="154" column="5" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="62" />
-      </file>
-      <file name="$USER_HOME$/workspace/order-producer/conf/jbpm/org/order.jpdl.xml" timestamp="1499750032929">
-        <mark key="'" line="23" column="44" />
-        <mark key="[" line="29" column="21" />
-        <mark key="]" line="29" column="32" />
-      </file>
       <file name="$USER_HOME$/workspace/order-dealer/conf/jbpm/order.jpdl.xml" timestamp="1499763601972">
         <mark key="." line="32" column="49" />
         <mark key="^" line="32" column="49" />
@@ -90,6 +80,7 @@
         <mark key="^" line="97" column="37" />
         <mark key="." line="97" column="37" />
       </file>
+      <file name="$USER_HOME$/workspace/order-producer/app/service/PaperService.java" timestamp="1499908787731" />
       <file name="$USER_HOME$/workspace/search/search_nds_protobuf/src/main/java/com/mx/server/search/nds/data/OnlineRouteParam.java" timestamp="1497927745529">
         <mark key="[" line="26" column="16" />
         <mark key="]" line="26" column="22" />
@@ -144,21 +135,11 @@
         <mark key="." line="56" column="0" />
         <mark key="^" line="199" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/order-producer/app/controllers/paper/PaperController.java" timestamp="1499737891384">
-        <mark key="'" line="117" column="0" />
-        <mark key="[" line="117" column="0" />
-        <mark key="]" line="143" column="4" />
-      </file>
       <file name="$USER_HOME$/workspace/demo/src/main/java/com/Server.java" timestamp="1499414444603">
         <mark key="[" line="31" column="31" />
         <mark key="]" line="31" column="42" />
         <mark key="." line="31" column="42" />
         <mark key="^" line="31" column="42" />
-      </file>
-      <file name="$USER_HOME$/workspace/order-producer/app/service/impl/RegionalServiceImpl.java" timestamp="1499741907286">
-        <mark key="'" line="102" column="0" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="42" column="37" />
       </file>
       <file name="$USER_HOME$/workspace/order-producer/app/service/impl/UserServiceImpl.java" timestamp="1499671738926">
         <mark key="'" line="196" column="28" />
@@ -214,6 +195,10 @@
         <mark key="^" line="123" column="56" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/LabelRechecker.java" timestamp="1499907835554" />
+      <file name="$USER_HOME$/workspace/order-producer/app/service/impl/PaperServiceImpl.java" timestamp="1499908825678">
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="97" column="52" />
+      </file>
       <file name="$USER_HOME$/workspace/order-producer/app/views/paperOrderNew.scala.html" timestamp="1499742464744">
         <mark key="'" line="120" column="58" />
         <mark key="[" line="104" column="51" />
@@ -233,7 +218,7 @@
         <mark key="." line="71" column="103" />
         <mark key="^" line="71" column="103" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499766846439">
+      <file name="/Dummy.txt" timestamp="1499908788248">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/order-producer/app/service/impl/CommonServiceImpl.java" timestamp="1499752273121">
@@ -413,7 +398,7 @@
         <text>nextDep</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tPHRyYW5zaXRpb24gZz0iMTEyMSw1Mjs2OTQsNTI6LTQ1LC0yMyIgbmFtZT0i57y66LSn6YCa55+lIiB0bz0i6LCD5bqm5Lit5b+D5a6h5qC4Ii8+LS0+Cg==</text>
+        <text encoding="base64">ICAgIAlNYXA8U3RyaW5nLCBPYmplY3Q+IG1hcCA9IG5ldyBIYXNoTWFwPD4oKTsKICAgIAkgbWFwLnB1dCgibG9naXN0aWNzaWQiLCBsb2dpc3RpY3NpZCk7CiAgICAgICAgLy8g5pu05paw6YWN6LSn5Y2VCiAgICAgICAgZGFvLnVwZGF0ZShQQVBFUl9VUERBVEVMT0dJU1RJQ1NTVEFUVVMsbWFwKTsKICAgIAlqYnBtTWFuYWdlci5jb21wbGF0ZUJ5UmVzdWx0KHRhc2tpZCwgIue7k+adn+iuouWNlSIpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
