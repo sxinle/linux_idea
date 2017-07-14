@@ -29,6 +29,9 @@
         <mark key="." line="61" column="129" />
         <mark key="^" line="61" column="129" />
       </file>
+      <file name="$USER_HOME$/workspace/order-dealer/app/views/orderDetail.scala.html" timestamp="1500019940739">
+        <mark key="'" line="20" column="15" />
+      </file>
       <file name="$USER_HOME$/workspace/order-dealer/app/service/impl/MyOrderServiceImpl.java" timestamp="1499996755897" />
       <file name="$USER_HOME$/workspace/order-dealer/app/service/DistributeService.java" timestamp="1499999390284" />
       <file name="$USER_HOME$/workspace/order-producer/public/statics/financeDetail.js" timestamp="1500001628006">
@@ -39,6 +42,10 @@
         <mark key="^" line="31" column="46" />
       </file>
       <file name="$USER_HOME$/workspace/order-producer/app/service/PaperService.java" timestamp="1499996842860" />
+      <file name="$USER_HOME$/workspace/uauth/src/main/resources/roads.txt" timestamp="1500020793734">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="10" />
+      </file>
       <file name="$USER_HOME$/workspace/order-producer/public/statics/orderHistory.js" timestamp="1500017792569">
         <mark key="'" line="117" column="82" />
         <mark key="[" line="117" column="56" />
@@ -72,6 +79,7 @@
         <mark key="." line="98" column="101" />
         <mark key="^" line="98" column="101" />
       </file>
+      <file name="$USER_HOME$/workspace/order-dealer/conf/sql/OrderDetail.xml" timestamp="1500020355268" />
       <file name="$USER_HOME$/workspace/order-producer/app/views/logisticsOrder.scala.html" timestamp="1500017515785">
         <mark key="'" line="88" column="83" />
         <mark key="[" line="98" column="196" />
@@ -105,11 +113,12 @@
         <mark key="." line="175" column="7" />
         <mark key="^" line="175" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/order-dealer/app/service/impl/OrderDetailServiceImpl.java" timestamp="1499925754039">
+      <file name="$USER_HOME$/workspace/order-dealer/app/service/OrderDetailService.java" timestamp="1500020365956" />
+      <file name="$USER_HOME$/workspace/order-dealer/app/service/impl/OrderDetailServiceImpl.java" timestamp="1500020203000">
         <mark key="'" line="297" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/order-dealer/conf/routes" timestamp="1500017481066">
-        <mark key="'" line="68" column="124" />
+      <file name="$USER_HOME$/workspace/order-dealer/conf/routes" timestamp="1500019665613">
+        <mark key="'" line="40" column="51" />
       </file>
       <file name="$USER_HOME$/workspace/order-producer/app/service/LogisticsService.java" timestamp="1500002242788">
         <mark key="[" line="22" column="11" />
@@ -127,7 +136,7 @@
         <mark key="^" line="273" column="33" />
         <mark key="." line="273" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500018602599">
+      <file name="/Dummy.txt" timestamp="1500020366412">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/order-dealer/app/controllers/distribute/DistributeController.java" timestamp="1499999426999" />
@@ -138,6 +147,9 @@
         <mark key="^" line="1312" column="74" />
         <mark key="." line="1313" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/semantic/SemanticAnalyzer.java" timestamp="1499999596147">
+        <mark key="'" line="146" column="39" />
+      </file>
       <file name="$USER_HOME$/workspace/order-producer/app/service/impl/LogisticsServiceImpl.java" timestamp="1500017151116">
         <mark key="'" line="127" column="8" />
         <mark key="[" line="162" column="35" />
@@ -145,13 +157,9 @@
         <mark key="." line="162" column="45" />
         <mark key="^" line="162" column="45" />
       </file>
+      <file name="$USER_HOME$/workspace/order-dealer/app/service/impl/CommonServiceImpl.java" timestamp="1500020437213" />
     </filemarks>
     <jumps>
-      <jump line="166" column="59" filename="$USER_HOME$/workspace/order-producer/app/views/paperOrderDetailNew.scala.html" />
-      <jump line="197" column="16" filename="$USER_HOME$/workspace/order-producer/public/statics/commonHeader.js" />
-      <jump line="201" column="34" filename="$USER_HOME$/workspace/order-producer/app/views/paperOrderDetailNew.scala.html" />
-      <jump line="108" column="24" filename="$USER_HOME$/workspace/order-producer/app/views/paperOrderDetailNew.scala.html" />
-      <jump line="194" column="8" filename="$USER_HOME$/workspace/order-producer/app/views/paperOrderDetailNew.scala.html" />
       <jump line="102" column="0" filename="$USER_HOME$/workspace/order-producer/app/service/impl/RegionalServiceImpl.java" />
       <jump line="105" column="24" filename="$USER_HOME$/workspace/order-producer/app/service/impl/PaperNewServiceImpl.java" />
       <jump line="107" column="24" filename="$USER_HOME$/workspace/order-producer/app/views/paperOrderDetailNew.scala.html" />
@@ -247,6 +255,11 @@
       <jump line="115" column="78" filename="$USER_HOME$/workspace/order-producer/public/statics/orderHistory.js" />
       <jump line="116" column="78" filename="$USER_HOME$/workspace/order-producer/public/statics/orderHistory.js" />
       <jump line="117" column="82" filename="$USER_HOME$/workspace/order-producer/public/statics/orderHistory.js" />
+      <jump line="40" column="51" filename="$USER_HOME$/workspace/order-dealer/conf/routes" />
+      <jump line="107" column="53" filename="$USER_HOME$/workspace/order-dealer/app/views/orderDetail.scala.html" />
+      <jump line="319" column="126" filename="$USER_HOME$/workspace/order-dealer/app/views/orderDetail.scala.html" />
+      <jump line="332" column="103" filename="$USER_HOME$/workspace/order-dealer/app/views/orderDetail.scala.html" />
+      <jump line="20" column="15" filename="$USER_HOME$/workspace/order-dealer/app/views/orderDetail.scala.html" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -262,10 +275,10 @@
         <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>历史配货</text>
+        <text>modify</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHB1dCgib3V0T2ZTdG9yZSIsICIxIik7Cg==</text>
+      <register name="0" type="4">
+        <text>丹阜高速公路</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
@@ -299,9 +312,9 @@
       </register>
     </registers>
     <search>
-      <last-search>历史配货</last-search>
+      <last-search>modify</last-search>
       <last-offset />
-      <last-pattern>历史配货</last-pattern>
+      <last-pattern>modify</last-pattern>
       <last-replace>equals</last-replace>
       <last-substitute>equales</last-substitute>
       <last-dir>1</last-dir>
@@ -309,10 +322,7 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzaG91cGluU2VhcmNoXD4=</entry>
-        <entry encoding="base64">XDxuYW1lVGVybUNudFw+</entry>
         <entry>order</entry>
-        <entry>orderdetail</entry>
         <entry>orderDetail</entry>
         <entry encoding="base64">XDxkaXNwbGF5XD4=</entry>
         <entry>success</entry>
@@ -329,6 +339,9 @@
         <entry>logistic</entry>
         <entry>logis</entry>
         <entry>历史配货</entry>
+        <entry>orderdetail</entry>
+        <entry>重新确认</entry>
+        <entry>modify</entry>
       </history-search>
       <history-cmd>
         <entry>noh</entry>
