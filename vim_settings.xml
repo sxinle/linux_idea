@@ -44,10 +44,10 @@
         <mark key="." line="61" column="129" />
         <mark key="^" line="61" column="129" />
       </file>
-      <file name="$USER_HOME$/workspace/order-dealer/conf/clear.sql" timestamp="1500022390932">
+      <file name="$USER_HOME$/workspace/order-dealer/conf/clear.sql" timestamp="1500253745636">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="9" column="28" />
+        <mark key="]" line="10" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/order-dealer/app/views/orderDetail.scala.html" timestamp="1500019940739">
         <mark key="'" line="20" column="15" />
@@ -96,6 +96,11 @@
         <mark key="]" line="83" column="25" />
         <mark key="." line="82" column="43" />
         <mark key="^" line="82" column="56" />
+      </file>
+      <file name="$USER_HOME$/workspace/order-dealer/conf/alterDB.sql" timestamp="1500253700864">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="11" column="66" />
       </file>
       <file name="/Dummy.txt" timestamp="1500025223637">
         <mark key="[" line="0" column="0" />
@@ -189,8 +194,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="8" filename="$USER_HOME$/workspace/order-producer/conf/routes" />
-      <jump line="199" column="64" filename="$USER_HOME$/workspace/order-producer/app/views/paperOrderDetailNew.scala.html" />
       <jump line="245" column="0" filename="$USER_HOME$/workspace/order-producer/conf/routes" />
       <jump line="34" column="6" filename="$USER_HOME$/workspace/order-producer/app/views/orderDetail.scala.html" />
       <jump line="74" column="144" filename="$USER_HOME$/workspace/order-producer/public/statics/commonHeader.js" />
@@ -287,8 +290,10 @@
       <jump line="13" column="51" filename="$USER_HOME$/workspace/order-producer/conf/jbpm/order.jpdl.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/order-producer/conf/jbpm/order.jpdl.xml" />
       <jump line="8" column="26" filename="$USER_HOME$/workspace/order-dealer/conf/clear.sql" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/order-dealer/conf/clear.sql" />
       <jump line="28" column="35" filename="$USER_HOME$/workspace/order-dealer/app/views/cart.scala.html" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/order-dealer/conf/alterDB.sql" />
+      <jump line="9" column="28" filename="$USER_HOME$/workspace/order-dealer/conf/clear.sql" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/order-dealer/conf/clear.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -306,8 +311,8 @@
       <register name="/" type="4">
         <text>modify</text>
       </register>
-      <register name="0" type="4">
-        <text>大区票据审核</text>
+      <register name="0" type="2">
+        <text encoding="base64">ZGVsZXRlIGZyb20gamJwbTRfdGFzazsKZGVsZXRlIGZyb20gamJwbTRfdmFyaWFibGU7CmRlbGV0ZSBmcm9tIGpicG00X2xvYjsKZGVsZXRlIGZyb20gamJwbTRfZGVwbG95cHJvcDsKZGVsZXRlIGZyb20gamJwbTRfZGVwbG95bWVudDsKZGVsZXRlIGZyb20gb3JkZXJfaW5mbzsKZGVsZXRlIGZyb20gb3JkZXJfZGV0YWlsOwpkZWxldGUgZnJvbSBvcmRlcl9kZWFsaW5mbzsKZGVsZXRlIGZyb20gbG9naXN0aWNzX2luZm87CmRlbGV0ZSBmcm9tIGxvZ2lzdGljc19kZXRhaWw7CmRlbGV0ZSBmcm9tIGFjY291bnRfbG9nOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
