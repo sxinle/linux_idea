@@ -29,10 +29,18 @@
       <file name="/a.dummy" timestamp="1500360144223">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" timestamp="1500448208083">
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" timestamp="1500449760983">
         <mark key="[" line="863" column="36" />
+        <mark key="]" line="862" column="38" />
+        <mark key="^" line="862" column="38" />
+        <mark key="." line="862" column="38" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" timestamp="1500443299009" />
+      <file name="$USER_HOME$/workspace/order-dealer/app/service/impl/DistributeServiceImpl.java" timestamp="1500369878483">
+        <mark key="[" line="132" column="72" />
+        <mark key="]" line="132" column="73" />
+        <mark key="." line="132" column="73" />
+      </file>
       <file name="$USER_HOME$/workspace/order-dealer/app/service/MyOrderService.java" timestamp="1500448627415" />
       <file name="$USER_HOME$/workspace/order-producer/conf/jbpm/ordersub.jpdl.xml" timestamp="1500359434009">
         <mark key="'" line="0" column="0" />
@@ -40,12 +48,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/order-dealer/conf/sql/MyOrder.xml" timestamp="1500448651427">
-        <mark key="[" line="44" column="33" />
-        <mark key="]" line="45" column="30" />
-        <mark key="^" line="45" column="30" />
-        <mark key="." line="45" column="30" />
       </file>
       <file name="$USER_HOME$/workspace/order-producer/conf/jbpm/paperorder.jpdl.xml" timestamp="1500443136372">
         <mark key="[" line="2" column="32" />
@@ -60,33 +62,22 @@
         <mark key="." line="130" column="61" />
         <mark key="^" line="130" column="61" />
       </file>
-      <file name="$USER_HOME$/workspace/order-producer/conf/routes" timestamp="1500435516129">
-        <mark key="'" line="270" column="7" />
+      <file name="$USER_HOME$/workspace/order-producer/conf/routes" timestamp="1500449867695">
+        <mark key="'" line="26" column="8" />
         <mark key="[" line="282" column="0" />
         <mark key="]" line="282" column="0" />
         <mark key="." line="282" column="0" />
         <mark key="^" line="281" column="35" />
       </file>
-      <file name="$USER_HOME$/workspace/order-dealer/conf/clear.sql" timestamp="1500445129302">
-        <mark key="'" line="26" column="0" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="^" line="5" column="0" />
-        <mark key="." line="27" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/order-dealer/app/service/impl/MyOrderServiceImpl.java" timestamp="1500448621905" />
-      <file name="$USER_HOME$/workspace/order-dealer/conf/sql/addr.xml" timestamp="1500344210643">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="74" column="11" />
-        <mark key="^" line="73" column="7" />
-        <mark key="." line="73" column="7" />
-      </file>
-      <file name="$USER_HOME$/workspace/order-producer/public/statics/orderOnline.js" timestamp="1500284994520">
-        <mark key="'" line="378" column="20" />
-        <mark key="[" line="240" column="26" />
-        <mark key="]" line="240" column="29" />
+      <file name="$USER_HOME$/workspace/order-producer/app/service/DisOrderService.java" timestamp="1500450596092" />
+      <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/CacheManager.java" timestamp="1500450953269" />
+      <file name="$USER_HOME$/workspace/order-producer/public/statics/orderOnline.js" timestamp="1500450680327">
+        <mark key="'" line="262" column="74" />
+        <mark key="[" line="149" column="83" />
+        <mark key="]" line="149" column="84" />
         <mark key="^" line="240" column="29" />
-        <mark key="." line="240" column="29" />
+        <mark key="." line="149" column="84" />
       </file>
       <file name="$USER_HOME$/workspace/order-producer/app/service/impl/PaperNewServiceImpl.java" timestamp="1500440450098">
         <mark key="'" line="38" column="24" />
@@ -95,17 +86,17 @@
         <mark key="." line="99" column="40" />
         <mark key="^" line="99" column="40" />
       </file>
-      <file name="$USER_HOME$/workspace/order-producer/app/controllers/logistics/LogisticsController.java" timestamp="1500444314102">
-        <mark key="[" line="140" column="47" />
-        <mark key="]" line="140" column="47" />
-        <mark key="." line="140" column="47" />
-        <mark key="^" line="140" column="47" />
+      <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/doc/DocAttr.java" timestamp="1500450943530" />
+      <file name="$USER_HOME$/workspace/order-dealer/app/controllers/order/MyOrderController.java" timestamp="1500449259648">
+        <mark key="'" line="73" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/doc/DocAttr.java" timestamp="1500431577400" />
-      <file name="$USER_HOME$/workspace/order-dealer/app/controllers/order/MyOrderController.java" timestamp="1500448504939" />
-      <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/index/IndexInfoArr.java" timestamp="1500447932287" />
-      <file name="$USER_HOME$/workspace/order-producer/app/views/orderOnline.scala.html" timestamp="1500433311288">
-        <mark key="'" line="17" column="6" />
+      <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/index/IndexInfoArr.java" timestamp="1500450961078" />
+      <file name="$USER_HOME$/workspace/order-dealer/conf/sql/DisOrderOnline.xml" timestamp="1500450107473">
+        <mark key="[" line="46" column="16" />
+        <mark key="]" line="46" column="69" />
+      </file>
+      <file name="$USER_HOME$/workspace/order-producer/app/views/orderOnline.scala.html" timestamp="1500450672670">
+        <mark key="'" line="19" column="17" />
         <mark key="[" line="33" column="0" />
         <mark key="]" line="38" column="13" />
         <mark key="." line="64" column="15" />
@@ -116,6 +107,11 @@
         <mark key="]" line="90" column="68" />
         <mark key="." line="90" column="52" />
         <mark key="^" line="90" column="52" />
+      </file>
+      <file name="$USER_HOME$/workspace/order-dealer/conf/config.properties" timestamp="1500449544757">
+        <mark key="[" line="29" column="16" />
+        <mark key="]" line="29" column="16" />
+        <mark key="." line="29" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/order-producer/app/views/cart.scala.html" timestamp="1500443871899">
         <mark key="'" line="467" column="36" />
@@ -128,12 +124,7 @@
         <mark key="[" line="491" column="0" />
         <mark key="]" line="495" column="6" />
       </file>
-      <file name="$USER_HOME$/workspace/order-producer/conf/jbpm/prizeorder.jpdl.xml" timestamp="1500368210598">
-        <mark key="[" line="10" column="38" />
-        <mark key="]" line="10" column="39" />
-        <mark key="." line="10" column="39" />
-        <mark key="^" line="10" column="39" />
-      </file>
+      <file name="$USER_HOME$/workspace/order-dealer/app/controllers/order/DisOrderController.java" timestamp="1500450850166" />
       <file name="$USER_HOME$/workspace/order-producer/app/service/impl/CartServiceImpl.java" timestamp="1500444526795">
         <mark key="'" line="128" column="35" />
         <mark key="[" line="144" column="0" />
@@ -144,6 +135,12 @@
       <file name="$USER_HOME$/workspace/order-producer/app/jbpm/JbpmManager.java" timestamp="1499931416267">
         <mark key="[" line="134" column="26" />
       </file>
+      <file name="$USER_HOME$/workspace/order-producer/app/controllers/order/DisOrderController.java" timestamp="1500449907364">
+        <mark key="'" line="132" column="12" />
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/order-producer/app/controllers/cart/CartController.java" timestamp="1500436234770">
         <mark key="'" line="38" column="15" />
         <mark key="[" line="151" column="52" />
@@ -152,12 +149,13 @@
         <mark key="." line="151" column="56" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/doc/FieldInfo.java" timestamp="1500431685322" />
-      <file name="$USER_HOME$/workspace/order-producer/conf/config.properties" timestamp="1500442438209">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="26" />
+      <file name="$USER_HOME$/workspace/order-producer/conf/config.properties" timestamp="1500449493801">
+        <mark key="[" line="12" column="16" />
+        <mark key="]" line="12" column="16" />
+        <mark key="." line="12" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/order-dealer/conf/routes" timestamp="1500448400739">
-        <mark key="'" line="17" column="57" />
+      <file name="$USER_HOME$/workspace/order-dealer/conf/routes" timestamp="1500450024631">
+        <mark key="'" line="150" column="37" />
         <mark key="[" line="34" column="156" />
         <mark key="]" line="34" column="156" />
         <mark key="." line="34" column="156" />
@@ -184,18 +182,14 @@
         <mark key="." line="83" column="57" />
         <mark key="^" line="83" column="57" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500449234728">
+      <file name="$USER_HOME$/workspace/order-dealer/app/util/CommonUtils.java" timestamp="1500451050974" />
+      <file name="/Dummy.txt" timestamp="1500450995542">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/order-dealer/app/controllers/distribute/DistributeController.java" timestamp="1500445169347">
         <mark key="'" line="150" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/order-producer/conf/sql/CartProductInfo.xml" timestamp="1500363418313">
-        <mark key="[" line="23" column="68" />
-        <mark key="]" line="23" column="75" />
-        <mark key="." line="19" column="76" />
-        <mark key="^" line="23" column="75" />
-      </file>
+      <file name="$USER_HOME$/workspace/order-dealer/app/service/impl/DisOrderServiceImpl.java" timestamp="1500451015104" />
       <file name="$USER_HOME$/workspace/order-producer/app/service/impl/FinanceOrderServiceImpl.java" timestamp="1500440372772">
         <mark key="[" line="200" column="0" />
         <mark key="]" line="200" column="0" />
@@ -203,12 +197,7 @@
         <mark key="." line="200" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/order-dealer/app/service/impl/CommonServiceImpl.java" timestamp="1500442970894" />
-      <file name="$USER_HOME$/workspace/order-producer/conf/sql/SalesOrder.xml" timestamp="1500367581294">
-        <mark key="[" line="77" column="35" />
-        <mark key="]" line="77" column="35" />
-        <mark key="^" line="77" column="35" />
-        <mark key="." line="77" column="35" />
-      </file>
+      <file name="$USER_HOME$/workspace/order-dealer/app/service/DisOrderService.java" timestamp="1500450995076" />
       <file name="$USER_HOME$/workspace/search_tool/src/main/java/com/mx/server/search/tool/service/impl/SerializeServiceImpl.java" timestamp="1500431531172" />
       <file name="$USER_HOME$/workspace/order-producer/app/service/CartService.java" timestamp="1500435161708">
         <mark key="'" line="161" column="0" />
@@ -217,27 +206,18 @@
         <mark key="." line="122" column="104" />
         <mark key="^" line="122" column="104" />
       </file>
-      <file name="$USER_HOME$/workspace/order-producer/conf/sql/DisOrderOnline.xml" timestamp="1500273161851">
-        <mark key="'" line="35" column="40" />
-        <mark key="[" line="61" column="5" />
-        <mark key="]" line="61" column="5" />
-        <mark key="." line="61" column="5" />
-        <mark key="^" line="35" column="37" />
+      <file name="$USER_HOME$/workspace/order-producer/conf/sql/DisOrderOnline.xml" timestamp="1500450491191">
+        <mark key="'" line="36" column="40" />
+        <mark key="[" line="29" column="64" />
+        <mark key="]" line="29" column="65" />
+        <mark key="." line="29" column="65" />
+        <mark key="^" line="29" column="16" />
       </file>
       <file name="/fragment.java" timestamp="1500368909677">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="100" column="18" filename="$USER_HOME$/workspace/order-dealer/lib/PAYAPI.jar!/com/czbank/netpay/api/APITransaction.class" />
-      <jump line="7" column="60" filename="$USER_HOME$/workspace/order-producer/app/views/cart.scala.html" />
-      <jump line="38" column="15" filename="$USER_HOME$/workspace/order-producer/app/controllers/cart/CartController.java" />
-      <jump line="65" column="5" filename="$USER_HOME$/workspace/order-dealer/app/views/addr.scala.html" />
-      <jump line="318" column="25" filename="$USER_HOME$/workspace/order-producer/app/views/cart.scala.html" />
-      <jump line="332" column="36" filename="$USER_HOME$/workspace/order-producer/app/views/cart.scala.html" />
-      <jump line="333" column="36" filename="$USER_HOME$/workspace/order-producer/app/views/cart.scala.html" />
-      <jump line="486" column="29" filename="$USER_HOME$/workspace/order-producer/app/views/cart.scala.html" />
-      <jump line="263" column="11" filename="$USER_HOME$/workspace/order-dealer/app/views/addr.scala.html" />
       <jump line="463" column="24" filename="$USER_HOME$/workspace/order-producer/app/views/cart.scala.html" />
       <jump line="45" column="39" filename="$USER_HOME$/workspace/order-producer/app/views/cart.scala.html" />
       <jump line="370" column="40" filename="$USER_HOME$/workspace/order-producer/app/views/cart.scala.html" />
@@ -329,6 +309,15 @@
       <jump line="17" column="57" filename="$USER_HOME$/workspace/order-dealer/conf/routes" />
       <jump line="123" column="43" filename="$USER_HOME$/workspace/order-dealer/app/views/my_order.scala.html" />
       <jump line="125" column="45" filename="$USER_HOME$/workspace/order-dealer/app/views/my_order.scala.html" />
+      <jump line="57" column="52" filename="$USER_HOME$/workspace/order-dealer/app/controllers/order/MyOrderController.java" />
+      <jump line="73" column="0" filename="$USER_HOME$/workspace/order-dealer/app/controllers/order/MyOrderController.java" />
+      <jump line="20" column="63" filename="$USER_HOME$/workspace/order-producer/conf/routes" />
+      <jump line="26" column="8" filename="$USER_HOME$/workspace/order-producer/conf/routes" />
+      <jump line="150" column="37" filename="$USER_HOME$/workspace/order-dealer/conf/routes" />
+      <jump line="363" column="44" filename="$USER_HOME$/workspace/order-producer/public/statics/orderOnline.js" />
+      <jump line="378" column="20" filename="$USER_HOME$/workspace/order-producer/public/statics/orderOnline.js" />
+      <jump line="19" column="17" filename="$USER_HOME$/workspace/order-producer/app/views/orderOnline.scala.html" />
+      <jump line="262" column="74" filename="$USER_HOME$/workspace/order-producer/public/statics/orderOnline.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -341,49 +330,49 @@
         <text>()</text>
       </register>
       <register name="-" type="4">
-        <text>业务用酒/搭赠</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>myorder</text>
+        <text>photoPath</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzdHJvbmc+KOS4muWKoeeUqOmFki/mkK3otaApPC9zdHJvbmc+Cg==</text>
+      <register name="0" type="4">
+        <text>#{hostPath}||p.productid||'/'||p.photobox as photopath</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNhc2UgMTAwOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYocC5nZXRPcmRlcnR5cGUgPT0gMTAzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNhc2UgMTAwOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYocC5nZXRPcmRlcnR5cGUgPT0gMTAzKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVsZXRlIGZyb20gb3JkZXJfaW5mbzsKZGVsZXRlIGZyb20gb3JkZXJfZGV0YWlsOwpkZWxldGUgZnJvbSBvcmRlcl9kZWFsaW5mbzsKZGVsZXRlIGZyb20gbG9naXN0aWNzX2luZm87CmRlbGV0ZSBmcm9tIGxvZ2lzdGljc19kZXRhaWw7CmRlbGV0ZSBmcm9tIGFjY291bnRfbG9nOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>myorder</last-search>
+      <last-search>photoPath</last-search>
       <last-offset />
-      <last-pattern>myorder</last-pattern>
+      <last-pattern>photoPath</last-pattern>
       <last-replace>equals</last-replace>
       <last-substitute>equales</last-substitute>
       <last-dir>1</last-dir>
@@ -391,9 +380,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxiYW5fcmVkXD4=</entry>
-        <entry>返回购物车</entry>
-        <entry encoding="base64">XDxjb21wYW55aWRcPg==</entry>
         <entry encoding="base64">XDxvd25lclw+</entry>
         <entry>jbpmMana</entry>
         <entry>nowProd</entry>
@@ -405,12 +391,15 @@
         <entry encoding="base64">XDx1c2VySWRcPg==</entry>
         <entry>rec</entry>
         <entry>posInfo</entry>
-        <entry>orderOnline</entry>
         <entry encoding="base64">XDxjdXN0Q29kZVw+</entry>
         <entry encoding="base64">XDxjdXN0TmFtZVw+</entry>
         <entry>logistics</entry>
         <entry>出库成功</entry>
         <entry>myorder</entry>
+        <entry>order</entry>
+        <entry>orderOnline</entry>
+        <entry>productInfo</entry>
+        <entry>photoPath</entry>
       </history-search>
       <history-cmd>
         <entry>noh</entry>
