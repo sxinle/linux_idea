@@ -51,10 +51,12 @@
         <mark key="." line="282" column="0" />
         <mark key="^" line="281" column="35" />
       </file>
-      <file name="$USER_HOME$/workspace/order-dealer/conf/clear.sql" timestamp="1500440511846">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="10" column="23" />
+      <file name="$USER_HOME$/workspace/order-dealer/conf/clear.sql" timestamp="1500445129302">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/order-dealer/conf/sql/addr.xml" timestamp="1500344210643">
         <mark key="[" line="52" column="0" />
@@ -169,7 +171,7 @@
         <mark key="." line="83" column="57" />
         <mark key="^" line="83" column="57" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500444781767">
+      <file name="/Dummy.txt" timestamp="1500444810257">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/order-dealer/app/controllers/distribute/DistributeController.java" timestamp="1500435707482" />
@@ -217,12 +219,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="1" filename="$USER_HOME$/workspace/order-dealer/app/views/addr.scala.html" />
-      <jump line="66" column="57" filename="$USER_HOME$/workspace/order-dealer/app/views/addr.scala.html" />
-      <jump line="40" column="1" filename="$USER_HOME$/workspace/order-dealer/app/views/addr.scala.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/order-dealer/public/page/addr.js" />
-      <jump line="24" column="115" filename="$USER_HOME$/workspace/order-dealer/conf/routes" />
-      <jump line="46" column="92" filename="$USER_HOME$/workspace/order-dealer/conf/routes" />
       <jump line="49" column="117" filename="$USER_HOME$/workspace/order-producer/conf/routes" />
       <jump line="72" column="28" filename="$USER_HOME$/workspace/order-producer/app/service/impl/CartServiceImpl.java" />
       <jump line="449" column="19" filename="$USER_HOME$/workspace/order-producer/app/views/cart.scala.html" />
@@ -315,8 +311,14 @@
       <jump line="135" column="33" filename="$USER_HOME$/workspace/order-producer/app/util/IContents.java" />
       <jump line="70" column="16" filename="$USER_HOME$/workspace/order-producer/app/util/IContents.java" />
       <jump line="10" column="23" filename="$USER_HOME$/workspace/order-dealer/conf/clear.sql" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/order-dealer/conf/clear.sql" />
       <jump line="350" column="31" filename="$USER_HOME$/workspace/order-producer/app/views/logisticsOrderDetail.scala.html" />
+      <jump line="4" column="28" filename="$USER_HOME$/workspace/order-dealer/conf/clear.sql" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/order-dealer/conf/clear.sql" />
+      <jump line="7" column="27" filename="$USER_HOME$/workspace/order-dealer/conf/clear.sql" />
+      <jump line="22" column="0" filename="$USER_HOME$/workspace/order-dealer/conf/clear.sql" />
+      <jump line="20" column="0" filename="$USER_HOME$/workspace/order-dealer/conf/clear.sql" />
+      <jump line="15" column="29" filename="$USER_HOME$/workspace/order-dealer/conf/clear.sql" />
+      <jump line="26" column="0" filename="$USER_HOME$/workspace/order-dealer/conf/clear.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -335,34 +337,34 @@
         <text>出库成功</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpbmRvdy5sb2NhdGlvbi5ocmVmID0gIi9teW9yZGVyL2luaXQiOwo=</text>
+        <text encoding="base64">ZGVsZXRlIGZyb20gamJwbTRfdGFzazsKZGVsZXRlIGZyb20gamJwbTRfdmFyaWFibGU7CmRlbGV0ZSBmcm9tIGpicG00X2xvYjsKZGVsZXRlIGZyb20gamJwbTRfZGVwbG95cHJvcDsKZGVsZXRlIGZyb20gamJwbTRfZGVwbG95bWVudDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5leHRNYW4gPSAiNy00MSI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ZGVsZXRlIGZyb20gb3JkZXJfaW5mbzsKZGVsZXRlIGZyb20gb3JkZXJfZGV0YWlsOwpkZWxldGUgZnJvbSBvcmRlcl9kZWFsaW5mbzsKZGVsZXRlIGZyb20gbG9naXN0aWNzX2luZm87CmRlbGV0ZSBmcm9tIGxvZ2lzdGljc19kZXRhaWw7CmRlbGV0ZSBmcm9tIGFjY291bnRfbG9nOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgd2luZG93LmxvY2F0aW9uLmhyZWYgPSAiL215b3JkZXIvaW5pdCI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5leHRNYW4gPSAiNy00MSI7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETyDmsqHmnIlsb2dpc3RpY3PnmoTlhazlj7jmgI7kuYjlpITnkIbvvJ8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV4dERlcHRJZCA9IDQxOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgd2luZG93LmxvY2F0aW9uLmhyZWYgPSAiL215b3JkZXIvaW5pdCI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETyDmsqHmnIlsb2dpc3RpY3PnmoTlhazlj7jmgI7kuYjlpITnkIbvvJ8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV4dERlcHRJZCA9IDQxOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
