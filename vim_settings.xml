@@ -171,10 +171,12 @@
         <mark key="." line="83" column="57" />
         <mark key="^" line="83" column="57" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500444810257">
+      <file name="/Dummy.txt" timestamp="1500445133283">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/order-dealer/app/controllers/distribute/DistributeController.java" timestamp="1500435707482" />
+      <file name="$USER_HOME$/workspace/order-dealer/app/controllers/distribute/DistributeController.java" timestamp="1500445169347">
+        <mark key="'" line="150" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/order-producer/conf/sql/CartProductInfo.xml" timestamp="1500363418313">
         <mark key="[" line="23" column="68" />
         <mark key="]" line="23" column="75" />
@@ -219,9 +221,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="117" filename="$USER_HOME$/workspace/order-producer/conf/routes" />
-      <jump line="72" column="28" filename="$USER_HOME$/workspace/order-producer/app/service/impl/CartServiceImpl.java" />
-      <jump line="449" column="19" filename="$USER_HOME$/workspace/order-producer/app/views/cart.scala.html" />
       <jump line="319" column="34" filename="$USER_HOME$/workspace/order-producer/app/views/cart.scala.html" />
       <jump line="456" column="61" filename="$USER_HOME$/workspace/order-producer/app/views/cart.scala.html" />
       <jump line="103" column="18" filename="$USER_HOME$/workspace/order-producer/app/controllers/cart/CartController.java" />
@@ -319,6 +318,9 @@
       <jump line="20" column="0" filename="$USER_HOME$/workspace/order-dealer/conf/clear.sql" />
       <jump line="15" column="29" filename="$USER_HOME$/workspace/order-dealer/conf/clear.sql" />
       <jump line="26" column="0" filename="$USER_HOME$/workspace/order-dealer/conf/clear.sql" />
+      <jump line="94" column="46" filename="$USER_HOME$/workspace/order-dealer/app/controllers/distribute/DistributeController.java" />
+      <jump line="11" column="0" filename="$USER_HOME$/workspace/order-dealer/app/controllers/distribute/DistributeController.java" />
+      <jump line="150" column="0" filename="$USER_HOME$/workspace/order-dealer/app/controllers/distribute/DistributeController.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
