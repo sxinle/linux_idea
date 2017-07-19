@@ -5,6 +5,13 @@
       <mark key="V" line="200" column="79" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/WEB-INF/view/index.jsp" />
     </globalmarks>
     <filemarks>
+      <file name="$USER_HOME$/workspace/order-dealer/app/views/my_order.scala.html" timestamp="1500448894938">
+        <mark key="'" line="125" column="45" />
+        <mark key="[" line="127" column="43" />
+        <mark key="]" line="127" column="51" />
+        <mark key="." line="127" column="51" />
+        <mark key="^" line="127" column="51" />
+      </file>
       <file name="$USER_HOME$/workspace/order-producer/app/views/logisticsOrderDetail.scala.html" timestamp="1500444293448">
         <mark key="'" line="350" column="31" />
         <mark key="[" line="350" column="87" />
@@ -22,14 +29,23 @@
       <file name="/a.dummy" timestamp="1500360144223">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" timestamp="1500432549158" />
+      <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/util/Utility.java" timestamp="1500448208083">
+        <mark key="[" line="863" column="36" />
+      </file>
       <file name="$USER_HOME$/workspace/search/search_core/src/main/java/com/mx/server/search/core/sort/possort_terms/PosSorter.java" timestamp="1500443299009" />
+      <file name="$USER_HOME$/workspace/order-dealer/app/service/MyOrderService.java" timestamp="1500448627415" />
       <file name="$USER_HOME$/workspace/order-producer/conf/jbpm/ordersub.jpdl.xml" timestamp="1500359434009">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="38" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/order-dealer/conf/sql/MyOrder.xml" timestamp="1500448651427">
+        <mark key="[" line="44" column="33" />
+        <mark key="]" line="45" column="30" />
+        <mark key="^" line="45" column="30" />
+        <mark key="." line="45" column="30" />
       </file>
       <file name="$USER_HOME$/workspace/order-producer/conf/jbpm/paperorder.jpdl.xml" timestamp="1500443136372">
         <mark key="[" line="2" column="32" />
@@ -58,6 +74,7 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="27" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/order-dealer/app/service/impl/MyOrderServiceImpl.java" timestamp="1500448621905" />
       <file name="$USER_HOME$/workspace/order-dealer/conf/sql/addr.xml" timestamp="1500344210643">
         <mark key="[" line="52" column="0" />
         <mark key="]" line="74" column="11" />
@@ -85,7 +102,8 @@
         <mark key="^" line="140" column="47" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/doc/DocAttr.java" timestamp="1500431577400" />
-      <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/index/IndexInfoArr.java" timestamp="1500432666657" />
+      <file name="$USER_HOME$/workspace/order-dealer/app/controllers/order/MyOrderController.java" timestamp="1500448504939" />
+      <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/index/IndexInfoArr.java" timestamp="1500447932287" />
       <file name="$USER_HOME$/workspace/order-producer/app/views/orderOnline.scala.html" timestamp="1500433311288">
         <mark key="'" line="17" column="6" />
         <mark key="[" line="33" column="0" />
@@ -134,17 +152,12 @@
         <mark key="." line="151" column="56" />
       </file>
       <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/doc/FieldInfo.java" timestamp="1500431685322" />
-      <file name="$USER_HOME$/workspace/order-producer/app/util/IContents.java" timestamp="1500440310002">
-        <mark key="'" line="70" column="16" />
-        <mark key="[" line="135" column="33" />
-        <mark key="]" line="135" column="41" />
-      </file>
       <file name="$USER_HOME$/workspace/order-producer/conf/config.properties" timestamp="1500442438209">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/order-dealer/conf/routes" timestamp="1500368006820">
-        <mark key="'" line="25" column="9" />
+      <file name="$USER_HOME$/workspace/order-dealer/conf/routes" timestamp="1500448400739">
+        <mark key="'" line="17" column="57" />
         <mark key="[" line="34" column="156" />
         <mark key="]" line="34" column="156" />
         <mark key="." line="34" column="156" />
@@ -171,7 +184,7 @@
         <mark key="." line="83" column="57" />
         <mark key="^" line="83" column="57" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500445825201">
+      <file name="/Dummy.txt" timestamp="1500448627781">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/order-dealer/app/controllers/distribute/DistributeController.java" timestamp="1500445169347">
@@ -196,11 +209,6 @@
         <mark key="^" line="77" column="35" />
         <mark key="." line="77" column="35" />
       </file>
-      <file name="$USER_HOME$/workspace/order-producer/conf/jbpm/order.jpdl.xml" timestamp="1500439863132">
-        <mark key="'" line="33" column="60" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="29" column="10" />
-      </file>
       <file name="$USER_HOME$/workspace/search_tool/src/main/java/com/mx/server/search/tool/service/impl/SerializeServiceImpl.java" timestamp="1500431531172" />
       <file name="$USER_HOME$/workspace/order-producer/app/service/CartService.java" timestamp="1500435161708">
         <mark key="'" line="161" column="0" />
@@ -221,9 +229,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="319" column="34" filename="$USER_HOME$/workspace/order-producer/app/views/cart.scala.html" />
-      <jump line="456" column="61" filename="$USER_HOME$/workspace/order-producer/app/views/cart.scala.html" />
-      <jump line="103" column="18" filename="$USER_HOME$/workspace/order-producer/app/controllers/cart/CartController.java" />
       <jump line="100" column="18" filename="$USER_HOME$/workspace/order-dealer/lib/PAYAPI.jar!/com/czbank/netpay/api/APITransaction.class" />
       <jump line="7" column="60" filename="$USER_HOME$/workspace/order-producer/app/views/cart.scala.html" />
       <jump line="38" column="15" filename="$USER_HOME$/workspace/order-producer/app/controllers/cart/CartController.java" />
@@ -321,6 +326,9 @@
       <jump line="94" column="46" filename="$USER_HOME$/workspace/order-dealer/app/controllers/distribute/DistributeController.java" />
       <jump line="11" column="0" filename="$USER_HOME$/workspace/order-dealer/app/controllers/distribute/DistributeController.java" />
       <jump line="150" column="0" filename="$USER_HOME$/workspace/order-dealer/app/controllers/distribute/DistributeController.java" />
+      <jump line="17" column="57" filename="$USER_HOME$/workspace/order-dealer/conf/routes" />
+      <jump line="123" column="43" filename="$USER_HOME$/workspace/order-dealer/app/views/my_order.scala.html" />
+      <jump line="125" column="45" filename="$USER_HOME$/workspace/order-dealer/app/views/my_order.scala.html" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -333,49 +341,49 @@
         <text>()</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>业务用酒/搭赠</text>
       </register>
       <register name="/" type="4">
-        <text>出库成功</text>
+        <text>myorder</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVsZXRlIGZyb20gamJwbTRfdGFzazsKZGVsZXRlIGZyb20gamJwbTRfdmFyaWFibGU7CmRlbGV0ZSBmcm9tIGpicG00X2xvYjsKZGVsZXRlIGZyb20gamJwbTRfZGVwbG95cHJvcDsKZGVsZXRlIGZyb20gamJwbTRfZGVwbG95bWVudDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzdHJvbmc+KOS4muWKoeeUqOmFki/mkK3otaApPC9zdHJvbmc+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVsZXRlIGZyb20gb3JkZXJfaW5mbzsKZGVsZXRlIGZyb20gb3JkZXJfZGV0YWlsOwpkZWxldGUgZnJvbSBvcmRlcl9kZWFsaW5mbzsKZGVsZXRlIGZyb20gbG9naXN0aWNzX2luZm87CmRlbGV0ZSBmcm9tIGxvZ2lzdGljc19kZXRhaWw7CmRlbGV0ZSBmcm9tIGFjY291bnRfbG9nOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5leHRNYW4gPSAiNy00MSI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNhc2UgMTAwOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYocC5nZXRPcmRlcnR5cGUgPT0gMTAzKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgd2luZG93LmxvY2F0aW9uLmhyZWYgPSAiL215b3JkZXIvaW5pdCI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETyDmsqHmnIlsb2dpc3RpY3PnmoTlhazlj7jmgI7kuYjlpITnkIbvvJ8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV4dERlcHRJZCA9IDQxOwo=</text>
+        <text encoding="base64">ZGVsZXRlIGZyb20gb3JkZXJfaW5mbzsKZGVsZXRlIGZyb20gb3JkZXJfZGV0YWlsOwpkZWxldGUgZnJvbSBvcmRlcl9kZWFsaW5mbzsKZGVsZXRlIGZyb20gbG9naXN0aWNzX2luZm87CmRlbGV0ZSBmcm9tIGxvZ2lzdGljc19kZXRhaWw7CmRlbGV0ZSBmcm9tIGFjY291bnRfbG9nOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>出库成功</last-search>
+      <last-search>myorder</last-search>
       <last-offset />
-      <last-pattern>出库成功</last-pattern>
+      <last-pattern>myorder</last-pattern>
       <last-replace>equals</last-replace>
       <last-substitute>equales</last-substitute>
       <last-dir>1</last-dir>
@@ -383,7 +391,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyaWdodE5vd0J1eVw+</entry>
         <entry encoding="base64">XDxiYW5fcmVkXD4=</entry>
         <entry>返回购物车</entry>
         <entry encoding="base64">XDxjb21wYW55aWRcPg==</entry>
@@ -403,6 +410,7 @@
         <entry encoding="base64">XDxjdXN0TmFtZVw+</entry>
         <entry>logistics</entry>
         <entry>出库成功</entry>
+        <entry>myorder</entry>
       </history-search>
       <history-cmd>
         <entry>noh</entry>
