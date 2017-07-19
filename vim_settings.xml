@@ -128,6 +128,7 @@
       <file name="/Dummy.txt" timestamp="1500371522783">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/search/search_data/src/main/java/com/mx/server/search/data/cache/doc/DocAttr.java" timestamp="1500431577400" />
       <file name="$USER_HOME$/workspace/order-producer/conf/sql/CartProductInfo.xml" timestamp="1500363418313">
         <mark key="[" line="23" column="68" />
         <mark key="]" line="23" column="75" />
@@ -159,12 +160,14 @@
         <mark key="." line="562" column="0" />
         <mark key="^" line="559" column="55" />
       </file>
+      <file name="$USER_HOME$/workspace/search_tool/src/main/java/com/mx/server/search/tool/service/impl/IndexInfoServiceImpl.java" timestamp="1500431634892" />
       <file name="$USER_HOME$/workspace/order-producer/conf/jbpm/prizeorder.jpdl.xml" timestamp="1500368210598">
         <mark key="[" line="10" column="38" />
         <mark key="]" line="10" column="39" />
         <mark key="." line="10" column="39" />
         <mark key="^" line="10" column="39" />
       </file>
+      <file name="$USER_HOME$/workspace/search_tool/src/main/java/com/mx/server/search/tool/service/impl/SerializeServiceImpl.java" timestamp="1500431531172" />
       <file name="$USER_HOME$/workspace/order-producer/app/service/CartService.java" timestamp="1500363408450">
         <mark key="'" line="170" column="0" />
         <mark key="[" line="102" column="57" />
@@ -299,7 +302,7 @@
         <text>奖返利</text>
       </register>
       <register name="/" type="4">
-        <text>rec</text>
+        <text>posInfo</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxheWVyLmFsZXJ0KGRhdGEubXNnLCA5LCBmdW5jdGlvbiAoKSB7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgd2luZG93LmxvY2F0aW9uLmhyZWYgPSAiL215b3JkZXIvaW5pdCI7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9KTsK</text>
@@ -336,17 +339,16 @@
       </register>
     </registers>
     <search>
-      <last-search>rec</last-search>
+      <last-search>posInfo</last-search>
       <last-offset />
-      <last-pattern>rec</last-pattern>
+      <last-pattern>posInfo</last-pattern>
       <last-replace>equals</last-replace>
       <last-substitute>equales</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhZGRySWRcPg==</entry>
         <entry>addrId</entry>
         <entry>我的购物车</entry>
         <entry>最小</entry>
@@ -366,6 +368,7 @@
         <entry>奖</entry>
         <entry encoding="base64">XDx1c2VySWRcPg==</entry>
         <entry>rec</entry>
+        <entry>posInfo</entry>
       </history-search>
       <history-cmd>
         <entry>noh</entry>
