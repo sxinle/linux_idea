@@ -67,8 +67,8 @@
         <mark key="." line="130" column="61" />
         <mark key="^" line="130" column="61" />
       </file>
-      <file name="$USER_HOME$/workspace/order-producer/conf/routes" timestamp="1500449867695">
-        <mark key="'" line="26" column="8" />
+      <file name="$USER_HOME$/workspace/order-producer/conf/routes" timestamp="1500626217353">
+        <mark key="'" line="285" column="0" />
         <mark key="[" line="282" column="0" />
         <mark key="]" line="282" column="0" />
         <mark key="." line="282" column="0" />
@@ -263,8 +263,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="465" column="24" filename="$USER_HOME$/workspace/order-producer/app/views/cart.scala.html" />
-      <jump line="351" column="36" filename="$USER_HOME$/workspace/order-producer/app/views/cart.scala.html" />
       <jump line="325" column="123" filename="$USER_HOME$/workspace/order-producer/app/views/cart.scala.html" />
       <jump line="81" column="6" filename="$USER_HOME$/workspace/order-dealer/app/views/addr.scala.html" />
       <jump line="12" column="0" filename="$USER_HOME$/workspace/order-dealer/public/page/addr.js" />
@@ -363,6 +361,8 @@
       <jump line="92" column="23" filename="$USER_HOME$/workspace/order-producer/app/util/UpLoadImageUtil.java" />
       <jump line="71" column="14" filename="$USER_HOME$/workspace/order-dealer/app/util/CommonUtils.java" />
       <jump line="9" column="88" filename="$USER_HOME$/workspace/order-dealer/conf/routes" />
+      <jump line="245" column="0" filename="$USER_HOME$/workspace/order-producer/conf/routes" />
+      <jump line="285" column="0" filename="$USER_HOME$/workspace/order-producer/conf/routes" />
     </jumps>
     <registers>
       <register name="a" type="4">
